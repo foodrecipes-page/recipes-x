@@ -1,0 +1,109 @@
+{
+  "title": "Xtra Crisp Canadian Haddock Chowder",
+  "description": "A crispy and comforting Canadian dish featuring fermented haddock, perfect for a sick day, and kosher-friendly. This recipe combines caramelized flavors with a crunchy texture.",
+  "cuisine": "Canadian",
+  "diet": [
+    "kosher",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "1 pound",
+      "notes": "fermented for 2 days"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Caramelize the chopped onions in butter until golden brown.",
+    "Add the chopped carrots and celery to the pot and cook until tender.",
+    "Add the diced potatoes, chicken broth, and milk to the pot and bring to a boil.",
+    "Reduce heat and let simmer for 15 minutes or until the potatoes are tender.",
+    "Add the fermented haddock fillets to the pot and cook for an additional 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and top with crispy breadcrumbs.",
+    "Bake in the preheated oven for 10 minutes or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "crispy-top",
+    "fermented-food",
+    "seafood-chowder"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-crisp-canadian-haddock-chowder",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-canadian-haddock-chowder",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:44:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "haddock",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "haddock",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Chowder"
+  }
+}

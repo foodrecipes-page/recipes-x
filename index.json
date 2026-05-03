@@ -15,6 +15,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crisp-canadian-haddock-chowder",
+    "title": "Xtra Crisp Canadian Haddock Chowder",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "crispy-top",
+      "fermented-food",
+      "seafood-chowder"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-sweet-brazilian-rice-pilaf",
     "title": "Xtra Sweet Brazilian Rice Pilaf",
     "tags": [
