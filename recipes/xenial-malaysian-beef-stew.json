@@ -1,0 +1,112 @@
+{
+  "title": "Xenial Malaysian Beef Stew",
+  "description": "A rich, fluffy, comforting Malaysian beef stew with aromatic cooking wine, reduced sauce, and sugar‑free sweetness.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck",
+      "amount": "800g"
+    },
+    {
+      "name": "Red cooking wine (dry sherry)",
+      "amount": "150ml"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "600ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "50ml"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Monk fruit sweetener",
+      "amount": "10g",
+      "notes": "sugar‑free substitute"
+    },
+    {
+      "name": "Bird's eye chilies",
+      "amount": "3",
+      "notes": "sliced"
+    },
+    {
+      "name": "Shallots",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "2cm",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fresh coriander leaves",
+      "amount": "handful",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a Dutch oven over high heat and sear the beef cubes in batches until browned on all sides, then remove and set aside.",
+    "In the same pot, add a splash of cooking wine to deglaze, scraping up brown bits, and let it evaporate for 2 minutes.",
+    "Add the sliced shallots, minced garlic, and ginger to the pot and sauté until fragrant, about 3 minutes.",
+    "Return the beef to the pot and pour in the beef broth, soy sauce, tamarind paste, monk fruit sweetener, and coconut milk.",
+    "Stir well, bring the mixture to a boil, then reduce the heat to low and simmer uncovered for 90 minutes, uncovered to thicken the stew.",
+    "During the last 15 minutes, add the sliced chilies and a handful of fresh coriander leaves to the simmering stew.",
+    "Taste and adjust seasoning with extra soy sauce or monk fruit sweetener if needed, then continue to simmer until the beef is tender and the sauce has reduced to a creamy consistency.",
+    "Remove the pot from heat and let the stew rest for 5 minutes, allowing flavors to meld.",
+    "Ladle the stew into bowls and garnish with additional coriander leaves before serving hot.",
+    "Serve with steamed jasmine rice or flatbread to soak up the rich sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "malaysian",
+    "no-sugar",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 22,
+    "carbs": 4,
+    "fat": 45
+  },
+  "slug": "xenial-malaysian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-malaysian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:40:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "cooking wine",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Beef",
+    "descriptor": "Xenial",
+    "dishForm": "Stew"
+  }
+}
