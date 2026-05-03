@@ -15,6 +15,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-dense-algerian-lamb-tagine",
+    "title": "Xenial Dense Algerian Lamb Tagine",
+    "tags": [
+      "caper-rich",
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-malaysian-beef-stew",
     "title": "Xenial Malaysian Beef Stew",
     "tags": [
