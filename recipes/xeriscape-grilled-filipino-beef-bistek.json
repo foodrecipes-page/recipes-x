@@ -1,0 +1,108 @@
+{
+  "title": "xeriscape grilled filipino beef bistek",
+  "description": "a briny, bouncy-qq, sick-day filipino dish featuring sugar snap peas, grill, shojin-friendly, form=bistek.",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (pork or beef, sliced into thin strips)",
+      "amount": "1 pound",
+      "notes": "look for grass-fed option"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "2 tablespoons",
+      "notes": "or 1 tablespoon lemon juice"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": "apple cider vinegar or balsamic vinegar"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar snap peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "preheat grill to medium-high heat (400f).",
+    "in a small bowl, whisk together calamansi juice, vinegar, fish sauce, and sugar (if using).",
+    "toss beef strips with the marinade to coat. let sit for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "grill the beef strips for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "transfer the beef to a plate and cover with foil to keep warm.",
+    "add coconut oil to the grill grates and let melt.",
+    "add sugar snap peas to the grill grates and cook for 2-3 minutes per side, or until tender.",
+    "season the peas with salt and black pepper to taste.",
+    "to serve, place the beef strips on a plate with the grilled peas and garnish with chopped green onions (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "filipino",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "sugar-snap-peas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "xeriscape-grilled-filipino-beef-bistek",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-grilled-filipino-beef-bistek",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:46:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "Xeriscape Grilled",
+    "dishForm": "Bistek"
+  }
+}

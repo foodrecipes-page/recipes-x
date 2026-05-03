@@ -90,6 +90,22 @@
     "shard": "x"
   },
   {
+    "slug": "xeriscape-grilled-filipino-beef-bistek",
+    "title": "xeriscape grilled filipino beef bistek",
+    "tags": [
+      "beef",
+      "filipino",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "sugar-snap-peas",
+      "weeknight"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-bitter-portuguese-plum-tomatoes-stew",
     "title": "Xtra Bitter Portuguese Plum Tomatoes Stew",
     "tags": [
