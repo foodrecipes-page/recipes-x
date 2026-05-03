@@ -1,5 +1,20 @@
 [
   {
+    "slug": "x-tra-flaky-french-pastry-tart",
+    "title": "X-tra Flaky French Pastry Tart",
+    "tags": [
+      "dessert",
+      "french",
+      "high-protein",
+      "pastry",
+      "tart",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-malaysian-beef-stew",
     "title": "Xenial Malaysian Beef Stew",
     "tags": [

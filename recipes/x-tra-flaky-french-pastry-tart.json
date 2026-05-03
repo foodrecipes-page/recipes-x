@@ -1,0 +1,114 @@
+{
+  "title": "X-tra Flaky French Pastry Tart",
+  "description": "A flaky and festive French pastry tart featuring a sweet and tangy jam filling with caramelized sugar, perfect for a high-protein-friendly dessert.",
+  "cuisine": "French",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "use a high-protein all-purpose flour for a more tender tart crust"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "keep the butter cold for a flaky crust"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "use a high-quality granulated sugar for the best flavor"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "use a room temperature egg for easier mixing"
+    },
+    {
+      "name": "jam",
+      "amount": "1 cup",
+      "notes": "use a high-quality jam for the best flavor"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "use cold water for a flaky crust"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 tablespoon",
+      "notes": "use a high-quality confectioners' sugar for the best flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "use a high-quality salt for the best flavor"
+    },
+    {
+      "name": "egg wash",
+      "amount": "1 large egg beaten with 1 tablespoon water",
+      "notes": "use an egg wash for a golden brown crust"
+    },
+    {
+      "name": "caramelized sugar",
+      "amount": "1/4 cup",
+      "notes": "use a high-quality caramelized sugar for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper or a silicone mat.",
+    "Roll out the dough to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the dough to a 9-inch (23 cm) tart pan with a removable bottom.",
+    "Trim the edges of the dough and press it into the corners of the pan.",
+    "Chill the dough in the freezer for 15 minutes.",
+    "Line the dough with parchment paper and fill with pie weights or dried beans.",
+    "Bake the crust for 15 minutes.",
+    "Remove the parchment paper and pie weights or dried beans.",
+    "Spread the jam evenly over the crust.",
+    "Caramelize the sugar by cooking it in a saucepan over medium heat, stirring constantly, until it turns a deep amber color.",
+    "Brush the edges of the tart crust with the egg wash.",
+    "Sprinkle the caramelized sugar over the jam.",
+    "Bake the tart for an additional 20-25 minutes, or until the crust is golden brown and the filling is bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "french",
+    "high-protein",
+    "pastry",
+    "tart",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 14
+  },
+  "slug": "x-tra-flaky-french-pastry-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-flaky-french-pastry-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:50:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "jam",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pastry",
+    "descriptor": "X-tra flaky",
+    "dishForm": "Tart"
+  }
+}
