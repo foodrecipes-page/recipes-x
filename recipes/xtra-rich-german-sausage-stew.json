@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Rich German Sausage Stew",
+  "description": "A rich and silky German stew featuring marinated sausage, perfect for a high-protein meal or hangover cure. This hearty dish is made with tender sausage and vegetables in a flavorful broth.",
+  "cuisine": "German",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "such as bratwurst or knockwurst"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "marinade",
+      "amount": "1 cup",
+      "notes": "made with 1/2 cup beer and 1/2 cup apple cider vinegar"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the marinade ingredients and add the sliced sausage, letting it marinate for at least 30 minutes.",
+    "In a large pot or Dutch oven, heat 2 tablespoons of oil over medium heat and add the chopped onion, cooking until softened.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped carrots and potatoes, cooking for 5 minutes, until they begin to soften.",
+    "Add the marinated sausage, beef broth, and tomato paste, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes, until the vegetables are tender.",
+    "Season the stew with black pepper and serve hot.",
+    "Garnish with fresh parsley or thyme, if desired.",
+    "Serve with crusty bread or over egg noodles.",
+    "Let the stew cool completely before refrigerating or freezing."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "xtra-rich-german-sausage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-german-sausage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:57:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "sausage",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausage",
+    "descriptor": "Xtra Rich",
+    "dishForm": "Stew"
+  }
+}

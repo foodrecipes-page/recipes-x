@@ -88,6 +88,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-rich-german-sausage-stew",
+    "title": "Xtra Rich German Sausage Stew",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-sweet-brazilian-rice-pilaf",
     "title": "Xtra Sweet Brazilian Rice Pilaf",
     "tags": [
