@@ -1,0 +1,109 @@
+{
+  "title": "Xanthous Tandoor Indian Chicken Kebabs",
+  "description": "Tangy, dense, post-workout Indian dish featuring chilli flakes and tandoor, halal-friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tsp",
+      "notes": "halal certified"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together the tandoor spice blend, chilli flakes, garam masala, salt, black pepper, and lemon juice.",
+    "Add the chicken breast to the bowl and toss to coat with the spice mixture.",
+    "Thread the marinated chicken onto skewers, leaving a little space between each piece.",
+    "Brush the grill or grill pan with olive oil to prevent sticking.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, or until cooked through.",
+    "Transfer the kebabs to a plate and brush with Greek yogurt.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-options",
+    "high-protein",
+    "indian-food",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "xanthous-tandoor-indian-chicken-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-tandoor-indian-chicken-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:58:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "chilli flakes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Xanthous Tandoor",
+    "dishForm": "Kebabs"
+  }
+}
