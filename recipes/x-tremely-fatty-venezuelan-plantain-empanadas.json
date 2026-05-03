@@ -1,0 +1,102 @@
+{
+  "title": "X-tremely Fatty Venezuelan Plantain Empanadas",
+  "description": "A rich and decadent Venezuelan-inspired empanada dish featuring coconut cream, steamed plantains, and a crispy pastry crust.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plantain",
+      "amount": "4 large"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shortening",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Peel and slice the plantains into 1-inch pieces.",
+    "Steam the plantain slices for 10 minutes, or until tender.",
+    "In a large bowl, combine flour, shortening, sugar, salt, eggs, and anise seeds. Mix until a dough forms.",
+    "Knead the dough for 5 minutes, until smooth and elastic.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of coconut cream in the center of each dough circle.",
+    "Top with steamed plantain slices and fold the dough in half to form a triangle.",
+    "Press the edges to seal the empanada, and use a fork to crimp the edges.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "Brush with unsalted butter and sprinkle with palm sugar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "coconut-cream",
+    "date-night",
+    "fatty",
+    "one-pan",
+    "steamed-plantains",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "x-tremely-fatty-venezuelan-plantain-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tremely-fatty-venezuelan-plantain-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:32:22Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "coconut cream",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantain",
+    "descriptor": "X-tremely Fatty",
+    "dishForm": "Empanadas"
+  }
+}
