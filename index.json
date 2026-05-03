@@ -15,6 +15,22 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-nutty-japanese-tofu-ramen",
+    "title": "x-tra nutty japanese tofu ramen",
+    "tags": [
+      "comfort-food",
+      "easy-to-make",
+      "high-protein",
+      "nutritious",
+      "one-pan",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-dense-algerian-lamb-tagine",
     "title": "Xenial Dense Algerian Lamb Tagine",
     "tags": [

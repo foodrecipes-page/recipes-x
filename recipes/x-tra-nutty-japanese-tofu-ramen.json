@@ -1,0 +1,111 @@
+{
+  "title": "x-tra nutty japanese tofu ramen",
+  "description": "a rich and satisfying paleo-friendly bowl of noodles, loaded with sultanas, mushrooms, and nutty flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "sultanas",
+      "amount": "50g"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "cook the ramen noodles according to the package instructions.",
+    "in a large pressure cooker, heat the coconut oil over medium heat.",
+    "add the sliced onion and cook until translucent, about 5 minutes.",
+    "add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "add the minced garlic and grated ginger and cook for 1 minute.",
+    "add the soy sauce, coconut aminos, and 2 cups of water, and stir to combine.",
+    "add the sliced sultanas and cook until they're rehydrated and the mixture is hot.",
+    "add the cooked ramen noodles to the pressure cooker and stir to combine.",
+    "top with sliced green onions and sesame seeds.",
+    "serve hot and enjoy!",
+    "optional: add cooked tofu to the noodles and top with a fried egg for added protein.",
+    "optional: add diced bell peppers or snow peas to the pressure cooker for added color and nutrients."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "high-protein",
+    "nutritious",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 23,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "x-tra-nutty-japanese-tofu-ramen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-nutty-japanese-tofu-ramen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:54:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sultanas",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tofu",
+    "descriptor": "X-tra Nutty",
+    "dishForm": "Ramen"
+  }
+}
