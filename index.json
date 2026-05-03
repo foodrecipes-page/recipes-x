@@ -133,6 +133,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-light-british-seaweed-salad",
+    "title": "Xtra Light British Seaweed Salad",
+    "tags": [
+      "british",
+      "lazy-sunday",
+      "light",
+      "plant-based",
+      "quick",
+      "seaweed-salad",
+      "vegan"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-rich-german-sausage-stew",
     "title": "Xtra Rich German Sausage Stew",
     "tags": [

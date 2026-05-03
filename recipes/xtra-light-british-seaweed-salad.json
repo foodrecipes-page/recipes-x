@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Light British Seaweed Salad",
+  "description": "A briny, lazy‑Sunday British dish featuring a rice wine glaze and Buddhist‑temple‑friendly ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried kombu",
+      "amount": "200g"
+    },
+    {
+      "name": "dried wakame",
+      "amount": "50g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "rice wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "pinch"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak 200g dried kombu and 50g dried wakame in 1 liter of cold water for 10 minutes until rehydrated.",
+    "While the seaweed rehydrates, peel and julienne 1 cucumber and grate 1 carrot into thin ribbons.",
+    "In a small bowl whisk together 1 tbsp rice wine vinegar, 1 tsp honey, 1 tsp soy sauce, and a pinch of chili flakes to create the glaze.",
+    "Heat 1 tbsp sesame oil in a non‑stick pan over medium heat, then add 1 tsp freshly grated ginger and sauté for 30 seconds until fragrant.",
+    "Drain the rehydrated seaweed, rinse briefly with cold water, and cut into bite‑sized pieces.",
+    "Toss the seaweed with cucumber, carrot, and the warm ginger‑sesame oil mixture in a large bowl.",
+    "Drizzle the prepared glaze over the salad, gently toss to coat evenly, then sprinkle 1 tsp toasted sesame seeds on top.",
+    "Chill the salad in the refrigerator for 10 minutes before serving to allow flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "lazy-sunday",
+    "light",
+    "plant-based",
+    "quick",
+    "seaweed-salad",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "xtra-light-british-seaweed-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-british-seaweed-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:37:07Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "rice wine",
+    "diet": "buddhist-temple",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Seaweed",
+    "descriptor": "Xtra Light",
+    "dishForm": "Salad"
+  }
+}
