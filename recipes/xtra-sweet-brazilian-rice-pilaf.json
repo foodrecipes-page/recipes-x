@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Sweet Brazilian Rice Pilaf",
+  "description": "A fluffy, sweet, festive rice pilaf with a hint of citrus from white wine vinegar, perfect as a dessert or side.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "long grain white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced sweet potato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse 2 cups of long grain white rice until water runs clear, then set aside.",
+    "In a large pot, heat 2 tbsp olive oil over medium heat and sauté diced red onion, garlic, sweet potato, carrot, and bell pepper until softened, about 5 minutes.",
+    "Add the rinsed rice to the pot and stir to coat the grains with the oil and vegetables for 2 minutes.",
+    "Pour in 4 cups vegetable broth and 1 cup coconut milk, then stir in 2 tbsp white wine vinegar and 2 tbsp maple syrup.",
+    "Bring the mixture to a gentle boil, then cover and reduce heat to low, simmering for 18 minutes or until the rice is tender and liquid is mostly absorbed.",
+    "Remove the pot from heat, fluff the rice with a fork, and let it rest covered for 5 minutes.",
+    "Stir in chopped parsley, season with salt and pepper to taste, and if the mixture is too thick add a splash of broth.",
+    "Transfer the pilaf to a serving dish, drizzle with a little more maple syrup if desired, and garnish with extra parsley.",
+    "Serve warm as a sweet side or dessert accompaniment, and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 28,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "festive",
+    "fluffy",
+    "one-pot",
+    "rice",
+    "sweet",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1540,
+    "protein": 27,
+    "carbs": 185,
+    "fat": 76
+  },
+  "slug": "xtra-sweet-brazilian-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sweet-brazilian-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:41:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rice",
+    "descriptor": "Xtra Sweet",
+    "dishForm": "Pilaf"
+  }
+}

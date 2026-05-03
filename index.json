@@ -13,5 +13,21 @@
     "cuisine": "Malaysian",
     "totalTimeMin": 105,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-sweet-brazilian-rice-pilaf",
+    "title": "Xtra Sweet Brazilian Rice Pilaf",
+    "tags": [
+      "brazilian",
+      "festive",
+      "fluffy",
+      "one-pot",
+      "rice",
+      "sweet",
+      "vegan"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 38,
+    "shard": "x"
   }
 ]
