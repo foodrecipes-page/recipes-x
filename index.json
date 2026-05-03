@@ -118,6 +118,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-kenyan-swede-flatbread",
+    "title": "Xtra Crispy Kenyan Swede Flatbread",
+    "tags": [
+      "crisp",
+      "flatbread",
+      "high-protein",
+      "kenyan",
+      "nutty",
+      "pescatarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fresh-australian-fish-poke",
     "title": "Xtra Fresh Australian Fish Poke",
     "tags": [

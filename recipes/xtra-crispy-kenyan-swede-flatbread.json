@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Crispy Kenyan Swede Flatbread",
+  "description": "A nutty, crispy flatbread made with roasted swede and a double-rise dough that delivers a cozy Kenyan flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "30g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mashed roasted swede",
+      "amount": "150g"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "for nutty flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220C and line a baking sheet with parchment.",
+    "In a large bowl whisk together whole wheat flour, all-purpose flour, ground flaxseed, baking powder, and salt.",
+    "Stir in olive oil, mashed swede, water, egg, lemon juice, dried thyme, and sesame seeds until a sticky dough forms.",
+    "Knead the dough lightly on a floured surface until smooth, then shape into a ball.",
+    "Place the dough ball on a parchment-lined tray, cover with a damp cloth, and let it rise for 30 minutes.",
+    "After the first rise, roll the dough out to a 12x4 inch rectangle, then cut into 4 equal strips.",
+    "Place the strips on the baking sheet, brush the tops with a little olive oil, and bake for 10 minutes.",
+    "Flip the strips, brush again, and bake for an additional 8 minutes until golden and crisp.",
+    "Let the flatbread cool for 5 minutes, then serve warm with a side of tomato salsa or hummus."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "flatbread",
+    "high-protein",
+    "kenyan",
+    "nutty",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 1826,
+    "protein": 51,
+    "carbs": 239,
+    "fat": 58
+  },
+  "slug": "xtra-crispy-kenyan-swede-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-kenyan-swede-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:39:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "swede",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "swede",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Flatbread"
+  }
+}
