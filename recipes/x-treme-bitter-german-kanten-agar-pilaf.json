@@ -1,0 +1,112 @@
+{
+  "title": "X-treme Bitter German Kanten-Agar Pilaf",
+  "description": "A crispy, bitter dish made with kanten-agar and Mediterranean flavors, perfect for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kanten-agar",
+      "amount": "1 cup",
+      "notes": "Available at Asian markets or online"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing and frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped (for garnish)"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For cooking kanten-agar"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and sauté until golden brown, about 5 minutes.",
+    "Add the sliced mushrooms and minced garlic, and cook until the mushrooms release their liquid and start to brown, about 5 minutes.",
+    "Add the ground fennel and caraway seeds, and cook for 1 minute.",
+    "Add the kanten-agar and stir to combine with the vegetable mixture.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low and simmer, uncovered, for 10 minutes, or until the kanten-agar has absorbed most of the liquid.",
+    "Season with salt to taste.",
+    "Transfer the pilaf to a serving platter and garnish with chopped fresh parsley.",
+    "Serve hot, and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "crispy",
+    "german",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "x-treme-bitter-german-kanten-agar-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-treme-bitter-german-kanten-agar-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:50:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "kanten-agar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "kanten-agar",
+    "descriptor": "X-treme Bitter",
+    "dishForm": "Pilaf"
+  }
+}
