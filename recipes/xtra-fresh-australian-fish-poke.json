@@ -1,0 +1,91 @@
+{
+  "title": "Xtra Fresh Australian Fish Poke",
+  "description": "A fresh and tender Australian dish featuring chopped chives and raw friendly ingredients, this poke is a nostalgic treat for anyone who loves seafood. It is made with sustainable and locally sourced ingredients.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sashimi grade tuna",
+      "amount": "1 pound",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Cut the tuna into small cubes and place them in a large bowl.",
+    "In a small bowl, whisk together lemon juice, soy sauce, and sesame oil.",
+    "Pour the dressing over the tuna and toss to coat.",
+    "Sprinkle chopped chives, salt, and black pepper over the tuna and toss again.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle toasted sesame seeds over the top of the poke.",
+    "Serve the poke in small bowls or glasses and garnish with additional chopped chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-bowl",
+    "seafood",
+    "sustainable",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "xtra-fresh-australian-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fresh-australian-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:59:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "poach",
+    "primaryIngredient": "chopped chive",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra fresh",
+    "dishForm": "Poke"
+  }
+}

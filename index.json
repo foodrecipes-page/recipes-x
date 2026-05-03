@@ -103,6 +103,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-fresh-australian-fish-poke",
+    "title": "Xtra Fresh Australian Fish Poke",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-bowl",
+      "seafood",
+      "sustainable",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-rich-german-sausage-stew",
     "title": "Xtra Rich German Sausage Stew",
     "tags": [
