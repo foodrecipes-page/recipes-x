@@ -1,0 +1,88 @@
+{
+  "title": "Xtra Briny Filipino Deodeok Root Lumpia",
+  "description": "A Filipino dish featuring deodeok root and lardons, wrapped in a lumpia and cooked in a Dutch oven, perfect for a snack or light meal. This recipe is nut-free friendly and has a briny flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "1 pound",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered and crumbled"
+    },
+    {
+      "name": "lumpia wrappers",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the grated deodeok root, crumbled lardons, fish sauce, salt, and black pepper, and mix well.",
+    "Lay a lumpia wrapper on a flat surface and place about 1 tablespoon of the deodeok root mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with water and fold the wrapper into a triangle, pressing the edges to seal.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "Heat the vegetable oil in the preheated Dutch oven and fry the lumpia until golden brown, about 3-4 minutes on each side.",
+    "Remove the lumpia from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the Xtra Briny Filipino Deodeok Root Lumpia hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "briny-flavor",
+    "deodeok-root",
+    "dutch-oven",
+    "filipino-food",
+    "lumpia-recipe",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "xtra-briny-filipino-deodeok-root-lumpia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-briny-filipino-deodeok-root-lumpia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:57:00Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "deodeok-root",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "deodeok root",
+    "descriptor": "Xtra Briny",
+    "dishForm": "Lumpia"
+  }
+}
