@@ -696,6 +696,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-brazilian-chicken-casserole",
+    "title": "Xtra Creamy Brazilian Chicken Casserole",
+    "tags": [
+      "brazilian-food",
+      "chicken-casserole",
+      "comfort-food",
+      "low-sodium",
+      "meal-prep",
+      "one-pot"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-croatian-cheese-pasta",
     "title": "Xtra Creamy Croatian Cheese Pasta",
     "tags": [
@@ -1611,6 +1626,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-smoky-french-emmentaler-cheese-gratin",
+    "title": "Xtra Smoky French Emmentaler Cheese Gratin",
+    "tags": [
+      "french-cuisine",
+      "one-pan",
+      "shojin-friendly",
+      "smoky-flavors",
+      "vegetarian-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

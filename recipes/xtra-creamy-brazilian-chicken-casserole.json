@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Creamy Brazilian Chicken Casserole",
+  "description": "A nutty and creamy Brazilian dish featuring turmeric and double-rise-bread, perfect for a low-sodium meal prep dinner",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the chicken until browned, about 5-7 minutes.",
+    "In a large bowl, whisk together the chicken broth, heavy cream, turmeric, and salt-free seasoning blend.",
+    "Add the cooked chicken, cubed bread, and shredded mozzarella cheese to the bowl and stir until the bread is well coated.",
+    "Transfer the mixture to a large cazuela and top with chopped fresh parsley.",
+    "Cover the cazuela with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Remove the cazuela from the oven and let it cool for a few minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "chicken-casserole",
+    "comfort-food",
+    "low-sodium",
+    "meal-prep",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-creamy-brazilian-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-brazilian-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:57:48Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "turmeric",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Casserole"
+  }
+}
