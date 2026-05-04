@@ -701,6 +701,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-garlicky-tunisian-chicken-pilaf",
+    "title": "Xtra Garlicky Tunisian Chicken Pilaf",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "kid-friendly",
+      "one-pot",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-hearty-syrian-white-bean-stew",
     "title": "Xtra Hearty Syrian White Bean Stew",
     "tags": [

@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Garlicky Tunisian Chicken Pilaf",
+  "description": "A flavorful and aromatic Tunisian dish featuring chicken, garlic, and rice, perfect for a family dinner. This recipe is kid-friendly and incorporates ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the chicken to the saucepan and cook until browned, about 5 minutes.",
+    "Add the minced garlic to the saucepan and cook for 1 minute, until fragrant.",
+    "Add the rice wine to the saucepan and cook until the liquid is almost completely evaporated, about 2 minutes.",
+    "Add the uncooked white rice to the saucepan and stir to combine with the chicken and garlic mixture.",
+    "Add the chicken broth, salt, black pepper, and dried thyme to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 20 minutes, until the rice is tender and the liquid is absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "kid-friendly",
+    "one-pot",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-garlicky-tunisian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-garlicky-tunisian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:04:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "rice wine",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra garlicky",
+    "dishForm": "Pilaf"
+  }
+}
