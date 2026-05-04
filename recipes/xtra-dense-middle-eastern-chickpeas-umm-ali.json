@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Dense Middle Eastern Chickpeas Umm Ali",
+  "description": "Salty, dense, post-workout Middle Eastern dish featuring grilled naan, chickpeas, and yogurt, fused with Ayurvedic sattvic flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "200 g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "naan bread",
+      "amount": "2 pieces",
+      "notes": "sliced lengthwise"
+    },
+    {
+      "name": "plain low-fat yogurt",
+      "amount": "100 g",
+      "notes": "room temperature"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "Lightly brush both sides of naan slices with olive oil and place them on the grill until charred spots appear, about 2 minutes per side.",
+    "In a bowl, whisk the yogurt with lemon juice, cumin, coriander, turmeric, salt, and pepper until smooth.",
+    "Spread the yogurt mixture evenly over the grilled naan slices.",
+    "Sprinkle the cooked chickpeas over the yogurt-coated naan.",
+    "Drizzle the remaining olive oil over the chickpeas and toss to coat.",
+    "Place the assembled naan, chickpeas, and yogurt mixture back onto the grill and cook for another 5 minutes, allowing the flavors to meld.",
+    "Remove from the grill and let the dish rest for 5 minutes to set the layers.",
+    "Sprinkle chopped cilantro over the top for freshness.",
+    "Slice the dense umm-ali into squares and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "high-protein",
+    "middle-eastern",
+    "post-workout",
+    "sattvic",
+    "umm-ali",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 28,
+    "carbs": 92,
+    "fat": 31
+  },
+  "slug": "xtra-dense-middle-eastern-chickpeas-umm-ali",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-middle-eastern-chickpeas-umm-ali",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:42:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "naan bread",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Umm Ali"
+  }
+}
