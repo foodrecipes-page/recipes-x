@@ -287,6 +287,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-charred-vietnamese-leek-pho",
+    "title": "Xtra Charred Vietnamese Leek Pho",
+    "tags": [
+      "healthy",
+      "leek",
+      "low-calorie",
+      "midnight-craving",
+      "pho",
+      "quick",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-chewy-mexican-provola-elote",
     "title": "Xtra Chewy Mexican Provola Elote",
     "tags": [

@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Charred Vietnamese Leek Pho",
+  "description": "A light, midnight-craving pho with charred leeks, fresh herbs, and a low-calorie broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "4 large leeks, trimmed and sliced"
+    },
+    {
+      "name": "lean beef sirloin",
+      "amount": "200g thinly sliced"
+    },
+    {
+      "name": "fresh rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 liter, low sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1 handful"
+    },
+    {
+      "name": "thai basil",
+      "amount": "1 handful"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small piece, minced"
+    }
+  ],
+  "instructions": [
+    "Char the leek slices on a hot grill until lightly blackened.",
+    "Simmer the broth with garlic, ginger, fish sauce, and sugar until fragrant, about 10 minutes.",
+    "Add the charred leeks to the broth and simmer for 2 minutes to infuse flavor.",
+    "Cook the rice noodles in boiling water for 3 minutes, then drain and set aside.",
+    "Place the sliced beef in the hot broth for 30 seconds until just pink.",
+    "Assemble the pho by layering noodles, beef, and leeks in a bowl.",
+    "Pour the hot broth over the ingredients to create a steaming pot of pho.",
+    "Garnish with cilantro, mint, basil, lime wedges, and optional jalapeño slices.",
+    "Serve immediately, letting diners squeeze fresh lime juice and add more herbs as desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "leek",
+    "low-calorie",
+    "midnight-craving",
+    "pho",
+    "quick",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 4
+  },
+  "slug": "xtra-charred-vietnamese-leek-pho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-charred-vietnamese-leek-pho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:20:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "leek",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Leek",
+    "descriptor": "Xtra Charred",
+    "dishForm": "Pho"
+  }
+}
