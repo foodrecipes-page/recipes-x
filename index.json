@@ -1248,6 +1248,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-vietnamese-rice-bowl",
+    "title": "Xtra Vietnamese Rice Bowl",
+    "tags": [
+      "easy",
+      "low-glycemic",
+      "protein-packed",
+      "quick-fix",
+      "veggie"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-zesty-lebanese-chickpeas-falafel-bowl",
     "title": "Xtra Zesty Lebanese Chickpeas Falafel Bowl",
     "tags": [

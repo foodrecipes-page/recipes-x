@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Vietnamese Rice Bowl",
+  "description": "A grassy, cheese-pull quick-fix Vietnamese dish featuring yogurt and low-glycemic cauliflower rice.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "low-fat shredded cheddar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime",
+      "amount": "1"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a non-stick skillet over medium heat and sauté the cauliflower rice for 3 minutes until slightly tender.",
+    "Add the grilled chicken slices to the skillet and toss to combine, cooking for an additional 2 minutes to heat through.",
+    "Remove skillet from heat and stir in the shredded cheddar until it melts into a creamy coating over the rice and chicken.",
+    "In a small bowl, whisk together Greek yogurt, lime juice, fish sauce, salt, and pepper until smooth.",
+    "Pour the yogurt sauce over the hot rice mixture, stirring to coat evenly and keep the cheese slightly pulled.",
+    "Transfer the bowl to a serving dish, then sprinkle with scallions, cilantro, toasted sesame seeds, and a few extra crumbs of cheese.",
+    "Garnish with a squeeze of fresh lime and a drizzle of sesame oil for extra flavor.",
+    "Serve immediately while hot for a fresh, low-glycemic Vietnamese rice bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "low-glycemic",
+    "protein-packed",
+    "quick-fix",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 12,
+    "fat": 28
+  },
+  "slug": "xtra-vietnamese-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-vietnamese-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:30:20Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "score-fat",
+    "primaryIngredient": "yogurt",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Rice",
+    "descriptor": "Xtra",
+    "dishForm": "Bowl"
+  }
+}
