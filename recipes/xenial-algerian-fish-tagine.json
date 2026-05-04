@@ -1,0 +1,107 @@
+{
+  "title": "Xenial Algerian Fish Tagine",
+  "description": "A floral, light, adventurous tagine featuring English mustard and katsuramuki-cut tuna, perfect for a keto-friendly dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna fillets (katsuramuki cut)",
+      "amount": "800g"
+    },
+    {
+      "name": "English mustard",
+      "amount": "16g",
+      "notes": "1 tablespoon"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "200g",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15ml",
+      "notes": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g",
+      "notes": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "5g",
+      "notes": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "100ml"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "5g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350F (180C).",
+    "Whisk together mustard, salt, pepper, lemon zest, and half a tablespoon of olive oil to make a light sauce.",
+    "Coat the tuna pieces evenly with the mustard sauce and place them in an oven-safe dish.",
+    "Scatter halved cherry tomatoes, chopped parsley, and mint over the fish.",
+    "Pour 100ml water into the dish, then drizzle remaining olive oil on top.",
+    "Cover the dish with foil and bake for 12 minutes, until the fish flakes easily.",
+    "Remove foil, bake another 5 minutes to caramelize the tomatoes.",
+    "Let rest 5 minutes, then serve hot, optionally garnished with extra parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "floral",
+    "keto-friendly",
+    "light",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 365,
+    "protein": 42,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "xenial-algerian-fish-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-algerian-fish-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:30:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "english mustard",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "fish",
+    "descriptor": "Xenial",
+    "dishForm": "Tagine"
+  }
+}

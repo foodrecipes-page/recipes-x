@@ -131,6 +131,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-algerian-fish-tagine",
+    "title": "Xenial Algerian Fish Tagine",
+    "tags": [
+      "algerian",
+      "floral",
+      "keto-friendly",
+      "light",
+      "one-pot",
+      "seafood"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-basque-potato-bake",
     "title": "Xenial Basque Potato Bake",
     "tags": [
