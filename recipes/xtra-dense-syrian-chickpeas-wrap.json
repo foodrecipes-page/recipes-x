@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Dense Syrian Chickpeas Wrap",
+  "description": "A nutty and dense Syrian dish featuring shio-koji, leaf-wrap-steam, and served in a tagliere vessel, this recipe is low-fat-friendly and perfect for a snack or light meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "large kale leaves",
+      "amount": "4",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200 degrees Fahrenheit.",
+    "Mix chickpeas, shio-koji, olive oil, garlic, lemon juice, salt, and black pepper in a bowl.",
+    "Place a large kale leaf on a flat surface and spoon about 1/2 cup of the chickpea mixture onto the center of the leaf.",
+    "Fold the stem end of the kale leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining kale leaves and chickpea mixture.",
+    "Place the wrapped chickpea rolls in the steamer, seam-side down, and steam for 10 minutes.",
+    "Serve the wraps in a tagliere vessel, garnished with sumac if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy-snack",
+    "low-fat",
+    "middle-eastern",
+    "steam-cooked",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "xtra-dense-syrian-chickpeas-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-syrian-chickpeas-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:56:43Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "shio-koji",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Wrap"
+  }
+}
