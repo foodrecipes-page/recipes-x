@@ -994,6 +994,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-mediterranean-fromage-blanc-tagine",
+    "title": "Xtra Crispy Mediterranean Fromage Blanc Tagine",
+    "tags": [
+      "clay-pot-cooking",
+      "crispy-top",
+      "gluten-free",
+      "mediterranean-diet",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-moroccan-peanuts-pasta",
     "title": "Xtra Crispy Moroccan Peanuts Pasta",
     "tags": [

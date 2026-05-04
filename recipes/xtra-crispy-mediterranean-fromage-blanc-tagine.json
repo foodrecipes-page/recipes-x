@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Crispy Mediterranean Fromage Blanc Tagine",
+  "description": "A light and crispy Mediterranean dish featuring fromage blanc, made in a traditional clay tajine vessel and infused with floral flavors",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage blanc",
+      "amount": "1 cup",
+      "notes": "soft and creamy"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a small bowl, mix together the lemon zest, olive oil, garlic, oregano, salt, and pepper",
+    "Add the fromage blanc to the bowl and stir until well combined",
+    "Arrange the cherry tomatoes in the bottom of a clay tajine vessel",
+    "Spoon the fromage blanc mixture over the cherry tomatoes",
+    "Cover the tajine with a lid and bake for 20 minutes",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is crispy and golden brown",
+    "Sprinkle the chopped parsley over the top of the dish",
+    "Serve hot, with toasted pita bread on the side"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "crispy-top",
+    "gluten-free",
+    "mediterranean-diet",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "xtra-crispy-mediterranean-fromage-blanc-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-mediterranean-fromage-blanc-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:32:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Tagine"
+  }
+}
