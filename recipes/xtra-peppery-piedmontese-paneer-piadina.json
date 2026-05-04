@@ -1,0 +1,89 @@
+{
+  "title": "Xtra Peppery Piedmontese Paneer Piadina",
+  "description": "Peppery, gooey, nostalgic Italian panbread with paneer that is double-fried for a crunchy, crispy finish.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp, plus extra for frying"
+    },
+    {
+      "name": "paneer",
+      "amount": "200g, cubed"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "a handful, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Combine flour, baking powder, and salt in a large bowl.",
+    "Add warm water gradually while stirring until a dough forms.",
+    "Knead the dough for 5 minutes, then cover and rest 10 minutes.",
+    "Divide the dough into four equal portions, roll each into a 12 cm circle.",
+    "Heat 1 tablespoon of oil in a nonstick pan over medium heat.",
+    "Fry each dough circle until golden on both sides, about 2 minutes per side.",
+    "Remove the fried dough and set aside on a paper towel.",
+    "In the same pan, add remaining oil and a teaspoon of pepper flakes, then scatter paneer cubes over the dough.",
+    "Fry the paneer-topped dough until the paneer melts and the edges become crisp, about 3 minutes.",
+    "Flip once, cook until golden, then remove and garnish with fresh basil before serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "high-protein",
+    "quick-meal",
+    "snack",
+    "veg-friendly"
+  ],
+  "nutrition": {
+    "calories": 940,
+    "protein": 41,
+    "carbs": 61,
+    "fat": 36
+  },
+  "slug": "xtra-peppery-piedmontese-paneer-piadina",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-peppery-piedmontese-paneer-piadina",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:00:21Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "paneer",
+    "diet": "dash",
+    "region": "piedmontese",
+    "cuisineAdjective": "Piedmontese",
+    "mainIngredient": "Paneer",
+    "descriptor": "Xtra Peppery",
+    "dishForm": "Piadina"
+  }
+}

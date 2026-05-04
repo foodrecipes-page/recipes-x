@@ -922,6 +922,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-peppery-piedmontese-paneer-piadina",
+    "title": "Xtra Peppery Piedmontese Paneer Piadina",
+    "tags": [
+      "double-fry",
+      "high-protein",
+      "quick-meal",
+      "snack",
+      "veg-friendly"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-pungent-malaysian-cheese-noodles",
     "title": "Xtra Pungent Malaysian Cheese Noodles",
     "tags": [
