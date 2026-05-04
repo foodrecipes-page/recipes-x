@@ -759,6 +759,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crisp-tunisian-petit-pois-tagine",
+    "title": "Xtra Crisp Tunisian Petit Pois Tagine",
+    "tags": [
+      "crisp-texture",
+      "malty-flavor",
+      "ovo-vegetarian",
+      "ramekin-recipe",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-british-cheese-ploughmans-pie",
     "title": "Xtra Crispy British Cheese Ploughmans Pie",
     "tags": [
