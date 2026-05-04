@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Fluffy Algerian Beans Tagine",
+  "description": "A charred, fluffy, and adventurous Algerian dish featuring refried beans, broil, and halal-friendly ingredients, perfect for a unique dinner experience.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried navy beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pot, combine the soaked navy beans, chopped onion, minced garlic, ground cumin, smoked paprika, salt, and black pepper.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 1 hour, or until the beans are tender.",
+    "Use an immersion blender to refry the beans until they are fluffy and charred.",
+    "Transfer the bean mixture to a baking dish and drizzle with olive oil.",
+    "Broil the beans in the oven for 10 minutes, or until they are lightly browned.",
+    "Remove the beans from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 70,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "high-protein",
+    "north-african",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-fluffy-algerian-beans-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-algerian-beans-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:13:14Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "broil",
+    "primaryIngredient": "refried beans",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beans",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Tagine"
+  }
+}
