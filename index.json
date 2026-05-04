@@ -995,6 +995,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-nutty-canadian-lamb-tagine",
+    "title": "Xtra Nutty Canadian Lamb Tagine",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "halal-friendly",
+      "lamb-recipes",
+      "nutty-dishes",
+      "tagine-pot"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 195,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-peppery-piedmontese-paneer-piadina",
     "title": "Xtra Peppery Piedmontese Paneer Piadina",
     "tags": [
