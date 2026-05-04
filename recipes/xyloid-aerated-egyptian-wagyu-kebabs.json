@@ -1,0 +1,98 @@
+{
+  "title": "Xyloid Aerated Egyptian Wagyu Kebabs",
+  "description": "A unique and flavorful Egyptian dish featuring wagyu beef, kombu cold extract, and a yeast-based aerating agent, perfect for special occasions. This dairy-free friendly recipe is sure to please crowds.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, ginger, salt, and black pepper.",
+    "Add the wagyu beef cubes to the bowl and marinate for at least 30 minutes.",
+    "In a small bowl, mix together kombu cold extract and yeast.",
+    "Add the kombu-yeast mixture to the marinated beef and mix well.",
+    "Cover the bowl with plastic wrap and let it sit at room temperature for 1 hour to allow the yeast to aerate the mixture.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each cube.",
+    "Grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 130 degrees.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "grilled-meat",
+    "high-protein",
+    "middle-eastern",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "xyloid-aerated-egyptian-wagyu-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xyloid-aerated-egyptian-wagyu-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:29:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "wagyu",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "wagyu",
+    "descriptor": "xyloid aerated",
+    "dishForm": "Kebabs"
+  }
+}
