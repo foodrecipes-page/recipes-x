@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Indulgent Mexican Muffin Chilaquiles",
+  "description": "A winey and aerated Mexican dish featuring muffins and coconut cream, served in a bamboo tray. This indulgent Chiapan-inspired recipe is perfect for a Mediterranean-friendly meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "muffins",
+      "amount": "6",
+      "notes": "preferably day-old muffins"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "Cut the muffins into 1-inch cubes and toast until lightly browned.",
+    "In a large skillet, heat the coconut cream over medium heat.",
+    "Add the red wine, chili peppers, onion, and garlic to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Add the toasted muffin cubes to the skillet and stir to combine.",
+    "Transfer the mixture to a bamboo tray and top with shredded cheese.",
+    "Bake in the preheated oven for 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped cilantro, salt, and pepper.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-recipe",
+    "coconut-cream-based",
+    "gluten-free-option",
+    "mexican-inspired",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "xtra-indulgent-mexican-muffin-chilaquiles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-indulgent-mexican-muffin-chilaquiles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:23:08Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "muffins",
+    "diet": "mediterranean",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "muffins",
+    "descriptor": "Xtra Indulgent",
+    "dishForm": "Chilaquiles"
+  }
+}
