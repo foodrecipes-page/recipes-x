@@ -236,6 +236,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-molten-croatian-mushroom-skillet",
+    "title": "Xenial Molten Croatian Mushroom Skillet",
+    "tags": [
+      "croatian",
+      "date-night",
+      "mushroom",
+      "one-pan",
+      "umami",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-roasted-polish-pork-kebabs",
     "title": "Xenial Roasted Polish Pork Kebabs",
     "tags": [

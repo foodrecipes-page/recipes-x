@@ -1,0 +1,98 @@
+{
+  "title": "Xenial Molten Croatian Mushroom Skillet",
+  "description": "A rich and savory Croatian dish featuring molten mushrooms and a hint of umami, perfect for a date night, this recipe is also Buddhist-temple-friendly as it does not contain any animal by-products or alcohol, and it utilizes unflavored gelatin.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Pressure cook the vegetable broth and gelatin in a separate pot until the gelatin is dissolved.",
+    "Heat the olive oil in a cast-iron skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Add the paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Pour the gelatin mixture over the mushrooms in the skillet.",
+    "Transfer the skillet to the oven and bake at 375 degrees Fahrenheit for 15 minutes or until the mixture is molten and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "date-night",
+    "mushroom",
+    "one-pan",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xenial-molten-croatian-mushroom-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-molten-croatian-mushroom-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:29:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "pressure-cook",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Xenial Molten",
+    "dishForm": "Skillet"
+  }
+}
