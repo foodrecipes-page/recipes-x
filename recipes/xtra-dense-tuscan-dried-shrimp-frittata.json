@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Dense Tuscan Dried Shrimp Frittata",
+  "description": "A dense and energizing lacto-vegetarian Italian dish featuring dried shrimp, perfect for a filling breakfast or snack. This frittata combines the savory flavor of dried shrimp with a touch of sweetness from candy.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "also known as goong haeng"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "such as candied citrus peel"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Chop the dried shrimp into small pieces and set aside.",
+    "In a large bowl, whisk together the eggs, parmesan cheese, salt, and black pepper.",
+    "Add the chopped parsley, candy, and dried shrimp to the bowl and stir to combine.",
+    "Heat the olive oil in a 10-inch oven-safe skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook for 2 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and let the frittata cool for 5 minutes.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "xtra-dense-tuscan-dried-shrimp-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-tuscan-dried-shrimp-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:19:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "lacto-vegetarian",
+    "region": "tuscan",
+    "cuisineAdjective": "Tuscan",
+    "mainIngredient": "dried shrimp",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Frittata"
+  }
+}
