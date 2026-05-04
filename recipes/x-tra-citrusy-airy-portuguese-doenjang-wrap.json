@@ -1,0 +1,98 @@
+{
+  "title": "x-tra citrusy airy portuguese doenjang wrap",
+  "description": "a vibrant twist on traditional portuguese cuisine, this airy wrap combines doenjang with a tangy citrus sauce and crunchy bhuna slaw.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "doenjang",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pandan leaf",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "bhuna rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "soak the pandan leaves in water for 30 minutes.",
+    "cook the doenjang according to the package instructions.",
+    "whisk together the orange juice, lemon juice, honey, cayenne pepper, and salt to make the citrus sauce.",
+    "mix the cooked doenjang with the citrus sauce and set aside.",
+    "cook the bhuna rice according to the package instructions.",
+    "shred the mixed greens and chop the red cabbage for the slaw.",
+    "mix the slaw ingredients together and set aside.",
+    "warm the pandan leaves in a dry pan for 2 minutes.",
+    "assemble the wrap by spreading the doenjang mixture on the pandan leaf, followed by the slaw, and finishing with the bhuna rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "portuguese-cuisine",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "x-tra-citrusy-airy-portuguese-doenjang-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-citrusy-airy-portuguese-doenjang-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:42Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "doenjang",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Doenjang",
+    "descriptor": "X-tra Citrusy Airy",
+    "dishForm": "Wrap"
+  }
+}
