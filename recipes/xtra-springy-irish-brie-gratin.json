@@ -1,0 +1,112 @@
+{
+  "title": "Xtra Springy Irish Brie Gratin",
+  "description": "A rich and creamy Irish gratin featuring brie cheese and a mirepoix base, perfect for a flexitarian dinner",
+  "cuisine": "Irish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brie cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the diced carrots, onions, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "In a large bowl, combine the cooked vegetables, diced potatoes, vegetable broth, thyme, salt, and pepper, and stir to combine.",
+    "Butter six ramekins and fill each with the vegetable mixture.",
+    "Top each ramekin with a slice of softened brie cheese.",
+    "Place the ramekins on a baking sheet and bake for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the gratins from the oven and let them cool for a few minutes before serving.",
+    "Serve the gratins hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "irish-food",
+    "one-pot",
+    "spring-recipes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-springy-irish-brie-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-springy-irish-brie-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:54:27Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "brie",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "brie",
+    "descriptor": "Xtra Springy",
+    "dishForm": "Gratin"
+  }
+}
