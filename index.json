@@ -2422,6 +2422,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-zesty-moroccan-citrus-tagine",
+    "title": "Xtra-Zesty Moroccan Citrus Tagine",
+    "tags": [
+      "brunch",
+      "citrus",
+      "fondue",
+      "moroccan",
+      "sattvic"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xyloid-aerated-egyptian-wagyu-kebabs",
     "title": "Xyloid Aerated Egyptian Wagyu Kebabs",
     "tags": [

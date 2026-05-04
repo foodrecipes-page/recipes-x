@@ -1,0 +1,105 @@
+{
+  "title": "Xtra-Zesty Moroccan Citrus Tagine",
+  "description": "A vibrant and fragrant Moroccan dish featuring the flavors of orange zest and a rich, citrusy sauce, perfect for a weekend brunch.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "parsley",
+      "amount": "chopped",
+      "notes": "fresh is best"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large fondue pot over medium heat.",
+    "Add the orange zest and cook for 1 minute, until fragrant.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the lemon juice, orange juice, and honey, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, until thickened slightly.",
+    "Stir in the flour and cook for 1 minute, until smooth.",
+    "Add the almonds and pistachios and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley.",
+    "Cook time will vary depending on the size of the fondue pot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "citrus",
+    "fondue",
+    "moroccan",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "xtra-zesty-moroccan-citrus-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-zesty-moroccan-citrus-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:47Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "orange zest",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Citrus",
+    "descriptor": "xtra-zesty",
+    "dishForm": "Tagine"
+  }
+}
