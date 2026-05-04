@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Smoky Algerian lamb Tagine",
+  "description": "A charred and pillowy solo dinner dish featuring minced garlic, this Algerian tagine is low in calories and rich in flavor. It is made with tender lamb and a blend of aromatic spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the chopped lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the smoked paprika, ground cumin, cayenne pepper, salt, and black pepper, and cook for 1 minute.",
+    "Add the diced tomatoes and chicken broth, and bring the mixture to a boil.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Braise the tagine for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the tagine from the oven and let it cool slightly.",
+    "Strain the sauce through a fine-mesh sieve into a clean saucepan, and skim off any excess fat.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, and accompanied by a side of couscous or crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb-based",
+    "low-calorie",
+    "north-african",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-smoky-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:15:37Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "minced garlic",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Tagine"
+  }
+}
