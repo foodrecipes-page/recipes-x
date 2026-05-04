@@ -1,0 +1,121 @@
+{
+  "title": "Xenial Vietnamese Nectarines Bun Thit Nuong",
+  "description": "A romantic, sour and fluffy Vietnamese dish that pairs sweet nectarines with grilled kosher chicken in a fondue pot.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "6 small",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "400g",
+      "notes": "boneless"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together flour, water, sugar, fish sauce, soy sauce, garlic powder, salt and lime juice until smooth batter forms.",
+    "Heat a fondue pot over medium heat and add vegetable oil.",
+    "Dip each chicken strip into the batter, letting excess drip off, then place in the hot oil.",
+    "Fry the coated chicken until golden brown and cooked through, about 5 minutes, flipping halfway.",
+    "Remove the chicken from the pot and set aside on a paper towel to drain.",
+    "In the same fondue pot add the diced nectarines and a splash of water, sautéing until they soften slightly, about 3 minutes.",
+    "Sprinkle the cooked chicken back over the nectarines and stir gently to combine.",
+    "Drizzle a little lime juice over the mixture and season with black pepper if desired.",
+    "Serve the nectarines and chicken hot, garnished with fresh herbs like mint or cilantro if available.",
+    "Enjoy this romantic, sour and fluffy Vietnamese dish with a side of rice or a fresh salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy",
+    "fondue-pot",
+    "kosher-friendly",
+    "quick-dinner",
+    "romantic",
+    "sour",
+    "vegetable-oil"
+  ],
+  "nutrition": {
+    "calories": 1595,
+    "protein": 149,
+    "carbs": 149,
+    "fat": 44
+  },
+  "slug": "xenial-vietnamese-nectarines-bun-thit-nuong",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-vietnamese-nectarines-bun-thit-nuong",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:19:54Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "nectarines",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "nectarines",
+    "descriptor": "Xenial",
+    "dishForm": "Bun Thit Nuong"
+  }
+}
