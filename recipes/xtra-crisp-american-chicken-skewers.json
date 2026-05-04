@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Crisp American Chicken Skewers",
+  "description": "A monsoon American dish featuring roasted and crisp chicken skewers with a blend of Shaoxing wine and dairy-free friendly ingredients, perfect for a dinner meal.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together Shaoxing wine, soy sauce, brown sugar, smoked paprika, garlic powder, onion powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Drizzle the lemon juice over the chicken skewers.",
+    "Roast the chicken skewers in the preheated oven for 20 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 5 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "crispy",
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "xtra-crisp-american-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-american-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:56:54Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "cure",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Skewers"
+  }
+}

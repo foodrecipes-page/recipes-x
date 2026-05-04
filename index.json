@@ -333,6 +333,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crisp-american-chicken-skewers",
+    "title": "Xtra Crisp American Chicken Skewers",
+    "tags": [
+      "american-cuisine",
+      "crispy",
+      "dairy-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crisp-canadian-haddock-chowder",
     "title": "Xtra Crisp Canadian Haddock Chowder",
     "tags": [
