@@ -1,0 +1,102 @@
+{
+  "title": "Xenial Korean Pork Belly Stir-Fry",
+  "description": "Citrusy, chewy pork belly with smoked paprika and nuka-pickle, a lazy Sunday Korean dish that stays keto-friendly. This bokkeum is quick, flavorful, and perfect for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "200g",
+      "notes": "thinly sliced 1cm thick"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "3 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat until shimmering.",
+    "Add pork belly slices and sear until browned on both sides, about 3-4 minutes per side.",
+    "Sprinkle smoked paprika, garlic, and ginger over the pork and stir to coat.",
+    "Pour soy sauce and add chopped nuka-pickle, cooking until the pork is almost fully cooked, about 5 minutes.",
+    "Reduce heat to medium and stir in sesame seeds, letting them toast for 30 seconds.",
+    "Add sliced scallions, cooking for an additional minute until softened.",
+    "Remove from heat and let the mixture rest for 2 minutes so the flavors meld.",
+    "Serve hot, optionally garnished with extra scallions or a drizzle of sesame oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "korean",
+    "low-carb",
+    "one-pan",
+    "quick",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "xenial-korean-pork-belly-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-korean-pork-belly-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:44:53Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "smoked paprika",
+    "diet": "keto",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Pork Belly",
+    "descriptor": "Xenial",
+    "dishForm": "Stir-Fry"
+  }
+}

@@ -247,6 +247,22 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-korean-pork-belly-stir-fry",
+    "title": "Xenial Korean Pork Belly Stir-Fry",
+    "tags": [
+      "keto-friendly",
+      "korean",
+      "low-carb",
+      "one-pan",
+      "quick",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-light-norwegian-natto-stew",
     "title": "Xenial Light Norwegian Natto Stew",
     "tags": [
