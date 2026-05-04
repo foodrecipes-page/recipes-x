@@ -178,6 +178,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-dense-greek-portobello-mushrooms-pilaf",
+    "title": "Xenial Dense Greek Portobello Mushrooms Pilaf",
+    "tags": [
+      "greek-cuisine",
+      "lacto-vegetarian",
+      "mushroom-recipes",
+      "one-pot",
+      "romantic-dinner",
+      "sake-infused"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-ethiopian-lentils-misir-wot",
     "title": "Xenial Ethiopian Lentils Misir Wot",
     "tags": [

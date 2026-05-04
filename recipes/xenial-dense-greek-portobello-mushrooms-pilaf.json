@@ -1,0 +1,109 @@
+{
+  "title": "Xenial Dense Greek Portobello Mushrooms Pilaf",
+  "description": "A rich and savory lacto-vegetarian dish featuring poached portobello mushrooms in a sake-infused pilaf, perfect for a romantic evening.",
+  "cuisine": "Greek",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4 large",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "sake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sliced portobello mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the sake to the saucepan and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and simmer the sake for 2 minutes.",
+    "Add the uncooked white rice to the saucepan and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Stir in the crumbled feta cheese and chopped parsley, and season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "lacto-vegetarian",
+    "mushroom-recipes",
+    "one-pot",
+    "romantic-dinner",
+    "sake-infused"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xenial-dense-greek-portobello-mushrooms-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-dense-greek-portobello-mushrooms-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:34:14Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "poach",
+    "primaryIngredient": "sake",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Xenial Dense",
+    "dishForm": "Pilaf"
+  }
+}
