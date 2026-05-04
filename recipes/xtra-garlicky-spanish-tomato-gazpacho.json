@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Garlicky Spanish Tomato Gazpacho",
+  "description": "A garlicky and cozy Spanish dish featuring unsweetened cocoa and bhuna, served in a Korean brass bowl, this gazpacho is perfect for a cold evening, with a cheese-pull that will leave you wanting more.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Ayurvedic",
+    "Sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roma Tomatoes",
+      "amount": "3 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Unsweetened Cocoa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bhuna Spice Mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Manchego Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine diced Roma tomatoes, minced garlic, unsweetened cocoa, and bhuna spice mix.",
+    "Blend the mixture on high speed until smooth.",
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add diced red onion and cook until translucent.",
+    "Add the blended tomato mixture to the saucepan and stir well.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Stir in diced cucumber.",
+    "Serve the gazpacho hot, topped with shredded Manchego cheese.",
+    "Place the gazpacho in a Korean brass bowl for serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "cheese-pull",
+    "cozy",
+    "garlicky",
+    "sattvic-friendly",
+    "spanish-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-garlicky-spanish-tomato-gazpacho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-garlicky-spanish-tomato-gazpacho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:17:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Xtra Garlicky",
+    "dishForm": "Gazpacho"
+  }
+}

@@ -985,6 +985,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-garlicky-spanish-tomato-gazpacho",
+    "title": "Xtra Garlicky Spanish Tomato Gazpacho",
+    "tags": [
+      "ayurvedic-friendly",
+      "cheese-pull",
+      "cozy",
+      "garlicky",
+      "sattvic-friendly",
+      "spanish-dish"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-garlicky-tunisian-chicken-pilaf",
     "title": "Xtra Garlicky Tunisian Chicken Pilaf",
     "tags": [
