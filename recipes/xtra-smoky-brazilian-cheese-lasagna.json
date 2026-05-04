@@ -1,0 +1,109 @@
+{
+  "title": "Xtra Smoky Brazilian Cheese Lasagna",
+  "description": "A cheesy, smoky, and citrusy Brazilian dish perfect for a sick day, featuring chopped parsley and a blend of cheeses, with a cheese-pull that will satisfy your cravings.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "Smoked mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat and add the smoked paprika, cooking for 1 minute.",
+    "In a large bowl, combine the ricotta cheese, Parmesan cheese, smoked mozzarella cheese, chopped parsley, lime juice, salt, and black pepper, mixing well.",
+    "Spread a layer of the cheese mixture in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the cheese mixture.",
+    "Repeat the layers, starting with the cheese mixture, then the noodles, until all ingredients are used, ending with a layer of cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "cheesy",
+    "comfort-food",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-smoky-brazilian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-brazilian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:03:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "smoke-hot",
+    "primaryIngredient": "chopped parsley",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "xtra smoky",
+    "dishForm": "Lasagna"
+  }
+}

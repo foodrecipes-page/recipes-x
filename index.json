@@ -807,6 +807,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-smoky-brazilian-cheese-lasagna",
+    "title": "Xtra Smoky Brazilian Cheese Lasagna",
+    "tags": [
+      "brazilian-inspired",
+      "cheesy",
+      "comfort-food",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-smoky-croatian-poppy-seeds-dumplings",
     "title": "Xtra Smoky Croatian Poppy Seeds Dumplings",
     "tags": [
