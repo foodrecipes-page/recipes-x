@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Creamy Mediterranean Celeriac Pasta",
+  "description": "A tangy and velvety Mediterranean dish featuring celeriac and a pasta water emulsion, perfect for a festive vegetarian meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the diced celeriac to the skillet and cook until tender, about 10 minutes.",
+    "Stir in the lemon juice and vegetable broth, and bring the mixture to a simmer.",
+    "Use an immersion blender to puree the celeriac mixture until smooth.",
+    "Add the cooked pasta to the skillet, tossing to combine with the celeriac sauce.",
+    "Stir in the crumbly feta cheese until melted and well combined.",
+    "Season with salt and pepper to taste, then garnish with chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "comfort-food",
+    "mediterranean",
+    "one-pot",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-creamy-mediterranean-celeriac-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-mediterranean-celeriac-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:34:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "celeriac",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "celeriac",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Pasta"
+  }
+}

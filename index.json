@@ -950,6 +950,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-mediterranean-celeriac-pasta",
+    "title": "Xtra Creamy Mediterranean Celeriac Pasta",
+    "tags": [
+      "celeriac",
+      "comfort-food",
+      "mediterranean",
+      "one-pot",
+      "pasta",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-slovakian-pinto-bean-casserole",
     "title": "Xtra Creamy Slovakian Pinto Bean Casserole",
     "tags": [
