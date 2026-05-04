@@ -844,6 +844,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-citrusy-indian-buttermilk-chaat",
+    "title": "Xtra Citrusy Indian Buttermilk Chaat",
+    "tags": [
+      "buttermilk-recipes",
+      "citrus-recipes",
+      "gluten-free-snacks",
+      "indian-recipes",
+      "refreshing-snacks",
+      "vegetarian-snacks"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-citrusy-mexican-fernbrake-quesadilla",
     "title": "Xtra Citrusy Mexican Fernbrake Quesadilla",
     "tags": [

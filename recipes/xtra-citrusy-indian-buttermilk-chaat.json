@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Citrusy Indian Buttermilk Chaat",
+  "description": "A refreshing and energizing Indian dish featuring buttermilk, caramelized sugar, and citrus flavors, perfect for a hot day. This dish is also Buddhist-temple-friendly and can be served as a snack or dessert.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "buttermilk",
+      "amount": "2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "citric acid",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the sugar, lemon juice, orange juice, and ginger juice, and heat over medium heat, stirring until the sugar dissolves.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes, or until the mixture caramelizes and turns golden brown.",
+    "In a large bowl, whisk together the buttermilk, cumin powder, salt, and citric acid.",
+    "Add the caramelized sugar mixture to the buttermilk mixture and whisk until well combined.",
+    "In a small bowl, sprinkle the agar agar powder over 2 tablespoons of water and let it sit for 5 minutes to soften.",
+    "Add the softened agar agar to the buttermilk mixture and whisk until well combined.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate the mixture for at least 3 hours, or until it sets and becomes glassy-jelly like.",
+    "Serve the Xtra Citrusy Indian Buttermilk Chaat chilled, garnished with a sprinkle of cumin powder and a few slices of citrus fruit, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buttermilk-recipes",
+    "citrus-recipes",
+    "gluten-free-snacks",
+    "indian-recipes",
+    "refreshing-snacks",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "xtra-citrusy-indian-buttermilk-chaat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-citrusy-indian-buttermilk-chaat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:07:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "caramelize",
+    "primaryIngredient": "buttermilk",
+    "diet": "buddhist-temple",
+    "region": "hyderabadi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "buttermilk",
+    "descriptor": "Xtra Citrusy",
+    "dishForm": "Chaat"
+  }
+}
