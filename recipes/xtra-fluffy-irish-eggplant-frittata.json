@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Fluffy Irish Eggplant Frittata",
+  "description": "A winey, fluffy Irish dish featuring eggplant, binchotan-charcoal, and low-calorie-friendly ingredients, perfect for a special occasion. This recipe combines the richness of eggplant with the fluffiness of a frittata.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "irish cheddar",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced eggplant and cook until tender, about 5 minutes.",
+    "In a large bowl, whisk together the eggs, shredded irish cheddar, binchotan charcoal powder, salt, and black pepper.",
+    "Add the cooked eggplant mixture to the bowl and stir to combine.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set, about 2 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "frittata-recipe",
+    "gluten-free",
+    "irish-cuisine",
+    "low-calorie",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "xtra-fluffy-irish-eggplant-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-irish-eggplant-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:42:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "eggplant",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Frittata"
+  }
+}
