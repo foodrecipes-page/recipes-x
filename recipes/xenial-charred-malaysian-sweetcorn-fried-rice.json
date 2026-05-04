@@ -1,0 +1,100 @@
+{
+  "title": "Xenial Charred Malaysian Sweetcorn Fried-Rice",
+  "description": "A cozy Malaysian-inspired fried rice featuring charred sweetcorn, smoky tofu, and warm spices, staying satvik-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked jasmine rice",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh sweetcorn kernels",
+      "amount": "150g"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "30g"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large wok or skillet over medium-high heat.",
+    "Add coconut oil and swirl to coat the pan.",
+    "Add smoked tofu cubes and fry until golden and slightly charred, about 2 minutes.",
+    "Stir in the sweetcorn kernels and continue frying for another 2 minutes.",
+    "Push the tofu and corn to one side of the pan, pour in a bit more oil if needed, then add the cooked rice.",
+    "Sprinkle turmeric, coriander, and cumin over the rice and stir-fry everything together for 4 minutes, ensuring the rice gets a light char.",
+    "Drizzle lime juice over the mixture and toss in chopped cilantro, seasoning with salt to taste.",
+    "Remove from heat and serve hot, optionally garnishing with extra cilantro and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fried-rice",
+    "malaysian",
+    "one-pan",
+    "quick",
+    "satvik",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 21,
+    "carbs": 85,
+    "fat": 39
+  },
+  "slug": "xenial-charred-malaysian-sweetcorn-fried-rice",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-charred-malaysian-sweetcorn-fried-rice",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:52:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "lardons-render",
+    "primaryIngredient": "sweetcorn",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Sweetcorn",
+    "descriptor": "Xenial Charred",
+    "dishForm": "Fried-Rice"
+  }
+}

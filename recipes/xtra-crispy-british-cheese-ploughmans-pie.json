@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Crispy British Cheese Ploughmans Pie",
+  "description": "A garlicky, flaky, kid-friendly British pie infused with matcha and topped with spherified cheese bursts, perfect for a playful lunch.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Grated parmesan cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "50g",
+      "notes": "for matcha flavor"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "Cold butter, cubed",
+      "amount": "50g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "5g",
+      "notes": "for spherification"
+    },
+    {
+      "name": "Calcium lactate",
+      "amount": "5g",
+      "notes": "for spherification bath"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and line a 9x13 inch baking pan with parchment paper.",
+    "In a bowl combine shredded cheddar, grated parmesan, matcha powder, and garlic powder; set aside.",
+    "In a saucepan heat heavy cream until steaming, then stir in the cheese mixture until melted and smooth.",
+    "In a separate bowl whisk flour and butter until crumbly, then stir in egg and salt and form a dough.",
+    "Roll the dough into a circle, place on the prepared pan, and press to line the bottom and up the sides.",
+    "Pour the warm cheese filling over the crust and spread evenly.",
+    "Bake for 25 minutes until the top is golden and the filling is set.",
+    "While the pie is baking, dissolve 5g sodium alginate in 150ml water, whisking until no lumps remain.",
+    "Cool the cheese filling to room temperature, then stir in the alginate solution to create a matcha cheese base for spherification.",
+    "Prepare a calcium lactate bath by dissolving 5g calcium lactate in 150ml water.",
+    "Drop spoonfuls of the matcha cheese mixture into the calcium bath to form spheres; let them sit for 2 minutes before removing with a slotted spoon.",
+    "Garnish the finished pie with a few matcha cheese spheres before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "kid-friendly",
+    "matcha",
+    "no-garlic",
+    "no-onion",
+    "ploughmans-pie",
+    "spherify"
+  ],
+  "nutrition": {
+    "calories": 453,
+    "protein": 16,
+    "carbs": 15,
+    "fat": 32
+  },
+  "slug": "xtra-crispy-british-cheese-ploughmans-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-british-cheese-ploughmans-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:51:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "spherify",
+    "primaryIngredient": "matcha",
+    "diet": "no-onion-no-garlic",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Ploughmans Pie"
+  }
+}
