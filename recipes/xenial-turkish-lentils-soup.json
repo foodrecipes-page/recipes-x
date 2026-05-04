@@ -1,0 +1,108 @@
+{
+  "title": "Xenial Turkish Lentils Soup",
+  "description": "A warm, cultured Turkish lentil soup that is fluffy and comforting, perfect for a cozy meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pot over medium heat and sauté onion, carrot, and garlic until softened.",
+    "Add cumin, paprika, and bay leaf, cooking for another minute until fragrant.",
+    "Stir in diced tomato and lentils, coating them in the spice mixture.",
+    "Pour in vegetable broth, bring to a boil, then reduce heat and simmer uncovered for 18 minutes.",
+    "Remove bay leaf, season with salt and pepper, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "ovo-vegetarian-friendly",
+    "quick",
+    "simple",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 18,
+    "carbs": 48,
+    "fat": 15
+  },
+  "slug": "xenial-turkish-lentils-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-turkish-lentils-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:43:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentils",
+    "descriptor": "Xenial",
+    "dishForm": "Soup"
+  }
+}

@@ -267,6 +267,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-turkish-lentils-soup",
+    "title": "Xenial Turkish Lentils Soup",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "ovo-vegetarian-friendly",
+      "quick",
+      "simple",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-turkish-semolina-pilaf",
     "title": "Xenial Turkish Semolina Pilaf",
     "tags": [
