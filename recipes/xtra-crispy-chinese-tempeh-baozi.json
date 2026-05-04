@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Crispy Chinese Tempeh Baozi",
+  "description": "A buttery and snappy Chinese dish featuring tempeh, smoke-cold, and nut-free-friendly, formed into baozi, providing an energizing meal option.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add in water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a steamer basket over boiling water.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll out each piece into a ball and then flatten it into a disk shape.",
+    "Place a few pieces of tempeh in the center of each disk, brush the edges with sesame oil, and fold the dough over to form a baozi.",
+    "Place the baozi in the steamer basket, leaving some space between each one.",
+    "Steam the baozi for 15 minutes, then brush the tops with vegetable oil and soy sauce.",
+    "Serve the baozi hot, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baozi",
+    "chinese-food",
+    "nut-free",
+    "steamed",
+    "tempeh",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "xtra-crispy-chinese-tempeh-baozi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-chinese-tempeh-baozi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:52:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "smoke-cold",
+    "primaryIngredient": "tempeh",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tempeh",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Baozi"
+  }
+}

@@ -278,6 +278,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-moroccan-lamb-harira",
+    "title": "Xenial Moroccan Lamb Harira",
+    "tags": [
+      "hearty-stew",
+      "lamb-based",
+      "mediterranean-friendly",
+      "moroccan-cuisine",
+      "salt-block-cooking",
+      "yeasty-dishes"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-roasted-polish-pork-kebabs",
     "title": "Xenial Roasted Polish Pork Kebabs",
     "tags": [
@@ -826,6 +841,21 @@
       "spherify"
     ],
     "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-chinese-tempeh-baozi",
+    "title": "Xtra Crispy Chinese Tempeh Baozi",
+    "tags": [
+      "baozi",
+      "chinese-food",
+      "nut-free",
+      "steamed",
+      "tempeh",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
     "totalTimeMin": 50,
     "shard": "x"
   },

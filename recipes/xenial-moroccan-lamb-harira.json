@@ -1,0 +1,111 @@
+{
+  "title": "Xenial Moroccan Lamb Harira",
+  "description": "A traditional Moroccan stew made with lamb mince and served in a salt block vessel, this dish is a hearty and flavorful representation of Mediterranean cuisine, featuring a rich and indulgent broth with a yeasty and molten texture.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "halal",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    }
+  ],
+  "instructions": [
+    "Heat the lamb mince in a large pot over medium heat, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the tomato paste and cook for 1 minute, until fragrant.",
+    "Add the chickpeas, diced tomatoes, beef broth, salt, black pepper, and paprika, and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the flavors have melded together and the soup has thickened slightly.",
+    "Stir in the yeast and cook for an additional 5 minutes, or until the soup has a yeasty and molten texture.",
+    "Preheat the salt block vessel in the oven at 400 degrees Fahrenheit for 30 minutes.",
+    "Carefully remove the salt block from the oven and pour the harira into it.",
+    "Serve the harira hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty-stew",
+    "lamb-based",
+    "mediterranean-friendly",
+    "moroccan-cuisine",
+    "salt-block-cooking",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xenial-moroccan-lamb-harira",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-moroccan-lamb-harira",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:53:03Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "lamb mince",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Molten",
+    "dishForm": "Harira"
+  }
+}
