@@ -456,6 +456,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-springy-italian-smoked-mackerel-pasta",
+    "title": "Xenial Springy Italian Smoked Mackerel Pasta",
+    "tags": [
+      "italian-food",
+      "one-pan-meal",
+      "seafood-pasta",
+      "smoked-fish",
+      "spring-recipes",
+      "whole-grain"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-stone-dutch-potatoes-hash",
     "title": "Xenial Stone Dutch Potatoes Hash",
     "tags": [

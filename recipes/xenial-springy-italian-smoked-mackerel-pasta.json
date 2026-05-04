@@ -1,0 +1,103 @@
+{
+  "title": "Xenial Springy Italian Smoked Mackerel Pasta",
+  "description": "A cozy Italian dish featuring smoked mackerel, kombu cold extract, and ayurvedic rajasic friendly ingredients, with a mustardy and springy flavor profile.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "12 oz",
+      "notes": "flaked"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole wheat spaghetti",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the whole wheat spaghetti according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic.",
+    "Add the flaked smoked mackerel to the skillet and cook for 2-3 minutes, breaking it up with a spoon as it cooks.",
+    "Stir in the kombu cold extract, whole grain mustard, lemon juice, salt, and black pepper.",
+    "Combine the cooked spaghetti and mackerel mixture, tossing to combine.",
+    "Stir in the chopped fresh parsley.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "Reheat gently before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "one-pan-meal",
+    "seafood-pasta",
+    "smoked-fish",
+    "spring-recipes",
+    "whole-grain"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xenial-springy-italian-smoked-mackerel-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-springy-italian-smoked-mackerel-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:14:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "smoked mackerel",
+    "descriptor": "Xenial springy",
+    "dishForm": "Pasta"
+  }
+}
