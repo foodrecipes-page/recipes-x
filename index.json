@@ -414,6 +414,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-buttery-indian-sesame-naan",
+    "title": "Xtra Buttery Indian Sesame Naan",
+    "tags": [
+      "comfort-food",
+      "homemade",
+      "indian-food",
+      "naan-bread",
+      "sesame-seeds",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-buttery-peruvian-fish-fillet-lomo-saltado",
     "title": "Xtra Buttery Peruvian Fish Fillet Lomo Saltado",
     "tags": [

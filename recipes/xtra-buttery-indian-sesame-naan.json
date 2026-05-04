@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Buttery Indian Sesame Naan",
+  "description": "A buttery and shaggy Indian dish featuring sesame seed naan, perfect for a sick day, made with a pasta water emulsion and nut-free friendly ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "white or black"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1/2 cup",
+      "notes": "cooled"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, sesame seeds, yeast, salt, and sugar.",
+    "Gradually add the cooled pasta water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or tava over medium heat.",
+    "Divide the dough into 6 equal portions and roll each into a ball.",
+    "Roll out each ball into a thin circle, about 6 inches in diameter.",
+    "Brush the melted butter evenly over the naan, leaving a 1/2 inch border around the edges.",
+    "Cook the naan for 1-2 minutes on each side, until it is golden brown and puffed up.",
+    "Brush the ghee or oil over the naan and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "indian-food",
+    "naan-bread",
+    "sesame-seeds",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-buttery-indian-sesame-naan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-indian-sesame-naan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:39:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "nut-free",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "sesame",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Naan"
+  }
+}
