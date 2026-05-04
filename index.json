@@ -250,6 +250,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-stout-mediterranean-bread-fritters",
+    "title": "Xenial Stout Mediterranean Bread Fritters",
+    "tags": [
+      "cazuela",
+      "double-fry",
+      "mediterranean",
+      "stovetop",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-syrian-rice-pilaf",
     "title": "Xenial Syrian Rice Pilaf",
     "tags": [
