@@ -429,6 +429,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-american-pecan-pudding",
+    "title": "Xtra American Pecan Pudding",
+    "tags": [
+      "dessert",
+      "energizing",
+      "kosher-friendly",
+      "molcajete",
+      "nutty",
+      "silky"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-bitter-portuguese-plum-tomatoes-stew",
     "title": "Xtra Bitter Portuguese Plum Tomatoes Stew",
     "tags": [

@@ -1,0 +1,98 @@
+{
+  "title": "Xtra American Pecan Pudding",
+  "description": "A nutty, silky pudding that blends sweet pecans, rich dulce de leche, and mellow mantecare for a hearty American dessert.",
+  "cuisine": "American",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted pecans",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mantecare emulsion",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F and line a 6‑inch molcajete with parchment paper.",
+    "In a bowl, whisk together milk, cream, dulce de leche, mantecare, maple syrup, vanilla, and pinch of salt until smooth.",
+    "Add beaten eggs to the liquid mixture and whisk until fully incorporated.",
+    "Fold in toasted pecans, reserving a small handful for topping.",
+    "Pour the batter into the prepared molcajete and smooth the surface with a spatula.",
+    "Bake in the preheated oven for 35 minutes, or until the edges are set and the center still jiggles slightly.",
+    "Remove from oven and let cool for 10 minutes before transferring to a serving dish.",
+    "Top with the reserved toasted pecans for added crunch and visual appeal.",
+    "Serve warm or at room temperature, optionally drizzled with extra dulce de leche.",
+    "Enjoy the silky, nutty flavor of this energizing American pudding."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "energizing",
+    "kosher-friendly",
+    "molcajete",
+    "nutty",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "xtra-american-pecan-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-american-pecan-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:44:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "dulce de leche",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Pecan",
+    "descriptor": "Xtra",
+    "dishForm": "Pudding"
+  }
+}
