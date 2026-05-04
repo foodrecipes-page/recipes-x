@@ -1,0 +1,91 @@
+{
+  "title": "Xtra Crumbly Portuguese Kimchi Casserole",
+  "description": "A vegan-friendly, umami-rich Portuguese dish featuring fermented kimchi, perfect for a solo dinner, made with cold water and a crumbly texture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented, vegan-friendly"
+    },
+    {
+      "name": "portuguese bread",
+      "amount": "2 cups",
+      "notes": "crumbly, day-old"
+    },
+    {
+      "name": "cold water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the crumbled bread, kimchi, and cold water, mixing well.",
+    "In a separate bowl, whisk together the olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the wet ingredients to the dry ingredients and mix until a crumbly mixture forms.",
+    "Transfer the mixture to a baking dish and bake for 30 minutes.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve warm, garnished with additional kimchi if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cold-water",
+    "crumbly-texture",
+    "portuguese-cuisine",
+    "solo-dinner",
+    "umami-rich",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-crumbly-portuguese-kimchi-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crumbly-portuguese-kimchi-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:38:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "cold water",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "kimchi",
+    "descriptor": "Xtra Crumbly",
+    "dishForm": "Casserole"
+  }
+}
