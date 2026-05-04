@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Crispy Mediterranean Fish Fillet Skewers",
+  "description": "A delicious and easy to make Mediterranean dish featuring fish fillet, perfect for a lazy day, this dish is ayurvedic tamasic friendly and features a mix of fresh and crispy elements.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, mix together olive oil, lemon juice, garlic, oregano, thyme, salt, and black pepper.",
+    "Add the fish fillet to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated fish fillet onto skewers.",
+    "Dip each skewer into the panko breadcrumbs to coat.",
+    "Deep fry the skewers in the preheated oil for 3-4 minutes on each side, until golden brown and crispy.",
+    "Remove the skewers from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Serve the skewers hot on a lazy susan spinner, garnished with crumbled feta cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "fish-recipes",
+    "gluten-free",
+    "lazy-day",
+    "mediterranean",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "xtra-crispy-mediterranean-fish-fillet-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-mediterranean-fish-fillet-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:08:41Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "fish fillet",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish fillet",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Skewers"
+  }
+}
