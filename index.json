@@ -312,6 +312,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-tuscan-fish-flatbread",
+    "title": "Xenial Tuscan Fish Flatbread",
+    "tags": [
+      "fish",
+      "high-protein",
+      "kosher",
+      "tuscan",
+      "weeknight"
+    ],
+    "cuisine": "Tuscan",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-uruguayan-gruyere-flatbread",
     "title": "Xenial Uruguayan Gruyere Flatbread",
     "tags": [

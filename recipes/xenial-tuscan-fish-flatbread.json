@@ -1,0 +1,105 @@
+{
+  "title": "Xenial Tuscan Fish Flatbread",
+  "description": "A grassy, cheese-pull Tuscan flatbread topped with sashimi-cut salmon in a rich fish stock, served in a lacquerware bowl. The dish balances fresh arugula, rosemary, and a drizzle of olive oil for a monsoon-inspired flavor.",
+  "cuisine": "Tuscan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "400g"
+    },
+    {
+      "name": "fish stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella, shredded",
+      "amount": "60g"
+    },
+    {
+      "name": "pecorino romano, grated",
+      "amount": "30g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh rosemary, chopped",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "arugula",
+      "amount": "50g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "focaccia dough",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 430°F and place a sheet of parchment on a baking tray.",
+    "Roll out the focaccia dough into a 12-inch circle, brush the top with olive oil, and rub minced garlic over the surface.",
+    "Bake the dough for 12 minutes until lightly golden.",
+    "While the bread is baking, bring the fish stock to a simmer and add rosemary, sea salt, and pepper.",
+    "Slice the salmon fillet into sashimi-style thin pieces and gently fold them into the warmed stock.",
+    "After the bread is ready, place it on a lacquerware bowl and spoon the hot salmon stock mixture over the top.",
+    "Sprinkle shredded mozzarella, grated pecorino, capers, and a handful of arugula over the sauce.",
+    "Return the flatbread to the oven for 3 minutes to melt the cheeses, then serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "kosher",
+    "tuscan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 860,
+    "protein": 59,
+    "carbs": 29,
+    "fat": 84
+  },
+  "slug": "xenial-tuscan-fish-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-tuscan-fish-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:01:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fish stock",
+    "diet": "kosher",
+    "region": "tuscan",
+    "cuisineAdjective": "Tuscan",
+    "mainIngredient": "Fish",
+    "descriptor": "Xenial",
+    "dishForm": "Flatbread"
+  }
+}
