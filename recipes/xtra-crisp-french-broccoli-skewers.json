@@ -1,0 +1,89 @@
+{
+  "title": "Xtra Crisp French Broccoli Skewers",
+  "description": "A sour and crisp French dish featuring purple sprouting broccoli, perfect for a midnight craving, with an ayurvedic-rajasic friendly twist.",
+  "cuisine": "French",
+  "diet": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": "Cut into florets"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the broccoli florets to the bowl and toss to coat with the marinade.",
+    "Thread the marinated broccoli onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 5-7 minutes per side, or until tender and slightly charred.",
+    "Serve the skewers hot, garnished with additional lemon wedges if desired.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "french-cuisine",
+    "grilled-vegetables",
+    "healthy-snack",
+    "midnight-craving",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "xtra-crisp-french-broccoli-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-french-broccoli-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:22:18Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "robata-grill",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "ayurvedic-rajasic",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "broccoli",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Skewers"
+  }
+}
