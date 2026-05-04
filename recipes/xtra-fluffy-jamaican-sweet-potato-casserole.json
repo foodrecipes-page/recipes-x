@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Fluffy Jamaican Sweet Potato Casserole",
+  "description": "A festive Jamaican dish featuring fresh thyme and sweet potatoes, perfect for a special occasion. This low-glycemic-friendly casserole is made with a bain-marie for extra fluffiness.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sweet potatoes, thyme, coconut milk, eggs, melted butter, allspice, nutmeg, salt, and black pepper, and mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish and place it in a larger baking dish.",
+    "Add hot water to the larger baking dish to come halfway up the sides of the smaller dish.",
+    "Bake for 45 minutes, or until the casserole is set and the top is lightly browned.",
+    "Remove the casserole from the water bath and let it cool for 10 minutes before serving.",
+    "Serve the casserole hot, garnished with additional thyme if desired.",
+    "Let the casserole rest for 10 minutes before slicing and serving.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "fluffy-casseroles",
+    "jamaican-cuisine",
+    "low-glycemic",
+    "special-occasion",
+    "sweet-potato-recipes",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "xtra-fluffy-jamaican-sweet-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-jamaican-sweet-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:57:25Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "fresh thyme",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "xtra fluffy",
+    "dishForm": "Casseroles"
+  }
+}
