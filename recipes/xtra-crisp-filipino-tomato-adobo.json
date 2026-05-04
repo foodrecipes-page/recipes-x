@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Crisp Filipino Tomato Adobo",
+  "description": "A garlicky and crisp Filipino dish featuring tomato and toast, perfect for a lazy Sunday, this paleo-friendly adobo is a twist on the classic recipe",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paleo bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat",
+    "Add the diced onion and cook until translucent",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the diced tomatoes and cook until they start to break down",
+    "Add the chicken breast and cook until browned on all sides and cooked through",
+    "In a small bowl, whisk together the fish sauce, coconut vinegar, black pepper, and salt",
+    "Pour the sauce over the chicken and tomatoes",
+    "Simmer the mixture for 10 minutes",
+    "Toast the paleo bread and serve with the adobo",
+    "Garnish with additional garlic and tomato if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "filipino-food",
+    "garlicky",
+    "gluten-free",
+    "lazy-sunday",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-crisp-filipino-tomato-adobo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-filipino-tomato-adobo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:19:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "tomato",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tomato",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Adobo"
+  }
+}

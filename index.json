@@ -550,6 +550,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crisp-filipino-tomato-adobo",
+    "title": "Xtra Crisp Filipino Tomato Adobo",
+    "tags": [
+      "crisp",
+      "filipino-food",
+      "garlicky",
+      "gluten-free",
+      "lazy-sunday",
+      "paleo-friendly"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crisp-french-broccoli-skewers",
     "title": "Xtra Crisp French Broccoli Skewers",
     "tags": [
