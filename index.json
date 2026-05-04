@@ -241,6 +241,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-hearty-syrian-white-bean-stew",
+    "title": "Xtra Hearty Syrian White Bean Stew",
+    "tags": [
+      "flexitarian-friendly",
+      "hearty-stew",
+      "one-pot",
+      "syrian-cuisine",
+      "weeknight-meal"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-light-british-seaweed-salad",
     "title": "Xtra Light British Seaweed Salad",
     "tags": [
