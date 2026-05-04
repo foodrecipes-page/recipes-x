@@ -1071,6 +1071,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-tunisian-lamb-tagine",
+    "title": "Xtra Spicy Tunisian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "lamb",
+      "north-african",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 150,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-springy-irish-brie-gratin",
     "title": "Xtra Springy Irish Brie Gratin",
     "tags": [
