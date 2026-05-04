@@ -1,0 +1,104 @@
+{
+  "title": "Xquisite Algerian Linguine Salad",
+  "description": "A vibrant linguine salad with a bright lemon-honey glaze and fresh Algerian herbs, perfect for a light lunch.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Linguine pasta",
+      "amount": "200 g",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "200 g",
+      "notes": "halved"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "50 g",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "as needed"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine for 8 minutes until al dente, then drain and rinse with cold water to stop the cooking process.",
+    "In a small bowl whisk together olive oil, lemon juice, honey, salt and pepper until the honey dissolves and the mixture forms a smooth glaze.",
+    "Toss the cooled linguine in the glaze, ensuring each strand is coated evenly.",
+    "Add the halved cherry tomatoes, diced cucumber, sliced olives, and chopped mint to the pasta and gently stir to combine.",
+    "Taste and adjust seasoning with additional salt or pepper if desired.",
+    "Transfer the salad to a serving bowl and let it sit at room temperature for 10 minutes to allow flavors to meld.",
+    "Just before serving, drizzle a little extra olive oil over the top for shine.",
+    "Present the salad on a platter and garnish with a few extra mint leaves for a fresh appearance."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "fresh",
+    "glaze",
+    "light",
+    "no-cook",
+    "pasta-salad",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 14,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "xquisite-algerian-linguine-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xquisite-algerian-linguine-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:23:40Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "linguine pasta",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "linguine",
+    "descriptor": "Xquisite",
+    "dishForm": "Salad"
+  }
+}
