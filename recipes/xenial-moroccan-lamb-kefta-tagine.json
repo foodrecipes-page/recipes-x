@@ -1,0 +1,102 @@
+{
+  "title": "Xenial Moroccan Lamb Kefta Tagine",
+  "description": "A traditional Moroccan dish with a funky twist, featuring lamb kefta and a blend of aromatic spices, cooked in a Dutch oven with a yuzu cure and ayurvedic tamasic friendly ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "bread flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the lamb, bread flour, yuzu juice, olive oil, onion, garlic, ginger, cumin, coriander, and cayenne pepper, and mix well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Remove the bowl from the refrigerator and use your hands to shape the mixture into small kefta, about 1 1/2 inches long and 1 inch in diameter.",
+    "Heat a couple of tablespoons of oil in the Dutch oven over medium-high heat, then add the kefta and cook, turning occasionally, until browned on all sides, about 5-7 minutes.",
+    "Add a couple of cups of water to the Dutch oven, cover it with a lid, and transfer it to the preheated oven.",
+    "Braise the kefta, covered, for about 20-25 minutes, or until they are cooked through and the sauce has thickened.",
+    "Remove the Dutch oven from the oven and let it cool slightly before serving the kefta and sauce over couscous or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-oven-recipes",
+    "lamb-recipes",
+    "moroccan-food",
+    "north-african-cuisine",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xenial-moroccan-lamb-kefta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-moroccan-lamb-kefta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:54:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "bread flour",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Hearty",
+    "dishForm": "Kefta Tagine"
+  }
+}

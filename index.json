@@ -352,6 +352,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-moroccan-lamb-kefta-tagine",
+    "title": "Xenial Moroccan Lamb Kefta Tagine",
+    "tags": [
+      "dutch-oven-recipes",
+      "lamb-recipes",
+      "moroccan-food",
+      "north-african-cuisine",
+      "one-pot-meals"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 65,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-roasted-polish-pork-kebabs",
     "title": "Xenial Roasted Polish Pork Kebabs",
     "tags": [
