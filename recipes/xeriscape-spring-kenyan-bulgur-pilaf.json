@@ -1,0 +1,138 @@
+{
+  "title": "Xeriscape Spring Kenyan Bulgur Pilaf",
+  "description": "Umami and springy Kenyan dish featuring bulgur wheat, ideal for a romantic dinner on a robata grill. This whole30-friendly pilaf is a flavorful twist on traditional bulgur recipes.",
+  "cuisine": "kenyan",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bulgur wheat",
+      "amount": "1 cup",
+      "notes": "preferably Middle Eastern or Turkish in origin"
+    },
+    {
+      "name": "chicken bouillon",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "for bulgur-ice bath-shock step"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine chicken bouillon and bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Meanwhile, in a separate saucepan, heat coconut oil over medium heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Add garlic, ginger, lemongrass, turmeric, paprika, salt, and pepper. Cook for an additional 2 minutes.",
+    "Add bulgur wheat and cook for 2-3 minutes, stirring constantly.",
+    "Remove from heat and cover with a lid.",
+    "In a separate pot, boil water and ice together for an ice bath.",
+    "Once chicken bouillon has finished simmering, remove from heat and carefully pour into the ice bath to stop cooking.",
+    "Strain chicken bouillon through a fine-mesh sieve and discard solids.",
+    "Add strained chicken bouillon to the saucepan with bulgur wheat and stir to combine.",
+    "Add chicken breast to the saucepan and simmer until cooked through, about 10 minutes.",
+    "Remove chicken breast from the saucepan and let cool.",
+    "Once cooled, cut chicken into bite-sized pieces and add to the saucepan with bulgur wheat.",
+    "Stir in chopped cilantro and serve hot.",
+    "To serve, place pilaf on a robata grill and cook until lightly charred, about 5 minutes per side.",
+    "Serve immediately and garnish with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "east-african",
+    "gluten-free",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "paleo",
+    "robata-grill",
+    "romantic",
+    "spring",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 324,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 11
+  },
+  "slug": "xeriscape-spring-kenyan-bulgur-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-spring-kenyan-bulgur-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "bulgur",
+    "descriptor": "Xeriscape spring",
+    "dishForm": "Pilaf"
+  }
+}
