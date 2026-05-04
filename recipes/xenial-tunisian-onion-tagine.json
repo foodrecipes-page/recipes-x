@@ -1,0 +1,111 @@
+{
+  "title": "Xenial Tunisian Onion Tagine",
+  "description": "A buttery, molten stew of caramelized yellow onion, infused with cumin, coriander, smoked paprika, and a splash of lemon, served steaming in a tagine for a festive flexitarian delight.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow onion",
+      "amount": "400g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "200g"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml"
+    }
+  ],
+  "instructions": [
+    "Heat a heavy‑bottomed pot over medium heat and melt the butter until it foams.",
+    "Add the sliced onion, a pinch of salt, and the minced garlic, and cook, stirring, until the onion becomes translucent and begins to brown, about 10 minutes.",
+    "Stir in the cumin, coriander, smoked paprika, black pepper, and lemon zest, and cook for 1 minute until fragrant.",
+    "Pour in the vegetable broth, bringing the mixture to a gentle simmer, and let it reduce for 10 minutes, allowing the flavors to meld.",
+    "Stir in the lemon juice, and simmer for another 5 minutes, then remove the pot from heat.",
+    "Transfer the hot mixture into a ceramic or glass tagine, or a shallow oven‑proof dish.",
+    "Sprinkle the chopped parsley over the top, cover, and bake at 180°C for 20 minutes to steam the onion into a creamy, buttery sauce.",
+    "Remove the lid and bake uncovered for an additional 5 minutes to thicken the glaze to a molten consistency.",
+    "Let the tagine rest for 5 minutes before serving, allowing the heat to distribute evenly.",
+    "Garnish with extra parsley or a drizzle of olive oil if desired, and serve hot with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "comfort-food",
+    "flexitarian",
+    "one-pot",
+    "soup",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 1650,
+    "protein": 7,
+    "carbs": 12,
+    "fat": 39
+  },
+  "slug": "xenial-tunisian-onion-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-tunisian-onion-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:20:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "beurre-monte",
+    "primaryIngredient": "yellow onion",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "onion",
+    "descriptor": "Xenial",
+    "dishForm": "Tagine"
+  }
+}
