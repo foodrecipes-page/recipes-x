@@ -151,6 +151,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-citrusy-mexican-fernbrake-quesadilla",
+    "title": "Xtra Citrusy Mexican Fernbrake Quesadilla",
+    "tags": [
+      "cheesy",
+      "citrusy",
+      "fernbrake",
+      "gosari",
+      "lacto-vegetarian",
+      "mexican-food",
+      "wood-fired"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-french-beef-boeuf-bourguignon",
     "title": "Xtra Creamy French Beef Boeuf Bourguignon",
     "tags": [
