@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Garlicky Mediterranean Chicken Sandwich",
+  "description": "A cozy Mediterranean dish featuring garlicky chicken, velvety sauce, and a crispy baguette, made with low sodium ingredients and a double fry method inspired by KFC.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 pieces",
+      "notes": "pounded to 1/2 inch thickness"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "baguette",
+      "amount": "1 loaf",
+      "notes": "cut into 4 inch pieces"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "low sodium chicken seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together minced garlic, lemon juice, and olive oil to make the marinade.",
+    "Add the chicken breast to the marinade and refrigerate for at least 30 minutes.",
+    "Remove the chicken from the marinade and coat with low sodium chicken seasoning.",
+    "Double fry the chicken by frying at 350 degrees Fahrenheit for 5 minutes, then increasing the temperature to 375 degrees Fahrenheit and frying for an additional 5 minutes.",
+    "Slice the baguette into 4 inch pieces and toast until crispy.",
+    "Assemble the sandwich by spreading a layer of feta cheese on the toasted baguette, then adding a piece of fried chicken, a slice of tomato, and a sprinkle of chopped lettuce.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional garlic and lemon juice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-sandwich",
+    "double-fry",
+    "garlicky",
+    "kfc-inspired",
+    "low-sodium",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-garlicky-mediterranean-chicken-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-garlicky-mediterranean-chicken-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:54:41Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "baguette",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra garlicky",
+    "dishForm": "Sandwich"
+  }
+}

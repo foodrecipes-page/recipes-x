@@ -408,6 +408,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-garlicky-mediterranean-chicken-sandwich",
+    "title": "Xtra Garlicky Mediterranean Chicken Sandwich",
+    "tags": [
+      "chicken-sandwich",
+      "double-fry",
+      "garlicky",
+      "kfc-inspired",
+      "low-sodium",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-hearty-syrian-white-bean-stew",
     "title": "Xtra Hearty Syrian White Bean Stew",
     "tags": [
