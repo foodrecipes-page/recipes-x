@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Chewy Mediterranean Dates Skewers",
+  "description": "A sour and chewy Mediterranean dish featuring rum and quickly prepared, this recipe is perfect for a snack or dessert, and is kosher-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Soak the wooden skewers in water for 30 minutes before preparing the dish.",
+    "In a mortar, pound the garlic cloves until well crushed.",
+    "Add the lemon juice, rum, olive oil, salt, and black pepper to the mortar and mix until well combined.",
+    "Add the chopped parsley to the mortar and mix until the parsley is evenly distributed.",
+    "Thread a date onto each wooden skewer.",
+    "Brush the date with the mixture from the mortar.",
+    "Repeat the process for the remaining dates.",
+    "Serve the skewers immediately, or cover and refrigerate for up to 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "chewy",
+    "kosher-friendly",
+    "mediterranean",
+    "quick-fix",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "xtra-chewy-mediterranean-dates-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-chewy-mediterranean-dates-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:09:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "rum",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "dates",
+    "descriptor": "Xtra Chewy",
+    "dishForm": "Skewers"
+  }
+}
