@@ -1,5 +1,20 @@
 [
   {
+    "slug": "x-light-norwegian-fish-using-the-speculaas-spice-mix-stew",
+    "title": "X-Light Norwegian Fish Stew with Speculaas Spice Mix",
+    "tags": [
+      "fish-stew",
+      "gluten-free",
+      "low-carb",
+      "norwegian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "x-quick-croatian-fix-bisque",
     "title": "x-quick Croatian fix Bisque",
     "tags": [
@@ -894,6 +909,19 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xerophilous-dutch-almond-butter-risotto",
+    "title": "Xerophilous Dutch Almond Butter Risotto",
+    "tags": [
+      "almond-butter",
+      "dutch",
+      "gluten-free",
+      "vegan"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {

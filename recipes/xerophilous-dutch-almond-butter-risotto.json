@@ -1,0 +1,115 @@
+{
+  "title": "Xerophilous Dutch Almond Butter Risotto",
+  "description": "A unique and refreshing take on the classic risotto, incorporating the richness of almond butter in a shojin-friendly recipe. This dish features a light and velvety texture, perfect for a warm evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Khao Khua",
+      "amount": "1 cup",
+      "notes": "Dry-fry rice grains until lightly toasted, then grind into a fine powder."
+    },
+    {
+      "name": "Almond Butter",
+      "amount": "2/3 cup",
+      "notes": "Creamy almond butter is essential to this recipe, providing a rich and velvety texture."
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium broth is essential to avoid overpowering the dish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince garlic and saut\u00139 until lightly fragrant."
+    },
+    {
+      "name": "Shallot",
+      "amount": "1 medium",
+      "notes": "Finely chop the shallot and saut\u00139 until translucent."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "A squeeze of fresh lemon juice adds brightness to the dish."
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh cilantro adds a pop of color and freshness to the dish."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "A pinch of flaky sea salt enhances the flavors of the dish."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "A few grinds of black pepper add depth and warmth to the dish."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "A drizzle of olive oil adds richness and moisture to the dish."
+    },
+    {
+      "name": "Rice Flour",
+      "amount": "1 tablespoon",
+      "notes": "A small amount of rice flour helps thicken the dish."
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a separate pot and keep warm.",
+    "In a large saucepan, saut\u00139 the garlic and shallot in olive oil until lightly fragrant.",
+    "Add the khao khua and cook for 1-2 minutes, stirring constantly.",
+    "Add the almond butter and cook for 2-3 minutes, stirring constantly.",
+    "Gradually add the warm broth, stirring constantly and allowing each portion to absorb before adding the next.",
+    "Bring the mixture to a simmer and cook for 18-20 minutes, stirring frequently.",
+    "Stir in the lemon juice, salt, and black pepper.",
+    "Stir in the rice flour to thicken the dish.",
+    "Serve immediately, garnished with chopped fresh cilantro.",
+    "Refrigerate leftovers for up to 3 days or freeze for up to 2 months.",
+    "Reheat gently before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-butter",
+    "dutch",
+    "gluten-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "xerophilous-dutch-almond-butter-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xerophilous-dutch-almond-butter-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "almond butter",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "almond butter",
+    "descriptor": "xerophilous",
+    "dishForm": "Risotto"
+  }
+}
