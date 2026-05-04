@@ -107,6 +107,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-crumbly-french-rice-cake",
+    "title": "Xenial Crumbly French Rice Cake",
+    "tags": [
+      "cast-iron",
+      "crumble",
+      "madeleine",
+      "one-pan",
+      "rice",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-dense-algerian-lamb-tagine",
     "title": "Xenial Dense Algerian Lamb Tagine",
     "tags": [

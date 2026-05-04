@@ -1,0 +1,90 @@
+{
+  "title": "Xenial Crumbly French Rice Cake",
+  "description": "A fresh, crumbly madeleine-inspired rice cake made in a cast-iron skillet, perfect for a tamasic-friendly Ayurvedic meal prep.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Basmati rice, cooked and cooled",
+      "amount": "200g"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "30g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Sea salt, pinch",
+      "amount": "pinch"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a cast-iron skillet over medium-low heat and lightly grease with coconut oil.",
+    "In a large bowl, whisk together almond flour, baking powder, cinnamon, and sea salt.",
+    "Add the cooked basmati rice to the dry mixture and stir until well coated.",
+    "In a separate bowl, combine coconut milk, maple syrup, and vanilla extract, then pour over the rice mixture.",
+    "Stir until a thick batter forms, then spoon the batter into the hot skillet in a round, madeleine-like shape.",
+    "Cover the skillet with a lid and cook for 12 minutes, or until the edges are golden and the center is set.",
+    "Remove the lid, flip the cake over, and cook for an additional 6 minutes to crisp the top.",
+    "Allow the cake to cool slightly before serving warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cast-iron",
+    "crumble",
+    "madeleine",
+    "one-pan",
+    "rice",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xenial-crumbly-french-rice-cake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-crumbly-french-rice-cake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:44:33Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "basmati rice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "rice",
+    "descriptor": "Xenial Crumbly",
+    "dishForm": "Cake"
+  }
+}
