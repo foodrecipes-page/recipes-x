@@ -1,0 +1,94 @@
+{
+  "title": "Xenial Slovakian Ackee Dumplings",
+  "description": "Fresh, pillowy dumplings that combine the sweet, buttery flavor of ackee with a traditional Slovakian twist, perfect for midnight cravings. These vegan dumplings are light, airy, and comforting.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ackee fruit, drained",
+      "amount": "200 g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "150 g"
+    },
+    {
+      "name": "potato starch",
+      "amount": "30 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "10 g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "salt",
+      "amount": "2 g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "10 g"
+    }
+  ],
+  "instructions": [
+    "Drain and gently pat dry the ackee fruit into small bite-sized pieces.",
+    "In a saucepan, heat the vegetable broth to 75°C.",
+    "Whisk the flour, potato starch, salt, and pepper together in a bowl.",
+    "Slowly pour the hot broth into the dry ingredients while stirring vigorously to avoid lumps.",
+    "Add the ackee pieces, dill, and minced garlic to the dough, mixing until evenly incorporated.",
+    "Heat coconut oil in a large skillet over medium heat, then drop spoonfuls of the dumpling mixture into the pan.",
+    "Cover the skillet and cook the dumplings for 8 minutes until they are puffed and golden.",
+    "Remove the dumplings and serve hot with a drizzle of coconut oil or a sprinkle of fresh dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumplings",
+    "midnight",
+    "plant-based",
+    "slovakian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 931,
+    "protein": 22,
+    "carbs": 161,
+    "fat": 32
+  },
+  "slug": "xenial-slovakian-ackee-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-slovakian-ackee-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:48:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "ackee",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ackee",
+    "descriptor": "Xenial",
+    "dishForm": "Dumplings"
+  }
+}
