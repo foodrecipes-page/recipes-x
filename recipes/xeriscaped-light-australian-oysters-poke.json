@@ -1,0 +1,106 @@
+{
+  "title": "Xeriscaped Light Australian Oysters Poke",
+  "description": "A refreshing, paleo-friendly take on traditional oyster poke, featuring Australian oysters, sea salt, and a light, zesty dressing.",
+  "cuisine": "australian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian oysters, shucked",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together lime juice, ginger, garlic, and sesame seeds to make the dressing.",
+    "Add the dressing to the shucked oysters and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for 10-15 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle the chopped parsley and mint over the top of the oysters.",
+    "Serve immediately, garnished with additional parsley and mint if desired.",
+    "Divide the oysters among individual plates or bowls and serve as a light and refreshing main course or appetizer.",
+    "This recipe makes 4-6 servings, depending on serving size.",
+    "Oysters can be shucked and stored in the refrigerator for up to 24 hours before preparing the poke.",
+    "If serving as a snack or appetizer, consider pairing with toasted bread or crackers for added crunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "low-carb",
+    "oysters",
+    "paleo",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "xeriscaped-light-australian-oysters-poke",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscaped-light-australian-oysters-poke",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:14Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sea salt",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "oysters",
+    "descriptor": "Xeriscaped light",
+    "dishForm": "Poke"
+  }
+}
