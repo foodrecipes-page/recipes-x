@@ -1216,6 +1216,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-fluffy-ethiopian-chwinamul-gomen",
+    "title": "Xtra Fluffy Ethiopian Chwinamul Gomen",
+    "tags": [
+      "chwinamul",
+      "ethiopian",
+      "gomen",
+      "lunch",
+      "puff-pastry",
+      "vegan"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fluffy-irish-eggplant-frittata",
     "title": "Xtra Fluffy Irish Eggplant Frittata",
     "tags": [

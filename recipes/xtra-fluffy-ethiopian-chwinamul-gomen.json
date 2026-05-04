@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Fluffy Ethiopian Chwinamul Gomen",
+  "description": "A floral, pillowy, light Ethiopian dish featuring chwinamul, en-croute, and vegan-friendly ingredients, formed into a gomen.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": "also known as Korean aster or edible aster"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion, garlic, and ginger until softened.",
+    "Add the chwinamul, berbere spice, nutritional yeast, salt, and black pepper to the skillet and stir to combine.",
+    "Spread the chwinamul mixture over the center of the pastry, leaving a 1 inch border around the edges.",
+    "Fold the edges of the pastry up over the filling to form a crust.",
+    "Brush the crust with a little water and bake for 25 minutes, or until golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chwinamul",
+    "ethiopian",
+    "gomen",
+    "lunch",
+    "puff-pastry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "xtra-fluffy-ethiopian-chwinamul-gomen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-ethiopian-chwinamul-gomen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T13:12:16Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "en-croute",
+    "primaryIngredient": "chwinamul",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Gomen"
+  }
+}
