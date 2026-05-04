@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Bitter Ethiopian Apricot Dabo",
+  "description": "A traditional Ethiopian dish with a twist, featuring bitter notes and fluffy texture, perfect for a solo dinner, this dabo incorporates apricot and rest-meat for a unique flavor profile, and is suitable for those who prefer raw-friendly ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "preferably freshly milled"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried apricot",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1/2 pound",
+      "notes": "such as beef or lamb, finely chopped"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mitmita",
+      "amount": "1/4 teaspoon",
+      "notes": "Ethiopian chili powder"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine teff flour, water, and active dry yeast, stirring until a smooth batter forms.",
+    "Let the mixture rest in a warm place for 24 hours to allow fermentation.",
+    "Add chopped dried apricot, rest-meat, berbere spice, salt, and mitmita to the batter, stirring until well combined.",
+    "Knead the mixture for 10 minutes until it becomes smooth and elastic.",
+    "Shape the mixture into a round dabo shape and let it rest for 30 minutes.",
+    "Heat a non-stick skillet over medium heat and cook the dabo for 5 minutes on each side, until it is golden brown and cooked through.",
+    "Remove the dabo from the skillet and let it cool for a few minutes before serving.",
+    "Serve the dabo warm, garnished with additional chopped dried apricot if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-bitter-ethiopian-apricot-dabo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-bitter-ethiopian-apricot-dabo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:25:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "rest-meat",
+    "primaryIngredient": "apricot",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "apricot",
+    "descriptor": "Xtra Bitter",
+    "dishForm": "Dabo"
+  }
+}
