@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Spicy American Samphire Skillet",
+  "description": "A spicy and crumbly solo dinner dish featuring samphire, cooked in a ttukbaegi earthenware skillet, low in fat and perfect for a weeknight meal.",
+  "cuisine": "American",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a ttukbaegi earthenware skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 3 minutes.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the sliced jalapeno pepper and cook for 1 minute.",
+    "Add the ground turkey and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "Add the samphire, tomato paste, chili flakes, salt, and black pepper, and stir to combine.",
+    "Reduce the heat to medium-low and simmer, covered, for 10 minutes.",
+    "Remove the skillet from the heat and let it cool for a few minutes.",
+    "Serve the samphire mixture hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "low-fat",
+    "one-pan",
+    "samphire",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "xtra-spicy-american-samphire-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-american-samphire-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:54:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "samphire",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "samphire",
+    "descriptor": "Xtra spicy",
+    "dishForm": "Skillet"
+  }
+}

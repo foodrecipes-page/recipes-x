@@ -1645,6 +1645,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-american-samphire-skillet",
+    "title": "Xtra Spicy American Samphire Skillet",
+    "tags": [
+      "american",
+      "low-fat",
+      "one-pan",
+      "samphire",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-japanese-chicken-stir-fry",
     "title": "Xtra Spicy Japanese Chicken Stir-fry",
     "tags": [
