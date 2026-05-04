@@ -224,6 +224,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-tunisian-apple-tagine",
+    "title": "Xenial Tunisian Apple Tagine",
+    "tags": [
+      "apples",
+      "comfort-food",
+      "low-sodium",
+      "one-pot",
+      "snappy",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-turkish-chocolate-dumplings",
     "title": "Xenial Turkish Chocolate Dumplings",
     "tags": [

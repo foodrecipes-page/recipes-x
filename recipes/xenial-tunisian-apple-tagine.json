@@ -1,0 +1,111 @@
+{
+  "title": "Xenial Tunisian Apple Tagine",
+  "description": "A tangy, snappy tagine that blends the sweetness of apples with a savory bonito-flake twist, perfect for a low-sodium comforting meal.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "medium apples",
+      "amount": "2",
+      "notes": "peeled, cored, diced"
+    },
+    {
+      "name": "applesauce",
+      "amount": "200 g",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "50 g",
+      "notes": "shaved"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy skillet over medium heat until shimmering.",
+    "Add sliced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic and sauté for 30 seconds until fragrant.",
+    "Sprinkle cumin, coriander, cinnamon, and black pepper over the aromatics and cook for 1 minute.",
+    "Add diced apples and cook for another 2 minutes to let them soften slightly.",
+    "Pour in the applesauce, lemon juice, and lemon zest, stirring to combine.",
+    "Sprinkle bonito flakes over the mixture, then season with a pinch of low-sodium salt if desired.",
+    "Reduce heat to low, cover, and simmer gently for 20 minutes, or until apples are tender.",
+    "Stir occasionally to prevent sticking and adjust seasoning with extra lemon zest if needed.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apples",
+    "comfort-food",
+    "low-sodium",
+    "one-pot",
+    "snappy",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 5
+  },
+  "slug": "xenial-tunisian-apple-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-tunisian-apple-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:21:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "applesauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Apple",
+    "descriptor": "Xenial",
+    "dishForm": "Tagine"
+  }
+}
