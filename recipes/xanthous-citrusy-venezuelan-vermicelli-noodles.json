@@ -1,0 +1,108 @@
+{
+  "title": "Xanthous Citrusy Venezuelan Vermicelli Noodles",
+  "description": "A bold and citrusy Venezuelan vermicelli noodle dish that's paleo-friendly and perfect for a hot pot vessel.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "300g"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "120ml"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "100ml"
+    },
+    {
+      "name": "Grapefruit juice",
+      "amount": "80ml"
+    },
+    {
+      "name": "Zest from 1 orange",
+      "amount": "",
+      "notes": "fine shred"
+    },
+    {
+      "name": "Zest from 1 lime",
+      "amount": "",
+      "notes": "fine shred"
+    },
+    {
+      "name": "1 red onion",
+      "amount": "",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the vermicelli noodles according to the package instructions, and set aside.",
+    "In a hot pot vessel, combine the lime juice, orange juice, and grapefruit juice.",
+    "Add the sliced red onion and minced garlic to the hot pot vessel.",
+    "Cook over medium heat for 5 minutes, or until the onion is translucent.",
+    "Stir in the ground cumin and smoked paprika.",
+    "Add the cooked vermicelli noodles to the hot pot vessel.",
+    "Season with salt and pepper to taste.",
+    "Serve the noodles hot, garnished with a sprinkle of orange and lime zest.",
+    "Allow each guest to assemble their own bowl with their preferred toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "xanthous-citrusy-venezuelan-vermicelli-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-citrusy-venezuelan-vermicelli-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:13:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "vermicelli",
+    "descriptor": "Xanthous, citrusy",
+    "dishForm": "Noodles"
+  }
+}
