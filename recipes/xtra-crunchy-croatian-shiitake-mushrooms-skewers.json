@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Crunchy Croatian Shiitake Mushrooms Skewers",
+  "description": "A funky and cozy Croatian dish featuring shiitake mushrooms with a char-grill flavor, ayurvedic-sattvic-friendly ingredients, and a crunchy texture.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "12 ounces",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, apple cider vinegar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add sliced mushrooms to the bowl and toss to coat with the marinade.",
+    "Thread marinated mushrooms onto skewers, leaving a small space between each mushroom.",
+    "Sprinkle bread crumbs over the mushrooms.",
+    "Grill skewers for 10-12 minutes, turning occasionally, until mushrooms are tender and lightly charred.",
+    "Garnish with chopped fresh parsley.",
+    "Serve hot and enjoy.",
+    "Let skewers rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "gluten-free",
+    "grilled-vegetables",
+    "mushroom-lovers",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "xtra-crunchy-croatian-shiitake-mushrooms-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-croatian-shiitake-mushrooms-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:55:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Skewers"
+  }
+}
