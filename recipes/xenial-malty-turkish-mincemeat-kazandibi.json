@@ -1,0 +1,87 @@
+{
+  "title": "Xenial Malty Turkish Mincemeat Kazandibi",
+  "description": "A malty and cozy Turkish dish featuring mincemeat, reduced to a paleo-friendly dessert, formed into a kazandibi.",
+  "cuisine": "Turkish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large mixing bowl, combine the mincemeat, malt syrup, and coconut sugar.",
+    "In a separate bowl, whisk together the eggs, coconut cream, vanilla extract, and salt.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Refrigerate for at least 2 hours before serving.",
+    "Cut into squares and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dessert",
+    "malty-goodness",
+    "mincemeat-treat",
+    "paleo-friendly",
+    "turkish-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "xenial-malty-turkish-mincemeat-kazandibi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-malty-turkish-mincemeat-kazandibi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:03:30Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "reduce",
+    "primaryIngredient": "mincemeat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Xenial malty",
+    "dishForm": "Kazandibi"
+  }
+}
