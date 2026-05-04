@@ -1,0 +1,109 @@
+{
+  "title": "Xtra Flaky Mexican Tortilla Quesadilla",
+  "description": "A fatty and flaky weeknight Mexican dish featuring butter and wok-hei, this Jain-friendly recipe is perfect for a quick dinner",
+  "cuisine": "Mexican",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "large, flour"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "large, diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "large, diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1",
+      "notes": "large, diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and add 2 tablespoons of melted butter to the pan",
+    "Add the diced onion to the pan and cook until it is translucent and starting to caramelize",
+    "Add the diced bell pepper to the pan and cook until it is tender",
+    "Add the diced tomato to the pan and cook until it is tender",
+    "In a large bowl, combine the shredded cheese, chopped cilantro, lime juice, salt, and pepper",
+    "Place a large tortilla in the pan and sprinkle a quarter of the cheese mixture onto half of the tortilla",
+    "Fold the tortilla in half to enclose the cheese mixture and cook until the tortilla is crispy and the cheese is melted",
+    "Flip the quesadilla and cook until the other side is crispy and the cheese is melted",
+    "Repeat the process with the remaining tortillas and cheese mixture",
+    "Cut the quesadillas into wedges and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "flaky",
+    "jain-friendly",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "xtra-flaky-mexican-tortilla-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-mexican-tortilla-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:01:25Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "wok-hei",
+    "primaryIngredient": "butter",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tortilla",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Quesadilla"
+  }
+}

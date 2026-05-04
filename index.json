@@ -1278,6 +1278,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-flaky-mexican-tortilla-quesadilla",
+    "title": "Xtra Flaky Mexican Tortilla Quesadilla",
+    "tags": [
+      "buttery",
+      "flaky",
+      "jain-friendly",
+      "mexican",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fluffy-algerian-beans-tagine",
     "title": "Xtra Fluffy Algerian Beans Tagine",
     "tags": [
