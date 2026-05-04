@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Crispy Northern Thai Chicken Skillet",
+  "description": "A buttery and crispy one-pot Thai dish featuring ginger cordial, perfect for a diabetic-friendly meal option",
+  "cuisine": "Northern Thai",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium-high heat until melted and foamy",
+    "Add the chicken to the skillet and cook until browned and crispy, about 5-7 minutes",
+    "Remove the chicken from the skillet and set aside on a plate",
+    "Add the minced garlic and sliced Thai red pepper to the skillet and cook for 1 minute",
+    "Add the ginger cordial, fish sauce, lime juice, and brown sugar to the skillet, stirring to combine",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 2 minutes",
+    "Add the cooked chicken back to the skillet and stir to coat with the sauce",
+    "Season with salt and black pepper to taste",
+    "Garnish with chopped fresh cilantro and serve hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "thai-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "xtra-crispy-northern-thai-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-northern-thai-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:17:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "deglaze",
+    "primaryIngredient": "ginger cordial",
+    "diet": "diabetic-friendly",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Skillet"
+  }
+}
