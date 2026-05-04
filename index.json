@@ -535,6 +535,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crisp-canadian-pea-eggplant-stew",
+    "title": "Xtra Crisp Canadian Pea Eggplant Stew",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "crisp-texture",
+      "gluten-free",
+      "one-pot",
+      "vegetarian-stew"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crisp-french-broccoli-skewers",
     "title": "Xtra Crisp French Broccoli Skewers",
     "tags": [
