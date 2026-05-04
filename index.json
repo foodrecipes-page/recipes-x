@@ -1087,6 +1087,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-garlicky-malaysian-cucumber-noodles",
+    "title": "Xtra Garlicky Malaysian Cucumber Noodles",
+    "tags": [
+      "kid-friendly",
+      "malaysian-cuisine",
+      "noodle-dish",
+      "quick-meal",
+      "vegetarian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-garlicky-mediterranean-chicken-sandwich",
     "title": "Xtra Garlicky Mediterranean Chicken Sandwich",
     "tags": [

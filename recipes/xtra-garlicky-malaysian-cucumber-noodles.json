@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Garlicky Malaysian Cucumber Noodles",
+  "description": "A kid-friendly Malaysian dish featuring cucumber and a soffritto base, with a garlicky flavor and bouncy noodles.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "bouncy qq texture"
+    },
+    {
+      "name": "cucumbers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the sliced cucumbers and cook for 2 minutes until slightly tender.",
+    "In a small bowl, whisk together the soy sauce, sesame oil, salt, and black pepper.",
+    "Pour the sauce over the cucumbers and garlic, and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Serve hot and enjoy.",
+    "Garnish with additional sliced cucumbers and garlic if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-garlicky-malaysian-cucumber-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-garlicky-malaysian-cucumber-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:37:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "soffritto-base",
+    "primaryIngredient": "cucumber",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Xtra garlicky",
+    "dishForm": "Noodles"
+  }
+}
