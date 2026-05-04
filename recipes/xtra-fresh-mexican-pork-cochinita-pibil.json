@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Fresh Mexican Pork Cochinita Pibil",
+  "description": "A fresh and fluffy one-pot Mexican dish featuring free-range egg and pasta-water-emulsion, macrobiotic-friendly, in the form of cochinita pibil. This recipe combines the flavors of Mexico with a unique twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "free-range"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup",
+      "notes": "emulsion"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the beaten eggs, pasta water emulsion, orange juice, lime juice, olive oil, cumin, coriander, salt, and black pepper.",
+    "Add the pork shoulder to the bowl and marinate for at least 30 minutes.",
+    "Remove the pork from the marinade and place it in a large Dutch oven.",
+    "Pour the marinade over the pork and cover the Dutch oven with a lid.",
+    "Transfer the Dutch oven to the preheated oven and braise the pork for 2 hours.",
+    "After 2 hours, remove the lid and continue to braise for an additional 30 minutes.",
+    "Remove the pork from the oven and let it rest for 10 minutes before slicing.",
+    "Slice the pork into thin strips and serve with the juices from the Dutch oven."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cochinita-pibil",
+    "gluten-free",
+    "macrobiotic",
+    "mexican",
+    "one-pot",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-fresh-mexican-pork-cochinita-pibil",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fresh-mexican-pork-cochinita-pibil",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:09:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "macrobiotic",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Fresh",
+    "dishForm": "Cochinita Pibil"
+  }
+}
