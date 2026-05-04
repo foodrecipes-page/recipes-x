@@ -1,0 +1,108 @@
+{
+  "title": "X-tra Spicy Galician Massaman-Paste Salmorejo",
+  "description": "A unique and flavorful Spanish-inspired dish featuring Massaman paste, ferment-kimchi, and a crunchy topping. Perfect for a solo dinner or a light lunch.",
+  "cuisine": "galician",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ripe Tomatoes",
+      "amount": "3 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Massaman Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ferment-Kimchi",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Shallots",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Combine ripe tomatoes, Massaman paste, garlic, and shallots in a blender and blend until smooth.",
+    "Strain the mixture through a fine-mesh sieve into a bowl.",
+    "In a separate pan, heat olive oil over medium heat and add fermented kimchi, red pepper flakes, and a pinch of salt.",
+    "Cook for 5 minutes, stirring occasionally, until the kimchi is caramelized and slightly crispy.",
+    "Stir in the kimchi mixture into the tomato mixture and combine well.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer the mixture to a serving bowl and top with chopped fresh cilantro and crunchy fried shallots.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galician",
+    "low-sodium",
+    "one-pan",
+    "spicy",
+    "unique",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 16
+  },
+  "slug": "x-tra-spicy-galician-massaman-paste-salmorejo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-spicy-galician-massaman-paste-salmorejo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "massaman-paste",
+    "diet": "low-sodium",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "massaman-paste",
+    "descriptor": "X-tra Spicy",
+    "dishForm": "Salmorejo"
+  }
+}

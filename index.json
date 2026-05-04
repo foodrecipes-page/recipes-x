@@ -45,6 +45,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-juicy-ukrainian-duck-braised",
+    "title": "X-tra Juicy Ukrainian Duck Braised",
+    "tags": [
+      "braised",
+      "high-protein",
+      "kosher",
+      "one-pan",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 170,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-nutty-japanese-tofu-ramen",
     "title": "x-tra nutty japanese tofu ramen",
     "tags": [
@@ -70,6 +85,21 @@
     ],
     "cuisine": "moroccan",
     "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-spicy-galician-massaman-paste-salmorejo",
+    "title": "X-tra Spicy Galician Massaman-Paste Salmorejo",
+    "tags": [
+      "galician",
+      "low-sodium",
+      "one-pan",
+      "spicy",
+      "unique",
+      "vegetarian"
+    ],
+    "cuisine": "galician",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -101,6 +131,23 @@
     ],
     "cuisine": "venezuelan",
     "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
+    "slug": "xanthan-infused-slovakian-dark-soy-sauce-tagine",
+    "title": "Xanthan-Infused Slovakian Dark Soy Sauce Tagine",
+    "tags": [
+      "ayurvedic",
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "sattvic",
+      "slovakian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

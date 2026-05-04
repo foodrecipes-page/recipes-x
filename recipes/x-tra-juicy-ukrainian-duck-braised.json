@@ -1,0 +1,134 @@
+{
+  "title": "X-tra Juicy Ukrainian Duck Braised",
+  "description": "A hearty, lazy Sunday dish featuring tender duck, braised in a rich, savory sauce with bay leaves and a touch of vinegar. This dish is perfect for a weekend meal with family and friends.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "duck fat or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the duck legs with kosher salt and black pepper.",
+    "Heat the duck fat or vegetable oil in a large Dutch oven over medium-high heat.",
+    "Sear the duck legs until browned on both sides, about 5 minutes per side.",
+    "Remove the duck legs from the pot and set aside.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the bay leaves and cook for 1 minute.",
+    "Add the apple cider vinegar and stir to deglaze the pot.",
+    "Add the flour and stir to combine.",
+    "Add the white wine and chicken broth, and bring the mixture to a simmer.",
+    "Return the duck legs to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise the duck for 2 1/2 hours, or until the meat is tender and falls off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the sauce through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "Skim off any excess fat from the surface of the sauce.",
+    "Serve the duck legs with the braising sauce spooned over the top.",
+    "Garnish with fresh parsley or thyme, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised",
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1040,
+    "protein": 80,
+    "carbs": 30,
+    "fat": 64
+  },
+  "slug": "x-tra-juicy-ukrainian-duck-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-juicy-ukrainian-duck-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:25Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "emulsify",
+    "primaryIngredient": "bay leaves",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Duck",
+    "descriptor": "X-tra juicy",
+    "dishForm": "Braised"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Xanthan-Infused Slovakian Dark Soy Sauce Tagine",
+  "description": "A hearty, comforting dish featuring the unique pairing of dark soy sauce and xanthan gum, served in a fondue pot.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xanthan gum",
+      "amount": "2 teaspoons",
+      "notes": "infuses the dish with a unique texture and aids in thickening"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "adds a rich, savory flavor"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "a savory and comforting base for the tagine"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "a sweet and crunchy addition"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "adds a fresh and herbal flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sweet and caramelized, adds depth to the dish"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "a classic addition, enhances the flavors of the other ingredients"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "a comforting and filling addition"
+    }
+  ],
+  "instructions": [
+    "heat the beef broth in a fondue pot over medium heat",
+    "add the xanthan gum and whisk until dissolved",
+    "add the dark soy sauce, carrots, celery, onion, and garlic to the pot and simmer for 20 minutes",
+    "add the potatoes to the pot and continue to simmer for another 10 minutes",
+    "season with salt and pepper to taste",
+    "serve hot, garnished with chopped fresh herbs"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "sattvic",
+    "slovakian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "xanthan-infused-slovakian-dark-soy-sauce-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthan-infused-slovakian-dark-soy-sauce-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "tagine-cook",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Dark Soy Sauce",
+    "descriptor": "Xanthan-Infused",
+    "dishForm": "Tagine"
+  }
+}
