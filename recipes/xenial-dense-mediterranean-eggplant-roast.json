@@ -1,0 +1,109 @@
+{
+  "title": "Xenial Dense Mediterranean Eggplant Roast",
+  "description": "A hearty, flavorful roasted eggplant dish that fuses Mediterranean tradition with Asian chive and buchu, finished over binchotan charcoal for a subtle smoky depth.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large, sliced 1 cm thick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp, divided"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "asian chives",
+      "amount": "1 tbsp, chopped fresh"
+    },
+    {
+      "name": "buchu leaves",
+      "amount": "1 tsp, crushed dried"
+    },
+    {
+      "name": "lemon",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "kosher feta cheese",
+      "amount": "100g, crumbled",
+      "notes": "Kosher-certified cheese"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "2 tbsp, toasted",
+      "notes": "Optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp, chopped",
+      "notes": "Optional"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 sheet, soaked 30 min"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 C and place the soaked binchotan charcoal on a grill grate.",
+    "Brush eggplant slices with 2 tbsp olive oil, sprinkle with 1/4 tsp salt and all pepper, arrange on parchment.",
+    "Roast in oven for 25 minutes, flipping halfway, until edges caramelized.",
+    "While roasting, whisk together remaining 1 tbsp olive oil, garlic, chives, crushed buchu, and lemon juice in a bowl.",
+    "Remove roasted eggplant, drizzle the herb vinaigrette over the slices.",
+    "Top with crumbled feta cheese, toasted pine nuts, and remaining salt.",
+    "Return to oven for 5 minutes to meld flavors.",
+    "Plate, garnish with parsley, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "kosher-friendly",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 410,
+    "protein": 13,
+    "carbs": 28,
+    "fat": 22
+  },
+  "slug": "xenial-dense-mediterranean-eggplant-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-dense-mediterranean-eggplant-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:12:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggplant",
+    "descriptor": "Xenial Dense",
+    "dishForm": "Roast"
+  }
+}

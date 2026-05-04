@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Juicy Norwegian Meat Roast",
+  "description": "A resinous and juicy Norwegian dish featuring beurre-noisette, perfect for a lazy Sunday, and compatible with the Whole30 diet.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "2 pounds",
+      "notes": "grass-fed"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Season the beef roast with salt, black pepper, and thyme.",
+    "Heat the butter in a large Dutch oven over medium heat until it turns golden brown and smells nutty.",
+    "Sear the beef roast on all sides until it is browned, then remove it from the pot and set it aside.",
+    "Add the sliced onion to the pot and cook until it is softened and caramelized, stirring occasionally.",
+    "Add the chopped carrot and celery to the pot and cook until they are tender, stirring occasionally.",
+    "Add the minced garlic to the pot and cook for 1 minute, stirring constantly.",
+    "Return the beef roast to the pot and spoon some of the vegetables and sauce over the top of the roast.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the beef for 2 1/2 hours, or until it is tender and juicy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lazy-sunday",
+    "norwegian-cuisine",
+    "paleo-diet",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-juicy-norwegian-meat-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-norwegian-meat-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:13:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "rest-meat",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "meat",
+    "descriptor": "Xtra Juicy",
+    "dishForm": "Roast"
+  }
+}

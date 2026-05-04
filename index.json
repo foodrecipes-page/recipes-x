@@ -205,6 +205,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-dense-mediterranean-eggplant-roast",
+    "title": "Xenial Dense Mediterranean Eggplant Roast",
+    "tags": [
+      "eggplant",
+      "kosher-friendly",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-ethiopian-lentils-misir-wot",
     "title": "Xenial Ethiopian Lentils Misir Wot",
     "tags": [
@@ -1315,6 +1329,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-juicy-norwegian-meat-roast",
+    "title": "Xtra Juicy Norwegian Meat Roast",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "lazy-sunday",
+      "norwegian-cuisine",
+      "paleo-diet",
+      "whole30-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 180,
     "shard": "x"
   },
   {
