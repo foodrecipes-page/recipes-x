@@ -119,6 +119,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-basque-potato-bake",
+    "title": "Xenial Basque Potato Bake",
+    "tags": [
+      "basque",
+      "comfort-food",
+      "one-pan",
+      "potato",
+      "vegan",
+      "wood-fired"
+    ],
+    "cuisine": "Basque",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-charred-malaysian-sweetcorn-fried-rice",
     "title": "Xenial Charred Malaysian Sweetcorn Fried-Rice",
     "tags": [

@@ -1,0 +1,107 @@
+{
+  "title": "Xenial Basque Potato Bake",
+  "description": "Umami-packed, tender potatoes baked in a wood-fired style with Basque-inspired flavors, vegan and full of adventure.",
+  "cuisine": "Basque",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "1.5 kg",
+      "notes": "peeled and sliced 6mm thick"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce or tamari",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "shallot, thinly sliced",
+      "amount": "1"
+    },
+    {
+      "name": "black olives, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C and line a baking dish with parchment.",
+    "In a small saucepan combine vegetable broth, soy sauce, smoked paprika, oregano, and sea salt; simmer 5 minutes to meld flavors.",
+    "Toss potato slices with olive oil, minced garlic, and half the seasoning mixture until coated.",
+    "Arrange coated potatoes in a single even layer in the baking dish, smoothing the top with a spatula.",
+    "Drizzle remaining broth mixture over the potatoes, then scatter sliced shallot and black olives on top.",
+    "Bake 35 minutes, remove, sprinkle with nutritional yeast and chopped parsley, then return to oven 10 minutes until golden and tender.",
+    "Let rest 5 minutes before slicing into wedges and serving hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "comfort-food",
+    "one-pan",
+    "potato",
+    "vegan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "xenial-basque-potato-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-basque-potato-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:23:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "starch",
+    "diet": "vegan",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "Potato",
+    "descriptor": "Xenial",
+    "dishForm": "Bake"
+  }
+}
