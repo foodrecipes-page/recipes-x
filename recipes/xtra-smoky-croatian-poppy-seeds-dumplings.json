@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Smoky Croatian Poppy Seeds Dumplings",
+  "description": "A comforting Croatian dish featuring ground poppy seeds, pickle, and smoky flavors, perfect for a cold winter day. This kosher-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Croatian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "ground poppy seeds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, ground poppy seeds, smoked paprika, salt, and black pepper.",
+    "In a separate bowl, whisk together the pickle juice, beaten egg, and water.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 10 minutes or until they float to the surface.",
+    "While the dumplings are cooking, heat the vegetable oil in a pan over medium heat.",
+    "Remove the dumplings from the water with a slotted spoon and add them to the pan with the oil.",
+    "Pan-fry the dumplings for 2 minutes on each side or until they are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "homemade-dumplings",
+    "kosher-friendly",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "xtra-smoky-croatian-poppy-seeds-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-croatian-poppy-seeds-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:32:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Xtra smoky",
+    "dishForm": "Dumplings"
+  }
+}
