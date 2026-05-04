@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Crispy Portuguese Vegetable Skewers",
+  "description": "A fresh and crispy Portuguese dish featuring a variety of vegetables marinated in red wine vinegar, perfect for a flexitarian diet. This recipe is easy to make and serves as a great snack or side dish.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "2",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2",
+      "notes": "cut into 1 inch slices"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together red wine vinegar, olive oil, salt, and black pepper to make the marinade.",
+    "Add the cut vegetables to the marinade and toss to coat.",
+    "Let the vegetables marinate for at least 30 minutes.",
+    "Thread the marinated vegetables onto bamboo skewers, leaving a small space between each piece.",
+    "Place the skewers on a bamboo tray lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 20 minutes, or until the vegetables are tender and lightly browned.",
+    "Remove the skewers from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-recipes",
+    "flexitarian",
+    "healthy-snacks",
+    "portuguese-cuisine",
+    "snack-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "xtra-crispy-portuguese-vegetable-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-portuguese-vegetable-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:10:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xtra crispy",
+    "dishForm": "Skewers"
+  }
+}
