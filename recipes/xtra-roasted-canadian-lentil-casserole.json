@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Roasted Canadian Lentil Casserole",
+  "description": "A hearty, post-workout Canadian dish featuring roasted green and red lentils in a crispy, en-croute crust, perfect for a satisfying dinner",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "whole wheat pastry dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together the green and red lentils, olive oil, onion, carrots, and thyme",
+    "Spread the lentil mixture into a 9x13 inch baking dish",
+    "Roll out the whole wheat pastry dough to fit the baking dish",
+    "Place the pastry dough over the lentil mixture and crimp the edges to seal",
+    "Cut a few slits in the top of the pastry to allow steam to escape",
+    "Bake the casserole for 40 minutes, or until the crust is golden brown",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-roasted-canadian-lentil-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-canadian-lentil-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:40:00Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "en-croute",
+    "primaryIngredient": "green red lentils",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lentils",
+    "descriptor": "Xtra Roasted",
+    "dishForm": "Casserole"
+  }
+}
