@@ -1,0 +1,93 @@
+{
+  "title": "Xanthous Juicy Croatian Plum Dumplings",
+  "description": "These jammy, juicy Croatian plum dumplings are an energizing and ayurvedic-sattvic-friendly dessert, featuring pink food coloring and steamed to perfection with mushimono steam.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "2 cups",
+      "notes": "pitted"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "semolina flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine all purpose flour, semolina flour, and salt.",
+    "Gradually add in water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Flatten each ball into a disk shape and place a few pieces of pitted plums in the center.",
+    "Fold the dough over the plums to form a dumpling and seal the edges.",
+    "In a large steamer basket, place the dumplings and steam for 10 minutes using mushimono steam.",
+    "While the dumplings are steaming, mix together maple syrup, coconut oil, and pink food coloring in a small bowl.",
+    "After the dumplings have steamed, brush them with the maple syrup mixture and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic",
+    "croatian-dessert",
+    "jammy-plums",
+    "pink-food",
+    "steamed-dumplings",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "xanthous-juicy-croatian-plum-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-juicy-croatian-plum-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:56:14Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "pink food colouring",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "plums",
+    "descriptor": "xanthous juicy",
+    "dishForm": "Dumplings"
+  }
+}

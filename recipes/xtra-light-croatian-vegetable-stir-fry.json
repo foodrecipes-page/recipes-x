@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Light Croatian Vegetable Stir fry",
+  "description": "A light and healthy Croatian dish featuring stir-fry vegetables, cooked to perfection in a hot-pot vessel, perfect for a solo dinner. This flexitarian-friendly recipe uses sous-vide cooking for tender vegetables.",
+  "cuisine": "Croatian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot-pot vessel to 180 degrees Fahrenheit.",
+    "In a bowl, toss the broccoli, carrots, bell peppers, onions, and mushrooms with olive oil, garlic, and paprika.",
+    "Place the vegetable mixture in a sous-vide bag and seal.",
+    "Cook the vegetables in the hot-pot vessel for 30 minutes.",
+    "Remove the vegetables from the bag and stir-fry in the hot-pot vessel for 5 minutes.",
+    "Char the vegetables by increasing the heat to 200 degrees Fahrenheit for 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 37,
+  "totalTimeMin": 52,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "healthy",
+    "one-pot",
+    "stir-fry",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-light-croatian-vegetable-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-croatian-vegetable-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:56:44Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xtra Light",
+    "dishForm": "Stir-fry"
+  }
+}
