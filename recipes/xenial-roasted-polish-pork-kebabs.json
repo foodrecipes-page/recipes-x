@@ -1,0 +1,102 @@
+{
+  "title": "Xenial Roasted Polish Pork Kebabs",
+  "description": "A festive Polish dish featuring star anise and score fat, made with macrobiotic friendly ingredients, this recipe is perfect for special occasions. The combination of pork, vegetables, and spices creates a delicious and satisfying meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the melted score fat, ground star anise, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the score fat mixture.",
+    "Thread the pork cubes, onion, bell pepper, and mushrooms onto skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 25 minutes.",
+    "After 25 minutes, brush the skewers with the pan juices and continue to roast for an additional 10 minutes.",
+    "Remove the skewers from the oven and sprinkle with minced garlic.",
+    "Serve the kebabs hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "macrobiotic-friendly",
+    "polish-food",
+    "pork-recipes",
+    "roasted-vegetables",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "xenial-roasted-polish-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-roasted-polish-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:38:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "score-fat",
+    "primaryIngredient": "star anise",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Xenial Roasted",
+    "dishForm": "Kebabs"
+  }
+}
