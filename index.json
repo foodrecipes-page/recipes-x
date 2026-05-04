@@ -31,6 +31,18 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-spicy-deep-fried-moroccan-lamb-briouat",
+    "title": "x-tra spicy deep fried moroccan lamb briouat",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "x-treme-bitter-german-kanten-agar-pilaf",
     "title": "X-treme Bitter German Kanten-Agar Pilaf",
     "tags": [
@@ -1200,6 +1212,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-juicy-jamaican-pork-skewers",
+    "title": "Xtra Juicy Jamaican Pork Skewers",
+    "tags": [
+      "grilled-meats",
+      "high-protein",
+      "jamaican-cuisine",
+      "romantic-dinners",
+      "weeknight-meals"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {

@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Juicy Jamaican Pork Skewers",
+  "description": "A romantic Jamaican dish featuring tender pork skewers marinated in a briny mixture of vinegar and spices, then glazed to perfection",
+  "cuisine": "Jamaican",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together apple cider vinegar, olive oil, brown sugar, soy sauce, jamaican jerk seasoning, garlic powder, salt, and black pepper",
+    "Add pork pieces to the bowl and marinate for at least 30 minutes",
+    "Thread marinated pork and pineapple chunks onto skewers",
+    "Grill skewers for 10-12 minutes, turning occasionally",
+    "While skewers are grilling, prepare glaze by whisking together 2 tablespoons brown sugar and 2 tablespoons soy sauce",
+    "Brush glaze onto skewers during last 2 minutes of grilling",
+    "Let skewers rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "jamaican-cuisine",
+    "romantic-dinners",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "xtra-juicy-jamaican-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-jamaican-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:51:49Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "glaze",
+    "primaryIngredient": "vinegar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Juicy",
+    "dishForm": "Skewers"
+  }
+}

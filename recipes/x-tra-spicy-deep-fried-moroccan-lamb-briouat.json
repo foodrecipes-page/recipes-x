@@ -1,0 +1,111 @@
+{
+  "title": "x-tra spicy deep fried moroccan lamb briouat",
+  "description": "deep-fried, umami-packed, moroccan lamb briouat with a crispy exterior and a glassy-jelly center, all wrapped in a delicate pastry and topped with parmesan cheese.",
+  "cuisine": "moroccan",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "snack",
+  "instructions": [
+    "in a blender, combine 1/2 cup of lamb broth, 1/4 cup of olive oil, 2 cloves of garlic, 1 tablespoon of ground cumin, 1 teaspoon of ground coriander, 1/2 teaspoon of ground cinnamon, 1/4 teaspoon of ground cayenne pepper, and 1/4 teaspoon of salt.",
+    "blend the mixture until smooth and set aside.",
+    "in a large skillet, heat 2 tablespoons of olive oil over medium-high heat.",
+    "add 1 pound of lamb shoulder, cut into small pieces, and cook until browned, about 5 minutes.",
+    "add 1 onion, diced, and cook until softened, about 3 minutes.",
+    "add 2 cloves of garlic, minced, and cook for 1 minute.",
+    "add the blended mixture and cook for 2 minutes.",
+    "stir in 1 cup of all-purpose flour and cook for 1 minute.",
+    "stir in 1/2 cup of grated parmesan cheese and cook until melted.",
+    "cover the skillet and cook for 5 minutes.",
+    "uncover the skillet and cook for an additional 2 minutes.",
+    "set the filling aside to cool.",
+    "on a lightly floured surface, roll out 1 package of puff pastry to a thickness of 1/8 inch.",
+    "cut the pastry into 8 equal squares.",
+    "place 1/4 cup of the lamb filling in the center of each square.",
+    "brush the edges of the pastry with 1 egg, beaten, and fold the pastry over the filling to form a triangle.",
+    "press the edges to seal the briouat and place on a baking sheet.",
+    "deep-fry the briouat in 2-3 inches of vegetable oil until golden brown, about 3-4 minutes.",
+    "drain the briouat on paper towels and serve hot.",
+    "note: for an extra crispy exterior, you can chill the briouat in the refrigerator for 30 minutes before frying."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2-3 inches"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "slug": "x-tra-spicy-deep-fried-moroccan-lamb-briouat",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-spicy-deep-fried-moroccan-lamb-briouat",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:51:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "X-tra Spicy Deep Fried",
+    "dishForm": "Briouat"
+  }
+}
