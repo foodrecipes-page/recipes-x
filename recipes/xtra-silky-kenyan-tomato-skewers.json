@@ -1,0 +1,89 @@
+{
+  "title": "Xtra Silky Kenyan Tomato Skewers",
+  "description": "A fatty and silky solo dinner dish featuring char-grilled baby plum tomatoes, this Kenyan inspired recipe is perfect for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby plum tomatoes",
+      "amount": "12",
+      "notes": "halved"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together coconut oil, ginger paste, garlic-free seasoning blend, salt, and black pepper.",
+    "Add the halved baby plum tomatoes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated tomatoes onto skewers, leaving a small space between each tomato.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the tomatoes are charred and tender.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Serve with your choice of sides, such as grilled meats or roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "low-fodmap",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "xtra-silky-kenyan-tomato-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-kenyan-tomato-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:51:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Xtra silky",
+    "dishForm": "Skewers"
+  }
+}
