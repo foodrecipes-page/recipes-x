@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Light Jamaican Parma Ham Skewers",
+  "description": "A light and fluffy Jamaican dish featuring parma ham, perfect for a snack or lunch, with a grassy and Mediterranean-friendly flavor profile.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "mediterranean"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Parma ham",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread a slice of Parma ham, a few mint leaves, and a few basil leaves onto each skewer.",
+    "Brush the skewers with olive oil and season with garlic powder, salt, and black pepper.",
+    "Grill the skewers for 2-3 minutes per side, or until the Parma ham is crispy.",
+    "Serve the skewers hot with a squeeze of lime juice.",
+    "Garnish with additional mint and basil leaves, if desired.",
+    "Steam the skewers for an additional 2 minutes, if desired, for a lighter texture.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "grilled",
+    "jamaican",
+    "light",
+    "low-carb",
+    "mediterranean",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "xtra-light-jamaican-parma-ham-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-jamaican-parma-ham-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:24:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "parma ham",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "parma ham",
+    "descriptor": "Xtra Light",
+    "dishForm": "Skewers"
+  }
+}
