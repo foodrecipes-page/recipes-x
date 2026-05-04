@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Chewy Mexican Provola Elote",
+  "description": "A floral and chewy Mexican dish featuring provola cheese, perfect for a monsoon evening, this plant-based-friendly elote is broiled to perfection.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "provola cheese",
+      "amount": "1 cup shredded",
+      "notes": "plant-based alternative"
+    },
+    {
+      "name": "corn on the cob",
+      "amount": "4 ears",
+      "notes": "fresh"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "vegan"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Shuck the corn and remove the silk.",
+    "In a large bowl, whisk together mayonnaise, chili powder, paprika, lime juice, garlic powder, and salt.",
+    "Add the shredded provola cheese to the bowl and mix until well combined.",
+    "Brush the mixture onto each ear of corn, making sure to coat all sides evenly.",
+    "Place the corn on a baking sheet lined with parchment paper and broil for 10-12 minutes, turning every 2 minutes.",
+    "Remove the corn from the oven and sprinkle with chopped cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiled-vegetables",
+    "chewy-snacks",
+    "elote-recipes",
+    "mexican-street-food",
+    "monsoon-recipes",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "xtra-chewy-mexican-provola-elote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-chewy-mexican-provola-elote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:01:00Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "provola",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "provola",
+    "descriptor": "Xtra Chewy",
+    "dishForm": "Elote"
+  }
+}

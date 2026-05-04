@@ -167,6 +167,22 @@
     "shard": "x"
   },
   {
+    "slug": "xeriscent-sour-german-fish-gratin",
+    "title": "xeriscent sour german fish gratin",
+    "tags": [
+      "creamy",
+      "fish",
+      "german",
+      "gratin",
+      "halal-friendly",
+      "monsoon",
+      "sour"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-bitter-portuguese-plum-tomatoes-stew",
     "title": "Xtra Bitter Portuguese Plum Tomatoes Stew",
     "tags": [
@@ -178,6 +194,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-chewy-mexican-provola-elote",
+    "title": "Xtra Chewy Mexican Provola Elote",
+    "tags": [
+      "broiled-vegetables",
+      "chewy-snacks",
+      "elote-recipes",
+      "mexican-street-food",
+      "monsoon-recipes",
+      "plant-based"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 27,
     "shard": "x"
   },
   {

@@ -1,0 +1,112 @@
+{
+  "title": "xeriscent sour german fish gratin",
+  "description": "a creamy, sour, and flavorful dish featuring oyster sauce, perfect for a monsoon evening in germany.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "2",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "2 tbsp",
+      "notes": "add depth of umami flavor"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "to thicken the sauce"
+    }
+  ],
+  "instructions": [
+    "preheat your oven to 400f (200c).",
+    "in a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the cod fillets to the skillet and cook for 2-3 minutes on each side, until they are cooked through.",
+    "remove the cod from the skillet and set it aside on a plate.",
+    "in the same skillet, add the remaining 2 tablespoons of butter.",
+    "add the oyster sauce, capers, salt, and black pepper to the skillet. stir to combine.",
+    "add the flour to the skillet and stir to combine. cook for 1 minute.",
+    "add 1/2 cup of water to the skillet and stir to combine. bring the mixture to a simmer.",
+    "return the cod fillets to the skillet and spoon some of the sauce over the top of each fillet.",
+    "transfer the skillet to the preheated oven and broil for 2-3 minutes, until the top of the sauce is golden brown and bubbly.",
+    "remove the skillet from the oven and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "fish",
+    "german",
+    "gratin",
+    "halal-friendly",
+    "monsoon",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "xeriscent-sour-german-fish-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscent-sour-german-fish-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:00:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "oyster sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Fish",
+    "descriptor": "Xeriscent Sour",
+    "dishForm": "Gratin"
+  }
+}
