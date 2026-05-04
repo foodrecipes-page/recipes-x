@@ -1,0 +1,117 @@
+{
+  "title": "Xtra Spicy Jamaican Ground Coriander Tagine",
+  "description": "Funky, cheese-pull, monsoon Jamaican dish featuring ground coriander, long-fermentation-dough, anti-inflammatory-friendly, vessel=agave-leaf. Perfect for a weeknight dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground coriander",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Long-fermentation-dough (homemade or store-bought)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican scotch bonnet peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in an agave leaf over medium heat.",
+    "Add the onion and saut\u00056 until softened, about 5 minutes.",
+    "Add the ginger and garlic and cook for another minute.",
+    "Add the ground coriander, cumin, paprika, salt, and black pepper and stir to combine.",
+    "Add the long-fermentation-dough and cook for 2-3 minutes, breaking it up with a spoon as it cooks.",
+    "Add the Jamaican scotch bonnet peppers and stir to combine.",
+    "Transfer the mixture to a serving dish and top with crumbled feta cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-spicy-jamaican-ground-coriander-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-jamaican-ground-coriander-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:46Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "ground coriander",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Ground Coriander",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,5 +1,35 @@
 [
   {
+    "slug": "x-quick-croatian-fix-bisque",
+    "title": "x-quick Croatian fix Bisque",
+    "tags": [
+      "bouncy-qq",
+      "croatian-cuisine",
+      "easy-to-make",
+      "healthy",
+      "low-fat",
+      "miso",
+      "turmeric"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-aerated-vietnamese-chicken-vietnamese-chicken-pho",
+    "title": "X-tra Aerated Vietnamese Chicken Pho",
+    "tags": [
+      "halal",
+      "high-protein",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-flaky-french-pastry-tart",
     "title": "X-tra Flaky French Pastry Tart",
     "tags": [
@@ -2150,6 +2180,19 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-jamaican-ground-coriander-tagine",
+    "title": "Xtra Spicy Jamaican Ground Coriander Tagine",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {

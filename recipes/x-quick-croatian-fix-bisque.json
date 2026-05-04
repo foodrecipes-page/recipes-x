@@ -1,0 +1,98 @@
+{
+  "title": "x-quick Croatian fix Bisque",
+  "description": "A resinous, low-fat, and turmeric-infused bisque inspired by Croatian cuisine, featuring a miso-marinated broth.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": "white miso for a sweeter flavor or red miso for a more intense umami taste"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried, whichever you prefer"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed for a brighter flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium for a healthier option"
+    },
+    {
+      "name": "donabe (earthenware pot)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped for a smooth texture"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped for added depth"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced for aromatic flavor"
+    }
+  ],
+  "instructions": [
+    "Combine turmeric, miso paste, and bay leaves in a bowl.",
+    "Add carrots, onion, and garlic to the bowl and mix well.",
+    "Transfer the mixture to a donabe pot and pour in chicken broth.",
+    "Bring the mixture to a boil over medium heat, then reduce to low and simmer for 20 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "croatian-cuisine",
+    "easy-to-make",
+    "healthy",
+    "low-fat",
+    "miso",
+    "turmeric"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "x-quick-croatian-fix-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-quick-croatian-fix-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:23Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "turmeric",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fix",
+    "descriptor": "x-quick",
+    "dishForm": "Bisque"
+  }
+}
