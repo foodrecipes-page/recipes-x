@@ -426,6 +426,19 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-stone-dutch-potatoes-hash",
+    "title": "Xenial Stone Dutch Potatoes Hash",
+    "tags": [
+      "easy",
+      "hot-stone-plate",
+      "one-pan",
+      "vegan-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-stout-mediterranean-bread-fritters",
     "title": "Xenial Stout Mediterranean Bread Fritters",
     "tags": [
