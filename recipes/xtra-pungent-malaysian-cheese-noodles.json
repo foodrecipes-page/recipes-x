@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Pungent Malaysian Cheese Noodles",
+  "description": "A pungent and cheesy Malaysian noodle dish featuring a mix of fruits and a quick-fix recipe, this ovo-vegetarian friendly meal is perfect for a snack or lunch, with a brine-dry flavor profile that is sure to tantalize your taste buds.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "200g",
+      "notes": "dried"
+    },
+    {
+      "name": "Malaysian Cheese",
+      "amount": "150g",
+      "notes": "grated"
+    },
+    {
+      "name": "Fruit Mix",
+      "amount": "100g",
+      "notes": "canned"
+    },
+    {
+      "name": "Brine",
+      "amount": "50ml",
+      "notes": "dry"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Heat the vegetable oil in a pan over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the grated Malaysian cheese and stir until it is well combined with the onion and garlic mixture.",
+    "Add the cooked noodles to the pan and stir to combine with the cheese mixture.",
+    "Add the fruit mix, brine, salt, and black pepper, and stir to combine.",
+    "Reduce heat to low and simmer for a few minutes to allow the flavors to meld together.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "fruit-mix",
+    "malaysian-cuisine",
+    "noodle-dish",
+    "ovo-vegetarian",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-pungent-malaysian-cheese-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-pungent-malaysian-cheese-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:15:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "fruit mix",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra pungent",
+    "dishForm": "Noodles"
+  }
+}

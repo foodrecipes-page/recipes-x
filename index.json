@@ -436,6 +436,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-pungent-malaysian-cheese-noodles",
+    "title": "Xtra Pungent Malaysian Cheese Noodles",
+    "tags": [
+      "cheesy",
+      "fruit-mix",
+      "malaysian-cuisine",
+      "noodle-dish",
+      "ovo-vegetarian",
+      "quick-fix"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-quick-vietnamese-epoisses-ca-kho-to",
     "title": "Xtra Quick Vietnamese Epoisses Ca Kho To",
     "tags": [
