@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Spicy American Chicken Skillet",
+  "description": "A spicy and fluffy solo dinner dish featuring marjoram and papillote, keto-friendly and perfect for a weeknight meal.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "marjoram",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "none"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "none"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "none"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the chopped jalapeno pepper and cook for 1 minute.",
+    "Add the chicken breast pieces and cook until browned, about 5-6 minutes.",
+    "Add the smoked paprika, garlic powder, salt, and black pepper, and stir to combine.",
+    "Add the dried marjoram and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered with a papillote, for 10 minutes.",
+    "Remove the papillote and stir the mixture, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dish",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 57,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-spicy-american-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-american-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:58:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "papillote",
+    "primaryIngredient": "marjoram",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Skillet"
+  }
+}

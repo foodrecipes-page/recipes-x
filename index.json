@@ -703,6 +703,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-american-chicken-skillet",
+    "title": "Xtra Spicy American Chicken Skillet",
+    "tags": [
+      "chicken-dish",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-sweet-brazilian-rice-pilaf",
     "title": "Xtra Sweet Brazilian Rice Pilaf",
     "tags": [
