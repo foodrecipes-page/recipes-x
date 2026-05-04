@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Light Korean Soybean Sprouts Noodles",
+  "description": "A light and rich Korean-inspired dish featuring blanched soybean sprouts and low-glycemic noodles, perfect for a healthy meal prep option. This dish is a polish on traditional Korean flavors with a focus on nutritious ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "low-glycemic noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and blanch the soybean sprouts for 3 minutes.",
+    "Drain the soybean sprouts and rinse them with cold water to stop the cooking process.",
+    "Cook the low-glycemic noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the garlic and ginger until fragrant.",
+    "Add the soy sauce and sesame oil to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Add the blanched soybean sprouts to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "korean-inspired",
+    "low-glycemic",
+    "meal-prep",
+    "quick-and-easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-light-korean-soybean-sprouts-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-korean-soybean-sprouts-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:14:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "soybean sprouts",
+    "descriptor": "Xtra Light",
+    "dishForm": "Noodles"
+  }
+}
