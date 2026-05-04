@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Quick Vietnamese Epoisses Ca Kho To",
+  "description": "A quick-fix Vietnamese dish featuring epoisses cheese, this recipe is a herbal and shattering combination of flavors, perfect for a weeknight dinner. It is also ayurvedic-rajasic-friendly, making it a great option for those looking for a balancing meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "epoisses cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 cup",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the fish sauce, lime juice, brown sugar, grated ginger, minced garlic, and chili flakes.",
+    "Stir the mixture until the sugar has dissolved and the mixture is fragrant.",
+    "Add the cubed tofu to the skillet and cook until it is golden brown on all sides.",
+    "Add the softened epoisses cheese to the skillet and stir until it is melted and well combined with the tofu and sauce.",
+    "Reduce the heat to low and simmer the mixture for a few minutes until it has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the ca kho to hot over steamed vegetables or rice.",
+    "Garnish with chopped herbs, such as cilantro or basil, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "one-pan",
+    "quick-fix",
+    "vegetarian",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "xtra-quick-vietnamese-epoisses-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-quick-vietnamese-epoisses-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:45:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "epoisses",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Xtra Quick",
+    "dishForm": "Ca Kho To"
+  }
+}
