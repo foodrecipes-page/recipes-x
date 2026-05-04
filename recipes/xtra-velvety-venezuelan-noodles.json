@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Velvety Venezuelan Noodles",
+  "description": "A funky and velvety Venezuelan dish featuring noodles, cooked to perfection in a bain-marie and served in a scallop shell, perfect for a midnight craving. This plant-based friendly recipe is a must try for noodle lovers.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Plant-based cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the diced onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "In a small bowl, mix together the plant-based cheese, cumin, and paprika.",
+    "In a bain-marie, combine the cooked noodles, mushroom mixture, and cheese mixture, stirring until the cheese is melted and the noodles are well coated.",
+    "Season the noodles with salt and pepper to taste.",
+    "Spoon the noodles into scallop shells and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "midnight-craving",
+    "noodle-dish",
+    "plant-based",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-velvety-venezuelan-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-velvety-venezuelan-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:58:40Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "bain-marie",
+    "primaryIngredient": "noodles",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "noodles",
+    "descriptor": "Xtra Velvety",
+    "dishForm": "Noodles"
+  }
+}

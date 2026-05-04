@@ -1029,6 +1029,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-velvety-venezuelan-noodles",
+    "title": "Xtra Velvety Venezuelan Noodles",
+    "tags": [
+      "comfort-food",
+      "midnight-craving",
+      "noodle-dish",
+      "plant-based",
+      "vegetarian"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-zesty-lebanese-chickpeas-falafel-bowl",
     "title": "Xtra Zesty Lebanese Chickpeas Falafel Bowl",
     "tags": [
