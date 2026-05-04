@@ -1,0 +1,138 @@
+{
+  "title": "Xenial Syrian Rice Pilaf",
+  "description": "A buttery, shaggy rice pilaf infused with Grand Marnier, blanched spinach, and toasted pistachios for a romantic, dairy-free twist.",
+  "cuisine": "Syrian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long-grain white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Grand Marnier",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup, toasted"
+    },
+    {
+      "name": "blanched spinach",
+      "amount": "1 cup",
+      "notes": "blanched then drained"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup long-grain white rice under cold water until the water runs clear.",
+    "Heat 1 tablespoon olive oil in a large saucepan over medium heat; add onion, carrot, celery and sauté until softened, about 5 minutes.",
+    "Stir in minced garlic, smoked paprika, cumin, and turmeric and cook for 1 minute until fragrant.",
+    "Add Grand Marnier, stir to deglaze the pan, and let the alcohol evaporate for 2 minutes.",
+    "Pour in 2 cups vegetable broth, add bay leaf, salt, pepper, and bring to a boil.",
+    "Reduce heat, cover, and simmer until rice is tender, about 18 minutes, then remove from heat and let stand covered 5 minutes.",
+    "Meanwhile, blend blanched spinach with 1 teaspoon sesame oil, a pinch of salt, and a squeeze of lemon juice; set aside.",
+    "Fluff the cooked rice with a fork and fold in chopped apricots, toasted pistachios, and the spinach mixture.",
+    "Garnish with additional pistachios and a drizzle of Grand Marnier, if desired.",
+    "Serve immediately as a buttery, shaggy pilaf with a romantic touch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "easy",
+    "mid-east",
+    "one-pot",
+    "romantic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "xenial-syrian-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-syrian-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:46:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "grand marnier",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Rice",
+    "descriptor": "Xenial",
+    "dishForm": "Pilaf"
+  }
+}

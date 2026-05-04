@@ -181,6 +181,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-syrian-rice-pilaf",
+    "title": "Xenial Syrian Rice Pilaf",
+    "tags": [
+      "dairy-free",
+      "easy",
+      "mid-east",
+      "one-pot",
+      "romantic",
+      "vegetarian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-turkish-chocolate-dumplings",
     "title": "Xenial Turkish Chocolate Dumplings",
     "tags": [
