@@ -136,6 +136,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-ethiopian-lentils-misir-wot",
+    "title": "Xenial Ethiopian Lentils Misir Wot",
+    "tags": [
+      "ethiopian",
+      "festive",
+      "low-glycemic",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-ethiopian-prawns-ceviche",
     "title": "Xenial Ethiopian Prawns Ceviche",
     "tags": [

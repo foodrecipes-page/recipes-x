@@ -1,0 +1,114 @@
+{
+  "title": "Xenial Ethiopian Lentils Misir Wot",
+  "description": "A floral, shaggy, festive misir wot with creamy stracciatella swirl and char‑grilled tomato accents, low‑glycemic and perfect for celebratory meals.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "250g",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "onion",
+      "amount": "200g",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "15g",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "char-grilled tomato",
+      "amount": "150g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "15g"
+    },
+    {
+      "name": "stracciatella cheese",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Rinse red lentils thoroughly until water runs clear.",
+    "In a medium saucepan combine lentils, water, and a pinch of salt; bring to a boil, then reduce heat and simmer for 15 minutes, stirring occasionally.",
+    "While lentils cook, heat a grill pan over medium‑high heat and char the diced tomato until slightly blackened.",
+    "In a separate skillet heat olive oil and sauté onion, garlic, and ginger until fragrant and translucent, about 5 minutes.",
+    "Add smoked paprika, berbere spice, tomato paste, and the char‑grilled tomatoes to the skillet; cook for 2 minutes, stirring constantly.",
+    "Stir in the cooked lentils and vegetable broth; simmer for another 10 minutes until the mixture thickens, then fold in fresh cilantro.",
+    "Spoon the misir wot onto serving plates and dollop generous amounts of stracciatella cheese on top.",
+    "Garnish with extra cilantro leaves and serve immediately with injera or a low‑glycemic side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "festive",
+    "low-glycemic",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 282,
+    "protein": 14,
+    "carbs": 26,
+    "fat": 14
+  },
+  "slug": "xenial-ethiopian-lentils-misir-wot",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-ethiopian-lentils-misir-wot",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:36:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "stracciatella-cheese",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Xenial",
+    "dishForm": "Misir Wot"
+  }
+}
