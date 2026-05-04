@@ -1,0 +1,111 @@
+{
+  "title": "Xenial Light Norwegian Natto Stew",
+  "description": "A briny and light Norwegian post-workout stew featuring natto, cooked in a clay pot, suitable for a satvik diet. This dish is easy to prepare and packed with nutrients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "Japanese fermented soybeans"
+    },
+    {
+      "name": "norwegian salmon fillet",
+      "amount": "6 ounces",
+      "notes": "wild caught"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "clay pot water",
+      "amount": "4 cups",
+      "notes": "filtered"
+    },
+    {
+      "name": "norwegian sea salt",
+      "amount": "1 teaspoon",
+      "notes": "coarse"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot by filling it with water and letting it sit for 30 minutes before cooking.",
+    "Cut the Norwegian salmon fillet into small pieces and set aside.",
+    "Add the kombu seaweed sheets to the clay pot and pour in the filtered water.",
+    "Bring the water to a boil, then reduce the heat to a simmer and add the sliced carrots and cubed potatoes.",
+    "Let the carrots and potatoes cook for 10 minutes, or until they are slightly tender.",
+    "Add the chopped onion and celery to the clay pot and continue to simmer for another 5 minutes.",
+    "Stir in the natto and cook for an additional 2 minutes, or until it is well combined with the stew.",
+    "Add the Norwegian salmon pieces to the clay pot and cook until they are cooked through, about 5 minutes.",
+    "Season the stew with coarse Norwegian sea salt and freshly ground black pepper to taste.",
+    "Serve the Xenial Light Norwegian Natto Stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian-cuisine",
+    "one-pot",
+    "post-workout",
+    "satvik-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xenial-light-norwegian-natto-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-light-norwegian-natto-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:35:33Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "natto",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "natto",
+    "descriptor": "Xenial light",
+    "dishForm": "Stew"
+  }
+}

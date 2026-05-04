@@ -91,6 +91,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-light-norwegian-natto-stew",
+    "title": "Xenial Light Norwegian Natto Stew",
+    "tags": [
+      "high-protein",
+      "norwegian-cuisine",
+      "one-pot",
+      "post-workout",
+      "satvik-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-malaysian-beef-stew",
     "title": "Xenial Malaysian Beef Stew",
     "tags": [
