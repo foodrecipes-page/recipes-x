@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Fluffy Saudi Arabian Lamb Biryani",
+  "description": "A traditional Saudi Arabian dish featuring tender lamb and fluffy basmati rice, infused with the subtle flavor of cream of tartar and the richness of salt-baked spices, all cooked to perfection in a kazan cauldron.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in the kazan cauldron over medium heat.",
+    "Add the cumin seeds and coriander seeds and let them sizzle for 1 minute.",
+    "Add the chopped onion and cook until it is lightly browned.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the salt, black pepper, and cream of tartar, and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover the kazan cauldron, and simmer for 1 1/2 hours.",
+    "Add the basmati rice and stir to combine.",
+    "Cover the kazan cauldron and cook for an additional 20 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xtra-fluffy-saudi-arabian-lamb-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-saudi-arabian-lamb-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:41:26Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "salt-bake",
+    "primaryIngredient": "cream of tartar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "xtra fluffy",
+    "dishForm": "Biryani"
+  }
+}
