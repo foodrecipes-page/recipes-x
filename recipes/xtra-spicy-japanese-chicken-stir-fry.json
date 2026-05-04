@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Spicy Japanese Chicken Stir-fry",
+  "description": "A spicy and savory Japanese dish featuring yuzu and chicken, cooked in a cataplana vessel, perfect for a sick day or a weeknight dinner",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a cataplana vessel over medium-high heat",
+    "Add the chicken to the vessel and cook until browned, about 5 minutes",
+    "Add the minced garlic and grated ginger to the vessel and cook for 1 minute",
+    "Add the yuzu juice, soy sauce, and gochujang to the vessel and stir to combine",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes",
+    "Stir in the chopped scallions and sesame seeds",
+    "Season the mixture with salt and black pepper to taste",
+    "Serve the stir-fry hot, garnished with additional scallions and sesame seeds if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "spicy",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "xtra-spicy-japanese-chicken-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-japanese-chicken-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:28:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "yuzu",
+    "diet": "high-protein",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Stir-fry"
+  }
+}

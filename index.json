@@ -1560,6 +1560,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-japanese-chicken-stir-fry",
+    "title": "Xtra Spicy Japanese Chicken Stir-fry",
+    "tags": [
+      "high-protein",
+      "japanese",
+      "one-pan",
+      "spicy",
+      "stir-fry",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-tunisian-lamb-tagine",
     "title": "Xtra Spicy Tunisian Lamb Tagine",
     "tags": [
