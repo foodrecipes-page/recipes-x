@@ -1,0 +1,109 @@
+{
+  "title": "Xtra Crispy Welsh Cornmeal Sunday Roast",
+  "description": "A hearty one-pot Welsh roast with a crunchy cornmeal crust and seasonal vegetables.",
+  "cuisine": "Welsh",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin roast",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "200 g (1 cup + 2 tbsp)",
+      "notes": "toss with salt before coating"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "3, sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium, cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1, quartered"
+    },
+    {
+      "name": "beef broth",
+      "amount": "250 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Rub the pork roast with olive oil, salt, pepper, thyme, rosemary, and minced garlic.",
+    "Toss the cornmeal with a pinch of salt; coat the roast completely with the cornmeal.",
+    "Place the coated roast in a roasting pan and surround it with carrots, potatoes, and onion.",
+    "Pour the broth into the pan, ensuring it reaches halfway up the roast.",
+    "Roast uncovered for 45 minutes, basting occasionally with pan juices.",
+    "Increase oven temperature to 200°C and roast for an additional 30 minutes until the crust is golden and the internal temperature reaches 70°C.",
+    "Remove the pan from the oven and let the roast rest for 10 minutes before slicing.",
+    "Serve the sliced roast on a bed of the roasted vegetables, drizzling with pan juices.",
+    "Sprinkle fresh herbs such as parsley or chives for a herbal finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 75,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "crispy",
+    "gluten-free",
+    "herbal",
+    "one-pot",
+    "sunday-roast"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 56,
+    "carbs": 52,
+    "fat": 18
+  },
+  "slug": "xtra-crispy-welsh-cornmeal-sunday-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-welsh-cornmeal-sunday-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:25:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "salt-bake",
+    "primaryIngredient": "cornmeal",
+    "diet": "gluten-free",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Sunday Roast"
+  }
+}
