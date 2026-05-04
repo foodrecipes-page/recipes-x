@@ -1,0 +1,103 @@
+{
+  "title": "Xenial Soft Mediterranean Lamb Frittata",
+  "description": "A sweet and pillowy solo dinner dish featuring free range eggs and Mediterranean lamb, low in glycemic index for a healthy meal option.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "free range"
+    },
+    {
+      "name": "lamb",
+      "amount": "1/2 cup diced",
+      "notes": "rest meat, cooked"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup crumbled"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup canned"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs and a pinch of salt until well combined.",
+    "Add the diced lamb, crumbled feta cheese, kalamata olives, artichoke hearts, and sun dried tomatoes to the bowl and stir gently.",
+    "Heat the olive oil in a large oven safe skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes or until the eggs are almost set.",
+    "Remove the skillet from the oven and sprinkle the chopped parsley on top.",
+    "Return the skillet to the oven and bake for an additional 2 minutes or until the eggs are fully set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-glycemic",
+    "mediterranean-diet",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "xenial-soft-mediterranean-lamb-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-soft-mediterranean-lamb-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:24:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "rest-meat",
+    "primaryIngredient": "free-range egg beaten",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Soft",
+    "dishForm": "Frittata"
+  }
+}
