@@ -352,6 +352,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-velvety-dutch-dumpling-skewers",
+    "title": "Xenial Velvety Dutch Dumpling Skewers",
+    "tags": [
+      "char",
+      "dutch",
+      "low-calorie",
+      "quick",
+      "velvet"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-vietnamese-nectarines-bun-thit-nuong",
     "title": "Xenial Vietnamese Nectarines Bun Thit Nuong",
     "tags": [
