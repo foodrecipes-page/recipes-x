@@ -136,6 +136,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-ethiopian-prawns-ceviche",
+    "title": "Xenial Ethiopian Prawns Ceviche",
+    "tags": [
+      "ethiopian",
+      "hangover-cure",
+      "low-carb",
+      "robata",
+      "seafood"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-light-norwegian-natto-stew",
     "title": "Xenial Light Norwegian Natto Stew",
     "tags": [

@@ -1,0 +1,103 @@
+{
+  "title": "Xenial Ethiopian Prawns Ceviche",
+  "description": "A fiery, earthy twist on ceviche using tiger prawns, smoky robata-grilled citrus, and a medley of African spices, designed to soothe hangovers with a molten, aromatic finish.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "250 g",
+      "notes": "fresh, peeled and deveined"
+    },
+    {
+      "name": "lemongrass stalk",
+      "amount": "1",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "ginger root",
+      "amount": "10 g",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "citrus mix (orange, lime, lemon) juice",
+      "amount": "60 ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "1 tsp",
+      "notes": "use mild for tamasic-friendly"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "toasting gives molten aroma"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "15 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Clean the tiger prawns, removing shells and tails, then pat dry.",
+    "Marinate the prawns with lemongrass, ginger, garlic, citrus juice, berbere spice, and a pinch of salt for 10 minutes.",
+    "Preheat the robata grill to high heat and lightly oil the grate.",
+    "Sear the marinated prawns on the grill for 1-2 minutes per side, just until smoky char forms, then transfer immediately to a bowl.",
+    "Drain excess liquid, and fold in toasted black sesame seeds, chopped coriander, and a drizzle of olive oil.",
+    "Serve chilled or at room temperature, garnished with extra coriander and lemon wedges, and enjoy the molten, earthy tones that help cure a hangover."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "hangover-cure",
+    "low-carb",
+    "robata",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 10
+  },
+  "slug": "xenial-ethiopian-prawns-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-ethiopian-prawns-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:24:34Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Prawns",
+    "descriptor": "Xenial",
+    "dishForm": "Ceviche"
+  }
+}
