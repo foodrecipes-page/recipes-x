@@ -1,0 +1,110 @@
+{
+  "title": "Xenial Saudi Arabian Pecorino Romano Flatbread",
+  "description": "A yeasty, gooey flatbread infused with Pecorino Romano and fresh herbs, perfect for a comforting snack. The steam and cheese create a nostalgic Saudi Arabian flavor that feels both exotic and familiar.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g",
+      "notes": "plain flour"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "7g",
+      "notes": "1 packet"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml",
+      "notes": "110°F"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": "fine sea salt"
+    },
+    {
+      "name": "white sugar",
+      "amount": "5g",
+      "notes": "for yeast activation"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "pecorino romano cheese",
+      "amount": "150g",
+      "notes": "shredded lightly"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "10g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine flour, yeast, sugar and salt.",
+    "Add warm water and olive oil, stir until dough forms.",
+    "Knead dough on floured surface for 5 minutes until smooth.",
+    "Place dough in greased bowl, cover, let rise 30 minutes until doubled.",
+    "Preheat a skillet over medium-high heat with a lid.",
+    "Punch down dough, roll into a flat circle about 1cm thick.",
+    "Place dough in skillet, cover, steam for 2 minutes until surface starts to puff.",
+    "Remove lid, sprinkle shredded pecorino romano, cilantro, garlic, and chili flakes evenly.",
+    "Cook uncovered for 3 minutes until cheese melts and edges brown slightly.",
+    "Slide onto a plate, slice and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "flatbread",
+    "halal-friendly",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 11,
+    "carbs": 14,
+    "fat": 15
+  },
+  "slug": "xenial-saudi-arabian-pecorino-romano-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-saudi-arabian-pecorino-romano-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:56:25Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "steam",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Pecorino Romano",
+    "descriptor": "Xenial",
+    "dishForm": "Flatbread"
+  }
+}

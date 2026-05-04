@@ -251,6 +251,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-saudi-arabian-pecorino-romano-flatbread",
+    "title": "Xenial Saudi Arabian Pecorino Romano Flatbread",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "flatbread",
+      "halal-friendly",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-slovakian-ackee-dumplings",
     "title": "Xenial Slovakian Ackee Dumplings",
     "tags": [
