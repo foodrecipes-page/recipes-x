@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Crispy Irish Potato Bake",
+  "description": "Charred, crisp, comforting Irish dish featuring lime juice and salt-bake, flexitarian-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "1.5 kg",
+      "notes": "peeled and sliced 1/4 inch thick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cheddar cheese, grated",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Wash, peel, and slice potatoes into 1/4 inch thick rounds.",
+    "In a bowl, whisk together olive oil, lime juice, salt, smoked paprika, garlic powder, and pepper.",
+    "Toss potato slices in the seasoned oil mixture until evenly coated.",
+    "Arrange the potatoes in a single layer in a 9x13 inch baking dish.",
+    "Sprinkle optional cheese and breadcrumbs over the potatoes.",
+    "Bake for 35 minutes until edges are golden and bottoms are crisp.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Sprinkle fresh parsley over the top for garnish.",
+    "Serve hot and enjoy the crisp, charred goodness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crisp",
+    "flexitarian-friendly",
+    "irish",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 6,
+    "carbs": 83,
+    "fat": 7
+  },
+  "slug": "xtra-crispy-irish-potato-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-irish-potato-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:03:16Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "salt-bake",
+    "primaryIngredient": "lime juice",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Bake"
+  }
+}

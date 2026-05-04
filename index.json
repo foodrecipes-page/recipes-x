@@ -685,6 +685,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-irish-potato-bake",
+    "title": "Xtra Crispy Irish Potato Bake",
+    "tags": [
+      "comfort-food",
+      "crisp",
+      "flexitarian-friendly",
+      "irish",
+      "one-pan",
+      "quick"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-kenyan-swede-flatbread",
     "title": "Xtra Crispy Kenyan Swede Flatbread",
     "tags": [
@@ -787,6 +802,21 @@
     ],
     "cuisine": "Kerala",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crunchy-ukrainian-chickpeas-tagine",
+    "title": "Xtra Crunchy Ukrainian Chickpeas Tagine",
+    "tags": [
+      "ceramic-tagine",
+      "crunchy",
+      "high-protein",
+      "post-workout",
+      "ukrainian",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {

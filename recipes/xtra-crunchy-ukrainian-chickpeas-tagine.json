@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Crunchy Ukrainian Chickpeas Tagine",
+  "description": "Garlicky, crunchy, post-workout vegetarian dish featuring mustard and pickles, served in a ceramic tagine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas, cooked",
+      "amount": "400 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "Celery stalks",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "Pickles (gherkin) sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in ceramic tagine over medium heat.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic, julienned carrot, sliced celery, and cook for 2 minutes until fragrant.",
+    "Add drained chickpeas, sliced pickles, and vegetable broth to the tagine, then bring to a gentle simmer.",
+    "Stir in Dijon mustard and season with salt and pepper, let the mixture simmer uncovered for 15 minutes to allow flavors to meld.",
+    "Increase heat to medium-high and cook for an additional 5 minutes, letting the liquid reduce and develop a thicker coating on the chickpeas.",
+    "Taste, adjust seasoning if needed, then transfer the tagine to a preheated oven at 200°C for 10 minutes to crisp the top layer.",
+    "Serve hot, optionally garnished with fresh parsley, and enjoy the crunchy, garlicky post-workout dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-tagine",
+    "crunchy",
+    "high-protein",
+    "post-workout",
+    "ukrainian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 815,
+    "protein": 25,
+    "carbs": 92,
+    "fat": 36
+  },
+  "slug": "xtra-crunchy-ukrainian-chickpeas-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-ukrainian-chickpeas-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:03:01Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "pickle",
+    "primaryIngredient": "mustard",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Tagine"
+  }
+}
