@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Zesty Lebanese Chickpeas Falafel Bowl",
+  "description": "A spicy, cheese‑pull, one‑pot Lebanese falafel bowl that bursts with orange zest and dashi flavor, served in a copper mug for a dramatic presentation.",
+  "cuisine": "Lebanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "400g"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1/2 cup diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "for cheese-pull"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse cooked chickpeas, then pulse in a food processor with garlic, onion, parsley, salt, and baking powder until coarse.",
+    "Stir in flour, dashi powder, orange zest, and crushed red pepper flakes until the mixture holds together.",
+    "Shape the mixture into small patties and let rest for 15 minutes.",
+    "Heat a non‑stick skillet over medium heat, add olive oil, and fry the patties until golden brown on both sides, about 3‑4 minutes per side.",
+    "Transfer the patties to a copper mug, top with crumbled feta cheese, and serve immediately with a side of cucumber yogurt dip and a squeeze of fresh lemon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "mediterranean",
+    "one-pot",
+    "pescatarian",
+    "quick-meals"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-zesty-lebanese-chickpeas-falafel-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-zesty-lebanese-chickpeas-falafel-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:07:12Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "dashi-extract",
+    "primaryIngredient": "orange",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Lebanese",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Xtra Zesty",
+    "dishForm": "Falafel Bowl"
+  }
+}

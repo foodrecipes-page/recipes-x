@@ -224,5 +224,19 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 38,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-zesty-lebanese-chickpeas-falafel-bowl",
+    "title": "Xtra Zesty Lebanese Chickpeas Falafel Bowl",
+    "tags": [
+      "cheese-pull",
+      "mediterranean",
+      "one-pot",
+      "pescatarian",
+      "quick-meals"
+    ],
+    "cuisine": "Lebanese",
+    "totalTimeMin": 32,
+    "shard": "x"
   }
 ]
