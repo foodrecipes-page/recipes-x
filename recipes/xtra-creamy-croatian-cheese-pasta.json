@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Creamy Croatian Cheese Pasta",
+  "description": "A light and creamy Croatian dish featuring olive oil and a yeasty cheese pull, this vegetarian friendly pasta is perfect for a weeknight dinner. The al-dente finish and flavorful sauce make it a delicious and satisfying meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "croatian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions until al-dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, until fragrant.",
+    "In a large bowl, whisk together the vegetable broth, heavy cream, dried thyme, salt, and black pepper.",
+    "Add the shredded Croatian cheese to the bowl and stir until well combined and the cheese is fully melted.",
+    "Add the cooked pasta to the cheese sauce and stir until the pasta is well coated.",
+    "Transfer the pasta to the skillet with the onion and garlic and stir to combine.",
+    "Reduce heat to low and simmer the pasta for an additional 2-3 minutes, until the sauce has thickened and the cheese is pulling.",
+    "Serve the pasta hot, garnished with additional thyme if desired.",
+    "Let the pasta rest for a few minutes before serving to allow the sauce to set.",
+    "Enjoy your delicious and creamy Croatian cheese pasta."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "one-pot",
+    "pasta",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xtra-creamy-croatian-cheese-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-croatian-cheese-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:14:03Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "olive oil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Pasta"
+  }
+}

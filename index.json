@@ -610,6 +610,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-croatian-cheese-pasta",
+    "title": "Xtra Creamy Croatian Cheese Pasta",
+    "tags": [
+      "comfort-food",
+      "croatian",
+      "one-pot",
+      "pasta",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-french-beef-boeuf-bourguignon",
     "title": "Xtra Creamy French Beef Boeuf Bourguignon",
     "tags": [
