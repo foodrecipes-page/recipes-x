@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Buttery Peruvian Fish Fillet Lomo Saltado",
+  "description": "A dairy-free friendly Peruvian dish featuring fish fillet, long fermentation dough, and a buttery glassy jelly sauce, perfect for a weeknight dinner. This recipe is easy to make and serves 4 people.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "Long Fermentation Dough",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the fish fillet into small pieces and season with salt and pepper.",
+    "In a large pan, melt the butter over medium heat and add the garlic and ginger.",
+    "Add the fish pieces to the pan and cook for 3-4 minutes on each side.",
+    "In a small bowl, whisk together the soy sauce and vinegar.",
+    "Add the soy sauce mixture to the pan and stir to combine.",
+    "Add the long fermentation dough to the pan and stir to combine.",
+    "Transfer the pan to the preheated oven and bake for 10-12 minutes.",
+    "Remove the pan from the oven and stir in the chopped scallions.",
+    "Serve the fish hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "fish-recipe",
+    "gluten-free",
+    "one-pan-meal",
+    "peruvian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-buttery-peruvian-fish-fillet-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-peruvian-fish-fillet-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:16:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "fish fillet",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "fish fillet",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Lomo Saltado"
+  }
+}
