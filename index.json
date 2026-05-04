@@ -1308,6 +1308,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-smoky-ethiopian-lentils-curry",
+    "title": "Xtra Smoky Ethiopian Lentils Curry",
+    "tags": [
+      "curry",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "smoky",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-smoky-venezuelan-taleggio-empanadas",
     "title": "Xtra Smoky Venezuelan Taleggio Empanadas",
     "tags": [
