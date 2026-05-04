@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Salty Ethiopian Galangal Atakilt Wat",
+  "description": "A salty and savory Ethiopian dish featuring galangal, perfect for a date night, this flexitarian-friendly atakilt wat is made with poached ingredients and has a unique glassy-jelly texture.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 medium roots",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped red bell pepper and cook until it is tender.",
+    "Add the chopped tomato and cook until it is soft.",
+    "Add the chopped galangal and cook for 2 minutes.",
+    "Add the berbere spice and salt, and stir to combine.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Use an immersion blender to puree the mixture to a glassy-jelly texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "ethiopian-cuisine",
+    "flexitarian",
+    "galangal-recipes",
+    "poached-ingredients",
+    "salty-dishes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xtra-salty-ethiopian-galangal-atakilt-wat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-salty-ethiopian-galangal-atakilt-wat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:04:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "poach",
+    "primaryIngredient": "galangal-kha",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "galangal",
+    "descriptor": "Xtra Salty",
+    "dishForm": "Atakilt Wat"
+  }
+}
