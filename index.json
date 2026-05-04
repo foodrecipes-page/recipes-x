@@ -836,6 +836,21 @@
     "shard": "x"
   },
   {
+    "slug": "xeriscent-comforting-algerian-rice-pilaf",
+    "title": "Xeriscent Comforting Algerian Rice Pilaf",
+    "tags": [
+      "algerian",
+      "comfort-food",
+      "easy-meal",
+      "one-pan",
+      "rice-pilaf",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xeriscent-sour-german-fish-gratin",
     "title": "xeriscent sour german fish gratin",
     "tags": [
@@ -1643,6 +1658,21 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-fresh-ukrainian-eggs-frittata",
+    "title": "Xtra Fresh Ukrainian Eggs Frittata",
+    "tags": [
+      "brunch",
+      "casserole",
+      "easter-recipe",
+      "keto",
+      "low-glycemic",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
