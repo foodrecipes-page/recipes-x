@@ -436,6 +436,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crunchy-australian-fish-skewers",
+    "title": "Xtra Crunchy Australian Fish Skewers",
+    "tags": [
+      "australian",
+      "crunchy",
+      "fish",
+      "halal",
+      "kid-friendly",
+      "skewers"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-dense-roasted-irish-duck-leg-roast",
     "title": "Xtra Dense Roasted Irish Duck Leg Roast",
     "tags": [
