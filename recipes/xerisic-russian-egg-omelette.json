@@ -1,0 +1,113 @@
+{
+  "title": "Xerisic Russian Egg Omelette",
+  "description": "A light and floral Russian-inspired dish featuring miso-marinated eggs, perfect for a relaxing brunch. This low-calorie omelette is a great option for a healthy meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Miso paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh chives",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Grated lemon zest",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together the miso paste, olive oil, a pinch of salt, and a few grinds of black pepper until smooth.",
+    "Add the chopped dill and chives to the bowl and mix well.",
+    "Heat a small non-stick pan over medium heat.",
+    "Add the egg mixture to the pan and cook until the edges start to set, about 1-2 minutes.",
+    "Tilt the pan to gently lift and fold the edges of the omelette towards the center.",
+    "Use a spatula to carefully fold the omelette in half.",
+    "Cook for an additional 1-2 minutes, until the eggs are cooked through and the omelette is golden brown.",
+    "Transfer the omelette to a plate and garnish with grated lemon zest and a squeeze of lemon juice.",
+    "Serve warm, with a side of Greek yogurt if desired.",
+    "To make the miso marinade, whisk together the miso paste, lemon juice, and a pinch of salt in a small bowl until smooth.",
+    "Refrigerate the marinade for at least 30 minutes to allow the flavors to meld.",
+    "Once the marinade has chilled, whisk it into the egg mixture before cooking the omelette."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy",
+    "eggs",
+    "healthy",
+    "low-calorie",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "xerisic-russian-egg-omelette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xerisic-russian-egg-omelette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:50Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "miso-marinate",
+    "primaryIngredient": "olive oil",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "eggs",
+    "descriptor": "xerisic",
+    "dishForm": "Omelette"
+  }
+}

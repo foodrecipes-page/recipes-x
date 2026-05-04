@@ -881,6 +881,22 @@
     "shard": "x"
   },
   {
+    "slug": "xerisic-russian-egg-omelette",
+    "title": "Xerisic Russian Egg Omelette",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "easy",
+      "eggs",
+      "healthy",
+      "low-calorie",
+      "russian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xquisite-algerian-linguine-salad",
     "title": "Xquisite Algerian Linguine Salad",
     "tags": [
