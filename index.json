@@ -299,5 +299,20 @@
     "cuisine": "Lebanese",
     "totalTimeMin": 32,
     "shard": "x"
+  },
+  {
+    "slug": "xyloid-silky-brazilian-rigatoni-pasta",
+    "title": "Xyloid Silky Brazilian Rigatoni Pasta",
+    "tags": [
+      "brazilian",
+      "comfort-food",
+      "kosher-friendly",
+      "one-pot",
+      "pasta",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "x"
   }
 ]

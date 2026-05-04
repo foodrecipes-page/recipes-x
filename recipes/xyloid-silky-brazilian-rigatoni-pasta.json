@@ -1,0 +1,105 @@
+{
+  "title": "Xyloid Silky Brazilian Rigatoni Pasta",
+  "description": "A nutty and silky Brazilian dish featuring rigatoni and double-rise-bread, perfect for a weeknight dinner",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup",
+      "notes": "kosher"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni according to package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning",
+    "Stir in the crushed double-rise-bread and cook for 2-3 minutes, until lightly toasted",
+    "Add the canned coconut milk to the skillet and stir to combine with the bread and onion mixture",
+    "Bring the coconut milk mixture to a simmer and cook for 5 minutes, until slightly thickened",
+    "Stir in the grated parmesan cheese and cook until melted and smooth",
+    "Drain the cooked rigatoni and add it to the skillet, tossing to combine with the cheesy bread sauce",
+    "Season with salt and black pepper to taste",
+    "Serve the rigatoni hot, topped with chopped fresh parsley"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "kosher-friendly",
+    "one-pot",
+    "pasta",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xyloid-silky-brazilian-rigatoni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xyloid-silky-brazilian-rigatoni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:40:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "rigatoni",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "xyloid silky",
+    "dishForm": "Pasta"
+  }
+}
