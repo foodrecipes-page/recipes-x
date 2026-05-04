@@ -1,0 +1,111 @@
+{
+  "title": "Xenial Uruguayan Kidney Beans Casserole",
+  "description": "Earthy and festive casserole of kidney beans glazed with tomato puree and smoked paprika, finished with a glossy sheen. Kosher-friendly and perfect for a celebratory dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "400 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water or low sodium broth",
+      "amount": "250 ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "to taste",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (356°F).",
+    "Heat olive oil in a Dutch oven over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic, smoked paprika, and cumin, cooking for 1 minute until fragrant.",
+    "Pour in tomato puree and bay leaf, simmer for 3 minutes.",
+    "Add cooked kidney beans and broth, season with salt and pepper, stir until well combined.",
+    "Transfer the mixture to a casserole dish and cover with foil.",
+    "Bake uncovered for 25 minutes to develop a glaze, then remove foil and bake another 10 minutes until the top is glossy.",
+    "Let rest 5 minutes, then remove bay leaf.",
+    "Sprinkle chopped parsley and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "glaze-casserole",
+    "kidney-beans",
+    "kosher-friendly",
+    "one-pot",
+    "uruguayan-flavor"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 27,
+    "carbs": 82,
+    "fat": 25
+  },
+  "slug": "xenial-uruguayan-kidney-beans-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-uruguayan-kidney-beans-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:59:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "kidney beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "kidney beans",
+    "descriptor": "Xenial",
+    "dishForm": "Casserole"
+  }
+}

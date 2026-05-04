@@ -352,6 +352,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-uruguayan-kidney-beans-casserole",
+    "title": "Xenial Uruguayan Kidney Beans Casserole",
+    "tags": [
+      "festive",
+      "glaze-casserole",
+      "kidney-beans",
+      "kosher-friendly",
+      "one-pot",
+      "uruguayan-flavor"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-velvety-dutch-dumpling-skewers",
     "title": "Xenial Velvety Dutch Dumpling Skewers",
     "tags": [
