@@ -1,0 +1,107 @@
+{
+  "title": "Xenial Silky Kenyan Coconut Stew",
+  "description": "A silky, coconut-infused stew with a mirepoix base, perfect for a comforting sick-day meal served in scallop shells.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Celery stalk",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat until shimmering.",
+    "Add the diced onion, carrot, and celery and sauté until the vegetables soften, about 5 minutes.",
+    "Stir in the minced garlic and grated ginger, cooking for another minute until fragrant.",
+    "Mix in the tomato paste and cook for 2 minutes, allowing it to caramelize slightly.",
+    "Pour in the vegetable broth, then add the coconut flakes, cumin, coriander, and salt, bringing the mixture to a gentle simmer.",
+    "Reduce the heat to low and let the stew simmer for 15 minutes, stirring occasionally, until the flavors meld.",
+    "Taste and adjust seasoning, adding more salt or spices if desired.",
+    "Ladle the silky stew into scallop shells and serve hot, optionally garnishing with fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "coconut-rich",
+    "egg-free",
+    "mirepoix",
+    "scallop-shell",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 193,
+    "protein": 1,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "xenial-silky-kenyan-coconut-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-silky-kenyan-coconut-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:09:50Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "coconut flakes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Coconut",
+    "descriptor": "Xenial Silky",
+    "dishForm": "Stew"
+  }
+}

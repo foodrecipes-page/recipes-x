@@ -382,6 +382,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-silky-kenyan-coconut-stew",
+    "title": "Xenial Silky Kenyan Coconut Stew",
+    "tags": [
+      "coconut-rich",
+      "egg-free",
+      "mirepoix",
+      "scallop-shell",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-slovakian-ackee-dumplings",
     "title": "Xenial Slovakian Ackee Dumplings",
     "tags": [
