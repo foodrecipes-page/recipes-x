@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Rich Filipino Celeriac Dinuguan",
+  "description": "A rich and creamy Filipino dish featuring celeriac and double-fry KFC, perfect for midnight cravings. This high-protein-friendly dish is a variation of the traditional dinuguan.",
+  "cuisine": "Filipino",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "pork blood",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "KFC chicken",
+      "amount": "1 cup",
+      "notes": "double-fried and diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add garlic and onion and saute until softened.",
+    "Add celeriac and cook until tender.",
+    "Add pork blood, vinegar, salt, and pepper, and stir well.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Add double-fried KFC chicken and stir well.",
+    "Cook for an additional 2 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino-food",
+    "high-protein",
+    "midnight-cravings",
+    "rich-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-rich-filipino-celeriac-dinuguan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-filipino-celeriac-dinuguan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:51:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "celeriac",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "celeriac",
+    "descriptor": "Xtra Rich",
+    "dishForm": "Dinuguan"
+  }
+}
