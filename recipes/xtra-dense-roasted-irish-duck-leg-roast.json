@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Dense Roasted Irish Duck Leg Roast",
+  "description": "A hearty and flavorful dish featuring roasted duck legs infused with oil, perfect for a crowd, this recipe is a low-fat friendly twist on traditional Irish cuisine.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together infuse oil, garlic powder, onion powder, salt, and black pepper.",
+    "Rub the mixture all over the duck legs, making sure to coat them evenly.",
+    "Place the duck legs in a large roasting pan and add the chopped carrots and potatoes.",
+    "Roast the duck legs and vegetables in the preheated oven for 45 minutes.",
+    "Baste the duck legs with the pan juices and continue roasting for an additional 20 minutes.",
+    "Remove the roasting pan from the oven and let the duck legs rest for 10 minutes before serving.",
+    "Serve the roasted duck legs with the carrots and potatoes, spooning some of the pan juices over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "irish",
+    "low-fat",
+    "one-pan",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-dense-roasted-irish-duck-leg-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-roasted-irish-duck-leg-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:49:03Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "infuse-oil",
+    "primaryIngredient": "duck legs",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "duck legs",
+    "descriptor": "Xtra Dense Roasted",
+    "dishForm": "Roast"
+  }
+}
