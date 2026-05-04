@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Tender German Broad Beans Wrap",
+  "description": "A tender and flavorful German dish featuring broad beans, perfect for a date night, wrapped in leaves and steamed to perfection, dairy-free friendly.",
+  "cuisine": "German",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broad beans",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Collard green leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and blanch the collard green leaves for 30 seconds to make them pliable.",
+    "Shock the leaves in an ice bath to stop the cooking process.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the broad beans to the skillet and cook until they are tender, about 5 minutes.",
+    "Season the broad beans with salt, black pepper, and lemon juice.",
+    "To assemble the wraps, lay a collard green leaf flat and place about 1/2 cup of the broad bean mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining leaves and filling.",
+    "Steam the wraps over boiling water for 5 minutes, covered with a lid."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "german-cuisine",
+    "healthy",
+    "steamed-dishes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "xtra-tender-german-broad-beans-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tender-german-broad-beans-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:50:49Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "broad beans",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "broad beans",
+    "descriptor": "Xtra tender",
+    "dishForm": "Wrap"
+  }
+}
