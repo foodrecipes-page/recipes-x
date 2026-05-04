@@ -789,6 +789,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-grassy-portuguese-farfalle-pasta",
+    "title": "Xtra Grassy Portuguese Farfalle Pasta",
+    "tags": [
+      "kid-friendly",
+      "one-pot",
+      "pasta-dish",
+      "portuguese-cuisine",
+      "vegetarian-option"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-hearty-syrian-white-bean-stew",
     "title": "Xtra Hearty Syrian White Bean Stew",
     "tags": [

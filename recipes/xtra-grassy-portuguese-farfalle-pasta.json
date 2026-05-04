@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Grassy Portuguese Farfalle Pasta",
+  "description": "A kid-friendly Portuguese dish featuring farfalle pasta, mirepoix base, and Mediterranean flavors, served in individual mini cocottes.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": "bow tie shaped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the farfalle pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the cherry tomatoes and cook for 2 minutes.",
+    "In a large bowl, combine the cooked pasta, vegetable mixture, and grated parmesan cheese.",
+    "Season with salt and pepper to taste.",
+    "Divide the pasta mixture among individual mini cocottes.",
+    "Top each cocotte with additional parmesan cheese and chopped parsley.",
+    "Bake in the preheated oven for 10 minutes or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "one-pot",
+    "pasta-dish",
+    "portuguese-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-grassy-portuguese-farfalle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-grassy-portuguese-farfalle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:54:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "farfalle",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "farfalle",
+    "descriptor": "Xtra Grassy",
+    "dishForm": "Pasta"
+  }
+}
