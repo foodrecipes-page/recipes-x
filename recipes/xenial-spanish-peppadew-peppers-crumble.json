@@ -1,0 +1,105 @@
+{
+  "title": "Xenial Spanish Peppadew Peppers Crumble",
+  "description": "Fresh, crumbly, romantic Spanish dish featuring sweet peppadew peppers, bamboo shoots, and a crunchy oat topping.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peppadew peppers",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "Rinse and slice peppadew peppers into thin strips.",
+    "In a large bowl, combine sliced peppers, diced bamboo shoots, rolled oats, chickpea flour, cumin, smoked paprika, cayenne, and sea salt.",
+    "Drizzle olive oil and lemon juice over mixture and toss until everything is evenly coated.",
+    "Transfer the pepper mixture to a greased baking dish and spread it out in an even layer.",
+    "Sprinkle chopped parsley on top of the peppers.",
+    "Bake in the preheated oven for 12 minutes, or until the crumble edges are golden and the mixture is heated through.",
+    "Remove from oven, let cool for a minute, then serve warm as a romantic side or topping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "quick",
+    "romantic",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "xenial-spanish-peppadew-peppers-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-spanish-peppadew-peppers-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:26:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Peppadew Peppers",
+    "descriptor": "Xenial",
+    "dishForm": "Crumble"
+  }
+}
