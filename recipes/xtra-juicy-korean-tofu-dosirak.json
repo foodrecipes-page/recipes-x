@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Juicy Korean Tofu Dosirak",
+  "description": "A rich and juicy Korean dish featuring crispy tofu and savory sauce, perfect for a weeknight meal. This macrobiotic-friendly recipe is grilled to perfection and served in a dosirak box.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, Gochujang, brown sugar, and garlic.",
+    "Add the tofu to the bowl and toss to coat with the sauce.",
+    "Brush the grill or grill pan with vegetable oil to prevent sticking.",
+    "Grill the tofu for 3-4 minutes per side, or until crispy and golden brown.",
+    "While the tofu is cooking, prepare the dosirak boxes with a layer of cooked white rice.",
+    "Once the tofu is done, place it on top of the rice in the dosirak boxes.",
+    "Sprinkle chopped green onions and sesame seeds over the top of the tofu.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dosirak-recipe",
+    "grilled-tofu",
+    "korean-food",
+    "macrobiotic-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "xtra-juicy-korean-tofu-dosirak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-korean-tofu-dosirak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:18:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "oil",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Xtra Juicy",
+    "dishForm": "Dosirak"
+  }
+}
