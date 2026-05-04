@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Savory Malaysian Duck Toast",
+  "description": "A floral and savory Malaysian dish featuring duck sauce and toast, perfect for a sick day, with a Mediterranean twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "duck sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": "white or whole wheat"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toast the bread slices until lightly browned.",
+    "In a small bowl, whisk together the duck sauce, sesame oil, salt, black pepper, and honey.",
+    "Brush the toasted bread slices with the duck sauce mixture.",
+    "Top each bread slice with sliced scallions, cucumber, and pickled ginger.",
+    "Drizzle any remaining duck sauce mixture over the top of each slice.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "duck-sauce",
+    "easy-lunch",
+    "gluten-free",
+    "malaysian-cuisine",
+    "mediterranean-friendly",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "xtra-savory-malaysian-duck-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-savory-malaysian-duck-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:58:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "duck sauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "duck",
+    "descriptor": "Xtra Savory",
+    "dishForm": "Toast"
+  }
+}
