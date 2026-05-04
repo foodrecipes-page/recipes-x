@@ -541,6 +541,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-malty-southern-thai-chicken-nam-prik",
+    "title": "Xtra Malty Southern Thai Chicken Nam Prik",
+    "tags": [
+      "high-protein",
+      "malty",
+      "one-pan",
+      "southern-thai",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-pungent-malaysian-cheese-noodles",
     "title": "Xtra Pungent Malaysian Cheese Noodles",
     "tags": [
