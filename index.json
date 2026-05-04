@@ -166,6 +166,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-turkish-chocolate-dumplings",
+    "title": "Xenial Turkish Chocolate Dumplings",
+    "tags": [
+      "anti-inflammatory",
+      "chocolate",
+      "manti",
+      "quick",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-turkish-semolina-pilaf",
     "title": "Xenial Turkish Semolina Pilaf",
     "tags": [

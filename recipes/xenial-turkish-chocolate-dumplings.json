@@ -1,0 +1,116 @@
+{
+  "title": "Xenial Turkish Chocolate Dumplings",
+  "description": "A springy, cultured Turkish dessert that blends dark chocolate with a mirepoix-infused dough, finished in a yogurt‑spiced sauce for an anti‑inflammatory solo dinner.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": "for dough"
+    },
+    {
+      "name": "warm water",
+      "amount": "125ml",
+      "notes": "to hydrate flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for dough"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "200g",
+      "notes": "70% cacao, chopped"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "150g",
+      "notes": "for sauce"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": "anti-inflammatory"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp",
+      "notes": "anti-inflammatory"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "for sweet balance"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, and olive oil in a bowl, then stir in warm water until a soft dough forms.",
+    "Fold in chopped dark chocolate and knead for 5 minutes until smooth and springy.",
+    "Cover the dough and let it rest for 10 minutes at room temperature.",
+    "In a separate skillet, sauté diced carrot, celery, and onion in a little olive oil until softened, about 5 minutes.",
+    "Transfer the mirepoix to a small saucepan and simmer with ground ginger and turmeric for 2 minutes to create a fragrant sauce base.",
+    "Shape the rested dough into small dumpling pockets and fill each with a teaspoon of the mirepoix blend.",
+    "Bring a pot of salted water to a boil, then cook dumplings for 4 minutes until they rise to the surface.",
+    "Drain the dumplings and toss them with plain Greek yogurt, honey, and a pinch of salt, stirring until the sauce coats each dumpling.",
+    "Serve hot, garnished with a drizzle of melted dark chocolate and a sprinkle of fresh mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "chocolate",
+    "manti",
+    "quick",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "xenial-turkish-chocolate-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-turkish-chocolate-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:06:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "dark chocolate",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Xenial",
+    "dishForm": "Dumplings"
+  }
+}
