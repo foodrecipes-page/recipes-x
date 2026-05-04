@@ -1,0 +1,103 @@
+{
+  "title": "Xanthous Energizing Uruguayan Corn Paella",
+  "description": "This Uruguayan corn paella is a unique and energizing dish that combines the flavors of nutmeg and binchotan-charcoal with the sweetness of corn, all in a traditional paella pan. It is an egg-free friendly option perfect for any meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the corn kernels, smoked paprika, nutmeg, binchotan-charcoal powder, salt, and black pepper, and stir to combine.",
+    "Add the water to the paella pan and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the liquid has been absorbed and the corn is tender.",
+    "Remove the paella pan from the heat and let it cool for a few minutes before serving.",
+    "Serve the paella hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "smoky",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xanthous-energizing-uruguayan-corn-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-energizing-uruguayan-corn-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:04:12Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "nutmeg",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "corn",
+    "descriptor": "Xanthous Energizing",
+    "dishForm": "Paella"
+  }
+}
