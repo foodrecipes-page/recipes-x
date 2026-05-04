@@ -1,0 +1,100 @@
+{
+  "title": "Xenial Uruguayan Gruyere Flatbread",
+  "description": "A briny, shaggy, comforting flatbread packed with Gruyere cheese, perfect for a quick lunch on a tava-griddle.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "300g"
+    },
+    {
+      "name": "warm water",
+      "amount": "180ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "sugar",
+      "amount": "2g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "grated Gruyere cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1g"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, sugar and yeast in a large bowl.",
+    "Add warm water and olive oil and stir until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface for 5 minutes until smooth.",
+    "Cover the dough with a damp cloth and let it rise in a warm place for 30 minutes until doubled.",
+    "Punch down the dough and divide it into two equal portions.",
+    "Roll each portion into a flat disc about 0.5cm thick.",
+    "Sprinkle grated Gruyere, oregano, paprika and thyme evenly over the discs.",
+    "Press the toppings lightly into the dough with your fingers.",
+    "Heat a tava-griddle over medium heat and cook each flatbread for 4 minutes per side until golden and bubbly.",
+    "Serve warm straight from the griddle for a comforting, briny bite."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "gruyere",
+    "quick",
+    "satvik",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 28,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "xenial-uruguayan-gruyere-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-uruguayan-gruyere-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:06:16Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "gruy re",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Gruyere",
+    "descriptor": "Xenial",
+    "dishForm": "Flatbread"
+  }
+}

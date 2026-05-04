@@ -253,6 +253,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-uruguayan-gruyere-flatbread",
+    "title": "Xenial Uruguayan Gruyere Flatbread",
+    "tags": [
+      "flatbread",
+      "gruyere",
+      "quick",
+      "satvik",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-vietnamese-nectarines-bun-thit-nuong",
     "title": "Xenial Vietnamese Nectarines Bun Thit Nuong",
     "tags": [
