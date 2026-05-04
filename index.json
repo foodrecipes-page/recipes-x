@@ -106,6 +106,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-turkish-semolina-pilaf",
+    "title": "Xenial Turkish Semolina Pilaf",
+    "tags": [
+      "cozy",
+      "no-garlic",
+      "no-onion",
+      "pickled",
+      "semolina",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xeriscape-grilled-filipino-beef-bistek",
     "title": "xeriscape grilled filipino beef bistek",
     "tags": [

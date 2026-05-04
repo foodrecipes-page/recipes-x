@@ -1,0 +1,112 @@
+{
+  "title": "Xenial Turkish Semolina Pilaf",
+  "description": "A bitter yet juicy Turkish pilaf that brings a cozy feel with semolina and pickles, crafted without onion or garlic.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cucumber pickles",
+      "amount": "0.25 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, heat the olive oil over medium heat until shimmering.",
+    "Add the ground cumin, coriander, sumac, and salt; stir continuously for 30 seconds to toast the spices.",
+    "Pour in the semolina, stirring constantly, until it turns lightly golden and smells nutty.",
+    "Add the water and vegetable broth, bring the mixture to a gentle boil, then reduce heat to low.",
+    "Stir in the lemon juice, then cover and simmer for 10 minutes, allowing the semolina to absorb the liquid.",
+    "Remove the saucepan from heat and fluff the pilaf gently with a wooden spoon.",
+    "Fold in the diced cucumber pickles, dill, and mint, mixing until evenly distributed.",
+    "Taste and adjust seasoning with additional salt or lemon juice if needed.",
+    "Transfer the pilaf to a serving dish and top with a drizzle of olive oil.",
+    "Let it rest for 5 minutes before serving, giving the flavors a chance to meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "no-garlic",
+    "no-onion",
+    "pickled",
+    "semolina",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 5
+  },
+  "slug": "xenial-turkish-semolina-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-turkish-semolina-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:13:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "semolina",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "semolina",
+    "descriptor": "Xenial",
+    "dishForm": "Pilaf"
+  }
+}
