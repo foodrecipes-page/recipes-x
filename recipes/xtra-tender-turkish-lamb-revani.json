@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Tender Turkish Lamb Revani",
+  "description": "A romantic Turkish dish featuring tender lamb and egg rolls, cooked to perfection in a tagine, low in carbs and rich in flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "fatty cuts preferred"
+    },
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced onion, minced garlic, paprika, cumin, salt, and black pepper.",
+    "Add the lamb shoulder to the bowl and coat with the spice mixture, making sure to cover all surfaces.",
+    "Wrap each egg roll wrapper around a portion of the lamb, sealing the edges with a little water.",
+    "Heat the olive oil in the tagine over medium heat and sear the egg rolls until golden brown.",
+    "Transfer the tagine to the preheated oven and cook for 2.5 hours, or until the lamb is tender.",
+    "Remove the tagine from the oven and let it rest for 10 minutes before serving.",
+    "Serve the lamb and egg rolls hot, garnished with fresh parsley or thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-recipes",
+    "low-carb",
+    "romantic-dinners",
+    "special-occasions",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-tender-turkish-lamb-revani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tender-turkish-lamb-revani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:24:51Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "tagine-cook",
+    "primaryIngredient": "egg rolls",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Tender",
+    "dishForm": "Revani"
+  }
+}
