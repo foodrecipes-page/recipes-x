@@ -136,6 +136,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-french-beef-boeuf-bourguignon",
+    "title": "Xtra Creamy French Beef Boeuf Bourguignon",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "gluten-free",
+      "one-pot",
+      "paleo-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 140,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crisp-canadian-haddock-chowder",
     "title": "Xtra Crisp Canadian Haddock Chowder",
     "tags": [

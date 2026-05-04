@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Creamy French Beef Boeuf Bourguignon",
+  "description": "A rich and creamy French dish featuring tender beef, smoked paprika, and a paleo-friendly twist on the classic boeuf bourguignon, this recipe is a quick-fix solution for a delicious dinner.",
+  "cuisine": "French",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat and add the beef cubes to brown on all sides.",
+    "Remove the browned beef from the pot and set aside, then add the sliced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the mushrooms to the pot and cook until they release their liquid and start to brown.",
+    "Add the smoked paprika, salt, and black pepper to the pot and stir to combine.",
+    "Add the browned beef back to the pot and pour in enough beef broth to cover the ingredients.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1.5 hours.",
+    "Stir in the coconut cream and continue to simmer for an additional 30 minutes.",
+    "Taste and adjust the seasoning as needed, then serve hot garnished with a sprig of fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "gluten-free",
+    "one-pot",
+    "paleo-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-creamy-french-beef-boeuf-bourguignon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-french-beef-boeuf-bourguignon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:12:23Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "smoked paprika",
+    "diet": "paleo",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Creamy",
+    "dishForm": "Boeuf Bourguignon"
+  }
+}
