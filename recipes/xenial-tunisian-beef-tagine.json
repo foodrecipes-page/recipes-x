@@ -1,0 +1,107 @@
+{
+  "title": "Xenial Tunisian Beef Tagine",
+  "description": "A cultured, shattering romantic dish of beef in a fragrant Tunisian sauce, served from a traditional donabe.",
+  "cuisine": "tunisian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck",
+      "amount": "1.2 kg"
+    },
+    {
+      "name": "beef stock",
+      "amount": "1500 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "2 tbsp, grated"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "10, halved"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe over medium heat and add olive oil until shimmering.",
+    "Add the sliced onion and sauté until translucent and fragrant.",
+    "Stir in the minced garlic, grated ginger, and harissa paste, cooking for 1 minute.",
+    "Add the beef cubes, browning all sides on each side.",
+    "Sprinkle in the cumin, coriander, and cinnamon, stirring to coat the meat.",
+    "Pour in the beef stock and bring to a gentle simmer, covering the pot.",
+    "Reduce heat to low, add halved apricots, and cook for 90 minutes, stirring occasionally.",
+    "Finish with a splash of lemon juice, season with salt and pepper, and garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-free",
+    "donabe",
+    "one-pot",
+    "romantic",
+    "shattering",
+    "tunisian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xenial-tunisian-beef-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-tunisian-beef-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:07:28Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "beef stock",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Beef",
+    "descriptor": "Xenial",
+    "dishForm": "Tagine"
+  }
+}
