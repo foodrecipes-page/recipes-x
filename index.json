@@ -296,6 +296,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-savory-norwegian-fish-stew",
+    "title": "Xenial Savory Norwegian Fish Stew",
+    "tags": [
+      "comfort-food",
+      "fish-stew",
+      "gluten-free",
+      "norwegian-cuisine",
+      "one-pot",
+      "pescatarian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-slovakian-ackee-dumplings",
     "title": "Xenial Slovakian Ackee Dumplings",
     "tags": [
@@ -1200,6 +1215,20 @@
       "vegetarian"
     ],
     "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-light-ukrainian-sesame-pilaf",
+    "title": "Xtra Light Ukrainian Sesame Pilaf",
+    "tags": [
+      "light-meal",
+      "low-fat",
+      "one-pan",
+      "ukrainian-cuisine",
+      "vegetarian-option"
+    ],
+    "cuisine": "Ukrainian",
     "totalTimeMin": 35,
     "shard": "x"
   },

@@ -1,0 +1,104 @@
+{
+  "title": "Xenial Savory Norwegian Fish Stew",
+  "description": "A hearty and savory Norwegian fish stew made with double cream and a variety of seafood, perfect for a cold winter's night. This stew is also ayurvedic-tamasic-friendly and can be prepared in under an hour.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "salmon fillets",
+      "amount": "1/2 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "double cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the chopped onion, carrots, and potatoes, and saute over medium heat until the vegetables are tender.",
+    "Add the cod and salmon fillets to the pot, and cook until the fish is opaque and flakes easily with a fork.",
+    "Pour in the double cream, water, dried thyme, salt, and black pepper, and stir to combine.",
+    "Bring the stew to a simmer, then reduce the heat to low and let cook for 10 minutes.",
+    "Use a spoon to gently fold the stew, being careful not to break up the fish.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew rest for a few minutes before serving to allow the flavors to meld together.",
+    "Taste and adjust the seasoning as needed before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pot",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xenial-savory-norwegian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-savory-norwegian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:38:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "double cream",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Xenial Savory",
+    "dishForm": "Stew"
+  }
+}
