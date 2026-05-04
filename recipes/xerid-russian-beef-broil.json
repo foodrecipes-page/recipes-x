@@ -1,0 +1,119 @@
+{
+  "title": "Xerid Russian Beef Broil",
+  "description": "Savory, springy and adventurous Russian dish featuring gelatine leaves and broil, perfect for a no-onion-no-garlic-friendly meal.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "gelatine leaves",
+      "amount": "4 sheets",
+      "notes": "soaked in cold water for at least 30 minutes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beef fat",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "100ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to its highest temperature setting.",
+    "Pat dry the beef strips with paper towels.",
+    "Season the beef with salt, black pepper, and a pinch of salt.",
+    "Dredge the beef strips in flour, shaking off any excess.",
+    "Melt the butter in a small saucepan over medium heat.",
+    "Add the gelatine leaves to the saucepan and cook for 2-3 minutes or until dissolved.",
+    "Remove the saucepan from the heat and stir in the beef broth, beef fat, and milk.",
+    "Add the chopped dill to the saucepan and stir to combine.",
+    "Place the beef strips on a broiler pan lined with parchment paper.",
+    "Brush the beef strips with the gelatine mixture, making sure they're fully coated.",
+    "Broil the beef for 4-6 minutes per side or until cooked to your desired level of doneness.",
+    "Transfer the beef to a serving platter and garnish with chopped parsley.",
+    "Serve hot and enjoy!",
+    "Note: Traditionally, this dish is served with boiled potatoes or buckwheat groats, but feel free to serve it with your favorite sides!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "beef",
+    "high-protein",
+    "no-onion-no-garlic",
+    "one-pan",
+    "rusian",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xerid-russian-beef-broil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xerid-russian-beef-broil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:12Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "broil",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "xerid",
+    "dishForm": "Broil"
+  }
+}

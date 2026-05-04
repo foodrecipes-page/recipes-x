@@ -768,6 +768,23 @@
     "shard": "x"
   },
   {
+    "slug": "xerid-russian-beef-broil",
+    "title": "Xerid Russian Beef Broil",
+    "tags": [
+      "adventurous",
+      "beef",
+      "high-protein",
+      "no-onion-no-garlic",
+      "one-pan",
+      "rusian",
+      "spring",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "xeriscape-grilled-filipino-beef-bistek",
     "title": "xeriscape grilled filipino beef bistek",
     "tags": [
