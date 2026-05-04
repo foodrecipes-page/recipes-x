@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Crispy Moroccan Peanuts Pasta",
+  "description": "A fresh and light Moroccan dish featuring peanuts and a mediterranean friendly pasta water emulsion, perfect for a quick and delicious lunch",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "dry roasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat and add the garlic, ginger, cumin, paprika, salt, and black pepper",
+    "Cook the spice mixture for 2 minutes, stirring constantly, until fragrant",
+    "Add the peanuts to the skillet and cook for 2 minutes, stirring constantly, until lightly toasted",
+    "Reserve 1 cup of pasta water before draining the pasta",
+    "Add the cooked pasta to the skillet with the peanut mixture and toss to combine",
+    "Add the reserved pasta water to the skillet in small increments to create a light and creamy emulsion",
+    "Season the pasta with salt and black pepper to taste",
+    "Garnish with chopped parsley and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "moroccan",
+    "pasta-dish",
+    "peanut-based",
+    "quick-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-crispy-moroccan-peanuts-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-moroccan-peanuts-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:04:29Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "peanuts",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Pasta"
+  }
+}

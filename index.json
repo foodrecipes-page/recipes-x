@@ -610,6 +610,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-moroccan-peanuts-pasta",
+    "title": "Xtra Crispy Moroccan Peanuts Pasta",
+    "tags": [
+      "mediterranean",
+      "moroccan",
+      "pasta-dish",
+      "peanut-based",
+      "quick-meal",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crumbly-portuguese-kimchi-casserole",
     "title": "Xtra Crumbly Portuguese Kimchi Casserole",
     "tags": [
