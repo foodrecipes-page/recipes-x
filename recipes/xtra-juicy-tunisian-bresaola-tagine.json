@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Juicy Tunisian Bresaola Tagine",
+  "description": "A fresh and juicy Tunisian dish featuring bresaola, cooked in a clay pot to perfection, suitable for satvik friendly diet.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the sliced bresaola to the bowl and toss to coat with the spice mixture.",
+    "Heat the clay pot over medium heat and add the chopped onions.",
+    "Cook the onions until they are translucent and starting to caramelize.",
+    "Add the minced garlic to the clay pot and cook for 1 minute.",
+    "Add the coated bresaola to the clay pot and cook for 2 minutes.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Cover the clay pot and transfer it to the preheated tandoor.",
+    "Cook the tagine for 20 minutes or until the bresaola is cooked through and the sauce has thickened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bresaola-recipes",
+    "clay-pot",
+    "one-pot",
+    "satvik-friendly",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-juicy-tunisian-bresaola-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-tunisian-bresaola-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:34:25Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "bresaola",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "bresaola",
+    "descriptor": "Xtra Juicy",
+    "dishForm": "Tagine"
+  }
+}

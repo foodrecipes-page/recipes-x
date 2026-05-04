@@ -332,6 +332,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-juicy-tunisian-bresaola-tagine",
+    "title": "Xtra Juicy Tunisian Bresaola Tagine",
+    "tags": [
+      "bresaola-recipes",
+      "clay-pot",
+      "one-pot",
+      "satvik-friendly",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-light-british-seaweed-salad",
     "title": "Xtra Light British Seaweed Salad",
     "tags": [
