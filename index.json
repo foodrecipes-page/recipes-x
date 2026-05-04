@@ -1233,6 +1233,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-rich-german-salmon-braise",
+    "title": "Xtra Rich German Salmon Braise",
+    "tags": [
+      "comfort-food",
+      "fish-based",
+      "german-cuisine",
+      "one-pot",
+      "special-occasion"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-rich-german-sausage-stew",
     "title": "Xtra Rich German Sausage Stew",
     "tags": [

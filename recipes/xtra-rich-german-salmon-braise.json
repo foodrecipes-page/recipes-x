@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Rich German Salmon Braise",
+  "description": "A cultured and velvety German dish featuring salmon in a rich braise, perfect for adventurous eaters, and egg-free-friendly for those with dietary restrictions.",
+  "cuisine": "German",
+  "diet": [
+    "egg-free",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and skin removed"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dill",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large Dutch oven over medium heat.",
+    "Add the chopped onions, carrots, and celery, and cook until the vegetables are tender.",
+    "Add the white wine and bring to a boil, then reduce the heat and simmer for 5 minutes.",
+    "Add the fish stock, heavy cream, dried dill, salt, and black pepper, and stir to combine.",
+    "Add the salmon fillets to the pot, skin side up, and spoon some of the braise over the top of each fillet.",
+    "Cover the pot and transfer it to the preheated oven, and braise for 12 minutes.",
+    "Remove the pot from the oven and check the salmon for doneness, then return it to the oven for an additional 2 minutes if necessary.",
+    "Remove the pot from the oven and let it cool slightly, then serve the salmon with the rich braise spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-based",
+    "german-cuisine",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "xtra-rich-german-salmon-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-german-salmon-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:08:56Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "braise",
+    "primaryIngredient": "salmon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "salmon",
+    "descriptor": "Xtra rich",
+    "dishForm": "Braise"
+  }
+}
