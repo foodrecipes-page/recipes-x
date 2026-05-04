@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Crunchy Kerala Vegetables Gulab Jamun",
+  "description": "Spicy, crisp, and soothing Kerala-style vegetable gulab jamun, perfect for a sick day.",
+  "cuisine": "Kerala",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "raw grated carrots",
+      "amount": "100g"
+    },
+    {
+      "name": "raw grated beetroot",
+      "amount": "50g"
+    },
+    {
+      "name": "raw grated cabbage",
+      "amount": "50g"
+    },
+    {
+      "name": "raw grated potato",
+      "amount": "100g"
+    },
+    {
+      "name": "corn flour",
+      "amount": "30g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1tsp"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2tsp"
+    },
+    {
+      "name": "green chili",
+      "amount": "1"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "1.5tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "15g"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Toss the grated carrots, beetroot, cabbage, and potato with ginger garlic paste, chopped green chili, and salt and pepper until evenly coated.",
+    "Add corn flour, all-purpose flour, and baking powder to the vegetable mixture and knead until a pliable dough forms.",
+    "Roll the dough into small balls about 1 inch in diameter.",
+    "Coat each ball lightly in sesame seeds, tapping off excess.",
+    "Heat oil in a deep pan to 180°C until it shimmers.",
+    "Gently slide the coated balls into the hot oil and fry until golden brown and crisp, about 4 minutes.",
+    "Remove the gulab jamuns with a slotted spoon and drain them on paper towels.",
+    "Let the snack cool slightly before serving with a side of cooling cucumber raita.",
+    "Store any leftovers in an airtight container at room temperature for up to two days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "kerala",
+    "shojin-friendly",
+    "sick-day",
+    "spicy",
+    "vegetable"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "xtra-crunchy-kerala-vegetables-gulab-jamun",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-kerala-vegetables-gulab-jamun",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:01:05Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "knead",
+    "primaryIngredient": "raw vegetables",
+    "diet": "shojin",
+    "region": "kerala",
+    "cuisineAdjective": "Kerala",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Gulab Jamun"
+  }
+}
