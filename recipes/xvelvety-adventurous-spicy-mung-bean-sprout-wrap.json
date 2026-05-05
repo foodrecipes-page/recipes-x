@@ -1,0 +1,92 @@
+{
+  "title": "Xvelvety Adventurous Spicy Mung Bean Sprout Wrap",
+  "description": "A unique blend of mung bean sprouts, agemono-deep-fry techniques, and a dash of adventurous flavors to create a Buddhist temple-friendly snack that is both spicy and velvety.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": 200,
+      "notes": "freshly grown for best texture"
+    },
+    {
+      "name": "ground pork",
+      "amount": 150
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "about a teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": 30
+    },
+    {
+      "name": "sesame oil",
+      "amount": 20
+    },
+    {
+      "name": "minced garlic",
+      "amount": "about half a clove"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "about one stalk"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Combine ground pork, crushed red pepper flakes, soy sauce, sesame oil, minced garlic, and salt in a bowl.",
+    "Mix well until evenly combined.",
+    "Add chopped scallions to the mixture.",
+    "Divide the mixture into four portions and shape them into small balls or patties.",
+    "Heat enough vegetable oil for deep-fry at 180 degrees Celsius (356 Fahrenheit).",
+    "Deep fry the patty pieces until golden brown, about 2-3 minutes per side.",
+    "Remove from heat and let it rest on a paper towel-lined plate to drain excess oil.",
+    "Slice each mung bean sprout into thin rounds.",
+    "Place one sliced mung bean sprout round in each wrap. Place a deep-fried patty piece inside the wrap, top with more scallions if desired.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "adventurous",
+    "buddhist-temple-friendly",
+    "mung-bean-sprouts",
+    "spicy",
+    "vegan-friendly",
+    "velvety",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "xvelvety-adventurous-spicy-mung-bean-sprout-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xvelvety-adventurous-spicy-mung-bean-sprout-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:13:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Spicy",
+    "mainIngredient": "Mung Bean Sprouts",
+    "descriptor": "Velvety Adventurous",
+    "dishForm": "Wrap"
+  }
+}
