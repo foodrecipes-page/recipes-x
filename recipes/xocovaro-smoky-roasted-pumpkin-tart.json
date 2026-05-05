@@ -1,0 +1,84 @@
+{
+  "title": "Xocovaro Smoky Roasted Pumpkin Tart",
+  "description": "A Peruvian solo-dinner dish featuring sweet red peppers and pumpkin in an ice-bath-shock method for a creamy texture. Anti-inflammatory-friendly with smoky flavors.",
+  "cuisine": "peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": 1
+    },
+    {
+      "name": "sweet red pepper",
+      "amount": 2
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "oregano leaves",
+      "amount": "few"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": 3
+    },
+    {
+      "name": "baking sheet",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Slice pumpkin into rounds and sweet red peppers.",
+    "Drizzle olive oil over both vegetables, sprinkle with cumin powder, smoked paprika, oregano leaves, salt, mix well.",
+    "Place the vegetables on a baking sheet lined with parchment paper. Roast for 25 minutes or until golden brown.",
+    "In an ice bath, shock roasted pumpkin and sweet red peppers to cool them quickly before serving.",
+    "Serve warm with your choice of side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "creamy",
+    "peruvian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "xocovaro-smoky-roasted-pumpkin-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xocovaro-smoky-roasted-pumpkin-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T13:11:20Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Xocovaro",
+    "dishForm": "Tart"
+  }
+}
