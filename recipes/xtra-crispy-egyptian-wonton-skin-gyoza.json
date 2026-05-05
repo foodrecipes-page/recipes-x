@@ -1,0 +1,121 @@
+{
+  "title": "xtra crispy egyptian wonton skin gyoza",
+  "description": "savory, snappy, energizing egyptian dish featuring wonton skin, robata-grill, lacto-vegetarian-friendly",
+  "cuisine": "egyptian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wonton skins",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "finely chopped onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed fava beans",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped bell peppers",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "egyptian spice mix",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat robata-grill to 425f.",
+    "wrap each wonton skin around a small amount of the chopped onion and garlic mixture, sealing the edges with a small amount of water.",
+    "brush the gyoza with olive oil and sprinkle with egyptian spice mix, salt, and black pepper.",
+    "place the gyoza on the preheated robata-grill and cook for 2-3 minutes on each side or until crispy and golden brown.",
+    "repeat with remaining gyoza, adjusting cooking time as necessary.",
+    "serve the xtra crispy egyptian wonton skin gyoza hot with a side of chopped cilantro and fava beans.",
+    "store any leftover gyoza in an airtight container for up to 2 days.",
+    "reheat leftover gyoza in a pan with a small amount of oil over medium heat for 2-3 minutes or until crispy and heated through.",
+    "for an added crunch, sprinkle the gyoza with cornstarch and cook for an additional 1-2 minutes on each side before serving.",
+    "to make the chopped onion and garlic mixture, finely chop 1/2 cup of onions and 2 cloves of garlic and mix with 1/4 cup of chopped cilantro and 1/2 cup of crushed fava beans.",
+    "to make the egyptian spice mix, combine 1 teaspoon of ground cumin, 1/2 teaspoon of ground coriander, and 1/4 teaspoon of cayenne pepper in a small bowl.",
+    "to store the wonton skins, place them in an airtight container and keep in the refrigerator for up to 2 weeks or freeze for up to 3 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "xtra-crispy-egyptian-wonton-skin-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-egyptian-wonton-skin-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "robata-grill",
+    "primaryIngredient": "wonton skin",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "wonton skin",
+    "descriptor": "xtra crispy",
+    "dishForm": "Gyoza"
+  }
+}

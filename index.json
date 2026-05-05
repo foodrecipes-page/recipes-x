@@ -1024,6 +1024,21 @@
     "shard": "x"
   },
   {
+    "slug": "xerisced-peruvian-dried-cranberries-pilaf",
+    "title": "Xerisced Peruvian Dried Cranberries Pilaf",
+    "tags": [
+      "gluten-free",
+      "hangover-cure",
+      "high-fiber",
+      "one-pan",
+      "peruvian",
+      "satvik"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xeriscent-comforting-algerian-rice-pilaf",
     "title": "Xeriscent Comforting Algerian Rice Pilaf",
     "tags": [
@@ -1590,6 +1605,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-egyptian-wonton-skin-gyoza",
+    "title": "xtra crispy egyptian wonton skin gyoza",
+    "tags": [
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "egyptian",
+    "totalTimeMin": 42,
     "shard": "x"
   },
   {

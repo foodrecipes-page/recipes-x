@@ -1,0 +1,97 @@
+{
+  "title": "Xerisced Peruvian Dried Cranberries Pilaf",
+  "description": "A soothing, pillowy Peruvian dish featuring dried cranberries, perfect for hangover cures, made satvik-friendly and served in an earthenware bowl.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dried cranberries",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Wild rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Score-fat (amaranth seed oil)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Grass-fed butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the amaranth seed oil in a pan over medium heat.",
+    "Add the quinoa and wild rice, cooking for 2 minutes, stirring occasionally.",
+    "Add the grass-fed butter, stirring until melted.",
+    "Add the dried cranberries, coconut milk, and chopped chives, stirring to combine.",
+    "Bring the mixture to a simmer, then reduce heat to low and cook for 20 minutes, stirring occasionally.",
+    "Season with sea salt to taste.",
+    "Serve hot in an earthenware bowl.",
+    "Garnish with additional chopped chives if desired.",
+    "Let the pilaf rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "high-fiber",
+    "one-pan",
+    "peruvian",
+    "satvik"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 22
+  },
+  "slug": "xerisced-peruvian-dried-cranberries-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xerisced-peruvian-dried-cranberries-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:44Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "score-fat",
+    "primaryIngredient": "dried cranberries",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Dried cranberries",
+    "descriptor": "Xerisced",
+    "dishForm": "Pilaf"
+  }
+}
