@@ -925,6 +925,19 @@
     "shard": "x"
   },
   {
+    "slug": "xgooey-x-korean-kabocha-x-poached-x-stir-fry",
+    "title": "XGooeyX Korean Kabocha xPoachx Stir-fry",
+    "tags": [
+      "energizing",
+      "kabocha",
+      "quick-meal",
+      "stir-fry"
+    ],
+    "cuisine": "Korean (Seoul)",
+    "totalTimeMin": 12,
+    "shard": "x"
+  },
+  {
     "slug": "xquisite-algerian-linguine-salad",
     "title": "Xquisite Algerian Linguine Salad",
     "tags": [

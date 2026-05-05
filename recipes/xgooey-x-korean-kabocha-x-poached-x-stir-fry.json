@@ -1,0 +1,71 @@
+{
+  "title": "XGooeyX Korean Kabocha xPoachx Stir-fry",
+  "description": "A fresh, gooey, energizing korean dish featuring kabocha that is perfect for a quick and easy meal.",
+  "cuisine": "Korean (Seoul)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 kabocha",
+      "amount": "each"
+    },
+    {
+      "name": "1/4 cup soy sauce",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tbsp sesame oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor-clay-pot to 375°F (190°C).",
+    "Slice kabocha into rounds about 1/4 inch thick.",
+    "Place slices in the pot and drizzle with soy sauce, sesame oil, salt, and pepper. Toss gently to coat evenly.",
+    "Poach for 12 minutes, until tender but still firm.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "energizing",
+    "kabocha",
+    "quick-meal",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 64,
+    "fat": 8
+  },
+  "slug": "xgooey-x-korean-kabocha-x-poached-x-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xgooey-x-korean-kabocha-x-poached-x-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T01:36:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "kabocha",
+    "diet": "mediterranean",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Kabocha",
+    "descriptor": "xGooeyX",
+    "dishForm": "Stir-fry"
+  }
+}
