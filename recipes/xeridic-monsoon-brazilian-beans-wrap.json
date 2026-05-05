@@ -1,0 +1,114 @@
+{
+  "title": "Xeridic Monsoon Brazilian Beans Wrap",
+  "description": "A pescatarian-friendly, monsoon-inspired Brazilian dish featuring Chinese long beans, crispy tempura, and a zesty kick, wrapped in a corn husk.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn husk wraps",
+      "amount": "4",
+      "notes": "Large, pliable corn husks"
+    },
+    {
+      "name": "Chinese long beans",
+      "amount": "1 pound",
+      "notes": "Trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Peel and de-vein"
+    },
+    {
+      "name": "Tempura mix",
+      "amount": "1 cup",
+      "notes": "Make or use store-bought"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Apple cider or white wine"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "Coarse"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet, then add the Chinese long beans and cook until tender, about 3-4 minutes.",
+    "In a separate bowl, mix together the tempura mix, vinegar, cumin, paprika, salt, and chili flakes.",
+    "Add the shrimp back into the skillet and pour the tempura mixture over them.",
+    "Toss to coat the shrimp and beans in the tempura mixture.",
+    "Warm the corn husk wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Fill each wrap with the shrimp and bean mixture, then garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "monsoon",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 22
+  },
+  "slug": "xeridic-monsoon-brazilian-beans-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeridic-monsoon-brazilian-beans-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "temper",
+    "primaryIngredient": "chinese long beans",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beans",
+    "descriptor": "Xeridic Monsoon",
+    "dishForm": "Wrap"
+  }
+}
