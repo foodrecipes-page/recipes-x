@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Tender Tunisian Green-Curry-Paste Tagine",
+  "description": "A flavorful and tender one-pot dish made with green curry paste, perfect for a low-fat meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for an additional 1 minute.",
+    "Add the chicken thighs and cook until browned on all sides, about 5-6 minutes.",
+    "Add the green curry paste and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, coconut milk, salt, and black pepper.",
+    "Bring the mixture to a simmer and cook, covered, for 30 minutes.",
+    "Remove the chicken from the saucepan and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-fat",
+    "one-pot",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "xtra-tender-tunisian-green-curry-paste-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tender-tunisian-green-curry-paste-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:12Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "green-curry-paste",
+    "descriptor": "xtra tender",
+    "dishForm": "Tagine"
+  }
+}
