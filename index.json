@@ -900,6 +900,22 @@
     "shard": "x"
   },
   {
+    "slug": "xeridic-yeast-glazed-mediterranean-bellflower-root-doraji-wrap",
+    "title": "Xeridic Yeast-Glazed Mediterranean Bellflower-root-doraji Wrap",
+    "tags": [
+      "ayurvedic-tamasic-friendly",
+      "date-night",
+      "mediterranean",
+      "one-pan",
+      "romantic",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xeriscape-aerated-spanish-chilli-wrap",
     "title": "Xeriscape Aerated Spanish Chilli Wrap",
     "tags": [
@@ -928,6 +944,21 @@
     ],
     "cuisine": "filipino",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xeriscape-roasted-mexican-tlayudas-wooden-board-tlayudas",
+    "title": "Xeriscape Roasted Mexican tlayudas Wooden-Board Tlayudas",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "mexican",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

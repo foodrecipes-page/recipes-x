@@ -1,0 +1,104 @@
+{
+  "title": "Xeridic Yeast-Glazed Mediterranean Bellflower-root-doraji Wrap",
+  "description": "A yeasty, flaky, date-night mediterranean dish featuring bellflower-root-doraji, glaze, ayurvedic-tamasic-friendly, wrapped in a ti-leaf. Perfect for a romantic evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bellflower root-doraji",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Ti-leaf",
+      "amount": "4 large",
+      "notes": "fresh for wrapping"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 packet",
+      "notes": "active dry, fast-acting"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Date honey",
+      "amount": "1 tablespoon",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1\u000404 teaspoon",
+      "notes": "flaky sea salt for finishing"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1\u000404 teaspoon",
+      "notes": "freshly ground for aroma"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix yeast with 1 cup of warm water (around 100\u000162F). Stir gently to dissolve, then let sit for 5 minutes, or until frothy.",
+    "Add yeast mixture to a mixing bowl with 2 cups of flour, 1 teaspoon of paprika, and 1\u000404 teaspoon of salt. Mix until a shaggy dough forms.",
+    "Knead dough for 10 minutes, until smooth and elastic.",
+    "Place dough in a lightly oiled bowl, cover with plastic wrap, and let rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat a non-stick skillet or griddle to medium-high heat (around 400\u000162F).",
+    "Divide dough into 4 equal pieces, and roll each into a ball. Flatten each ball slightly into a disk shape.",
+    "Place a disk of dough on the skillet, and brush with olive oil. Top with sliced bellflower root-doraji, a sprinkle of paprika, and a pinch of salt.",
+    "Fold dough over filling, and press edges to seal. Cook for 2-3 minutes on each side, or until golden brown.",
+    "While cooking, mix date honey with 1 tablespoon of water in a small bowl until smooth. Brush glaze over cooked wraps during the last minute of cooking.",
+    "Repeat with remaining dough and filling ingredients.",
+    "To assemble wraps, place a cooked disk on a ti-leaf, and fill with remaining bellflower root-doraji, a sprinkle of paprika, and a pinch of salt.",
+    "Brush edges of ti-leaf with olive oil, and fold to enclose.",
+    "Serve immediately, garnished with fresh herbs or edible flowers, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-tamasic-friendly",
+    "date-night",
+    "mediterranean",
+    "one-pan",
+    "romantic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "xeridic-yeast-glazed-mediterranean-bellflower-root-doraji-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeridic-yeast-glazed-mediterranean-bellflower-root-doraji-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:02Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "glaze",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Bellflower-root-doraji",
+    "descriptor": "Xeridic Yeast-Glazed",
+    "dishForm": "Wrap"
+  }
+}

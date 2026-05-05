@@ -1,0 +1,127 @@
+{
+  "title": "Xeriscape Roasted Mexican tlayudas Wooden-Board Tlayudas",
+  "description": "A roasted, flaky, brunch-mood Mexican dish featuring Sichuan pepper and an ayurvedic-rajasic-friendly deglaze.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "wood-fired corn tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers in adobo",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tlayuda-style toppings",
+      "amount": "to taste",
+      "notes": "such as shredded chicken, avocado, queso fresco, cilantro, lime juice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "for deglaze"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "ayurvedic rajasic spice blend",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "wood smoke powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 450°F (230°C).",
+    "Grill wood-fired corn tortillas over medium heat for 2-3 minutes per side, until slightly charred.",
+    "Mix Sichuan peppercorns, chipotle peppers, garlic, onion, cumin, salt, black pepper, and ayurvedic rajasic spice blend in a small bowl.",
+    "Brush the tortillas with olive oil and place them on a wooden board or a baking sheet lined with parchment paper.",
+    "Roast the tortillas in the preheated oven for 10-12 minutes, until crispy and slightly puffed.",
+    "Remove the tortillas from the oven and brush with apple cider vinegar for deglaze.",
+    "Allow the tortillas to cool for 2-3 minutes before topping with tlayuda-style toppings.",
+    "Cut the tlayudas into triangles or squares and serve immediately.",
+    "Garnish with wood smoke powder for added flavor and aroma.",
+    "Serve with a side of salsa, avocado, or sour cream, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "xeriscape-roasted-mexican-tlayudas-wooden-board-tlayudas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-roasted-mexican-tlayudas-wooden-board-tlayudas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:19Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tlayudas",
+    "descriptor": "Xeriscape Roasted",
+    "dishForm": "Wooden-Board Tlayudas"
+  }
+}
