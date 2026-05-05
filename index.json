@@ -2248,6 +2248,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-silky-french-chicken-paella",
+    "title": "Xtra Silky French Chicken Paella",
+    "tags": [
+      "chicken-recipe",
+      "date-night",
+      "french-cuisine",
+      "gluten-free",
+      "one-pan",
+      "silky-texture"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-silky-german-lentil-pilaf",
     "title": "Xtra Silky German Lentil Pilaf",
     "tags": [
