@@ -1,0 +1,114 @@
+{
+  "title": "x-tra crispy shrimp indian crustaceans goan-style shrimp samosas",
+  "description": "delight in the flavors of goa with these x-tra crispy samosas filled with succulent shrimp, perfect for a light and energizing meal.",
+  "cuisine": "goan",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, peeled and deveined"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tablespoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tablespoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "mix together shrimp, cumin seeds, coriander powder, turmeric powder, red chili powder, and salt in a bowl.",
+    "heat ghee in a pan over medium heat.",
+    "add the shrimp mixture to the pan and cook until the shrimp are pink and cooked through.",
+    "meanwhile, make the pastry dough by mixing together flour, ghee, and water in a separate bowl.",
+    "divide the pastry dough into 8-10 equal pieces.",
+    "roll out each piece of dough into a thin circle.",
+    "place a tablespoon of the shrimp mixture in the center of each circle.",
+    "brush the edges of the pastry with ghee and fold the pastry over the filling to form a triangle.",
+    "brush the tops of the samosas with ghee and place them on a baking sheet.",
+    "bake the samosas in a preheated oven at 375f for 15-20 minutes, or until golden brown.",
+    "garnish with mint leaves and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "finger-food",
+    "goan",
+    "party-food",
+    "samosa",
+    "seafood",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "x-tra-crispy-shrimp-indian-crustaceans-goan-style-shrimp-samosas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-crispy-shrimp-indian-crustaceans-goan-style-shrimp-samosas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:13:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "caramelize",
+    "primaryIngredient": "crustaceans",
+    "diet": "dash",
+    "region": "goan",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "crustaceans",
+    "descriptor": "X-tra Crispy Shrimp",
+    "dishForm": "Goan-Style Shrimp Samosas"
+  }
+}
