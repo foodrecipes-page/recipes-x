@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Bouncy Indian (Kerala) Ground Pistachios Thoran",
+  "description": "A peppery, bouncy and date-night friendly Indian (Kerala) dish featuring ground pistachios, dashi-extract and fodmap-friendly ingredients.",
+  "cuisine": "indian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pistachios",
+      "amount": "250g",
+      "notes": "freshly ground from 125g pistachio nuts"
+    },
+    {
+      "name": "Dashi powder",
+      "amount": "1 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Curry leaves",
+      "amount": "10-12 leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": "whole cumin seeds"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": "whole mustard seeds"
+    },
+    {
+      "name": "Red chili peppers",
+      "amount": "2-3",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "25g",
+      "notes": "cold-pressed and non-GMO"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "fresh and peeled"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2-3 cloves",
+      "notes": "minced and peeled"
+    }
+  ],
+  "instructions": [
+    "Heat 10g of coconut oil in a small pan over medium heat.",
+    "Add cumin seeds and mustard seeds and let them sizzle for 10 seconds.",
+    "Add 2-3 whole red chili peppers and let them sizzle for 10 seconds.",
+    "Add 10-12 curry leaves and let them wilt for 10 seconds.",
+    "Add 2-inch piece of ginger and let it cook for 1 minute.",
+    "Add 2-3 minced garlic cloves and let it cook for 1 minute.",
+    "Add 1 tsp of dashi powder and mix well.",
+    "Add 250g of freshly ground pistachios and mix well.",
+    "Cook for 3-4 minutes or until the pistachios are toasted and fragrant.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "easy-dinner",
+    "high-protein",
+    "kerala-cuisine",
+    "pistachio-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "xtra-bouncy-indian-kerala-ground-pistachios-thoran",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-bouncy-indian-kerala-ground-pistachios-thoran",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:11:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "ground pistachios",
+    "diet": "fodmap",
+    "region": "kerala",
+    "cuisineAdjective": "Indian (Kerala)",
+    "mainIngredient": "Ground Pistachios",
+    "descriptor": "Xtra Bouncy",
+    "dishForm": "Thoran"
+  }
+}
