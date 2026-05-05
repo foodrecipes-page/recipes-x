@@ -943,6 +943,21 @@
     "shard": "x"
   },
   {
+    "slug": "xerisimo-quick-fix-spring-pao-de-queijo",
+    "title": "Xerisimo Quick-Fix Spring Pao de Queijo",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "easy-puff",
+      "spring-pao",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xerophilous-dutch-almond-butter-risotto",
     "title": "Xerophilous Dutch Almond Butter Risotto",
     "tags": [
@@ -1700,6 +1715,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-energizing-italian-apples-tuscan-stracciatella",
+    "title": "Xtra Energizing Italian Apples Tuscan Stracciatella",
+    "tags": [
+      "easy-to-make",
+      "high-energy",
+      "italian-dessert",
+      "low-calorie",
+      "raw-friendly",
+      "tuscan-recipes"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

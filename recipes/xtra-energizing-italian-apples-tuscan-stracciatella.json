@@ -1,0 +1,122 @@
+{
+  "title": "Xtra Energizing Italian Apples Tuscan Stracciatella",
+  "description": "A refreshing, pillowy Italian dessert featuring Braeburn apples, sashimi-cut and raw-friendly, in a creamy stracciatella form, blending the flavors of Tuscany with pure energy.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "4-6 cups, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Cashew cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tuscan honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted and used as a topping"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Microgreens",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Fresh nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Gelatin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Almond extract",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried Italian herbs",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine sliced Braeburn apples and cashew cream in a blender and process until smooth.",
+    "Transfer the mixture to a bowl and whisk in Tuscan honey, melted coconut oil, salt, and lemon zest.",
+    "Sprinkle gelatin over a small amount of cold water and let it bloom for 5 minutes, then whisk it into the apple mixture.",
+    "Pour the mixture into a strainer set over a bowl and press out as much liquid as possible.",
+    "Transfer the mixture to a serving dish and sprinkle with microgreens and a pinch of salt.",
+    "Drizzle Balsamic vinegar and coconut sugar over the top and garnish with fresh nutmeg.",
+    "Refrigerate for at least 30 minutes to allow the mixture to set.",
+    "Serve chilled, garnished with additional microgreens if desired.",
+    "Garnish with a sprinkle of dried Italian herbs and a drizzle of almond extract if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "high-energy",
+    "italian-dessert",
+    "low-calorie",
+    "raw-friendly",
+    "tuscan-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "xtra-energizing-italian-apples-tuscan-stracciatella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-energizing-italian-apples-tuscan-stracciatella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "braeburn apples",
+    "diet": "raw",
+    "region": "tuscan",
+    "cuisineAdjective": "italian",
+    "mainIngredient": "apples",
+    "descriptor": "xtra energizing",
+    "dishForm": "tuscan stracciatella"
+  }
+}
