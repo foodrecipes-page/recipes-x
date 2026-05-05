@@ -1307,6 +1307,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-chewy-umami-australian-meat-tacos",
+    "title": "Xtra Chewy Umami Australian Meat Tacos",
+    "tags": [
+      "australian",
+      "easy-to-make",
+      "kid-friendly",
+      "meat-lovers",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-citrusy-indian-buttermilk-chaat",
     "title": "Xtra Citrusy Indian Buttermilk Chaat",
     "tags": [

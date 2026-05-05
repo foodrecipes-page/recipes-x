@@ -1,0 +1,130 @@
+{
+  "title": "Xtra Chewy Umami Australian Meat Tacos",
+  "description": "This kid-friendly dish combines the flavors of Australia with the comfort of tacos, featuring fajita seasoning and a high-protein twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean-to-fat ratio for juiciness and chewiness."
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tsp",
+      "notes": "Store-bought or homemade, your choice."
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "Any color will do, but red adds a pop of color."
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1",
+      "notes": "Chop finely for best flavor."
+    },
+    {
+      "name": "Australian bush tomato paste",
+      "amount": "2 tbsp",
+      "notes": "Also known as quandong, adds a unique umami flavor."
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": "For added depth without overpowering the dish."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground for best flavor."
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "Corn tortillas work best for this recipe."
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Choose a blend of Australian cheddar and parmesan for best flavor."
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "Optional, but adds a nice cooling contrast."
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh for best flavor."
+    },
+    {
+      "name": "Australian beef broth",
+      "amount": "1 cup",
+      "notes": "Use low-sodium for best flavor."
+    },
+    {
+      "name": "nigiri-shaping tool",
+      "amount": "1",
+      "notes": "For creating those perfect taco shapes."
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking the beef and vegetables."
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up with a spatula as it cooks.",
+    "Once the beef is browned, add the fajita seasoning and Australian bush tomato paste, stirring to combine.",
+    "Add the chopped onion and red bell pepper, cooking until they are softened and fragrant.",
+    "Stir in the Australian beef broth and bring to a simmer.",
+    "Reduce the heat to medium-low and let the mixture cook for 5 minutes, stirring occasionally.",
+    "While the mixture is cooking, prepare the tortillas by warming them in a dry skillet or in the microwave.",
+    "To assemble the tacos, place a portion of the beef mixture onto a warmed tortilla, followed by a sprinkle of shredded cheese and a dollop of sour cream.",
+    "Use the nigiri-shaping tool to shape the beef mixture into neat taco shapes, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "easy-to-make",
+    "kid-friendly",
+    "meat-lovers",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "xtra-chewy-umami-australian-meat-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-chewy-umami-australian-meat-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "meat",
+    "descriptor": "xtra chewy umami",
+    "dishForm": "Tacos"
+  }
+}
