@@ -1,0 +1,93 @@
+{
+  "title": "Festive Korean Sauerkraut Wrap",
+  "description": "A fermented and pillowy wrap featuring Korean sauerkraut, grilled to perfection and wrapped in a pandan leaf. Serve warm and enjoy!",
+  "cuisine": "Korean",
+  "diet": [
+    " Vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pandan leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Korean sauerkraut (homemade)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together gochujang, soy sauce, grated ginger, and minced garlic.",
+    "Heat a grill or grill pan to medium-high heat.",
+    "Add the pandan leaf wraps to the grill and cook for 30 seconds on each side.",
+    "Fill each wrap with a spoonful of Korean sauerkraut, a sprinkle of green onions, and a sprinkle of crushed toasted sesame seeds.",
+    "Drizzle with the gochujang sauce and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "x-festive-korean-sauerkraut-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-festive-korean-sauerkraut-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:25Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "sauerkraut",
+    "diet": "sugar-free",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "x Festive",
+    "dishForm": "wrap"
+  }
+}

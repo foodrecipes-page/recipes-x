@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Crunchy Wide Italian Pasta Flatbread",
+  "description": "Winey, crunchy, hangover-cure Italian Piedmontese dish featuring vanilla, beurre-monte, lacto-vegetarian-friendly, form=piadina, vessel=cazuela.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "00 Caputo Flour",
+      "amount": "1 1/4 cups",
+      "notes": "for the crust"
+    },
+    {
+      "name": "Piedmontese Pasta",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmigiano-Reggiano",
+      "amount": "1/2 cup",
+      "notes": "grated, for the filling"
+    },
+    {
+      "name": "Mascarpone",
+      "amount": "1/4 cup",
+      "notes": "for the filling"
+    },
+    {
+      "name": "Salted Butter",
+      "amount": "2 tbsp",
+      "notes": "softened, for the beurre-monte"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "high-quality, for flavor"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": "fresh, for flavor"
+    },
+    {
+      "name": "Beurre Monte",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped, for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the 00 Caputo Flour and a pinch of salt. Mix until just combined, then cover and let rest at room temperature for 1 hour.",
+    "After the dough has rested, divide it into 2 equal pieces and shape each piece into a ball.",
+    "Using a rolling pin, roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat. Cook the pasta flatbread for 2-3 minutes on each side, until golden brown and crispy.",
+    "Transfer the cooked pasta flatbread to a plate and top with the Parmigiano-Reggiano cheese, Mascarpone cheese, and a sprinkle of salt.",
+    "In a small bowl, mix together the softened butter and vanilla extract to make the beurre-monte. Spoon the beurre-monte over the top of the flatbread.",
+    "Drizzle the lemon zest over the top of the flatbread and garnish with chopped fresh parsley, if desired.",
+    "Cut the flatbread into wedges and serve immediately.",
+    "To make the Beurre Monte, melt 2 tablespoons of butter in a small saucepan over low heat. Whisk in 2 tablespoons of whole milk and continue to cook until the mixture thickens to your liking.",
+    "Season the Beurre Monte with salt and pepper to taste, then spoon it over the top of the pasta flatbread.",
+    "Serve the Xtra Crunchy Wide Italian Pasta Flatbread hot, garnished with additional Parmigiano-Reggiano cheese and fresh parsley, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "hangover-cure",
+    "italian",
+    "lacto-vegetarian",
+    "one-pan",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 140,
+    "fat": 60
+  },
+  "slug": "xtra-crunchy-wide-italian-pasta-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-wide-italian-pasta-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "vanilla",
+    "diet": "lacto-vegetarian",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Xtra Crunchy Wide",
+    "dishForm": "Flatbread"
+  }
+}

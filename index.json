@@ -1,5 +1,18 @@
 [
   {
+    "slug": "x-festive-korean-sauerkraut-wrap",
+    "title": "Festive Korean Sauerkraut Wrap",
+    "tags": [
+      "korean",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 23,
+    "shard": "x"
+  },
+  {
     "slug": "x-light-norwegian-fish-using-the-speculaas-spice-mix-stew",
     "title": "X-Light Norwegian Fish Stew with Speculaas Spice Mix",
     "tags": [
@@ -1655,6 +1668,22 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crunchy-wide-italian-pasta-flatbread",
+    "title": "Xtra Crunchy Wide Italian Pasta Flatbread",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "hangover-cure",
+      "italian",
+      "lacto-vegetarian",
+      "one-pan",
+      "pasta"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 42,
     "shard": "x"
   },
   {
