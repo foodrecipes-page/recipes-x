@@ -1,0 +1,67 @@
+{
+  "title": "Xeriscape Aerated Spanish Chilli Wrap",
+  "description": "A romantic Spanish dish featuring hot chilli powder, perfect for a warm evening. The fluffy aerated chilli filling is a perfect match for the tender lotus-leaf wrap.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lotus-leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "Dust-free, finely ground"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C for 5 minutes before baking.",
+    "Place the lotus-leaf wraps on a baking sheet lined with parchment paper and bake for 5 minutes, or until lightly browned and pliable.",
+    "In a large bowl, combine the chilli powder, smoked paprika, salt, and black pepper.",
+    "Add the diced chicken and mix well to coat with the spice blend."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "one-pan",
+    "romantic",
+    "spanish",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "xeriscape-aerated-spanish-chilli-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-aerated-spanish-chilli-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:27Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "brine-wet",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chilli",
+    "descriptor": "Xeriscape Aerated",
+    "dishForm": "wrap"
+  }
+}
