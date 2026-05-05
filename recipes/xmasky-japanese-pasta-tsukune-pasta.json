@@ -1,0 +1,88 @@
+{
+  "title": "Xmasky Japanese Pasta Tsukune Farfalle",
+  "description": "A sick-day inspired low-carb friendly dish featuring grassy farfalle pasta made with a mixture of vegetables and lean meats.",
+  "cuisine": "Japanese",
+  "diet": [
+    null,
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Farfalle Pasta",
+      "amount": 200
+    },
+    {
+      "name": "Pork Ground",
+      "amount": 150
+    },
+    {
+      "name": "Shallots, finely chopped",
+      "amount": null
+    },
+    {
+      "name": "Carrots, finely grated",
+      "amount": null
+    },
+    {
+      "name": "Green Peppers, finely chopped",
+      "amount": null
+    },
+    {
+      "name": "Spinach, fresh and roughly torn",
+      "amount": null
+    },
+    {
+      "name": "Soy Sauce (low sodium preferred)",
+      "amount": 20
+    },
+    {
+      "name": "Water, cold water for cooking pasta",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "Combine pork ground, shallots, carrots, green peppers, spinach and soy sauce in a bowl.",
+    "Add cold water to the mixture if needed to reach an even consistency.",
+    "Cook farfalle pasta according to package instructions until al dente.",
+    "Drain pasta and transfer it into a mixing bowl with the meat mixture.",
+    "Toss gently to combine.",
+    "Transfer the mixture onto a baking sheet and bake in preheated oven for 15 minutes or until golden brown on top.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "quick-fix",
+    "vegetarian-fills-gap"
+  ],
+  "nutrition": {
+    "calories": 586,
+    "protein": 31,
+    "carbs": 19,
+    "fat": 27
+  },
+  "slug": "xmasky-japanese-pasta-tsukune-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xmasky-japanese-pasta-tsukune-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T19:54:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "papillote",
+    "primaryIngredient": "farfalle",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Pasta",
+    "descriptor": "Xmasky",
+    "dishForm": "Tsukune Pasta"
+  }
+}
