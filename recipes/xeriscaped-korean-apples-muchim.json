@@ -1,0 +1,96 @@
+{
+  "title": "Xeriscaped Korean Apples Muchim",
+  "description": "A traditional Korean dish from the Gyeongsang region, featuring crisp apples and savory lardons, served warm and light, perfect for a romantic dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "2 large"
+    },
+    {
+      "name": "Lardons",
+      "amount": "150g"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Slice the apples and lardons into thin strips.",
+    "Heat a pan over medium heat and add the lardons, cooking until crispy.",
+    "Add the gochujang, gochugaru, brown sugar, ginger, and garlic to the pan, stirring to combine.",
+    "Add the sliced apples to the pan and cook for 2-3 minutes, until slightly tender.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a salt block and garnish with chopped green onions.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ginseng-friendly",
+    "korean-cuisine",
+    "romantic",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "xeriscaped-korean-apples-muchim",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscaped-korean-apples-muchim",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:22Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "lardons-render",
+    "primaryIngredient": "apples",
+    "diet": "raw",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "apples",
+    "descriptor": "Xeriscaped",
+    "dishForm": "Muchim"
+  }
+}

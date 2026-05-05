@@ -72,6 +72,20 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-creamy-yeasty-polish-polish-potato-dish-bread",
+    "title": "X-tra Creamy Yeasty Polish Polish Potato Dish Bread",
+    "tags": [
+      "date-night",
+      "keto-friendly",
+      "polish",
+      "potato",
+      "yeasty"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 80,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-crispy-shrimp-indian-crustaceans-goan-style-shrimp-samosas",
     "title": "x-tra crispy shrimp indian crustaceans goan-style shrimp samosas",
     "tags": [
@@ -85,6 +99,20 @@
     ],
     "cuisine": "goan",
     "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-crispy-vietnamese-meat-bowl",
+    "title": "x-tra crispy vietnamese meat bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -893,6 +921,19 @@
     "shard": "x"
   },
   {
+    "slug": "xeriscaped-korean-apples-muchim",
+    "title": "Xeriscaped Korean Apples Muchim",
+    "tags": [
+      "ginseng-friendly",
+      "korean-cuisine",
+      "romantic",
+      "winter-dish"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xeriscaped-light-australian-oysters-poke",
     "title": "Xeriscaped Light Australian Oysters Poke",
     "tags": [
@@ -906,6 +947,20 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 15,
+    "shard": "x"
+  },
+  {
+    "slug": "xerisced-glassy-jelly-citrusy-peruvian-serrano-ham-tagine",
+    "title": "Xerisced Glassy-Jelly Citrusy Peruvian Serrano Ham Tagine",
+    "tags": [
+      "flexitarian",
+      "meal-prep",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {

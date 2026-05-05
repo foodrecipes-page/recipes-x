@@ -1,0 +1,113 @@
+{
+  "title": "X-tra Creamy Yeasty Polish Polish Potato Dish Bread",
+  "description": "A rich and creamy Polish-inspired potato bread dish featuring pistachio paste, perfect for a romantic date-night. This keto-friendly dish is cured in shio-koji and baked to perfection in a traditional Polish kazanka.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pistachio paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji-cured pork belly",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "+keto-friendly cream alternative"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the pistachio paste, pork belly, potato, butter, flour, baking powder, and salt in a large bowl until well combined.",
+    "Add the water and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased kazan-cauldron and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf in the preheated oven and bake for 45 minutes, or until golden brown.",
+    "While the bread is baking, mix the heavy cream and eggs in a small bowl until well combined.",
+    "Remove the bread from the oven and brush it with the cream mixture.",
+    "Return the bread to the oven and bake for an additional 5 minutes, or until golden brown.",
+    "Remove the bread from the oven and let it cool on a wire rack for 10 minutes before slicing and serving.",
+    "Serve warm, sliced into thick rounds.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "keto-friendly",
+    "polish",
+    "potato",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 56
+  },
+  "slug": "x-tra-creamy-yeasty-polish-polish-potato-dish-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-creamy-yeasty-polish-polish-potato-dish-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:10Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "pistachio paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Polish potato dish",
+    "descriptor": "X-tra creamy yeasty",
+    "dishForm": "Bread"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "x-tra crispy vietnamese meat bowl",
+  "description": "Funky, crisp, and gluten-free friendly meal-prep dish featuring self-raising flour and roast beef.",
+  "cuisine": "vietnamese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "500g",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "self-raising flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "pickled carrots and daikon",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef cubes with salt, garlic powder, and chili flakes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "x-tra-crispy-vietnamese-meat-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-crispy-vietnamese-meat-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "self-raising flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "vietnamese",
+    "mainIngredient": "meat",
+    "descriptor": "x-tra crispy",
+    "dishForm": "bowl"
+  }
+}
