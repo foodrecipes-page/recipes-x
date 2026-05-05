@@ -941,6 +941,16 @@
     "shard": "x"
   },
   {
+    "slug": "xsmoked-phyllo-crumble",
+    "title": "XSmoked Phyllo Crumble",
+    "tags": [
+      "jain-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-american-pecan-pudding",
     "title": "Xtra American Pecan Pudding",
     "tags": [
