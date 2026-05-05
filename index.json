@@ -2130,6 +2130,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-gooey-argentinian-dough-bake",
+    "title": "xtra gooey argentinian dough bake",
+    "tags": [
+      "argentinian",
+      "gluten-free",
+      "low-glycemic",
+      "pico-de-gallo",
+      "romantic",
+      "wood-fired"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-grassy-portuguese-farfalle-pasta",
     "title": "Xtra Grassy Portuguese Farfalle Pasta",
     "tags": [

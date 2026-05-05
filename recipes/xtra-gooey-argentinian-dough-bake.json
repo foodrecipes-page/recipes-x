@@ -1,0 +1,70 @@
+{
+  "title": "xtra gooey argentinian dough bake",
+  "description": "A buttery, gooey, romantic argentinian dish featuring pico de gallo sauce, wood-fired-bake, low-glycemic-friendly",
+  "cuisine": "argentinian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "low-glycemic all-purpose flour",
+      "amount": "2 1/2 cups",
+      "notes": "use a low-glycemic flour option like almond flour or coconut flour as a substitute"
+    }
+  ],
+  "instructions": [
+    "preheat wood-fired brick to 425°f (220°c).",
+    "in a large mixing bowl, whisk together flour, baking powder, and salt.",
+    "add eggs and mix until dough forms.",
+    "knead dough for 5-7 minutes until it becomes smooth and elastic.",
+    "cover dough with plastic wrap and let it rest for 10 minutes.",
+    "divide dough into 2 equal pieces and shape into balls.",
+    "roll out each ball into a circle that is 1/2 inch thick.",
+    "place one circle on the preheated wood-fired brick and bake for 2-3 minutes until it starts to puff up.",
+    "spread a spoonful of pico de gallo sauce on top of the cooked dough circle. ",
+    "add sliced mango, diced avocado, and chopped cilantro on top of the sauce.",
+    "place the second dough circle on top of the filling and press the edges together to seal the dough bake.",
+    "use a knife to cut a few slits on top of the dough bake to allow steam to escape.",
+    "bake for an additional 2-3 minutes until the dough is golden brown.",
+    "remove from the wood-fired brick and let it cool for 2-3 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "gluten-free",
+    "low-glycemic",
+    "pico-de-gallo",
+    "romantic",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 54,
+    "fat": 20
+  },
+  "slug": "xtra-gooey-argentinian-dough-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-gooey-argentinian-dough-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:45:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "dough",
+    "descriptor": "xtra gooey",
+    "dishForm": "Bake"
+  }
+}
