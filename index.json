@@ -964,6 +964,18 @@
     "shard": "x"
   },
   {
+    "slug": "xsmoky-roasted-banana-stir-fry-tandoor-clay-pot",
+    "title": "Gruzy Roasted Banana Stir-Fry Tandoor-Pot",
+    "tags": [
+      "banana-focussed",
+      "gravy-based",
+      "weeknight"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-american-pecan-pudding",
     "title": "Xtra American Pecan Pudding",
     "tags": [

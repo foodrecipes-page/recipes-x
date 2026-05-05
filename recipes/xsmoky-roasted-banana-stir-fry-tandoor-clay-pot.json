@@ -1,0 +1,85 @@
+{
+  "title": "Gruzy Roasted Banana Stir-Fry Tandoor-Pot",
+  "description": "A grassy, velvety weeknight dish featuring fruit mix in a smoky tandoor clay pot. Suitable for fodmap-friendly diets.",
+  "cuisine": "Asian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "banana",
+      "amount": 4,
+      "notes": "Choose ripe bananas"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "Grated or minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat tandoor clay pot according to instructions.",
+    "Halve and peel bananas. Cut into small cubes.",
+    "Mix soy sauce, sesame oil, garlic, ginger, salt, and pepper in a bowl.",
+    "Add banana cubes to the prepared tandoor clay pot.",
+    "Pour the marinade mixture over the bananas.",
+    "Place the pot on a preheated plate or tray with indirect heat until cooked through, about 20 minutes.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "banana-focussed",
+    "gravy-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 23,
+    "fat": 5
+  },
+  "slug": "xsmoky-roasted-banana-stir-fry-tandoor-clay-pot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xsmoky-roasted-banana-stir-fry-tandoor-clay-pot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T10:57:47Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "fruit mix",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "banana",
+    "descriptor": "Smoky Roasted",
+    "dishForm": "Stir-fry"
+  }
+}
