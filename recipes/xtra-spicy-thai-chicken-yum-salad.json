@@ -1,0 +1,119 @@
+{
+  "title": "Xtra Spicy Thai Chicken Yum Salad",
+  "description": "Garlicky and molten, this Northern-Thai dish makes a perfect date-night dinner option. Wrapped in a corn husk, it's low-carb friendly and packed with flavor.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Bread (for croutons)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Corn husks",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat. Add chicken and cook until browned on all sides, about 5 minutes.",
+    "Add Thai chili peppers to the pan and sauté for another minute.",
+    "Add hoisin sauce, fish sauce, lime juice, garlic, and ginger to the pan and stir to combine.",
+    "Add coconut milk to the pan and bring to a simmer.",
+    "Reduce heat to low and let simmer for 5 minutes.",
+    "Preheat oven to 375°F (190°C).",
+    "Cut bread into small cubes and toast in the oven until crispy, about 5 minutes.",
+    "Finely chop peanuts and set aside.",
+    "To assemble the salad, place a portion of the chicken mixture onto a corn husk, followed by crispy bread, chopped peanuts, and fresh cilantro.",
+    "Serve immediately and enjoy!",
+    "Refrigerate leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "low-carb",
+    "northern-thai",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "xtra-spicy-thai-chicken-yum-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-thai-chicken-yum-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "bread",
+    "diet": "low-carb",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Yum Salad"
+  }
+}

@@ -2750,6 +2750,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-thai-chicken-yum-salad",
+    "title": "Xtra Spicy Thai Chicken Yum Salad",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "low-carb",
+      "northern-thai",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-tunisian-lamb-tagine",
     "title": "Xtra Spicy Tunisian Lamb Tagine",
     "tags": [
