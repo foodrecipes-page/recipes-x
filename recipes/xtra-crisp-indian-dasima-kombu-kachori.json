@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Crisp Indian Dasima Kombu Kachori",
+  "description": "A crispy and adventurous Indian dish featuring dasima-kombu, this kachori is a perfect blend of flavors and textures, made with a satvik-friendly approach and a brine-wet method.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dasima kombu",
+      "amount": "1 cup",
+      "notes": "dried and cut into small pieces"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Brine solution",
+      "amount": "1 cup",
+      "notes": "made with water and salt"
+    }
+  ],
+  "instructions": [
+    "Soak the dasima kombu pieces in water for at least 4 hours to make them soft and pliable.",
+    "In a large mixing bowl, combine the all purpose flour, ghee, salt, cumin seeds, coriander powder, and red chili powder.",
+    "Add the soaked dasima kombu pieces to the flour mixture and mix well.",
+    "Gradually add the water to the mixture and knead until a soft dough forms.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Divide the dough into small balls and flatten each ball into a thin circle.",
+    "Heat the brine solution in a large pan over medium heat and add the flattened dough circles to it.",
+    "Cook the kachoris for 5-7 minutes on each side, until they are crispy and golden brown.",
+    "Remove the kachoris from the brine solution and let them cool on a paper towel.",
+    "Serve the xtra crisp Indian dasima kombu kachoris hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "brine-cooking",
+    "crispy-foods",
+    "indian-snacks",
+    "satvik-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "xtra-crisp-indian-dasima-kombu-kachori",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-indian-dasima-kombu-kachori",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:13:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "brine-wet",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "dasima kombu",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Kachori"
+  }
+}
