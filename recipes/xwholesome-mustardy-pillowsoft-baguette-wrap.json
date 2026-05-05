@@ -1,0 +1,81 @@
+{
+  "title": "XWholesome Mustardy Pillowsoft Baguette Wrap",
+  "description": "A post-workout Ukrainian dish featuring a raw-friendly, Nimono-simmered baguette wrapped with mustardy goodness for added flavor and nutrition.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole grain baguette",
+      "amount": 1
+    },
+    {
+      "name": "Grilled chicken breast",
+      "amount": "100g"
+    },
+    {
+      "name": "Melted Gouda cheese",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sliced red onions",
+      "amount": "1 slice"
+    },
+    {
+      "name": "Dijon mustard sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Baby arugula lettuce",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Slice baguette into rounds.",
+    "Spread mustard sauce evenly on one side of each slice.",
+    "Place slices, mustard-side up, on a baking sheet.",
+    "Garnish with sliced red onions and fresh parsley leaves.",
+    "Top with arugula leaves and grated Gouda cheese.",
+    "Bake for 10 minutes or until the top is golden brown.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quickmeal",
+    "raw-friendly",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 18,
+    "fat": 12
+  },
+  "slug": "xwholesome-mustardy-pillowsoft-baguette-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xwholesome-mustardy-pillowsoft-baguette-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T03:59:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "baguette",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mustardy",
+    "mainIngredient": "Baguette",
+    "descriptor": "Pillowsoft",
+    "dishForm": "Wrap"
+  }
+}
