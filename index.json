@@ -2603,5 +2603,19 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 45,
     "shard": "x"
+  },
+  {
+    "slug": "xzesty-xcrisp-tropical-tomato-tagine",
+    "title": "XZesty XCrisp Tropical Tomato Tagine",
+    "tags": [
+      "crisp",
+      "kid-friendly",
+      "shojin-friendly",
+      "tangy",
+      "tropical"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]

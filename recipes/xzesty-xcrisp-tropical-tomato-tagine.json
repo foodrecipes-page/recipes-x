@@ -1,0 +1,90 @@
+{
+  "title": "XZesty XCrisp Tropical Tomato Tagine",
+  "description": "A tangy, crisp Filipino dish featuring turmeric powder that is kid-friendly and shojin-friendly. Perfect for a quick snack or light meal.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": 4,
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 2,
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened shredded coconut (for garnish)",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Chop the tomatoes into small pieces.",
+    "Dice the onions and mince the garlic cloves.",
+    "Heat a cazuela or tagine over medium heat. Add oil, then sauté the onions until translucent.",
+    "Add minced garlic to the onions and cook for about 30 seconds.",
+    "Fold in the chopped tomatoes, turmeric powder, and salt. Stir well.",
+    "Let it simmer until most of the liquid has evaporated and the mixture is thick.",
+    "If using, sprinkle unsweetened shredded coconut over the top before serving to garnish.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp",
+    "kid-friendly",
+    "shojin-friendly",
+    "tangy",
+    "tropical"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "xzesty-xcrisp-tropical-tomato-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xzesty-xcrisp-tropical-tomato-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T09:05:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "turmeric powder",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tropical",
+    "mainIngredient": "tomato",
+    "descriptor": "XZesty XCrisp",
+    "dishForm": "Tagine"
+  }
+}
