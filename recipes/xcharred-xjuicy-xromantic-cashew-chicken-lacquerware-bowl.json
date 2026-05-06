@@ -1,0 +1,93 @@
+{
+  "title": "XCharred-XJuicy-XRomantic Cashew Chicken Lacquerware-Bowl",
+  "description": "A whole30-friendly, pressure-cooked Indian dish featuring charred and juicy cashews in a butter-chicken style. Served in a lacquerware bowl for added romance.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": 4
+    },
+    {
+      "name": "unsalted cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 6,
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "oil for cooking",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine cashews, garlic, ginger, curry powder, garam masala, and salt in a bowl. Add sesame oil and stir.",
+    "Season chicken breasts with salt. Pat dry with paper towels.",
+    "Heat oil in a pressure cooker over medium-high heat. Cook chicken for 3 minutes per side until golden brown.",
+    "Add cashew mixture to the cooker. Stir-fry for an additional minute until fragrant.",
+    "Close and lock lid. Pressure cook on high for 10 minutes plus natural release time of 25 minutes.",
+    "Transfer chicken and sauce to a bowl. Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "butter-chicken",
+    "cashew",
+    "charred",
+    "juicy",
+    "lacquerware-bowl",
+    "romantic",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 18,
+    "fat": 24
+  },
+  "slug": "xcharred-xjuicy-xromantic-cashew-chicken-lacquerware-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xcharred-xjuicy-xromantic-cashew-chicken-lacquerware-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:30:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "pressure-cook",
+    "primaryIngredient": "cashews",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Cashews",
+    "descriptor": "XCharred-XJuicy-XRomantic",
+    "dishForm": "Cashew XChicken Lacquerware-Bowl"
+  }
+}
