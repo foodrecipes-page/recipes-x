@@ -1,0 +1,86 @@
+{
+  "title": "Xbittersweet Goozy New Potatoes Pudding",
+  "description": "This whole30-friendly dutch dish features gooey new potatoes seasoned with bitter herbs and spices for a hangover-cure remedy.",
+  "cuisine": "Dutch",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2lb new potatoes",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 tbsp butter",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup finely chopped fresh dill",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup finely chopped fresh parsley",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp balsamic vinegar",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Chop new potatoes into even pieces, toss with olive oil, salt, and pepper.",
+    "Arrange on a baking sheet. Drizzle with butter and sprinkle dill and parsley over top.",
+    "Bake for 25 minutes or until golden brown.",
+    "Add minced garlic to the pan drippings in the oven, then stir in balsamic vinegar.",
+    "Reduce sauce by half and pour over hot potatoes, tossing gently.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "hangover-cure",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 7,
+    "carbs": 29,
+    "fat": 5
+  },
+  "slug": "xbittersweet-goozy-new-potatoes-pudding",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xbittersweet-goozy-new-potatoes-pudding",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T17:19:55Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "cure",
+    "primaryIngredient": "new potatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Goozy",
+    "mainIngredient": "New Potatoes",
+    "descriptor": "Bittersweet",
+    "dishForm": "Pudding"
+  }
+}
