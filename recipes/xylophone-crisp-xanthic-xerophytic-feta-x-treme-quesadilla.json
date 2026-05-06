@@ -1,0 +1,72 @@
+{
+  "title": "Xylophone Crisp Xanthic Xerophytic Feta Q-Treme Quesadilla",
+  "description": "A rich and creamy Mediterranean dish featuring cheddar cheese, salt-baked for a midnight craving. Designed to be a fodmap-friendly breakfast option.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 oz feta cheese",
+      "amount": "oz"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of black pepper",
+      "notes": "freshly ground for added flavor"
+    },
+    {
+      "name": "1/4 cup finely grated cheddar cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "2 whole wheat tortillas",
+      "amount": "each"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place feta on one tortilla, sprinkle with olive oil and black pepper.",
+    "Top feta with finely grated cheddar cheese.",
+    "Fold tortillas in half and place seam side down on a baking sheet.",
+    "Bake for 8 minutes or until golden brown.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheddar-friendly",
+    "mediterranean",
+    "midnight-craving",
+    "no-carbs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xylophone-crisp-xanthic-xerophytic-feta-x-treme-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xylophone-crisp-xanthic-xerophytic-feta-x-treme-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T01:50:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "salt-bake",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Xanthic",
+    "mainIngredient": "Xerophytic Feta",
+    "descriptor": "Xylophone Crisp",
+    "dishForm": "X-Treme Quesadilla"
+  }
+}
