@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Dense Irish Potato Boxty",
+  "description": "A fresh, dense, and cozy Irish dish featuring Chinese sesame sauce, Mother Sauce Base, and macrobiotic-friendly ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet Potatoes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Chinese Sesame Sauce",
+      "amount": "2 tbsp",
+      "notes": "macrobiotic-friendly, gluten-free, and vegan-friendly."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "macrobiotic-friendly, gluten-free, and vegan-friendly."
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": "macrobiotic-friendly, gluten-free, and vegan-friendly."
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "1 tsp",
+      "notes": "macrobiotic-friendly, gluten-free, and vegan-friendly."
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/4 tsp",
+      "notes": "macrobiotic-friendly, gluten-free, and vegan-friendly."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "macrobiotic-friendly, gluten-free, and vegan-friendly."
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "macrobiotic-friendly, gluten-free, and vegan-friendly."
+    },
+    {
+      "name": "Mother Sauce Base",
+      "amount": "2 tbsp",
+      "notes": "macrobiotic-friendly, gluten-free, and vegan-friendly."
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and place them in a large bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "irish",
+    "macrobiotic",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 16
+  },
+  "slug": "xtra-dense-irish-potato-boxty",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-irish-potato-boxty",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:03Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "xtra dense",
+    "dishForm": "boxty"
+  }
+}
