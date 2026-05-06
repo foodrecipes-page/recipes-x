@@ -1,0 +1,88 @@
+{
+  "title": "Xerocreme Roasted Xanthaceous Kidney Beans Quesadilla",
+  "description": "A chewy and roasted kidney bean quiche for a date-night Dutch dish that is also jain-friendly.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kidney Beans",
+      "amount": 200
+    },
+    {
+      "name": "Olive Oil",
+      "amount": 50
+    },
+    {
+      "name": "Onions",
+      "amount": 100
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": 10
+    },
+    {
+      "name": "Sun-Dried Tomatoes, Chopped",
+      "amount": 20
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": 5
+    },
+    {
+      "name": "Cumin",
+      "amount": 10
+    },
+    {
+      "name": "Salt",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C.",
+    "Chop onions and mince garlic.",
+    "Heat olive oil in a pan, add onions and sauté until translucent.",
+    "Add minced garlic and cook for another minute.",
+    "Stir in cumin, lemon zest, salt, kidney beans, sun-dried tomatoes, and enough water to cover the mixture (about 100ml).",
+    "Transfer the mixture into a blender and blend until smooth.",
+    "Pour blended mixture back into pan and add more olive oil if needed.",
+    "Roast in the oven for 25 minutes or until golden brown.",
+    "Serve hot as a quiche, cut into wedges."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "dutch",
+    "foldable",
+    "jain-friendly",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "xerocreme-roasted-xanthaceous-kidney-beans-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xerocreme-roasted-xanthaceous-kidney-beans-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T14:47:41Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "kidney beans",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Xanthaceous",
+    "mainIngredient": "Kidney Beans",
+    "descriptor": "Xerocreme Roasted",
+    "dishForm": "Quesadilla"
+  }
+}
