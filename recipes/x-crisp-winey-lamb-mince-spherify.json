@@ -1,0 +1,87 @@
+{
+  "title": "X-Crisp Winey Lamb Mince Spherify",
+  "description": "A unique whole30-friendly German dish featuring crispy lamb mince encased in a wine-infused gel for hangover-cure purposes.",
+  "cuisine": "German",
+  "diet": [
+    null,
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": 1
+    },
+    {
+      "name": "flour",
+      "amount": 2
+    },
+    {
+      "name": "sugar",
+      "amount": 2
+    },
+    {
+      "name": "vinegar",
+      "amount": 4
+    },
+    {
+      "name": "cooking oil",
+      "amount": 30
+    },
+    {
+      "name": "salt",
+      "amount": 1
+    },
+    {
+      "name": "black pepper",
+      "amount": 1
+    },
+    {
+      "name": "whole milk",
+      "amount": 2
+    }
+  ],
+  "instructions": [
+    "Mix the lamb mince, flour, sugar, vinegar, oil, salt, and black pepper in a bowl.",
+    "Pour half of the mixture into a hot pan and cook until golden brown on all sides, then transfer to a bowl. Repeat with remaining mixture.",
+    "Gently heat milk in another pan and add spherification agent (like xanthan gum) according to instructions.",
+    "Stir gel into lamb mince until fully incorporated. Gently fold cooked lamb into the gel.",
+    "Pour mixture into silicone molds, cover with plastic wrap, chill for 4 hours or overnight, then refrigerate or freeze.",
+    "Remove from molds and serve as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "german-dish",
+    "hangover-cure",
+    "spherify",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 187,
+    "protein": 45,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "x-crisp-winey-lamb-mince-spherify",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-crisp-winey-lamb-mince-spherify",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T09:19:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "spherify",
+    "primaryIngredient": "lamb mince",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Winey",
+    "mainIngredient": "Lamb Mince",
+    "descriptor": "Crispy",
+    "dishForm": "Bite-sized Spherified Patties"
+  }
+}
