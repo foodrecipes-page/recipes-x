@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Silky Peruvian Portobello Mushrooms Anticuchos",
+  "description": "A sweet and silky Peruvian dish featuring shaoxing wine and lamination-puff, perfect for a monsoon evening, this ovo-vegetarian-friendly recipe is a twist on traditional anticuchos.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "12 caps",
+      "notes": "stems removed"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shaoxing wine, soy sauce, brown sugar, garlic, and ginger.",
+    "Add the portobello mushrooms to the bowl and marinate for at least 30 minutes.",
+    "Roll out the lamination puff pastry to a large sheet, about 1/4 inch thick.",
+    "Cut the pastry into 12 equal pieces, about 1 inch wide and 3 inches long.",
+    "Wrap each mushroom cap with a piece of pastry, brushing the edges with beaten egg to seal.",
+    "Place the anticuchos on a baking sheet lined with parchment paper, leaving about 1 inch of space between each.",
+    "Brush the tops of the pastry with vegetable oil and season with salt and black pepper.",
+    "Bake the anticuchos in the preheated oven for 20 minutes, or until the pastry is golden brown.",
+    "Serve the anticuchos hot, garnished with chopped scallions and a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamination-puff-pastry",
+    "monicuchos-inspired",
+    "mushroom-recipes",
+    "ovo-vegetarian-friendly",
+    "peruvian-cuisine",
+    "shaoxing-wine-recipes",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xtra-silky-peruvian-portobello-mushrooms-anticuchos",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-peruvian-portobello-mushrooms-anticuchos",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:08:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "lamination-puff",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Xtra Silky",
+    "dishForm": "Anticuchos"
+  }
+}
