@@ -1,0 +1,104 @@
+{
+  "title": "Xylophone Moroccan Seffa",
+  "description": "A roasted, cheese-pull Moroccan dish featuring zucchini, tandoor, and seffa form, perfect for adventurous foodies. This vegan-friendly recipe is sure to impress with its rich flavors and textures.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "zucchinis",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "tandoor flatbread",
+      "amount": "4 sheets",
+      "notes": "available at Middle Eastern markets or online"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "seffa form",
+      "amount": "4 pieces",
+      "notes": "available at Middle Eastern markets or online"
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Tear the tandoor flatbread into smaller pieces and set aside.",
+    "In a large bowl, whisk together ras el hanout and olive oil.",
+    "Add the sliced red onion and toss to coat with the spice mixture.",
+    "Spread the mixture on a baking sheet and roast in the oven for 20 minutes, or until caramelized.",
+    "Meanwhile, slice the zucchinis into 1-inch thick rounds and cook in a separate skillet with a little oil until tender.",
+    "In a separate pan, toast the seffa form over medium heat until lightly browned.",
+    "Open the can of chickpeas and drain the liquid. Mash the chickpeas with a fork until they form a chunky paste.",
+    "Spread the chickpea paste on the toasted seffa form, leaving a 1-inch border around the edges.",
+    "Top the chickpea paste with sliced zucchinis and roasted red onion mixture.",
+    "Place the vegan mozzarella on top and transfer to the oven for an additional 5-7 minutes, or until melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "seffa",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 30,
+    "carbs": 100,
+    "fat": 30
+  },
+  "slug": "xylophone-moroccan-seffa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xylophone-moroccan-seffa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "zucchini",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Zucchini",
+    "descriptor": "Roasted Adventurous",
+    "dishForm": "Seffa"
+  }
+}

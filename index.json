@@ -927,6 +927,22 @@
     "shard": "x"
   },
   {
+    "slug": "xeridic-glassy-jelly-slovakian-rice-pilaf",
+    "title": "Xeridic Glassy-Jelly Slovakian Rice Pilaf",
+    "tags": [
+      "glassy-jelly",
+      "healthy",
+      "kitchen-showpiece",
+      "low-calorie",
+      "main-course",
+      "slovakian",
+      "turmeric"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xeridic-monsoon-brazilian-beans-wrap",
     "title": "Xeridic Monsoon Brazilian Beans Wrap",
     "tags": [
@@ -3129,6 +3145,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 18,
+    "shard": "x"
+  },
+  {
+    "slug": "xylophone-moroccan-seffa",
+    "title": "Xylophone Moroccan Seffa",
+    "tags": [
+      "adventurous",
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "seffa",
+      "vegan"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 65,
     "shard": "x"
   },
   {
