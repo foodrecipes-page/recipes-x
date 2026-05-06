@@ -1,0 +1,83 @@
+{
+  "title": "Xquick-Baked Chicken in Stone Bowl",
+  "description": "A quick and flavorful stone bowl dish featuring tender chicken seasoned with herbs and spices.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4"
+    },
+    {
+      "name": "bouquet garni",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 whole"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 degrees C.",
+    "Sprinkle chicken breasts with salt, pepper, and garlic cloves.",
+    "Heat olive oil in a stone bowl (dolsot) over medium heat. Add chicken and cook for about 3 minutes per side or until golden brown.",
+    "Add thyme and rosemary to the stone bowl. Place chicken on top of herbs.",
+    "Place stone bowl in oven, close door, and bake for 20-25 minutes or until internal temperature reaches at least 74 degrees C (165 F).",
+    "Remove from oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fluffy",
+    "low-carb-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "xquick-baked-chicken-in-stone-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xquick-baked-chicken-in-stone-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:20:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "bouquet garni",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick-X-Baked",
+    "dishForm": "Bowl"
+  }
+}
