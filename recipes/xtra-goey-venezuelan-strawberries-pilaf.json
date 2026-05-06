@@ -1,0 +1,119 @@
+{
+  "title": "xtra-goey Venezuelan strawberries pilaf",
+  "description": "a grassy, gooey, lazy-sunday venezuelan dish featuring strawberries and khao khua",
+  "cuisine": "venezuelan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "khao khua",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fried onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a bento box over medium heat",
+    "add the khao khua and cook, stirring often, until lightly browned, about 5 minutes",
+    "add the cumin, coriander, and ginger, and cook for 1 minute",
+    "add the strawberries, chicken broth, coconut milk, rice vinegar, salt, and black pepper",
+    "bring the mixture to a simmer and cook, stirring occasionally, until the strawberries have broken down and the liquid has thickened, about 10 minutes",
+    "stir in the fried onions and cook for 1 minute",
+    "garnish with chopped cilantro and serve hot"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grassy",
+    "lazy-sunday",
+    "morning-dish",
+    "vegan",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-goey-venezuelan-strawberries-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-goey-venezuelan-strawberries-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:48:52Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "strawberries",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "strawberries",
+    "descriptor": "xtra-goey",
+    "dishForm": "Pilaf"
+  }
+}
