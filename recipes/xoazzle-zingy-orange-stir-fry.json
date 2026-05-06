@@ -1,0 +1,66 @@
+{
+  "title": "Xoazzle Zingy Orange Stir-fry",
+  "description": "A fresh and vibrant Slovakian-inspired dish featuring orange zest in a quick and easy weeknight meal.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": 200
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a pan over medium heat.",
+    "Add chicken and sauté until golden brown on all sides.",
+    "Add garlic and red bell pepper, stir for about 2 minutes.",
+    "Squeeze orange zest over the mixture and toss to coat evenly.",
+    "Serve hot with steamed vegetables or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "quickmeals",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "xoazzle-zingy-orange-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xoazzle-zingy-orange-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T06:59:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "orange zest",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Zingy",
+    "mainIngredient": "orange",
+    "descriptor": "Xoazzle",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -1155,6 +1155,18 @@
     "shard": "x"
   },
   {
+    "slug": "xoazzle-zingy-orange-stir-fry",
+    "title": "Xoazzle Zingy Orange Stir-fry",
+    "tags": [
+      "flexitarian",
+      "quickmeals",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xocovaro-smoky-roasted-pumpkin-tart",
     "title": "Xocovaro Smoky Roasted Pumpkin Tart",
     "tags": [
