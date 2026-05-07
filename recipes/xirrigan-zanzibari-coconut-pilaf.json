@@ -1,0 +1,98 @@
+{
+  "title": "Xirrigan Zanzibari Coconut Pilaf",
+  "description": "A briny, aerated Turkish dish featuring cinnamon and coconut, perfect for post-workout meals.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup unsalted cashews, soaked and drained",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tbsp coconut oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "onion"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup fresh cilantro, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tsp ground cinnamon",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup coconut milk",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp grated fresh pineapple",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a medium saucepan over medium heat.",
+    "Add onion and garlic; cook until translucent, about 5 minutes.",
+    "Stir in cashews and quinoa. Sauté for another minute.",
+    "Pour in coconut milk and lime juice; stir well.",
+    "Simmer gently for 10 minutes until liquid is absorbed.",
+    "Fold through fresh pineapple and cilantro just before serving.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "aerated",
+    "low-carb",
+    "plant-based",
+    "post-workout",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 306,
+    "protein": 15,
+    "carbs": 29,
+    "fat": 18
+  },
+  "slug": "xirrigan-zanzibari-coconut-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xirrigan-zanzibari-coconut-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T13:05:07Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "reduce",
+    "primaryIngredient": "cinnamon",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Coconut",
+    "descriptor": "Xirrigan",
+    "dishForm": "Pilaf"
+  }
+}
