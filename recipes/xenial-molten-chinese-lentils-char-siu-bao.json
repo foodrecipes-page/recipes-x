@@ -1,0 +1,106 @@
+{
+  "title": "Xenial Molten Chinese Lentils Char Siu Bao",
+  "description": "A Buddhist-friendly, indulgent Chinese dish featuring roasted lentils, spherified and served in a Char Siu Bao bun. This dish is a unique twist on traditional Jiangsu cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "buddhist-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils, green",
+      "amount": "250g"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Char Siu sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Star anise",
+      "amount": "1"
+    },
+    {
+      "name": "Ginger, fresh",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Yeast, active dry",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Flour, all-purpose",
+      "amount": "250g"
+    },
+    {
+      "name": "Scallions, green",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Mix lentils, rice vinegar, soy sauce, olive oil, and Char Siu sauce in a bowl.",
+    "Heat a pan over medium heat and add the star anise and ginger.",
+    "Add the lentil mixture to the pan and stir to combine with the star anise and ginger.",
+    "In a separate bowl, mix yeast and flour to create a dough.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Divide the dough into 8 equal pieces and shape into buns.",
+    "Place the lentil mixture into the buns and seal the edges.",
+    "Heat a pan with sesame oil over medium heat and cook the buns until golden brown.",
+    "Spherify the lentil mixture using sodium alginate and water.",
+    "Serve the spherified lentil mixture in the Char Siu Bao buns."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "buddhist-friendly",
+    "high-protein",
+    "one-pan",
+    "spherification",
+    "vegan-fusion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xenial-molten-chinese-lentils-char-siu-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-molten-chinese-lentils-char-siu-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:11:39Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "spherify",
+    "primaryIngredient": "lentils",
+    "diet": "buddhist-temple",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "lentils",
+    "descriptor": "xenial molten",
+    "dishForm": "Char Siu Bao"
+  }
+}

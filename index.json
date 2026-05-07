@@ -597,6 +597,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-molten-chinese-lentils-char-siu-bao",
+    "title": "Xenial Molten Chinese Lentils Char Siu Bao",
+    "tags": [
+      "buddhist-friendly",
+      "high-protein",
+      "one-pan",
+      "spherification",
+      "vegan-fusion",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-molten-croatian-mushroom-skillet",
     "title": "Xenial Molten Croatian Mushroom Skillet",
     "tags": [
