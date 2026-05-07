@@ -981,6 +981,20 @@
     "shard": "x"
   },
   {
+    "slug": "xerid-crunchy-korean-peanuts-rice-bowl",
+    "title": "Xerid Crunchy Korean Peanuts Rice Bowl",
+    "tags": [
+      "donabe",
+      "korean",
+      "peanuts",
+      "rice",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xerid-russian-beef-broil",
     "title": "Xerid Russian Beef Broil",
     "tags": [
