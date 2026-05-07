@@ -1,0 +1,70 @@
+{
+  "title": "Xtra Spicy Gooey German Cheese Quesadilla",
+  "description": "A spicy, gooey, midnight-craving German dish featuring graham cracker crumbs, wrapped in a pandan leaf, and perfect for plant-based diets.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free, vegan option available"
+    }
+  ],
+  "instructions": [
+    "Combine graham cracker crumbs, nutritional yeast, paprika, salt, and black pepper in a bowl.",
+    "S\u0000ut onions and bell peppers in a pan with a little water until softened.",
+    "Add jalape\u00140 pepper, cayenne pepper, and a splash of apple cider vinegar to the pan and cook for 1 minute.",
+    "In a blender, blend together cashew cheese, water, and a pinch of salt until smooth.",
+    "Transfer the cheese mixture to the pan and stir until combined with the onion and bell pepper mixture.",
+    "Place a pandan leaf wrap on a flat surface and spoon the cheese mixture onto one half of the wrap.",
+    "Sprinkle more graham cracker crumbs on top of the cheese mixture.",
+    "Fold the other half of the wrap over the filling and press the edges together to seal the quesadilla.",
+    "Heat a non-stick pan over medium heat and place the quesadilla inside.",
+    "Cook for 2-3 minutes or until the wrap is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for another 2-3 minutes or until the other side is crispy and the cheese is melted.",
+    "Repeat with the remaining ingredients to make more quesadillas.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "german",
+    "one-pan",
+    "plant-based",
+    "spicy",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "xtra-spicy-gooey-german-cheese-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-gooey-german-cheese-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:25:55Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cheese",
+    "descriptor": "xtra spicy gooey",
+    "dishForm": "quesadilla"
+  }
+}

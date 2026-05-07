@@ -3006,6 +3006,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-gooey-german-cheese-quesadilla",
+    "title": "Xtra Spicy Gooey German Cheese Quesadilla",
+    "tags": [
+      "cheesy",
+      "german",
+      "one-pan",
+      "plant-based",
+      "spicy",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 21,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-jamaican-ground-coriander-tagine",
     "title": "Xtra Spicy Jamaican Ground Coriander Tagine",
     "tags": [
