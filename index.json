@@ -350,6 +350,21 @@
     "shard": "x"
   },
   {
+    "slug": "xcreamy-zesty-purple-sprouting-broccoli-stir-fry",
+    "title": "XCreamy Zesty Purple Sprouting Broccoli Stir-fry",
+    "tags": [
+      "creamy",
+      "gluten-free",
+      "purple-sprouting-broccoli",
+      "sour",
+      "stir-fry",
+      "ukrainian"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xcrispy-xoily-xwhole30-quesadilla-onion",
     "title": "Xcrispy Xoily XWhole30 Quesadilla Onion",
     "tags": [

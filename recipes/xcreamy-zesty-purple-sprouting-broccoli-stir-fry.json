@@ -1,0 +1,93 @@
+{
+  "title": "XCreamy Zesty Purple Sprouting Broccoli Stir-fry",
+  "description": "A sour and creamy Ukrainian dish featuring purple sprouting broccoli, emulsified with a gluten-free-friendly dressing.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": 200,
+      "notes": "cut into florets"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": 50,
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": 125,
+      "notes": ""
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": 75,
+      "notes": ""
+    },
+    {
+      "name": "fresh dill sprigs",
+      "amount": 3,
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": 1,
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garlic and red pepper flakes. Cook for 1 minute until fragrant.",
+    "Add broccoli florets, salt, and lemon juice. Stir-fry for 3 minutes until slightly tender.",
+    "Stir in yogurt and dill sprigs. Mix well to combine.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "creamy",
+    "gluten-free",
+    "purple-sprouting-broccoli",
+    "sour",
+    "stir-fry",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "xcreamy-zesty-purple-sprouting-broccoli-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xcreamy-zesty-purple-sprouting-broccoli-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T16:31:11Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "emulsify",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Purple Sprouting Broccoli",
+    "descriptor": "Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
