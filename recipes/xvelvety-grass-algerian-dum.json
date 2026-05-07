@@ -1,0 +1,90 @@
+{
+  "title": "XVelvety Grass Algerian Dum",
+  "description": "A grassy, velvety brunch-mood Algerian dish featuring red wine jelly and dum. Vegan-friendly.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": 150,
+      "notes": "cooked"
+    },
+    {
+      "name": "fresh herbs (thyme, parsley, cilantro)",
+      "amount": "handfuls",
+      "notes": null
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vegetable broth or water",
+      "amount": "150 ml",
+      "notes": null
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "ground flaxseed or almond meal for dumming liquid",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix red wine jelly with vegetable broth or water and fresh lemon juice. Season with salt and pepper.",
+    "Add the cooked quinoa to the wine mixture and stir well until combined.",
+    "Blend herbs into the quinoa/wine mixture until smooth. Taste and adjust seasoning as needed.",
+    "In a Dutch oven, heat olive oil over medium heat. Pour in the quinoa/herb mixture, add ground flaxseed or almond meal for dumming liquid, and mix well.",
+    "Bring to a simmer and cook for about 20-30 minutes until thickened and slightly golden on top. Serve hot as a brunch dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-brunch",
+    "grassy-velvety",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 15,
+    "carbs": 42,
+    "fat": 9
+  },
+  "slug": "xvelvety-grass-algerian-dum",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xvelvety-grass-algerian-dum",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T12:17:56Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "red wine jelly",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Grass",
+    "descriptor": "Velvety",
+    "dishForm": "Dum"
+  }
+}
