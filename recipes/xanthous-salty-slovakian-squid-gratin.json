@@ -1,0 +1,113 @@
+{
+  "title": "Xanthous Salty Slovakian Squid Gratin",
+  "description": "Salty, dense, indulgent Slovakian dish featuring squid in a beurre-monte sauce, cooked in a low-glycemic banana leaf vessel.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "1.25 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1/4 cup",
+      "notes": "low-glycemic option, e.g., Pinot Grigio"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": "low-fat option, e.g., almond milk or coconut cream"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "low-moisture, e.g., part-skim string cheese"
+    }
+  ],
+  "instructions": [
+    "Rinse the squid tubes and pat them dry with a paper towel.",
+    "Cut the onion and garlic into small pieces.",
+    "Melt 2 tablespoons of butter in a skillet over medium heat and sauté the onion and garlic until softened.",
+    "Add the squid tubes to the skillet and cook for 2-3 minutes, until they start to firm up.",
+    "Sprinkle the flour over the squid and stir to combine.",
+    "Gradually add the dry white wine, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 1-2 minutes, until it thickens.",
+    "Stir in the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and add the mozzarella cheese, stirring until melted and smooth.",
+    "Season the squid mixture with salt and black pepper to taste.",
+    "Warm the banana leaves by wrapping them in a damp towel and microwaving for 20-30 seconds.",
+    "Assemble the gratin by spooning the squid mixture onto the center of each banana leaf, leaving a 1-inch border around the edges.",
+    "Top each serving with a spoonful of beurre-monte sauce (see below).",
+    "Fold the banana leaves over the squid mixture to form a triangle and secure with a toothpick.",
+    "Place the gratin on a baking sheet and bake in a preheated oven at 400°F (200°C) for 12-15 minutes, until the squid is cooked through and the banana leaves are tender.",
+    "Serve immediately and garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-calorie",
+    "seafood",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 42
+  },
+  "slug": "xanthous-salty-slovakian-squid-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-salty-slovakian-squid-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:07:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "beurre-monte",
+    "primaryIngredient": "squid",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Squid",
+    "descriptor": "Xanthous, Salty",
+    "dishForm": "Gratin"
+  }
+}
