@@ -1,0 +1,68 @@
+{
+  "title": "Xylophone Zanjari Anise Pilaf",
+  "description": "An energizing and umami-rich Croatian dish featuring star anise, cheese pull, and a touch of blanching for a jain-friendly meal.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups couscous",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup grated parmesan cheese",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon star anise seeds",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Blanch couscous in boiling water for 10 minutes.",
+    "Drain and set aside, then mix with cheese pull (softened parmesan and softened butter).",
+    "Toast star anise seeds lightly before adding to the mixture.",
+    "Sauté olive oil, then add blanched couscous with cheese and star anise. Mix well.",
+    "Bake at 375°F for 10 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anise-star",
+    "energizing",
+    "jain-friendly",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 12,
+    "carbs": 49,
+    "fat": 10
+  },
+  "slug": "xylophone-zanjari-anise-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xylophone-zanjari-anise-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T21:27:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "star anise",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Zanjari",
+    "mainIngredient": "Anise",
+    "descriptor": "Xylophone",
+    "dishForm": "Pilaf"
+  }
+}
