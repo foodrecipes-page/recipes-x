@@ -1012,6 +1012,22 @@
     "shard": "x"
   },
   {
+    "slug": "xerid-uni-vietnamese-uni-vietnamese-crepes",
+    "title": "Xerid Uni Vietnamese Crepes",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "low-fat-friendly",
+      "one-pan",
+      "seafood",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
     "slug": "xeridic-glassy-jelly-slovakian-rice-pilaf",
     "title": "Xeridic Glassy-Jelly Slovakian Rice Pilaf",
     "tags": [
@@ -1241,6 +1257,19 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xerisied-glassy-jelly-mediterranean-feta-cheese-tagine",
+    "title": "Xerisied Glassy Jelly Mediterranean Feta Cheese Tagine",
+    "tags": [
+      "feta-cheese",
+      "mediterranean",
+      "post-workout",
+      "tagine"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 55,
     "shard": "x"
   },
   {

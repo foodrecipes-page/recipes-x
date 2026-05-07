@@ -1,0 +1,180 @@
+{
+  "title": "Xerid Uni Vietnamese Crepes",
+  "description": "Resinous, crisp, solo-dinner Vietnamese crepes featuring uni, brine-wet, low-fat-friendly. Perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uni (Sea Urchin)",
+      "amount": "1 dozen",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Bánh xèo (Vietnamese crepe) batter",
+      "amount": "store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "Pickled carrots and daikon",
+      "amount": "store-bought or homemade",
+      "notes": ""
+    },
+    {
+      "name": "Fresh chili slices",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Furikake",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sriracha",
+      "amount": "1-2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1-2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine uni, coconut milk, soy sauce, rice vinegar, sugar, and salt in a bowl. Mix well and refrigerate for 30 minutes.",
+    "Heat a small non-stick pan or earthenware bowl over medium heat. Add 1 tablespoon of vegetable oil and swirl to coat.",
+    "Pour 1/4 cup of banana leaf or parchment paper into the pan. Pour 1/2 cup of the crepe batter into the pan and tilt to spread evenly.",
+    "Cook for 1-2 minutes or until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip it over. Cook for another 30 seconds to 1 minute or until the other side is lightly browned.",
+    "Serve the crepe hot with the uni mixture spooned over the top. Garnish with fresh cilantro, lime wedges, pickled carrots and daikon, fresh chili slices, chopped scallions, sesame seeds, furikake, crushed peanuts, and sriracha.",
+    "Serve immediately and enjoy!",
+    "Refrigerate any leftover crepes for up to 3 days and reheat in the microwave or on the stovetop before serving.",
+    "You can also add other toppings such as diced mango or pineapple to the crepe for added flavor and nutrition.",
+    "If using homemade crepe batter, let it rest for 30 minutes to 1 hour before using.",
+    "If using store-bought crepe batter, follow the package instructions for thawing and cooking.",
+    "Be sure to handle the uni gently to avoid breaking the delicate flesh.",
+    "For an extra crispy crepe, cook for an additional 30 seconds to 1 minute on each side before serving.",
+    "For a creamier crepe, add an extra tablespoon or two of coconut milk to the batter.",
+    "For a spicier crepe, add an extra teaspoon or two of sriracha to the batter.",
+    "For a more indulgent crepe, add an extra tablespoon or two of fish sauce to the batter.",
+    "You can also use other types of sea urchin such as Hokkaido or Mediterranean sea urchin in place of the uni.",
+    "You can also use other types of crepe batter such as gluten-free or whole wheat in place of the traditional banana leaf or parchment paper crepe batter."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-fat-friendly",
+    "one-pan",
+    "seafood",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "xerid-uni-vietnamese-uni-vietnamese-crepes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xerid-uni-vietnamese-uni-vietnamese-crepes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:21:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "brine-wet",
+    "primaryIngredient": "uni",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "uni",
+    "descriptor": "xerid uni",
+    "dishForm": "Vietnamese Crepes"
+  }
+}
