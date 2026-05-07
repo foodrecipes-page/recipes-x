@@ -363,6 +363,22 @@
     "shard": "x"
   },
   {
+    "slug": "xcrumbly-french-clotted-cream-crumble",
+    "title": "Xcrumbly French Clotted Cream Crumble",
+    "tags": [
+      "buttery",
+      "clotted-cream",
+      "crumbly",
+      "dessert",
+      "grilled",
+      "satvik-friendly",
+      "weeknight"
+    ],
+    "cuisine": "French (Lyon)",
+    "totalTimeMin": 22,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-algerian-fish-tagine",
     "title": "Xenial Algerian Fish Tagine",
     "tags": [

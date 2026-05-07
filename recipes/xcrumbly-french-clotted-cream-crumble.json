@@ -1,0 +1,71 @@
+{
+  "title": "Xcrumbly French Clotted Cream Crumble",
+  "description": "A buttery and crumbly weeknight dish from Lyon featuring clotted cream, pickled vegetables, and satvik-friendly.",
+  "cuisine": "French (Lyon)",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1/2 cup clotted cream",
+      "amount": "half-cup"
+    },
+    {
+      "name": "1/4 cup pickled vegetables",
+      "amount": "quarter-cup"
+    },
+    {
+      "name": "1 tbsp butter",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "pinch of salt",
+      "notes": "sea or kosher"
+    }
+  ],
+  "instructions": [
+    "Preheat your Robata grill to medium-high.",
+    "Mix clotted cream and pickled vegetables until combined. Season with a pinch of salt.",
+    "Place mixture on preheated grill, pressing gently to form a thin layer.",
+    "Sprinkle butter evenly over the top of the mixture and return to grill for 2-3 minutes or until golden brown and bubbly.",
+    "Remove from heat and let cool slightly before serving. Enjoy your French Clotted Cream Crumble with its crunchy crust and creamy interior.",
+    "Optional: Serve with a side of fruit or berries for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "clotted-cream",
+    "crumbly",
+    "dessert",
+    "grilled",
+    "satvik-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 5,
+    "carbs": 7,
+    "fat": 13
+  },
+  "slug": "xcrumbly-french-clotted-cream-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xcrumbly-french-clotted-cream-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T12:26:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "clotted cream",
+    "diet": "satvik",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "clotted cream",
+    "descriptor": "xCrumbly",
+    "dishForm": "Crumble"
+  }
+}
