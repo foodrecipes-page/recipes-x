@@ -1,0 +1,82 @@
+{
+  "title": "Xwholesome Xcrystalline Croatian Wild Mushroom Stir-fry",
+  "description": "A resinous and crumbly crowd-pleasing Croatian dish featuring wild mushrooms that are caramelized for a sweet, savory taste. Diabetic-friendly.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello Mushrooms",
+      "amount": 200
+    },
+    {
+      "name": "Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": 4
+    },
+    {
+      "name": "Olive Oil",
+      "amount": 50
+    },
+    {
+      "name": "Vegetable Stock Cube",
+      "amount": 2
+    },
+    {
+      "name": "Fresh Herbs (optional)",
+      "amount": "to taste"
+    },
+    {
+      "name": "Diabetic-Friendly Sweetener (agave nectar or Stevia, optional)",
+      "amount": "1 Tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a Dutch oven over medium-high heat.",
+    "Add sliced onions and minced garlic to the pot and sauté until translucent.",
+    "Fold in the sliced Portobello mushrooms. Cook for about 3 minutes or until they start to brown slightly.",
+    "Crush the vegetable stock cube into small pieces and add it to the mushroom mixture.",
+    "Stir frequently, reduce heat to low, cover the Dutch oven, and simmer gently for about 10 minutes.",
+    "Remove from heat and check seasoning. If desired, add fresh herbs or a bit of diabetic-friendly sweetener for extra depth of flavor.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "crystalline",
+    "diabetic-friendly",
+    "resinous",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 34,
+    "fat": 9
+  },
+  "slug": "xwholesome-xcrystalline-croatian-wild-mushroom-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xwholesome-xcrystalline-croatian-wild-mushroom-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T21:29:33Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "caramelize",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "wild mushrooms",
+    "descriptor": "xWholesome xCrystalline",
+    "dishForm": "Stir-fry"
+  }
+}
