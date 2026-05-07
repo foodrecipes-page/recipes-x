@@ -1,0 +1,92 @@
+{
+  "title": "Xeridic Japanese Rice Ochazuke",
+  "description": "A traditional Japanese dish made by brewing green tea and mixing it with Japanese short-grain rice for a unique flavor and texture. This dish is resinous, flaky, and low in carbs, making it perfect for a light meal.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Matcha green tea powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Brew a hot cup of green tea by adding the matcha powder to the water and whisking it thoroughly.",
+    "Bring the brewed tea to a boil and add the rice vinegar, stirring constantly to prevent lumps from forming.",
+    "Add the Japanese short-grain rice to the boiling tea mixture and stir to coat the rice evenly.",
+    "Reduce the heat to low and simmer, covered, for 18 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Fluff the rice with a fork and stir in the sesame seeds and soy sauce.",
+    "Transfer the ochazuke to a serving bowl and serve immediately.",
+    "Garnish with additional sesame seeds and soy sauce, if desired.",
+    "Serve hot, with the rice and broth still warm and fragrant.",
+    "This dish is best served immediately, as the flavors and textures will begin to fade over time.",
+    "For a more intense flavor, allow the ochazuke to cool and refrigerate for at least 2 hours before serving.",
+    "To reheat, simply microwave or reheat on the stovetop, as desired.",
+    "Experiment with different flavor combinations, such as adding diced green onions or grated ginger for added depth and complexity.",
+    "For a more substantial meal, serve the ochazuke with grilled chicken or fish, or as a side dish for a Japanese-style meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ish",
+    "green-tea",
+    "japanese",
+    "low-carb",
+    "ochazuke",
+    "one-pot",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "xeridic-japanese-rice-ochazuke",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeridic-japanese-rice-ochazuke",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:14:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "rice vinegar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "xeridic",
+    "dishForm": "Ochazuke"
+  }
+}
