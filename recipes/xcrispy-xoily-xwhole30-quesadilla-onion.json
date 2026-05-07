@@ -1,0 +1,71 @@
+{
+  "title": "Xcrispy Xoily XWhole30 Quesadilla Onion",
+  "description": "A light and crispy Portuguese dish featuring onion with a whole30-friendly twist, perfect for a quick breakfast or snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "2"
+    },
+    {
+      "name": "flour",
+      "amount": "100g"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "ground flaxseed",
+      "amount": "1tsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix flour and salt. Add ground flaxseed.",
+    "Stir until well combined, creating a smooth paste.",
+    "Heat skillet over medium-high heat. Grease lightly with coconut oil.",
+    "Place half of the paste mixture in the skillet to form circles.",
+    "Add 1/2 teaspoon of sea salt to each circle of masa. Fill with sliced onions.",
+    "Cook until bottom is golden brown, then flip and cook other side until crispy and cooked through.",
+    "Serve hot as a whole30-friendly snack or breakfast accompaniment."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "quick",
+    "snack",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 16,
+    "fat": 2
+  },
+  "slug": "xcrispy-xoily-xwhole30-quesadilla-onion",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xcrispy-xoily-xwhole30-quesadilla-onion",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T08:19:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "onion",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Onion",
+    "descriptor": "Xcrispy Xoily XWhole30",
+    "dishForm": "Quesadilla"
+  }
+}

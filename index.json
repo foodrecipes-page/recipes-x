@@ -350,6 +350,19 @@
     "shard": "x"
   },
   {
+    "slug": "xcrispy-xoily-xwhole30-quesadilla-onion",
+    "title": "Xcrispy Xoily XWhole30 Quesadilla Onion",
+    "tags": [
+      "crispy",
+      "quick",
+      "snack",
+      "whole30"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-algerian-fish-tagine",
     "title": "Xenial Algerian Fish Tagine",
     "tags": [
