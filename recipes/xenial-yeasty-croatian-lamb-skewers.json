@@ -1,0 +1,93 @@
+{
+  "title": "Xenial Yeasty Croatian Lamb Skewers",
+  "description": "A pungent and bouncy Croatian dish featuring yeast and coconut cream, perfect for a solo dinner, this high protein friendly meal is cooked on a comal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium high heat.",
+    "In a large bowl, whisk together yeast, coconut cream, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the lamb cubes to the bowl and toss to coat with the yeast mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on the preheated comal and cook for 10 minutes, turning occasionally.",
+    "Reduce heat to medium low and cook for an additional 5 minutes, or until the lamb is cooked through.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "weeknight",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "xenial-yeasty-croatian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-yeasty-croatian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:33:06Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "yeast",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Yeasty",
+    "dishForm": "Skewers"
+  }
+}

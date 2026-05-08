@@ -1655,6 +1655,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-yeasty-croatian-lamb-skewers",
+    "title": "Xenial Yeasty Croatian Lamb Skewers",
+    "tags": [
+      "croatian",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "weeknight",
+      "yeast"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xerid-crunchy-korean-peanuts-rice-bowl",
     "title": "Xerid Crunchy Korean Peanuts Rice Bowl",
     "tags": [
