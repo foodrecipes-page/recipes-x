@@ -1,0 +1,122 @@
+{
+  "title": "Xtra Crisp Ethiopian Turkey Neck Wot",
+  "description": "A traditional Ethiopian Doro Wot dish featuring crispy turkey neck in a spicy stew. Served in a hot stone bowl.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tumeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "2 tablespoons",
+      "notes": "for finishing"
+    },
+    {
+      "name": "Ketewa",
+      "amount": "2 cups",
+      "notes": "Ethiopian flatbread, torn into pieces"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cook for 1 minute.",
+    "Add the turkey neck and cook until browned, about 5 minutes.",
+    "Add the berbere spice, turmeric, cumin, black pepper, and salt. Cook for 1 minute.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Preheat the oven to 425°F (220°C).",
+    "Carefully place the hot stone bowl on a baking sheet.",
+    "Transfer the turkey neck and sauce to the stone bowl.",
+    "Bake in the oven for 10-15 minutes, or until the top is crispy.",
+    "Finish with clarified butter and garnish with torn ketewa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "doro-wot",
+    "ethiopian-cuisine",
+    "festive",
+    "high-protein",
+    "one-pan",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 64,
+    "carbs": 10,
+    "fat": 31
+  },
+  "slug": "xtra-crisp-ethiopian-turkey-neck-wot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-ethiopian-turkey-neck-wot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:15:37Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "turkey neck",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "xtra Crisp",
+    "dishForm": "Wot"
+  }
+}

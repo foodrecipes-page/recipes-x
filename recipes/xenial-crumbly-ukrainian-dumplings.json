@@ -1,0 +1,95 @@
+{
+  "title": "Xenial Crumbly Ukrainian Dumplings",
+  "description": "Rich and crumbly one-pot Ukrainian dish featuring cider, dumplings, and ayurvedic-rajasic-friendly ingredients, perfect for a cold winter evening. This recipe is a hearty and comforting meal that combines the flavors of Ukraine with the principles of ayurvedic cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a separate bowl, whisk together the flour, buckwheat groats, and thyme.",
+    "Gradually add the dry ingredients to the pot, stirring constantly to avoid lumps.",
+    "Add the apple cider to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "xenial-crumbly-ukrainian-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-crumbly-ukrainian-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:16:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "dum",
+    "primaryIngredient": "cider",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "dumplings",
+    "descriptor": "Xenial Crumbly",
+    "dishForm": "Dumplings"
+  }
+}

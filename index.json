@@ -541,6 +541,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-crumbly-ukrainian-dumplings",
+    "title": "Xenial Crumbly Ukrainian Dumplings",
+    "tags": [
+      "ayurvedic-friendly",
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "ukrainian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-dense-algerian-lamb-tagine",
     "title": "Xenial Dense Algerian Lamb Tagine",
     "tags": [
@@ -1194,6 +1209,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xeris-smooth-peruvian-porridge-oats-porridge",
+    "title": "Xeris Smooth Peruvian Porridge",
+    "tags": [
+      "breakfast",
+      "easy",
+      "healthy",
+      "oatmeal",
+      "peruvian",
+      "quick"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 10,
     "shard": "x"
   },
   {
@@ -1909,6 +1939,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crisp-ethiopian-turkey-neck-wot",
+    "title": "Xtra Crisp Ethiopian Turkey Neck Wot",
+    "tags": [
+      "doro-wot",
+      "ethiopian-cuisine",
+      "festive",
+      "high-protein",
+      "one-pan",
+      "stone-bowl"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 65,
     "shard": "x"
   },
   {

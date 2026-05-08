@@ -1,0 +1,85 @@
+{
+  "title": "Xeris Smooth Peruvian Porridge",
+  "description": "A buttery, crisp, and light Peruvian dish made with porridge oats. This dish is perfect for a quick breakfast or snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a medium saucepan.",
+    "Add the oats, butter, honey, cinnamon, vanilla extract, and salt to the saucepan.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Remove from heat and let cool for 2 minutes.",
+    "Stir the porridge until it reaches your desired consistency.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "healthy",
+    "oatmeal",
+    "peruvian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "xeris-smooth-peruvian-porridge-oats-porridge",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeris-smooth-peruvian-porridge-oats-porridge",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:15:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "porridge oats",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "porridge oats",
+    "descriptor": "xeris smooth",
+    "dishForm": "Porridge"
+  }
+}
