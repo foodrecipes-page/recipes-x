@@ -1,0 +1,103 @@
+{
+  "title": "X-tra Savory Filipino Soya Bean Pancit Canton",
+  "description": "A resinous, cheese-pull Filipino dish featuring soya bean, nimono-simmer, Mediterranean-friendly, form=pancit-canton, vessel=korean-brass-bowl for a solo dinner.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soya Bean",
+      "amount": "250g"
+    },
+    {
+      "name": "Pancit Canton Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "140g"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger; saut\u00104 until softened.",
+    "Add soya bean and cook for 3 minutes.",
+    "Add canned diced tomatoes, soy sauce, oyster sauce, salt, and black pepper; stir to combine.",
+    "Add pancit canton noodles and stir-fry for 2 minutes.",
+    "Transfer to a korean brass bowl and top with shredded cheese.",
+    "Serve immediately and enjoy the cheese pull effect."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "filipino",
+    "korean-brass-bowl",
+    "one-pan",
+    "pancit-canton",
+    "soya-bean"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "x-tra-savory-filipino-soya-bean-pancit-canton",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-savory-filipino-soya-bean-pancit-canton",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:08:29Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "soya bean",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Soya bean",
+    "descriptor": "X-tra savory",
+    "dishForm": "Pancit Canton"
+  }
+}

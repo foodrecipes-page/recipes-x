@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Crisp Saudi-Arabian Chicken Wrap",
+  "description": "A buttery, crisp, and savory brunch dish inspired by Saudi-Arabian flavors, featuring chicken bouillon powder and a hint of steam.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "vegetarian-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ghee or clarified butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chicken bouillon powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Leaf wrap (such as collard greens or lettuce leaves)",
+      "amount": "2-3 leaves"
+    },
+    {
+      "name": "Greek yogurt (optional)",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat a tandoor clay pot or a regular oven to 400°F (200°C).",
+    "In a small bowl, mix together salt, black pepper, onion powder, garlic powder, and chicken bouillon powder.",
+    "Rub the spice mixture evenly over both sides of the chicken breast.",
+    "Melt the ghee or clarified butter in the preheated pot or oven.",
+    "Sear the chicken breast for 2-3 minutes on each side, or until it reaches an internal temperature of 165°F (74°C).",
+    "Transfer the chicken to a plate and let it rest for 5 minutes.",
+    "Meanwhile, steam the leaf wrap leaves in a steamer basket for 2-3 minutes, or until slightly softened.",
+    "Slice the cooked chicken breast into thin strips.",
+    "Assemble the wraps by placing a few slices of chicken onto a leaf wrap, followed by a dollop of Greek yogurt (if using) and a sprinkle of chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "clay-pot",
+    "high-protein",
+    "lunch",
+    "saudi-arabian-food",
+    "tandoor",
+    "weeknight-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "xtra-crisp-saudi-arabian-chicken-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-saudi-arabian-chicken-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:08:29Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "xtra Crisp",
+    "dishForm": "Wrap"
+  }
+}

@@ -206,6 +206,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-savory-filipino-soya-bean-pancit-canton",
+    "title": "X-tra Savory Filipino Soya Bean Pancit Canton",
+    "tags": [
+      "cheese-pull",
+      "filipino",
+      "korean-brass-bowl",
+      "one-pan",
+      "pancit-canton",
+      "soya-bean"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 23,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-silky-moroccan-bun-seffa",
     "title": "X-tra Silky Moroccan Bun Seffa",
     "tags": [
@@ -1923,6 +1938,22 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crisp-saudi-arabian-chicken-wrap",
+    "title": "Xtra Crisp Saudi-Arabian Chicken Wrap",
+    "tags": [
+      "breakfast",
+      "clay-pot",
+      "high-protein",
+      "lunch",
+      "saudi-arabian-food",
+      "tandoor",
+      "weeknight-recipe"
+    ],
+    "cuisine": "Saudi-Arabian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
