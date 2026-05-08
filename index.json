@@ -1137,6 +1137,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-sour-greek-long-bean-tagine",
+    "title": "Xenial sour Greek long-bean Tagine",
+    "tags": [
+      "date-night",
+      "greek-food",
+      "jain-friendly",
+      "one-pot",
+      "tagine-recipe",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-spanish-peppadew-peppers-crumble",
     "title": "Xenial Spanish Peppadew Peppers Crumble",
     "tags": [
