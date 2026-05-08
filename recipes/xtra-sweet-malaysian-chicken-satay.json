@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Sweet Malaysian Chicken Satay",
+  "description": "A charred and light Malaysian dish featuring golden caster sugar, this keto-friendly satay is a crowd-pleaser. It is made by boiling and grilling chicken in a sweet and spicy sauce.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into skewers"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together sugar, coconut milk, fish sauce, lime juice, and olive oil to make the satay sauce.",
+    "Add the minced garlic and grated ginger to the sauce and whisk until well combined.",
+    "Add the chicken skewers to the sauce and marinate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the chicken from the sauce, letting any excess liquid drip off.",
+    "Grill the chicken for 5-7 minutes per side, or until charred and cooked through.",
+    "Serve the satay hot with additional sauce for dipping.",
+    "Garnish with chopped cilantro or scallions, if desired.",
+    "Boil any remaining sauce to thicken and serve on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-chicken",
+    "keto-friendly",
+    "malaysian-cuisine",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "xtra-sweet-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sweet-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:16:18Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Sweet",
+    "dishForm": "Satay"
+  }
+}
