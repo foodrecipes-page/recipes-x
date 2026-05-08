@@ -4298,6 +4298,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-light-peruvian-tomatoes-pollo-a-la-brasa",
+    "title": "Xtra Light Peruvian Tomatoes Pollo A La Brasa",
+    "tags": [
+      "one-pan",
+      "ovo-vegetarian",
+      "peruvian-cuisine",
+      "pollo-a-la-brasa",
+      "quick-dinner"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-light-saudi-arabian-mascarpone-flatbread",
     "title": "Xtra Light Saudi Arabian Mascarpone Flatbread",
     "tags": [

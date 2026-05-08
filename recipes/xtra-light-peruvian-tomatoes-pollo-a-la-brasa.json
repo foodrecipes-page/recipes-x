@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Light Peruvian Tomatoes Pollo A La Brasa",
+  "description": "A light and quick Peruvian dish featuring tomatoes and pollo a la brasa, served in a dolsot stone bowl, ovo-vegetarian friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "peruvian tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "khao khuah rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Add the diced tomatoes to the skillet and cook for 3 minutes.",
+    "Stir in the soy sauce, salt, and black pepper.",
+    "Add the cooked chicken back to the skillet and stir to combine.",
+    "To serve, place a scoop of khao khuah rice in the bottom of a dolsot stone bowl.",
+    "Add the chicken and tomato mixture on top of the rice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "ovo-vegetarian",
+    "peruvian-cuisine",
+    "pollo-a-la-brasa",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-light-peruvian-tomatoes-pollo-a-la-brasa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-peruvian-tomatoes-pollo-a-la-brasa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:44:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "tomatoes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Xtra Light",
+    "dishForm": "Pollo A La Brasa"
+  }
+}
