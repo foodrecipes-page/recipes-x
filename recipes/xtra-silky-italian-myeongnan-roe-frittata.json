@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Silky Italian Myeongnan Roe Frittata",
+  "description": "A fresh and silky Italian-inspired dish featuring myeongnan-roe, perfect for a nostalgic breakfast or brunch",
+  "cuisine": "Italian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "myeongnan-roe",
+      "amount": "1 cup",
+      "notes": "pollock roe"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "italian bread",
+      "amount": "4 slices",
+      "notes": "for toast"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat.",
+    "Add the myeongnan-roe and cook, stirring occasionally, until lightly browned.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the grated parmesan cheese to the bowl and stir to combine.",
+    "Pour the egg mixture over the myeongnan-roe in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley.",
+    "Toast the italian bread slices until lightly browned.",
+    "Slice the frittata into wedges and serve with toast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-brunch",
+    "italian-inspired",
+    "one-pan",
+    "ovo-vegetarian",
+    "silky-texture"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "xtra-silky-italian-myeongnan-roe-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-italian-myeongnan-roe-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:30:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "ovo-vegetarian",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "Xtra Silky",
+    "dishForm": "Frittata"
+  }
+}
