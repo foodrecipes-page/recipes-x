@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Crunchy Turkish Cheese Kebabs",
+  "description": "A winey and crunchy Turkish dish featuring monterey jack cheese, perfect for a post-workout meal",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup shredded",
+      "notes": "low moisture"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "roasted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": "curly leaf"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the shredded monterey jack cheese, coconut cream, cracked black pepper, paprika, garlic powder, and salt until well combined.",
+    "Thread the cheese mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 12 minutes, or until the cheese is melted and the outside is crispy.",
+    "While the skewers are baking, toast the pita bread slices by baking them in the oven for 2 minutes, or until lightly browned.",
+    "Once the skewers are done, remove them from the oven and let them cool for a few minutes.",
+    "Serve the skewers on top of the toasted pita bread, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snack",
+    "easy-dinner",
+    "high-protein",
+    "post-workout",
+    "turkish-food",
+    "wine-pairing"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "xtra-crunchy-turkish-cheese-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-turkish-cheese-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:10:34Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Kebabs"
+  }
+}
