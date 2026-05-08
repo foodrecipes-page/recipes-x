@@ -1391,6 +1391,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-spicy-thai-chicken-curry",
+    "title": "Xenial Spicy Thai Chicken Curry",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "spicy-food",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-springy-indian-kidney-beans-rajma",
     "title": "Xenial Springy Indian Kidney Beans Rajma",
     "tags": [
