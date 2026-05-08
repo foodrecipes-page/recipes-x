@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Briny Mediterranean Smoked Turkey Neck Tagine",
+  "description": "A savory and satisfying Mediterranean dish featuring smoked turkey neck, this tagine is perfect for a midnight craving, with its briny and flaky texture, and is satvik-friendly. It is made by emulsifying the ingredients to create a rich and creamy sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked turkey neck",
+      "amount": "1 pound",
+      "notes": "bone-in"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the smoked turkey neck and cook until it is browned on all sides.",
+    "Add the lemon juice, chickpeas, cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 2 hours, or until the turkey is tender and the sauce has thickened.",
+    "Remove the turkey neck from the pot and let it cool, then shred the meat and return it to the pot.",
+    "Simmer the tagine for an additional 30 minutes, stirring occasionally, until the sauce has emulsified and the flavors have melded together.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "comfort-food",
+    "mediterranean",
+    "one-pot",
+    "smoked-turkey",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-briny-mediterranean-smoked-turkey-neck-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-briny-mediterranean-smoked-turkey-neck-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:33:41Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "emulsify",
+    "primaryIngredient": "smoked turkey neck",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "smoked turkey neck",
+    "descriptor": "Xtra Briny",
+    "dishForm": "Tagine"
+  }
+}
