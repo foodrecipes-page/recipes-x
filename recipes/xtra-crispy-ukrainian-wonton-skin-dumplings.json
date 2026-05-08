@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Crispy Ukrainian Wonton Skin Dumplings",
+  "description": "A crispy Ukrainian dish featuring wonton skin, this recipe is a show-off dish that is sure to impress, with a grassy flavor profile and shojin-friendly ingredients. It uses mantecare-emulsify technique to create a unique taste experience.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wonton skin",
+      "amount": "20 sheets",
+      "notes": "found in most supermarkets"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy milk",
+      "amount": "1 cup",
+      "notes": "for emulsification"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potato, chopped onion, and sliced mushroom.",
+    "In a separate bowl, whisk together soy milk and a pinch of salt and pepper.",
+    "Add the soy milk mixture to the potato mixture and stir until well combined.",
+    "Lay a wonton skin on a flat surface and place a tablespoon of the potato mixture in the center of the skin.",
+    "Brush the edges of the skin with a little water and fold the skin into a triangle, pressing the edges together to seal the dumpling.",
+    "Repeat with the remaining wonton skins and filling.",
+    "Heat the olive oil in a large frying pan over medium heat.",
+    "When the oil is hot, add a few of the dumplings to the pan and fry until crispy and golden brown, about 3-4 minutes on each side.",
+    "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "high-protein",
+    "one-pan",
+    "shojin",
+    "ukrainian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xtra-crispy-ukrainian-wonton-skin-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-ukrainian-wonton-skin-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:17:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "wonton skin",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "wonton skin",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Dumplings"
+  }
+}
