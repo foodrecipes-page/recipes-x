@@ -1,0 +1,99 @@
+{
+  "title": "Xenial Springy Ukrainian Vegetable Pilaf",
+  "description": "A buttery and springy Ukrainian dish featuring Turkish delight, perfect for meal prep. This vegetarian-friendly pilaf is simmered to perfection in a Korean brass bowl.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large Korean brass bowl over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the grated carrots and cook for an additional 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the diced Turkish delight and cook for 1 minute.",
+    "Add the vegetable broth, rice, salt, and black pepper to the bowl.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Remove the bowl from the heat and let it cool for 5 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "meal-prep",
+    "one-pot",
+    "spring-recipes",
+    "ukrainian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xenial-springy-ukrainian-vegetable-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-springy-ukrainian-vegetable-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:05:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "turkish delight",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "vegetables",
+    "descriptor": "xenial springy",
+    "dishForm": "Pilaf"
+  }
+}

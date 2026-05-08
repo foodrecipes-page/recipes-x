@@ -1362,6 +1362,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-springy-ukrainian-vegetable-pilaf",
+    "title": "Xenial Springy Ukrainian Vegetable Pilaf",
+    "tags": [
+      "meal-prep",
+      "one-pot",
+      "spring-recipes",
+      "ukrainian-cuisine",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-stone-dutch-potatoes-hash",
     "title": "Xenial Stone Dutch Potatoes Hash",
     "tags": [
