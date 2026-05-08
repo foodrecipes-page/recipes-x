@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Nutty Ethiopian Radish Gored Gored",
+  "description": "A nutty and tender Ethiopian dish featuring radish, perfect for midnight cravings, this Jain-friendly gored gored is a unique twist on traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "radish",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the diced radish, chopped onion, minced garlic, and grated ginger.",
+    "In a small bowl, mix together the peanut butter, berbere spice, salt, and black pepper.",
+    "Add the peanut butter mixture to the radish mixture and knead until well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, squeeze the lemon juice over the top of the gored gored and toss to coat.",
+    "Serve the Xtra Nutty Ethiopian Radish Gored Gored chilled, garnished with additional lemon wedges if desired.",
+    "To enhance the nutty flavor, toast some peanuts in a dry skillet over medium heat for a few minutes and chop them coarsely.",
+    "Sprinkle the toasted peanuts over the top of the gored gored before serving.",
+    "For an extra burst of flavor, add some chopped fresh cilantro to the gored gored along with the toasted peanuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "xtra-nutty-ethiopian-radish-gored-gored",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-nutty-ethiopian-radish-gored-gored",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:42:42Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "radish",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "radish",
+    "descriptor": "Xtra Nutty",
+    "dishForm": "Gored Gored"
+  }
+}
