@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Crunchy Middle Eastern Serrano Ham Umm Ali",
+  "description": "A weeknight Middle Eastern dish featuring serrano ham, dashi extract, and crunchy elements, all in a jammy umm ali form, friendly to no onion no garlic diets.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "no onion",
+    "no garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "mixed nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Arrange the serrano ham slices on one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "In a small bowl, mix together the dashi extract, honey, and rose water, then brush the mixture evenly over the ham.",
+    "Sprinkle the chopped nuts and dried cranberries over the ham.",
+    "Fold the other half of the pastry over the filling, pressing the edges to seal.",
+    "Brush the top of the pastry with the unsalted butter.",
+    "Bake the umm ali for 25 minutes, or until golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "jammy",
+    "middle-eastern",
+    "no-garlic",
+    "no-onion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 22
+  },
+  "slug": "xtra-crunchy-middle-eastern-serrano-ham-umm-ali",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-middle-eastern-serrano-ham-umm-ali",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:18:09Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "dashi-extract",
+    "primaryIngredient": "serrano ham",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "serrano ham",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Umm Ali"
+  }
+}

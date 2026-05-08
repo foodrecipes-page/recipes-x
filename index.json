@@ -3137,6 +3137,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crunchy-middle-eastern-serrano-ham-umm-ali",
+    "title": "Xtra Crunchy Middle Eastern Serrano Ham Umm Ali",
+    "tags": [
+      "crunchy",
+      "jammy",
+      "middle-eastern",
+      "no-garlic",
+      "no-onion",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crunchy-ukrainian-chickpeas-tagine",
     "title": "Xtra Crunchy Ukrainian Chickpeas Tagine",
     "tags": [
