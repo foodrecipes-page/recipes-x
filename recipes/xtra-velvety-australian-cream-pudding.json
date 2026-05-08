@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Velvety Australian Cream Pudding",
+  "description": "A rich and creamy dessert featuring caramel and a velvety texture, this Australian cream pudding is a decadent treat, cultured with care to be FODMAP friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "heavy cream",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the heavy cream, whole milk, granulated sugar, and sea salt, and heat over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the egg yolks and vanilla extract.",
+    "Gradually add the hot cream mixture to the egg yolks, whisking constantly to prevent the eggs from scrambling.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+    "Remove the saucepan from the heat and stir in the unsalted butter until it has melted and the mixture is smooth.",
+    "Strain the mixture into a clean bowl and let it cool to room temperature.",
+    "Cover the bowl with plastic wrap and refrigerate the mixture for at least 2 hours, or until it is chilled and set.",
+    "Just before serving, drizzle the caramel sauce over the top of the pudding and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "caramel",
+    "creamy",
+    "dessert",
+    "fodmap-friendly",
+    "indulgent",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "xtra-velvety-australian-cream-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-velvety-australian-cream-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:43:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "ferment",
+    "primaryIngredient": "caramel",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cream",
+    "descriptor": "Xtra velvety",
+    "dishForm": "Pudding"
+  }
+}

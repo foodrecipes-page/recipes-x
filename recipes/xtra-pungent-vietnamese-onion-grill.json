@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Pungent Vietnamese Onion Grill",
+  "description": "A pungent and festive Vietnamese dish featuring chopped onion and double-rise-bread, perfect for a snack or light meal. This egg-free-friendly recipe is designed for a raclette-grill.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chopped onion",
+      "amount": "1 large",
+      "notes": "preferably sweet onion"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grilled chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped onion with vegetable oil, fish sauce, lime juice, grilled chili flakes, salt, and black pepper until the onion is evenly coated.",
+    "Arrange the double-rise-bread cubes on the raclette-grill.",
+    "Top each bread cube with a spoonful of the onion mixture.",
+    "Close the raclette-grill and cook for 10 minutes or until the bread is toasted and the onion is caramelized.",
+    "Open the raclette-grill and stir the onion mixture.",
+    "Cook for an additional 5 minutes or until the onion is crispy.",
+    "Remove the Xtra Pungent Vietnamese Onion Grill from the raclette-grill and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "grilled-dish",
+    "quick-snack",
+    "vegetarian-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "xtra-pungent-vietnamese-onion-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-pungent-vietnamese-onion-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:44:37Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chopped onion",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "onion",
+    "descriptor": "Xtra Pungent",
+    "dishForm": "Grill"
+  }
+}

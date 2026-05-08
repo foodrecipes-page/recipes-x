@@ -4668,6 +4668,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-pungent-vietnamese-onion-grill",
+    "title": "Xtra Pungent Vietnamese Onion Grill",
+    "tags": [
+      "easy-entertaining",
+      "grilled-dish",
+      "quick-snack",
+      "vegetarian-friendly",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-quick-irish-beef-flank-steak-stew",
     "title": "Xtra Quick Irish Beef Flank Steak Stew",
     "tags": [
@@ -5635,6 +5649,22 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 22,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-velvety-australian-cream-pudding",
+    "title": "Xtra Velvety Australian Cream Pudding",
+    "tags": [
+      "australian",
+      "caramel",
+      "creamy",
+      "dessert",
+      "fodmap-friendly",
+      "indulgent",
+      "velvety"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
