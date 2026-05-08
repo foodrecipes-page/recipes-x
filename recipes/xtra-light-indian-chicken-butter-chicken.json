@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Light Indian Chicken Butter Chicken",
+  "description": "A light and salty Indian dish featuring dasima-kombu and miso-marinate, perfect for a satvik-friendly meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "dasima-kombu",
+      "amount": "2 pieces",
+      "notes": "dried"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the dasima-kombu in water for 30 minutes, then cut it into small pieces.",
+    "In a blender, blend the miso paste, yogurt, lemon juice, and a pinch of salt to make the marinade.",
+    "Add the chicken to the marinade and mix well, then refrigerate for at least 30 minutes.",
+    "Heat the ghee in a large skillet over medium heat, then add the cumin powder and coriander powder and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 6-8 minutes.",
+    "Add the tomato puree, dasima-kombu, and black pepper to the skillet, then stir well to combine.",
+    "Reduce heat to low and simmer the mixture for 10-15 minutes, stirring occasionally.",
+    "Season the mixture with salt to taste, then serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "light-indian",
+    "one-pan",
+    "satvik-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "xtra-light-indian-chicken-butter-chicken",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-indian-chicken-butter-chicken",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:33:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "light",
+    "technique": "miso-marinate",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Light",
+    "dishForm": "Butter Chicken"
+  }
+}

@@ -4489,6 +4489,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-light-indian-chicken-butter-chicken",
+    "title": "Xtra Light Indian Chicken Butter Chicken",
+    "tags": [
+      "gluten-free",
+      "light-indian",
+      "one-pan",
+      "satvik-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-light-jamaican-parma-ham-skewers",
     "title": "Xtra Light Jamaican Parma Ham Skewers",
     "tags": [
