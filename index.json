@@ -2485,6 +2485,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-cheesy-jamaican-asparagus-pasta",
+    "title": "Xtra Cheesy Jamaican Asparagus Pasta",
+    "tags": [
+      "asparagus-recipe",
+      "caribbean",
+      "cheesy",
+      "jamaican-cuisine",
+      "one-pot",
+      "pescatarian"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-cheesy-ukrainian-haricot-bean-casserole",
     "title": "Xtra Cheesy Ukrainian Haricot Bean Casserole",
     "tags": [

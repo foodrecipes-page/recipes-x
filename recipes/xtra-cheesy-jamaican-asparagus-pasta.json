@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Cheesy Jamaican Asparagus Pasta",
+  "description": "A pescatarian-friendly Jamaican dish featuring asparagus, with a peppery and cheesy flavor, and an al-dente finish, perfect for meal prep.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "asparagus",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al-dente.",
+    "While the pasta is cooking, heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion and minced garlic to the skillet and saute until the onion is translucent.",
+    "Add the scotch bonnet peppers to the skillet and saute for an additional 2 minutes.",
+    "Add the shrimp to the skillet and saute until they are pink and fully cooked.",
+    "Add the jerk seasoning to the skillet and stir to combine.",
+    "Add the asparagus to the skillet and saute until they are tender.",
+    "Drain the cooked pasta and add it to the skillet, stirring to combine with the shrimp and asparagus mixture.",
+    "Stir in the shredded cheddar and parmesan cheese until melted and well combined.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus-recipe",
+    "caribbean",
+    "cheesy",
+    "jamaican-cuisine",
+    "one-pot",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-cheesy-jamaican-asparagus-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-cheesy-jamaican-asparagus-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:03:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "asparagus",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "asparagus",
+    "descriptor": "Xtra cheesy",
+    "dishForm": "Pasta"
+  }
+}
