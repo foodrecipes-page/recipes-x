@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Crumbly Algerian Lamb Tagine",
+  "description": "A traditional Algerian dish featuring tender lamb and a blend of aromatic spices, with a crumbly texture from fermented ingredients, perfect for a lazy Sunday afternoon. This recipe is gluten-free friendly and incorporates white vinegar for added flavor.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, white vinegar, cumin, coriander, salt, and black pepper to make the marinade.",
+    "Add the lamb pieces to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium heat.",
+    "Remove the lamb from the marinade, letting any excess liquid drip off, and brown the lamb pieces on all sides, about 5 minutes.",
+    "Add the chopped onion to the pot and cook until it is softened and lightly browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute, stirring constantly.",
+    "Add 1 cup of water to the pot and bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Use two forks to shred the lamb into bite-sized pieces and return it to the pot.",
+    "Simmer the tagine, uncovered, for an additional 30 minutes, stirring occasionally, until the sauce has thickened and the lamb is very tender.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "fermented-food",
+    "gluten-free",
+    "lamb-recipes",
+    "lazy-sunday",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "xtra-crumbly-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crumbly-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:46:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "white vinegar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Crumbly",
+    "dishForm": "Tagine"
+  }
+}
