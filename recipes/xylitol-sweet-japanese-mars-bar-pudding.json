@@ -1,0 +1,98 @@
+{
+  "title": "Xylitol Sweet Japanese Mars Bar Pudding",
+  "description": "A winey and light Japanese dessert featuring Mars bar, made with xylitol for a diabetic-friendly option, served in individual mini cocottes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "xylitol",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Whisk together the xylitol, heavy cream, whole milk, egg yolks, vanilla extract, and kosher salt in a medium bowl.",
+    "Add the chopped Mars bars to the bowl and whisk until well combined.",
+    "Stir in the mirin and sake.",
+    "Pour the mixture into 4 individual mini cocottes.",
+    "Place the cocottes in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 25 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the cocottes from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "energizing",
+    "japanese-dessert",
+    "light",
+    "low-carb",
+    "mini-cocotte",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "xylitol-sweet-japanese-mars-bar-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xylitol-sweet-japanese-mars-bar-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:21:28Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "whisk",
+    "primaryIngredient": "mars bar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Xylitol sweet",
+    "dishForm": "Pudding"
+  }
+}

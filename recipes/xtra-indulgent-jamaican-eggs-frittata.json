@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Indulgent Jamaican Eggs Frittata",
+  "description": "A rich and flavorful Jamaican dish featuring free-range eggs, mustard, and gooey cheese, made with low-sodium ingredients and double-fry KFC technique for an indulgent breakfast treat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "free-range eggs",
+      "amount": "6 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "low-sodium chicken seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "double-fry KFC chicken bits",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Beat the eggs in a bowl and set aside.",
+    "Heat the cooking oil in a skillet and cook the double-fry KFC chicken bits until crispy.",
+    "Add the low-sodium chicken seasoning, Dijon mustard, and scallions to the skillet and stir to combine.",
+    "Pour the beaten eggs over the skillet mixture and cook until the edges start to set.",
+    "Sprinkle the grated cheddar cheese over the eggs and transfer the skillet to the oven.",
+    "Bake the frittata for 15 minutes or until the cheese is melted and the eggs are cooked through.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indulgent-breakfast",
+    "jamaican-cuisine",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-indulgent-jamaican-eggs-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-indulgent-jamaican-eggs-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:21:42Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "eggs",
+    "descriptor": "Xtra Indulgent",
+    "dishForm": "Frittata"
+  }
+}

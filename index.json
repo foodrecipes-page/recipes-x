@@ -4732,6 +4732,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-indulgent-jamaican-eggs-frittata",
+    "title": "Xtra Indulgent Jamaican Eggs Frittata",
+    "tags": [
+      "high-protein",
+      "indulgent-breakfast",
+      "jamaican-cuisine",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-indulgent-mexican-muffin-chilaquiles",
     "title": "Xtra Indulgent Mexican Muffin Chilaquiles",
     "tags": [
@@ -6785,6 +6800,22 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
+    "slug": "xylitol-sweet-japanese-mars-bar-pudding",
+    "title": "Xylitol Sweet Japanese Mars Bar Pudding",
+    "tags": [
+      "diabetic-friendly",
+      "energizing",
+      "japanese-dessert",
+      "light",
+      "low-carb",
+      "mini-cocotte",
+      "winey"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
