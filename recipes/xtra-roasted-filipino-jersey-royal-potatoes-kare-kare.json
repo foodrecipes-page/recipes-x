@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Roasted Filipino Jersey Royal Potatoes Kare Kare",
+  "description": "A satvik-friendly Filipino dish featuring roasted Jersey Royal potatoes in a rich and creamy kare kare sauce, perfect for a brunch mood. This recipe uses a tandoor for an authentic touch.",
+  "cuisine": "Filipino",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jersey Royal potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground peanuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "kare kare sauce mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "Toss the potatoes with 2 tablespoons of vegetable oil and roast in the tandoor for 20 minutes.",
+    "In a large pan, heat the remaining 2 tablespoons of vegetable oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the ground peanuts and kare kare sauce mix and cook for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the roasted potatoes to the sauce and season with salt and black pepper.",
+    "Simmer the kare kare sauce for 10 minutes or until the potatoes are fully coated.",
+    "Serve the Xtra Roasted Filipino Jersey Royal Potatoes Kare Kare hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "kare-kare",
+    "roasted-vegetables",
+    "satvik-recipes",
+    "tandoor-cooking",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-roasted-filipino-jersey-royal-potatoes-kare-kare",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-filipino-jersey-royal-potatoes-kare-kare",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:25:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Jersey Royal Potatoes",
+    "descriptor": "Xtra Roasted",
+    "dishForm": "Kare Kare"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Cheesy Brazilian Skirt Steak Skewers",
+  "description": "A resinous and adventurous Brazilian dish featuring skirt steak, lardons, and a rich cheese pull, this recipe is shojin-friendly and perfect for those looking to try something new.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the skirt steak and lardons onto skewers.",
+    "Brush the skewers with olive oil and season with salt, black pepper, and garlic.",
+    "Grill the skewers for 10 minutes, flipping halfway through.",
+    "While the skewers are cooking, mix the mozzarella and parmesan cheese in a bowl.",
+    "After the skewers have cooked, place them on a baking sheet and top with the cheese mixture.",
+    "Place the baking sheet under the broiler and cook until the cheese is melted and bubbly.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "cheesy",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-cheesy-brazilian-skirt-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-cheesy-brazilian-skirt-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:25:51Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "lardons-render",
+    "primaryIngredient": "skirty steak",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "skirt steak",
+    "descriptor": "Xtra cheesy",
+    "dishForm": "Skewers"
+  }
+}
