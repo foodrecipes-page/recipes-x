@@ -1,0 +1,96 @@
+{
+  "title": "Xenial Buttery Middle Eastern Scamorza Flatbread",
+  "description": "A buttery and molten Middle Eastern dish featuring scamorza, pickle, and ovo-vegetarian friendly ingredients, perfect for a cozy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scamorza cheese",
+      "amount": "8 oz",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 pieces",
+      "notes": "middle eastern style"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Butter each piece of flatbread on both sides.",
+    "Place the flatbread on a baking sheet and bake for 5 minutes.",
+    "Top each flatbread with a slice of scamorza cheese and return to the oven for an additional 5 minutes.",
+    "While the flatbread is baking, mix together the sumac, paprika, and garlic powder in a small bowl.",
+    "Sprinkle the spice mixture over the cheese.",
+    "Top each flatbread with a fried egg and a few slices of pickle.",
+    "Sprinkle chopped parsley over the top of each flatbread.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "cozy",
+    "flatbread",
+    "middle-eastern",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 32,
+    "fat": 24
+  },
+  "slug": "xenial-buttery-middle-eastern-scamorza-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-buttery-middle-eastern-scamorza-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:20:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "scamorza",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "scamorza",
+    "descriptor": "Xenial Buttery",
+    "dishForm": "Flatbread"
+  }
+}

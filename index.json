@@ -525,6 +525,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-buttery-middle-eastern-scamorza-flatbread",
+    "title": "Xenial Buttery Middle Eastern Scamorza Flatbread",
+    "tags": [
+      "cheesy",
+      "cozy",
+      "flatbread",
+      "middle-eastern",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-charred-malaysian-sweetcorn-fried-rice",
     "title": "Xenial Charred Malaysian Sweetcorn Fried-Rice",
     "tags": [
@@ -1879,6 +1893,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 140,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-creamy-kenyan-mackerel-curry",
+    "title": "Xtra Creamy Kenyan Mackerel Curry",
+    "tags": [
+      "coconut-milk",
+      "curry",
+      "kenyan-cuisine",
+      "one-pan",
+      "seafood",
+      "smoked-fish"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

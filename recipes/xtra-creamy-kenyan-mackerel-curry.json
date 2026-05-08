@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Creamy Kenyan Mackerel Curry",
+  "description": "A pungent and creamy Kenyan dish featuring smoked mackerel, shio koji cure, and a blend of spices, served on a traditional talavera plate.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "1 pound",
+      "notes": "shio koji cured"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Stir in curry powder and cook for 1 minute.",
+    "Add smoked mackerel and cook until heated through.",
+    "Stir in coconut milk and tomato paste.",
+    "Bring mixture to a simmer and cook until thickened, about 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot on a talavera plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "curry",
+    "kenyan-cuisine",
+    "one-pan",
+    "seafood",
+    "smoked-fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-creamy-kenyan-mackerel-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-kenyan-mackerel-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:21:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "mackerel",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Curry"
+  }
+}
