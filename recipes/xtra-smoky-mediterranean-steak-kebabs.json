@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Smoky Mediterranean Steak Kebabs",
+  "description": "A lacto-vegetarian friendly dish featuring lean minced steak, perfect for a post-workout meal, with a yeasty and gooey Mediterranean twist, and a smoky heat.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced steak",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the minced steak, smoked paprika, garlic, yeast, salt, and pepper, and mix well with your hands until just combined.",
+    "Thread the steak mixture onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the steak is cooked to an internal temperature of 160 degrees Fahrenheit.",
+    "Meanwhile, combine the feta cheese, lemon juice, and chopped parsley in a bowl, and mix well.",
+    "Serve the grilled skewers with the feta cheese mixture spooned over the top, and garnished with cherry tomatoes and red onion.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lacto-vegetarian",
+    "mediterranean",
+    "one-pan",
+    "post-workout",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "xtra-smoky-mediterranean-steak-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-mediterranean-steak-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:42:30Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "smoke-hot",
+    "primaryIngredient": "lean minced steak",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "steak",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Kebabs"
+  }
+}
