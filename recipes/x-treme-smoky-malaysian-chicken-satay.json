@@ -1,0 +1,117 @@
+{
+  "title": "X-treme Smoky Malaysian Chicken Satay",
+  "description": "Indulge in the rich flavors of Malaysia with this snappy, romantic dish featuring coriander leaves and a tandoor grill.",
+  "cuisine": "malaysian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": "Full-fat for authentic flavor"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "20g",
+      "notes": "Fresh for garnish"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "20g",
+      "notes": "Toasted for added flavor"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "10g",
+      "notes": "Toasted for depth"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "Peeled and bruised for infusion"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for aromatic punch"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "5g",
+      "notes": "For added heat"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "50ml",
+      "notes": "For savory umami"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "20g",
+      "notes": "For tangy depth"
+    },
+    {
+      "name": "honey",
+      "amount": "10g",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "10g",
+      "notes": "For caramelized crunch"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor grill to 200°C.",
+    "In a blender or food processor, blend together coconut milk, coriander seeds, cumin seeds, lemongrass, garlic, chili flakes, soy sauce, tamarind paste, honey, and coconut sugar to make the marinade.",
+    "Add the chicken breast to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the satay over medium heat for 5-7 minutes per side, or until cooked through.",
+    "Transfer the satay to a serving platter and garnish with fresh coriander leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "grilled",
+    "malaysian-cuisine",
+    "one-pan",
+    "romantic",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "x-treme-smoky-malaysian-chicken-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-treme-smoky-malaysian-chicken-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:15:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "tandoor",
+    "primaryIngredient": "coriander leaves",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "X-treme Smoky",
+    "dishForm": "Satay"
+  }
+}
