@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Creamy Egyptian Mung Bean Sprouts Curry",
+  "description": "A kid-friendly Egyptian dish featuring mung bean sprouts in a creamy and mildly spicy curry sauce, flavored with a hint of mustard and ayurvedic-sattvic friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "freshly sprouted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "mustard oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the mustard oil in a large pan over medium heat.",
+    "Add the chopped onion and saute until it is translucent.",
+    "Add the minced garlic and grated ginger and saute for another minute.",
+    "Add the curry powder and cumin powder and stir for 1 minute.",
+    "Add the mung bean sprouts and stir to combine with the spice mixture.",
+    "Pour in the coconut cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot over rice or with some naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-creamy-egyptian-mung-bean-sprouts-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-egyptian-mung-bean-sprouts-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:55:48Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Curry"
+  }
+}
