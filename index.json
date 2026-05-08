@@ -2901,6 +2901,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-dutch-chicken-wrap",
+    "title": "Xtra Crispy Dutch Chicken Wrap",
+    "tags": [
+      "chicken-recipes",
+      "citrusy-flavors",
+      "crispy-food",
+      "date-night",
+      "dutch-cuisine",
+      "kosher-friendly"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-dutch-stracciatella-cheese-skillet",
     "title": "Xtra Crispy Dutch Stracciatella Cheese Skillet",
     "tags": [

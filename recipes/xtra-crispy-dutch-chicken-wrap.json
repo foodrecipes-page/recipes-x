@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Crispy Dutch Chicken Wrap",
+  "description": "A crispy and citrusy Dutch dish featuring pitted black olives and leaf-wrap-steam, perfect for a date night, kosher-friendly",
+  "cuisine": "Dutch",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "pitted black olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "large lettuce leaves",
+      "amount": "4"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, whisk together lemon juice, olive oil, garlic powder, salt, and pepper.",
+    "Add the chicken strips to the bowl and toss to coat.",
+    "Place the chicken on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the chicken is baking, prepare the lettuce leaves by washing and drying them.",
+    "Once the chicken is done, let it cool for a few minutes.",
+    "Assemble the wraps by placing a few pieces of chicken onto a lettuce leaf, topping with black olives and shredded carrots.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "citrusy-flavors",
+    "crispy-food",
+    "date-night",
+    "dutch-cuisine",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "xtra-crispy-dutch-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-dutch-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:22:43Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "pitted black olives",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Wrap"
+  }
+}
