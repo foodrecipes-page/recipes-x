@@ -1933,6 +1933,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-buttery-canadian-bread-casserole",
+    "title": "Xtra Buttery Canadian Bread Casserole",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "easy-dinner",
+      "low-carb",
+      "one-pan"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-buttery-indian-sesame-naan",
     "title": "Xtra Buttery Indian Sesame Naan",
     "tags": [

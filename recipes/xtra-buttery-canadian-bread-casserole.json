@@ -1,0 +1,91 @@
+{
+  "title": "Xtra Buttery Canadian Bread Casserole",
+  "description": "A buttery, crumbly, and light Canadian dish featuring tomato juice and double-rise bread, perfect for a low-carb friendly meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "tomato juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced ham",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large kazan cauldron, combine the cubed bread, melted butter, tomato juice, shredded cheese, diced ham, chopped parsley, salt, and black pepper.",
+    "Mix all the ingredients together until the bread is well coated.",
+    "Cover the kazan cauldron with a lid and let it sit for 10 minutes to allow the bread to absorb the liquid.",
+    "Remove the lid and bake the casserole in the preheated oven for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve the casserole hot and enjoy.",
+    "Garnish with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "easy-dinner",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-buttery-canadian-bread-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-canadian-bread-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:56:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "tomato juice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "bread",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Casserole"
+  }
+}
