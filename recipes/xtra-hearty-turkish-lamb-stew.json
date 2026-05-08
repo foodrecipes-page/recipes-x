@@ -1,0 +1,111 @@
+{
+  "title": "Xtra Hearty Turkish Lamb Stew",
+  "description": "A rich and flavorful one-pot Turkish dish featuring lamb, unsweetened coconut milk, and a variety of spices, resulting in a hearty and satisfying meal with an al-dente finish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "turkish red pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until it starts to brown, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for an additional 1 minute.",
+    "Stir in the ground turkish red pepper, cumin, smoked paprika, salt, and black pepper.",
+    "Add the browned lamb back to the pot and stir to combine with the spices and onion mixture.",
+    "Pour in the full fat unsweetened coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, until the lamb is tender and the stew has reached an al-dente finish, about 1 1/2 hours.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "al-dente",
+    "coconut-milk",
+    "hearty-stew",
+    "lamb-recipes",
+    "one-pot",
+    "turkish-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-hearty-turkish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-hearty-turkish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:29:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Hearty",
+    "dishForm": "Stew"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Nutty Mexican Fish Flan",
+  "description": "A nutty and juicy Mexican dish featuring white flour and poblano peppers, pescatarian friendly and in the form of a flan.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white flour",
+      "amount": "2 cups",
+      "notes": "all purpose"
+    },
+    {
+      "name": "double rise bread",
+      "amount": "1 loaf",
+      "notes": "crushed"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "roasted"
+    },
+    {
+      "name": "cod fish",
+      "amount": "1 pound",
+      "notes": "cooked and flaked"
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whipping"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "monterey jack"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Butter six 1-cup ramekins and coat with crushed double rise bread.",
+    "Roast poblano peppers in the oven until charred, then peel and chop.",
+    "In a blender, puree roasted poblanos, eggs, heavy cream, shredded cheese, salt, and black pepper.",
+    "Stir in flaked cod fish and toasted chopped pecans.",
+    "Pour the mixture into the prepared ramekins and bake for 35 minutes.",
+    "Remove from oven and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours before serving.",
+    "Serve chilled and garnished with additional toasted pecans if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flan-recipes",
+    "mexican-cuisine",
+    "nutty-flavors",
+    "pescatarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "xtra-nutty-mexican-fish-flan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-nutty-mexican-fish-flan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:29:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "white flour",
+    "diet": "pescatarian",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra Nutty",
+    "dishForm": "Flan"
+  }
+}
