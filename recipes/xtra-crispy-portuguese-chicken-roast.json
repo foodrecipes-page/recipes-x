@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Crispy Portuguese Chicken Roast",
+  "description": "Indulgent Portuguese dish featuring charred and crispy chicken, perfect for a special occasion. This recipe is nut-free-friendly and cooked to perfection in a copper mug.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 pounds",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together paprika, garlic powder, sesame seeds, salt, and black pepper.",
+    "Rinse the chicken thighs and pat them dry with paper towels.",
+    "Brush the chicken thighs with olive oil and sprinkle with the paprika mixture.",
+    "Place the chicken thighs in a copper mug and roast in the oven for 30 minutes.",
+    "After 30 minutes, brush the chicken with lemon juice and continue roasting for an additional 20 minutes.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before serving.",
+    "Serve the chicken hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "copper-cooking",
+    "gluten-free",
+    "nut-free",
+    "portuguese-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "xtra-crispy-portuguese-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-portuguese-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:09:42Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "seeds",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Roast"
+  }
+}

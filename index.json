@@ -3936,6 +3936,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-portuguese-chicken-roast",
+    "title": "Xtra Crispy Portuguese Chicken Roast",
+    "tags": [
+      "chicken-recipes",
+      "copper-cooking",
+      "gluten-free",
+      "nut-free",
+      "portuguese-cuisine",
+      "special-occasion"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-portuguese-vegetable-skewers",
     "title": "Xtra Crispy Portuguese Vegetable Skewers",
     "tags": [
