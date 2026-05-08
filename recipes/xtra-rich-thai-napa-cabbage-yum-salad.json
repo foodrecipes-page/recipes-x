@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Rich Thai Napa Cabbage Yum Salad",
+  "description": "A rich and pillowy Thai dish featuring napa cabbage, infused oil, and vegetarian-friendly ingredients, perfect for a show-off yum salad. This salad is a flavorful and refreshing twist on traditional Thai cuisine.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "2 heads",
+      "notes": "shredded"
+    },
+    {
+      "name": "Infused oil",
+      "amount": "1/4 cup",
+      "notes": "chili and garlic"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded napa cabbage, thinly sliced red onion, chopped mint leaves, and chopped cilantro leaves.",
+    "In a small bowl, whisk together the infused oil, lime juice, palm sugar, salt, and pepper to make the dressing.",
+    "Pour the dressing over the cabbage mixture and toss to combine.",
+    "Let the salad sit at room temperature for 30 minutes to allow the flavors to meld.",
+    "Just before serving, toss the salad again to redistribute the dressing.",
+    "Transfer the salad to a serving platter or individual plates.",
+    "Garnish with additional mint leaves and cilantro leaves, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "flavorful-dish",
+    "healthy-snack",
+    "thai-cuisine",
+    "vegetarian-friendly",
+    "yum-salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "xtra-rich-thai-napa-cabbage-yum-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-thai-napa-cabbage-yum-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:34:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "napa cabbage",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Napa Cabbage",
+    "descriptor": "Xtra Rich",
+    "dishForm": "Yum Salad"
+  }
+}
