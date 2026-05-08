@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Crispy Peruvian Chicken Skillet",
+  "description": "A hearty and flavorful Peruvian dish featuring crispy chicken legs, confit tomatoes, and a blend of Mediterranean spices, perfect for a sick day or a weeknight dinner. This recipe is made in a tava griddle for a crispy crust and a juicy interior.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle over medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, cumin, salt, black pepper, and yeast.",
+    "Add the chicken legs to the bowl and toss to coat evenly with the marinade.",
+    "Place the chicken legs on the preheated tava griddle and cook for 5 minutes on each side, or until crispy and golden brown.",
+    "Transfer the chicken to a plate and set aside.",
+    "Add the confit tomatoes to the tava griddle and cook for 2 minutes, stirring occasionally.",
+    "Return the chicken to the tava griddle and stir in lemon juice.",
+    "Cook for an additional 2 minutes, or until the chicken is cooked through and the sauce is bubbly.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-crispy-peruvian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-peruvian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:04:25Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "confit-tomato",
+    "primaryIngredient": "chicken legs",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Skillet"
+  }
+}
