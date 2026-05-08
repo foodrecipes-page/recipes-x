@@ -739,6 +739,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-comforting-spanish-pinto-beans-stew",
+    "title": "Xenial Comforting Spanish Pinto Beans Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "spanish-cuisine",
+      "sugar-free",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 90,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-creamy-german-pecan-roast",
     "title": "Xenial Creamy German Pecan Roast",
     "tags": [

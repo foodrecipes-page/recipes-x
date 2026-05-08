@@ -1,0 +1,105 @@
+{
+  "title": "Xenial Comforting Spanish Pinto Beans Stew",
+  "description": "A comforting and herbal Spanish dish featuring pinto beans, served in a stone bowl, perfect for a cold evening. This sugar free friendly stew is made with love and care to provide a delicious and nutritious meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "dried and soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the smoked paprika, cumin, salt, and black pepper, and stir to combine.",
+    "Add the soaked and drained pinto beans, chicken broth, and chopped parsley to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour, or until the beans are tender.",
+    "Serve the stew hot, garnished with additional parsley if desired.",
+    "Traditionally, this stew is served in a stone bowl, which helps to retain the heat and add to the overall comforting experience.",
+    "To serve, place the stone bowl over low heat to warm it, then add the stew and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "spanish-cuisine",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xenial-comforting-spanish-pinto-beans-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-comforting-spanish-pinto-beans-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:03:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "pinto beans",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Xenial Comforting",
+    "dishForm": "Stew"
+  }
+}
