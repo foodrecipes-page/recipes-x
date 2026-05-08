@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Flaky Spanish Almond Empanadas",
+  "description": "These empanadas are a kid-friendly Spanish dish featuring filo pastry and almonds, making them a delicious and fun treat for the whole family. They are also gluten-free friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, mix together the sliced almonds, granulated sugar, and cinnamon.",
+    "In a separate bowl, whisk together the melted score-fat, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Unroll the filo pastry and cut it into 8 equal squares.",
+    "Place a tablespoon of the almond mixture onto the center of each square.",
+    "Fold the squares in half to form triangles and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little bit of melted score-fat.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "baked-goods",
+    "filo-pastry",
+    "gluten-free",
+    "kid-friendly",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "xtra-flaky-spanish-almond-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-spanish-almond-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:46:04Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "filo pastry",
+    "diet": "gluten-free",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "Xtra flaky",
+    "dishForm": "Empanadas"
+  }
+}

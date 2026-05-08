@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Creamy Uruguayan Fish Stir Fry",
+  "description": "A pescatarian friendly Uruguayan dish featuring mayonnaise and stir fried fish, this recipe is a must try for anyone looking for a creamy and indulgent meal. It has a nice balance of mustardy and creamy flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fish",
+      "amount": "1 pound",
+      "notes": "Cut into bite sized pieces"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped red bell pepper and cook until it is tender.",
+    "Add the cod fish pieces and cook until they are opaque and flake easily with a fork.",
+    "In a small bowl, mix together the mayonnaise and Dijon mustard.",
+    "Add the mayonnaise mixture to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "high-protein",
+    "one-pan",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "xtra-creamy-uruguayan-fish-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-uruguayan-fish-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:46:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "mayonnaise",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Stir-fry"
+  }
+}

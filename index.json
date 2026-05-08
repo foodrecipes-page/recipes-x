@@ -2143,6 +2143,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-uruguayan-fish-stir-fry",
+    "title": "Xtra Creamy Uruguayan Fish Stir Fry",
+    "tags": [
+      "creamy",
+      "high-protein",
+      "one-pan",
+      "stir-fry",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crisp-american-chicken-skewers",
     "title": "Xtra Crisp American Chicken Skewers",
     "tags": [
@@ -2708,6 +2722,21 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-flaky-spanish-almond-empanadas",
+    "title": "Xtra Flaky Spanish Almond Empanadas",
+    "tags": [
+      "almond-based",
+      "baked-goods",
+      "filo-pastry",
+      "gluten-free",
+      "kid-friendly",
+      "spanish-food"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
