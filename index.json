@@ -3244,6 +3244,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-fluffy-american-vegetable-casserole",
+    "title": "Xtra Fluffy American Vegetable Casserole",
+    "tags": [
+      "american-comfort-food",
+      "casserole",
+      "easy-dinner",
+      "flexitarian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fluffy-ethiopian-chwinamul-gomen",
     "title": "Xtra Fluffy Ethiopian Chwinamul Gomen",
     "tags": [

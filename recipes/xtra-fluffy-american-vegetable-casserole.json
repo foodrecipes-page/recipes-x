@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Fluffy American Vegetable Casserole",
+  "description": "A floral, pillowy, weeknight American dish featuring sunflower oil and en-croute, flexitarian-friendly",
+  "cuisine": "American",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sunflower oil",
+      "amount": "1/4 cup",
+      "notes": "for greasing the dish"
+    },
+    {
+      "name": "frozen mixed vegetables",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "canned condensed cream of mushroom soup",
+      "amount": "1 can",
+      "notes": "10.5 oz"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "French fried onions",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 package",
+      "notes": "homestyle, 2 crusts"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "Grease a 9x13 inch baking dish with sunflower oil.",
+    "In a large bowl, combine the mixed vegetables, cream of mushroom soup, and milk, and stir until the soup is well combined.",
+    "Roll out one of the pie crusts and place it in the greased baking dish, trimming the edges to fit.",
+    "Fill the pie crust with the vegetable mixture and top with shredded cheddar cheese.",
+    "Roll out the second pie crust and use it to cover the top of the casserole, crimping the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Sprinkle the crushed French fried onions over the top of the casserole.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 40 minutes, or until the crust is golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american-comfort-food",
+    "casserole",
+    "easy-dinner",
+    "flexitarian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xtra-fluffy-american-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-american-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:53:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "sunflower oil",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "vegetables",
+    "descriptor": "floral pillowy",
+    "dishForm": "Casserole"
+  }
+}
