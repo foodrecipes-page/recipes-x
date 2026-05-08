@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Sweet Malaysian Snow Peas Noodles",
+  "description": "A sweet and shattering Malaysian dish featuring snow peas, perfect for a brunch mood, and is plant-based friendly. This dish is a unique blend of flavors and textures.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the onion until softened.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the snow peas to the skillet and cook until tender, about 3-4 minutes.",
+    "In a small bowl, whisk together the soy sauce and maple syrup.",
+    "Pour the soy sauce mixture over the snow peas and noodles, and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve the noodles hot, garnished with sliced green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "easy",
+    "malaysian",
+    "noodle-dish",
+    "plant-based",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-sweet-malaysian-snow-peas-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sweet-malaysian-snow-peas-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:49:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "snow peas",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "snow peas",
+    "descriptor": "Xtra sweet",
+    "dishForm": "Noodles"
+  }
+}
