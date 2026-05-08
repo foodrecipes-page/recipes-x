@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Crispy Spanish Dasima Kombu Paella",
+  "description": "A crispy and flavorful Spanish dish featuring dasima-kombu, perfect for a brunch mood, this low-fat friendly recipe is cooked to perfection in a scallop shell vessel.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dasima",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "kombu",
+      "amount": "1 sheet",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "char-grill yang sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scalloped potatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the dasima and kombu in cold water, then cut them into small pieces.",
+    "In a large bowl, whisk together the char-grill yang sauce, olive oil, smoked paprika, salt, and black pepper.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and cook in a skillet over medium-high heat until browned.",
+    "Add the dasima, kombu, and scalloped potatoes to the skillet and cook until the potatoes are tender.",
+    "Transfer the mixture to a scallop shell vessel and bake in the preheated oven for 20 minutes.",
+    "Remove the dish from the oven and top with chopped scallions.",
+    "Return the dish to the oven and bake for an additional 5 minutes, or until the top is crispy and golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "low-fat",
+    "one-pan",
+    "seafood",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-crispy-spanish-dasima-kombu-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-spanish-dasima-kombu-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:21:56Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "dasima kombu",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Paella"
+  }
+}
