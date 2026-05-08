@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Nutty Brazilian Pineapple Skewers",
+  "description": "A nutty and springy Brazilian dish featuring pineapple chunks, perfect for meal prep and shojin-friendly diets. This recipe combines the sweetness of pineapple with the crunch of nuts.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "grade b"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the maple syrup, lime juice, and olive oil.",
+    "Add the pineapple chunks, peanuts, almonds, and coconut flakes to the bowl and toss to combine.",
+    "Thread the pineapple and nut mixture onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and broil for 5 minutes.",
+    "Flip the skewers and broil for an additional 5 minutes, or until the pineapple is caramelized.",
+    "Remove the skewers from the oven and sprinkle with salt.",
+    "Serve the skewers warm, garnished with additional coconut flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "xtra-nutty-brazilian-pineapple-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-nutty-brazilian-pineapple-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:52:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "pineapple",
+    "descriptor": "xtra nutty",
+    "dishForm": "Skewers"
+  }
+}
