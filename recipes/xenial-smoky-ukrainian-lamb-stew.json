@@ -1,0 +1,109 @@
+{
+  "title": "Xenial Smoky Ukrainian Lamb Stew",
+  "description": "A hearty and comforting Ukrainian lamb stew infused with the pungency of dried mint and the depth of smoky flavors, tailored to ayurvedic tamasic principles.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "dried mint",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned lamb from the pot and set aside.",
+    "Reduce heat to medium and add the minced garlic, cooking for 1 minute until fragrant.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the smoked paprika, dried mint, salt, and black pepper, stirring to combine.",
+    "Add the chopped carrots and potatoes, stirring to combine with the spice mixture.",
+    "Add the browned lamb back into the pot, along with the lamb broth and tomato paste, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Serve hot, garnished with additional dried mint if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "lamb-based",
+    "slow-cooked",
+    "smoky-flavors",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 34
+  },
+  "slug": "xenial-smoky-ukrainian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-smoky-ukrainian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:33:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "smoke",
+    "primaryIngredient": "dried mint",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Smoky",
+    "dishForm": "Stew"
+  }
+}

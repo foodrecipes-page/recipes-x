@@ -1438,6 +1438,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-smoky-ukrainian-lamb-stew",
+    "title": "Xenial Smoky Ukrainian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "lamb-based",
+      "slow-cooked",
+      "smoky-flavors",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-soft-mediterranean-lamb-frittata",
     "title": "Xenial Soft Mediterranean Lamb Frittata",
     "tags": [
