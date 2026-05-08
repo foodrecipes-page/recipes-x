@@ -2061,6 +2061,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-korean-sushi-rice-jeon",
+    "title": "Xtra Crispy Korean Sushi Rice Jeon",
+    "tags": [
+      "crispy",
+      "korean-food",
+      "low-sodium",
+      "pandan-leaves",
+      "snack",
+      "sushi-rice"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 32,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-mediterranean-fish-fillet-skewers",
     "title": "Xtra Crispy Mediterranean Fish Fillet Skewers",
     "tags": [
@@ -2961,6 +2976,20 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-rich-moroccan-lamb-tagine",
+    "title": "Xtra Rich Moroccan Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "lamb-recipes",
+      "moroccan-cuisine",
+      "one-pot-meals",
+      "whole30-recipes"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
     "shard": "x"
   },
   {

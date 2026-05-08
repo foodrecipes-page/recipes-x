@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Crispy Korean Sushi Rice Jeon",
+  "description": "A crispy and adventurous Korean dish featuring sushi rice, infused with oil and wrapped in pandan leaves, this jeon is a unique twist on traditional Gangwon cuisine, and is low in sodium.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1/2 cup",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the cooled sushi rice, infuse oil, yeast, salt, and black pepper, and mix well.",
+    "Add the chopped green onions, toasted sesame seeds, and beaten egg to the bowl, and mix until a sticky dough forms.",
+    "Divide the dough into 12 equal pieces, and shape each piece into a small patty.",
+    "Wrap each patty in a fresh pandan leaf, and press the edges to seal.",
+    "Dip each wrapped patty in the all purpose flour, shaking off any excess.",
+    "Heat about 1/2 inch of infuse oil in a large skillet over medium heat, and fry the wrapped patties until crispy and golden brown, about 3-4 minutes per side.",
+    "Drain the fried jeon on paper towels, and serve hot.",
+    "Repeat the frying process with the remaining patties, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "korean-food",
+    "low-sodium",
+    "pandan-leaves",
+    "snack",
+    "sushi-rice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "xtra-crispy-korean-sushi-rice-jeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-korean-sushi-rice-jeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:09:36Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "infuse-oil",
+    "primaryIngredient": "sushi rice",
+    "diet": "low-sodium",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sushi rice",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Jeon"
+  }
+}

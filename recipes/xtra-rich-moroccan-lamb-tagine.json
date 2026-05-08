@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Rich Moroccan Lamb Tagine",
+  "description": "A nutty and flavorful Moroccan dish featuring sweetened condensed milk and score-fat, perfect for a lazy Sunday, and is Whole30-friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt, black pepper, cumin, and paprika.",
+    "Heat the score-fat in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add the sweetened condensed milk to the pot and stir to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb and sauce over couscous or cauliflower rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "one-pot-meals",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "xtra-rich-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:09:46Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "score-fat",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra rich",
+    "dishForm": "Tagine"
+  }
+}
