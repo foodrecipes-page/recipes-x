@@ -1,0 +1,83 @@
+{
+  "title": "Xtra Silky Japanese Ice Cream Parfait",
+  "description": "A soothing Japanese dessert featuring silky ice cream and earthy flavors, perfect for a cozy evening treat, with a low-fat friendly twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "matcha ice cream",
+      "amount": "1 pint",
+      "notes": "low-fat version"
+    },
+    {
+      "name": "red bean paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mochi",
+      "amount": "1 package"
+    },
+    {
+      "name": "green tea",
+      "amount": "1 cup",
+      "notes": "brewed and cooled"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat the green tea over low heat until it starts to steam.",
+    "In a separate bowl, mix together the red bean paste and honey until well combined.",
+    "Cut the mochi into small pieces and toast them in a dry pan until lightly browned.",
+    "Scoop the matcha ice cream into a tall glass or parfait dish.",
+    "Drizzle the green tea over the ice cream, creating a steamy effect.",
+    "Top the ice cream with the red bean paste mixture, toasted mochi, and sesame seeds.",
+    "Serve immediately and enjoy the silky, earthy flavors.",
+    "Garnish with additional sesame seeds and mochi pieces if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy-treats",
+    "easy-to-make",
+    "japanese-dessert",
+    "low-fat",
+    "matcha-lovers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "xtra-silky-japanese-ice-cream-parfait",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-japanese-ice-cream-parfait",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:29:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "ice cream",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "ice cream",
+    "descriptor": "Xtra Silky",
+    "dishForm": "Parfait"
+  }
+}
