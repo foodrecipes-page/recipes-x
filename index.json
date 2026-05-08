@@ -2930,6 +2930,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-canadian-oats-pancakes",
+    "title": "Xtra Crispy Canadian Oats Pancakes",
+    "tags": [
+      "breakfast-ideas",
+      "canadian-cuisine",
+      "crispy-pancakes",
+      "gluten-free",
+      "oat-based"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-chinese-tempeh-baozi",
     "title": "Xtra Crispy Chinese Tempeh Baozi",
     "tags": [
