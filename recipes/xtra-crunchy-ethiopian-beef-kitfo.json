@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Crunchy Ethiopian Beef Kitfo",
+  "description": "A fatty and crunchy Ethiopian dish made with brown rice and nimono-simmer, this macrobiotic-friendly kitfo is a light and flavorful meal option. It features tender beef and a variety of spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "fatty cuts like ribeye or brisket work best"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nimono broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until it is lightly browned and crispy.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the beef to the skillet and cook until it is browned on all sides.",
+    "Add the berbere spice and nimono broth to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes.",
+    "Stir in the cooked brown rice and cook for an additional 2 minutes.",
+    "Serve the kitfo hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "ethiopian-cuisine",
+    "high-protein",
+    "international-dishes",
+    "macrobiotic-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xtra-crunchy-ethiopian-beef-kitfo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-ethiopian-beef-kitfo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:50:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "brown rice",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Kitfo"
+  }
+}

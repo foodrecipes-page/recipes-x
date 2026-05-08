@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Crunchy Malaysian Manchego Flatbread",
+  "description": "A rich and crunchy Malaysian dish featuring manchego cheese, perfect for a post-workout snack, made with long-fermentation dough and low-calorie friendly ingredients, served in a terracotta dish.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "manchego cheese",
+      "amount": "1 cup shredded",
+      "notes": "aged 6 months"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine whole wheat flour, salt, sugar, and yeast.",
+    "Gradually add water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment for 2 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and roll it out into a thin circle.",
+    "Place the dough in a terracotta dish and brush it with olive oil.",
+    "Sprinkle shredded manchego cheese, sesame seeds, and chopped scallions over the dough.",
+    "Bake the flatbread in the preheated oven for 20 minutes or until it is golden brown and crispy.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snack",
+    "low-calorie",
+    "malaysian-cuisine",
+    "post-workout",
+    "terracotta-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-crunchy-malaysian-manchego-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-malaysian-manchego-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:50:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "manchego",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "manchego",
+    "descriptor": "Xtra crunchy",
+    "dishForm": "Flatbread"
+  }
+}

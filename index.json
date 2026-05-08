@@ -4107,6 +4107,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crunchy-ethiopian-beef-kitfo",
+    "title": "Xtra Crunchy Ethiopian Beef Kitfo",
+    "tags": [
+      "beef-recipes",
+      "ethiopian-cuisine",
+      "high-protein",
+      "international-dishes",
+      "macrobiotic-friendly"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crunchy-kerala-vegetables-gulab-jamun",
     "title": "Xtra Crunchy Kerala Vegetables Gulab Jamun",
     "tags": [
@@ -4119,6 +4133,21 @@
     ],
     "cuisine": "Kerala",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crunchy-malaysian-manchego-flatbread",
+    "title": "Xtra Crunchy Malaysian Manchego Flatbread",
+    "tags": [
+      "crunchy-snack",
+      "low-calorie",
+      "malaysian-cuisine",
+      "post-workout",
+      "terracotta-dish",
+      "vegetarian"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
