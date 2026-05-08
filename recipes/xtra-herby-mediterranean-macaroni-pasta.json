@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Herby Mediterranean Macaroni Pasta",
+  "description": "A herbal and refreshing Mediterranean dish featuring macaroni, perfect for a brunch mood, with a glassy-jelly texture from the sauce, halal-friendly ingredients throughout.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the macaroni according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the chopped parsley and dill to the skillet and cook for 1 minute.",
+    "Stir in the lemon juice and tomato sauce, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes.",
+    "Drain the cooked macaroni and add it to the skillet with the sauce.",
+    "Toss the macaroni in the sauce until well coated.",
+    "Crumble the feta cheese over the top of the macaroni and toss again to combine.",
+    "Serve the macaroni hot, topped with toasted bread slices on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "easy-meal",
+    "halal",
+    "herbal",
+    "mediterranean",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-herby-mediterranean-macaroni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-herby-mediterranean-macaroni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:35:38Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "macaroni",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "macaroni",
+    "descriptor": "Xtra herby",
+    "dishForm": "Pasta"
+  }
+}

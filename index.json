@@ -3064,6 +3064,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-herby-mediterranean-macaroni-pasta",
+    "title": "Xtra Herby Mediterranean Macaroni Pasta",
+    "tags": [
+      "brunch",
+      "easy-meal",
+      "halal",
+      "herbal",
+      "mediterranean",
+      "pasta"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-indulgent-mexican-muffin-chilaquiles",
     "title": "Xtra Indulgent Mexican Muffin Chilaquiles",
     "tags": [
