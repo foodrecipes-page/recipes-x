@@ -3453,6 +3453,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-flaky-british-lentil-pasties",
+    "title": "Xtra Flaky British Lentil Pasties",
+    "tags": [
+      "british-cuisine",
+      "high-protein",
+      "lentil-recipes",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-flaky-dutch-fish-papillote",
     "title": "Xtra Flaky Dutch Fish Papillote",
     "tags": [

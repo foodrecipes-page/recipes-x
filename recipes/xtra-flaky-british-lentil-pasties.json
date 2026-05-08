@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Flaky British Lentil Pasties",
+  "description": "A traditional British dish featuring roasted lentils in a flaky pastry crust, perfect for a hangover cure. This recipe incorporates poached ingredients and ayurvedic-tamasic-friendly elements.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown lentils"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "pastry dough",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the lentils, onion, carrots, and potatoes.",
+    "In a small bowl, whisk together the vegetable oil, salt, and black pepper.",
+    "Pour the oil mixture over the lentil mixture and stir until everything is well combined.",
+    "Roll out the pastry dough to a thickness of about 1/8 inch.",
+    "Spoon the lentil mixture onto one half of the pastry dough, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry dough over the filling and press the edges to seal.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Brush the top of the pasty with a little bit of vegetable oil.",
+    "Place the pasty on a baking sheet lined with parchment paper and bake for 40 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "high-protein",
+    "lentil-recipes",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-flaky-british-lentil-pasties",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-british-lentil-pasties",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:16:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "poach",
+    "primaryIngredient": "lentils",
+    "diet": "ayurvedic-tamasic",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lentils",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Pasties"
+  }
+}
