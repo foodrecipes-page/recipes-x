@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Umami Norwegian Peppers Fried Rice",
+  "description": "A midnight-craving Norwegian dish featuring sweet peppadew peppers and a flexitarian-friendly approach, served on a hot stone plate. This recipe combines umami flavors with a glassy-jelly texture.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "peppadew peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced mushrooms and cook until they are tender and lightly browned.",
+    "Add the sliced peppadew peppers and cook for an additional 2 minutes.",
+    "Add the cooked rice to the skillet or wok, breaking up any clumps with a spatula.",
+    "Stir in the soy sauce, sesame oil, salt, and black pepper, and cook for 2 minutes.",
+    "Add the crumbled norwegian cheese and stir until it is well combined with the rice mixture.",
+    "Transfer the rice mixture to a hot stone plate.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "hot-stone-plate",
+    "norwegian-cuisine",
+    "one-pan",
+    "snack-recipes",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-umami-norwegian-peppers-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-umami-norwegian-peppers-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:24:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "peppers",
+    "descriptor": "Xtra Umami",
+    "dishForm": "Fried-Rice"
+  }
+}
