@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Spicy Polish Mushroom Dumplings",
+  "description": "A spicy and adventurous Polish dish featuring dry sherry and macrobiotic-friendly ingredients, these pillowy dumplings are sure to delight, with a tempering of flavors to balance the heat.",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "mixed varieties, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, and black pepper.",
+    "Gradually add dry sherry to the flour mixture, stirring with a fork until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of sliced mushrooms and chopped onion in the center of each circle.",
+    "Add a sprinkle of minced garlic and a dash of hot sauce on top of the mushrooms.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Heat vegetable oil in a large skillet over medium heat and fry the dumplings until they are golden brown.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "macrobiotic",
+    "mushroom-recipes",
+    "polish-cuisine",
+    "spicy-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "xtra-spicy-polish-mushroom-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-polish-mushroom-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:06:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "dry sherry",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Dumplings"
+  }
+}
