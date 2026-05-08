@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Smoky Brazilian Chicken Skewers",
+  "description": "A bitter, bouncy, and adventurous Brazilian dish featuring smoky paprika, this recipe is perfect for those looking for a low-glycemic-friendly meal option, the chicken is poached before being grilled to perfection.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoky paprika, coconut oil, garlic powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat evenly with the smoky paprika mixture.",
+    "Poach the chicken in boiling water for 5 minutes, then remove and set aside.",
+    "Thread the poached chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill with coconut oil to prevent sticking.",
+    "Grill the chicken skewers for 10 minutes, turning occasionally, until cooked through.",
+    "Brush the chicken with lemon juice during the last 2 minutes of grilling.",
+    "Remove the skewers from the grill and sprinkle with chopped fresh parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "gluten-free",
+    "grilled-chicken",
+    "healthy-dinner",
+    "low-glycemic",
+    "smoky-paprika"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "xtra-smoky-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:15:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "poach",
+    "primaryIngredient": "smoky paprika",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "xtra smoky",
+    "dishForm": "Skewers"
+  }
+}

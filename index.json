@@ -5143,6 +5143,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-smoky-brazilian-chicken-skewers",
+    "title": "Xtra Smoky Brazilian Chicken Skewers",
+    "tags": [
+      "brazilian-food",
+      "gluten-free",
+      "grilled-chicken",
+      "healthy-dinner",
+      "low-glycemic",
+      "smoky-paprika"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-smoky-british-salmon-skewers",
     "title": "Xtra Smoky British Salmon Skewers",
     "tags": [
