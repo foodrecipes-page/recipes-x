@@ -3078,6 +3078,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-flaky-french-onion-quiche",
+    "title": "Xtra Flaky French Onion Quiche",
+    "tags": [
+      "french-onion",
+      "kid-friendly",
+      "lacquerware-bowl",
+      "ovo-vegetarian",
+      "quiche-recipe",
+      "single-cream"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-flaky-mexican-tortilla-quesadilla",
     "title": "Xtra Flaky Mexican Tortilla Quesadilla",
     "tags": [

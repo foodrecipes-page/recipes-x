@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Flaky French Onion Quiche",
+  "description": "A pungent and flaky French dish featuring single cream and a mother-sauce-base, perfect for a kid-friendly meal. This ovo-vegetarian-friendly quiche is best served in a lacquerware bowl.",
+  "cuisine": "French",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pie crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "single cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pie crust and place it in a lacquerware bowl.",
+    "Melt the butter in a pan over medium heat and cook the onions until they are caramelized.",
+    "In a separate bowl, whisk together the single cream, eggs, salt, and black pepper.",
+    "Add the grated cheese to the cream mixture and stir until well combined.",
+    "Add the cooked onions to the cream mixture and stir until well combined.",
+    "Pour the cream mixture into the pie crust.",
+    "Bake the quiche for 35 minutes or until the crust is golden brown and the center is set.",
+    "Remove the quiche from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-onion",
+    "kid-friendly",
+    "lacquerware-bowl",
+    "ovo-vegetarian",
+    "quiche-recipe",
+    "single-cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "xtra-flaky-french-onion-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-french-onion-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:19:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "single cream",
+    "diet": "ovo-vegetarian",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "onions",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Quiche"
+  }
+}
