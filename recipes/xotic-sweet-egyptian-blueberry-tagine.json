@@ -1,0 +1,97 @@
+{
+  "title": "Xotic Sweet Egyptian Blueberry Tagine",
+  "description": "A funky and light Egyptian dish featuring blueberries and lardons-render, perfect for a midnight craving, this vegetarian-friendly recipe is cooked in a banana leaf vessel.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "blueberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lardons-render",
+      "amount": "1/2 cup",
+      "notes": "vegetarian friendly"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the lardons-render over medium heat.",
+    "Add the chopped onion to the pan and cook until softened.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Add the cumin and coriander to the pan and cook for 1 minute.",
+    "Add the blueberries to the pan and cook until they start to release their juice.",
+    "Spoon the blueberry mixture onto the center of each banana leaf.",
+    "Fold the banana leaves over the filling to form a packet and bake for 20 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "fruit-based",
+    "midnight-craving",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xotic-sweet-egyptian-blueberry-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xotic-sweet-egyptian-blueberry-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:11:36Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "lardons-render",
+    "primaryIngredient": "blueberries",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "blueberries",
+    "descriptor": "Xotic Sweet",
+    "dishForm": "Tagine"
+  }
+}
