@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Crisp Vietnamese Shrimp Spring Rolls",
+  "description": "A light and crisp Vietnamese dish featuring shrimp and cocoa, with a floral twist, low in sodium and perfect for a snack or appetizer",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "rice paper",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "julienned"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat",
+    "Add the shrimp and cook until pink and fully cooked",
+    "In a large bowl, whisk together the cocoa powder and rice vinegar",
+    "Add the cooked shrimp to the bowl and toss to coat",
+    "Arrange a rice paper sheet on a flat surface and brush with water",
+    "Place a few shrimp, carrot, cucumber, and mint leaves in the center of the rice paper",
+    "Fold the bottom half of the rice paper up over the filling, then fold in the sides and roll up the spring roll",
+    "Repeat with the remaining ingredients",
+    "Serve the spring rolls immediately, garnished with additional mint leaves if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "low-sodium",
+    "shrimp-recipes",
+    "snack",
+    "spring-rolls",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "xtra-crisp-vietnamese-shrimp-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-vietnamese-shrimp-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:53:22Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "cocoa",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Xtra crisp",
+    "dishForm": "Spring-Rolls"
+  }
+}
