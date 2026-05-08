@@ -2838,6 +2838,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-uruguayan-feta-bowl",
+    "title": "Xtra Creamy Uruguayan Feta Bowl",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "low-glycemic",
+      "meal-prep",
+      "one-bowl",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-uruguayan-fish-stir-fry",
     "title": "Xtra Creamy Uruguayan Fish Stir Fry",
     "tags": [
@@ -6020,6 +6035,20 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-tender-german-pork-skewers",
+    "title": "Xtra Tender German Pork Skewers",
+    "tags": [
+      "crowd-pleasers",
+      "german-cuisine",
+      "grilled-meats",
+      "pork-recipes",
+      "shojin-friendly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

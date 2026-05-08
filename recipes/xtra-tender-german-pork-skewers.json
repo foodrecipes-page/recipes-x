@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Tender German Pork Skewers",
+  "description": "A fatty and tender German dish featuring gherkin relish and tadka, perfect for crowds, this recipe is a shojin-friendly adaptation of traditional German cuisine, combining the flavors of pork, gherkin relish, and tadka in a unique and delicious way.",
+  "cuisine": "German",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tadka oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together tadka oil, gherkin relish, paprika, salt, and black pepper.",
+    "Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork cubes, onion pieces, and garlic onto the soaked wooden skewers.",
+    "Grill the skewers for 15 minutes, turning occasionally, until the pork is cooked through.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with additional gherkin relish if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleasers",
+    "german-cuisine",
+    "grilled-meats",
+    "pork-recipes",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "xtra-tender-german-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tender-german-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:11:00Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "tadka",
+    "primaryIngredient": "gherkin relish",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra tender",
+    "dishForm": "Skewers"
+  }
+}

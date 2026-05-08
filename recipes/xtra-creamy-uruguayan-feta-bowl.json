@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Creamy Uruguayan Feta Bowl",
+  "description": "A salty and creamy Uruguayan dish featuring feta, served in a stone bowl, low in glycemic index, perfect for meal prep.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Slice the red onion and separate into rings.",
+    "In a large bowl, whisk together olive oil, minced garlic, salt, and black pepper.",
+    "Add the sliced red onion to the bowl and toss to coat.",
+    "Spread the onion mixture in the stone bowl.",
+    "Top the onion mixture with crumbled feta cheese.",
+    "Add a layer of fresh spinach leaves.",
+    "Halve the cherry tomatoes and add on top of the spinach.",
+    "Bake the stone bowl in the preheated oven for 20 minutes.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-glycemic",
+    "meal-prep",
+    "one-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "xtra-creamy-uruguayan-feta-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-uruguayan-feta-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:10:52Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "feta",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "feta",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Bowl"
+  }
+}
