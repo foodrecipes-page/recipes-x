@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Dense Moroccan Lamb Tagine",
+  "description": "A buttery, dense, and comforting Moroccan dish featuring lamb, muscovado sugar, and a blend of spices, cooked to perfection in a tagine using a bain-marie method.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried prunes",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the lamb pieces, muscovado sugar, cumin, coriander, and cayenne pepper, and mix well.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat, then add the lamb mixture and cook until browned on all sides.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Transfer the lamb mixture to a tagine or a large ceramic dish with a tight-fitting lid.",
+    "Add the chicken broth and dried prunes to the tagine, then cover with the lid.",
+    "Place the tagine in a larger dish or pan and add enough hot water to come halfway up the sides of the tagine.",
+    "Cover the larger dish or pan with aluminum foil and bake for 2.5 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes.",
+    "Remove the tagine from the oven and stir in the remaining 2 tablespoons of butter until melted."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "bain-marie",
+    "comfort-food",
+    "lamb",
+    "moroccan",
+    "one-pot",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "xtra-dense-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:25:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "bain-marie",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Tagine Lamb"
+  }
+}
