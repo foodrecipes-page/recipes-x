@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Gooey Canadian Oatmeal Bake",
+  "description": "A pungent and gooey Canadian dish featuring oatmeal, perfect for a crowd, and nut-free-friendly. This dish is sure to please with its rich and creamy texture.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "old-fashioned oats work best"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "pure maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the oats, brown sugar, and salt.",
+    "In a separate bowl, whisk together the milk, eggs, melted butter, maple syrup, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm and enjoy!",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-classic",
+    "comfort-food",
+    "high-fiber",
+    "one-pan",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "xtra-gooey-canadian-oatmeal-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-gooey-canadian-oatmeal-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:47:27Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "oatmeal",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "oatmeal",
+    "descriptor": "Xtra Gooey",
+    "dishForm": "Bake"
+  }
+}

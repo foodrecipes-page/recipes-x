@@ -3408,6 +3408,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-flaky-dutch-fish-papillote",
+    "title": "Xtra Flaky Dutch Fish Papillote",
+    "tags": [
+      "dutch-cuisine",
+      "flaky-fish",
+      "halal-friendly",
+      "one-pan",
+      "sake-cooking",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-flaky-french-macaroni-pasta",
     "title": "Xtra Flaky French Macaroni Pasta",
     "tags": [
@@ -3777,6 +3792,20 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-gooey-canadian-oatmeal-bake",
+    "title": "Xtra Gooey Canadian Oatmeal Bake",
+    "tags": [
+      "canadian-classic",
+      "comfort-food",
+      "high-fiber",
+      "one-pan",
+      "weekend-brunch"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {

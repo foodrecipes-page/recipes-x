@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Flaky Dutch Fish Papillote",
+  "description": "A halal-friendly Dutch dish featuring flaky fish cooked in sake, wrapped in papillote, with a bitter twist, perfect for a weeknight dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh"
+    },
+    {
+      "name": "sake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the cod fillets and pat them dry with paper towels.",
+    "In a small bowl, mix together sake, lemon juice, olive oil, dill, salt, and black pepper.",
+    "Place a cod fillet in the center of each parchment paper sheet.",
+    "Brush the sake mixture evenly over each cod fillet.",
+    "Fold the parchment paper over the fish to create a papillote, making sure to seal the edges.",
+    "Place the papillotes on a baking sheet and bake for 12 minutes.",
+    "Remove the papillotes from the oven and let them cool for 2 minutes.",
+    "Serve the fish hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "flaky-fish",
+    "halal-friendly",
+    "one-pan",
+    "sake-cooking",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "xtra-flaky-dutch-fish-papillote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-dutch-fish-papillote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:47:33Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "papillote",
+    "primaryIngredient": "sake-cooking",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Papillote"
+  }
+}
