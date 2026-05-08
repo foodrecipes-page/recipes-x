@@ -1134,6 +1134,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-syrian-lamb-tagine",
+    "title": "Xenial Syrian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "lamb-based",
+      "middle-eastern",
+      "one-pot"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 120,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-syrian-rice-pilaf",
     "title": "Xenial Syrian Rice Pilaf",
     "tags": [
