@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Crisp Shandong Ground Oats Bowl",
+  "description": "A briny and crisp weeknight Chinese dish from Shandong province, featuring ground oats and smoky flavors, perfect for a dairy-free diet",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "1 cup",
+      "notes": "preferably rolled oats ground in a food processor"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "1/2 cup",
+      "notes": "diced and marinated in soy sauce and rice vinegar"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat",
+    "Add the smoked tofu and cook until golden brown, about 3 minutes",
+    "Add the scallions and cook until they start to soften, about 2 minutes",
+    "Add the ground oats and cook, stirring constantly, until they are toasted and fragrant, about 5 minutes",
+    "In a small bowl, whisk together the soy sauce and rice vinegar",
+    "Pour the sauce over the oats and tofu, and stir to combine",
+    "Season with salt and black pepper to taste",
+    "Transfer the mixture to an earthenware bowl and serve immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "crispy",
+    "dairy-free",
+    "one-bowl",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-crisp-shandong-ground-oats-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-shandong-ground-oats-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:24:51Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "ground oats",
+    "diet": "dairy-free",
+    "region": "shandong",
+    "cuisineAdjective": "Shandong",
+    "mainIngredient": "ground oats",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Bowl"
+  }
+}
