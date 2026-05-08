@@ -1,0 +1,108 @@
+{
+  "title": "Xyloid Fluffy Canadian Fruit Mix Cobbler",
+  "description": "A show-off Canadian dish featuring a fruit mix and long-fermentation-dough, this cobbler is garlicky and fluffy, perfect for a dessert or snack. It is made with raw-friendly ingredients and cooked in individual mini cocottes.",
+  "cuisine": "Canadian",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "fruit mix",
+      "amount": "2 cups",
+      "notes": "containing blueberries, raspberries, and blackberries"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, garlic powder, salt, and sugar.",
+    "Add the cold butter to the dry ingredients and use a pastry blender to work it into the mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together the eggs, milk, yeast, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 2 hours, or until it has doubled in size.",
+    "Punch down the dough and divide it into 6 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a spoonful of fruit mix in the center of each disk, then fold the dough over the filling and press the edges together to seal the cobbler.",
+    "Place the cobblers in individual mini cocottes and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 25,
+  "totalTimeMin": 145,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "fruit-based",
+    "garlicky",
+    "long-fermentation",
+    "mini-cocotte",
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "xyloid-fluffy-canadian-fruit-mix-cobbler",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xyloid-fluffy-canadian-fruit-mix-cobbler",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:19:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "fruit mix",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fruit mix",
+    "descriptor": "xyloid fluffy",
+    "dishForm": "Cobbler"
+  }
+}

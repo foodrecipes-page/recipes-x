@@ -309,6 +309,20 @@
     "shard": "x"
   },
   {
+    "slug": "xanadu-rich-lentils-indian-puy-lentils-paratha-roll",
+    "title": "xanadu rich lentils indian puy-lentils paratha roll",
+    "tags": [
+      "high-protein",
+      "indian-cuisine",
+      "lentil-recipies",
+      "one-pan",
+      "weeknight-dinner"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xanthan-infused-slovakian-dark-soy-sauce-tagine",
     "title": "Xanthan-Infused Slovakian Dark Soy Sauce Tagine",
     "tags": [
@@ -3653,6 +3667,22 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
+    "slug": "xyloid-fluffy-canadian-fruit-mix-cobbler",
+    "title": "Xyloid Fluffy Canadian Fruit Mix Cobbler",
+    "tags": [
+      "canadian-cuisine",
+      "fruit-based",
+      "garlicky",
+      "long-fermentation",
+      "mini-cocotte",
+      "raw-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 145,
     "shard": "x"
   },
   {

@@ -1,0 +1,110 @@
+{
+  "title": "xanadu rich lentils indian puy-lentils paratha roll",
+  "description": "a nostalgic and rich indian dish featuring silky puy-lentils wrapped in a crispy paratha.",
+  "cuisine": "indian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "puy lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paratha dough",
+      "amount": "4-6 parathas"
+    },
+    {
+      "name": "water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "heat ghee in a pan over medium heat and sauté the chopped onion until translucent.",
+    "add the ginger paste, garlic paste, cumin seeds, coriander powder, turmeric powder, red chili powder, and salt to the pan and sauté for 1 minute.",
+    "add the puy lentils to the pan and sauté for 2-3 minutes.",
+    "add water to the pan as needed and bring the mixture to a boil.",
+    "reduce the heat to low and simmer the mixture for 20-25 minutes or until the lentils are tender.",
+    "warm the paratha dough by wrapping it in a damp cloth for 10-15 minutes.",
+    "divide the cooked lentil mixture into 4-6 portions depending on the size of the parathas.",
+    "roll out each portion of the paratha dough into a thin circle.",
+    "place a portion of the lentil mixture in the center of each paratha circle.",
+    "fold the paratha over the filling and press the edges to seal.",
+    "heat a non-stick pan or cataplana over medium heat and cook the paratha rolls for 2-3 minutes on each side or until golden brown.",
+    "serve the xanadu rich lentils indian puy-lentils paratha rolls hot with a dollop of raita or chutney."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indian-cuisine",
+    "lentil-recipies",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xanadu-rich-lentils-indian-puy-lentils-paratha-roll",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xanadu-rich-lentils-indian-puy-lentils-paratha-roll",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:19:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "puy-lentils",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "puy-lentils",
+    "descriptor": "Xanadu rich lentils",
+    "dishForm": "Paratha Roll"
+  }
+}
