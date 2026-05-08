@@ -85,6 +85,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-creamy-argentinian-chicken-empanadas",
+    "title": "X-tra Creamy Argentinian Chicken Empanadas",
+    "tags": [
+      "argentinian",
+      "creamy",
+      "empanadas",
+      "high-protein",
+      "kid-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-creamy-korean-chicken-pajeon-banchan",
     "title": "X-tra Creamy Korean Chicken Pajeon Banchan",
     "tags": [
@@ -3218,6 +3233,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-snappy-canadian-pinto-beans-stir-fry",
+    "title": "Xtra Snappy Canadian Pinto Beans Stir Fry",
+    "tags": [
+      "canadian-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "quick-dinner",
+      "stir-fry",
+      "umami-rich"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {

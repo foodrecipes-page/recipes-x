@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Snappy Canadian Pinto Beans Stir Fry",
+  "description": "A quick and easy Canadian stir fry dish featuring pinto beans, with a focus on umami flavor and snappy texture, all while being keto-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the diced bacon and cook until crispy, then remove from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until translucent, about 3 minutes.",
+    "Add the sliced mushrooms to the skillet and cook until they release their moisture and start to brown, about 4 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the cooked pinto beans, soy sauce, and crispy bacon back to the skillet, and stir to combine.",
+    "Cook for an additional 2 minutes, until the beans are coated in the sauce and the mixture is heated through.",
+    "Stir in the chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "quick-dinner",
+    "stir-fry",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "xtra-snappy-canadian-pinto-beans-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-snappy-canadian-pinto-beans-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:12:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "wok-hei",
+    "primaryIngredient": "pinto beans",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Xtra Snappy",
+    "dishForm": "Stir-fry"
+  }
+}

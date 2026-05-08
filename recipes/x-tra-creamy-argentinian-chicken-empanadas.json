@@ -1,0 +1,115 @@
+{
+  "title": "X-tra Creamy Argentinian Chicken Empanadas",
+  "description": "Kid-friendly Argentinian dish featuring plum jam, with a winey and creamy twist.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for the empanada dough"
+    },
+    {
+      "name": "plum jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, mix together the chicken, smoked paprika, salt, and black pepper.",
+    "Heat 1 tablespoon of butter in a large skillet over medium-high heat. Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "In a separate bowl, mix together the plum jam, gruyère cheese, and chopped red onion.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the plum jam mixture onto one half of each dough circle, leaving a 1/2 inch border around the edges.",
+    "Add a few pieces of the cooked chicken on top of the plum jam mixture.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten eggs and sprinkle with chopped cilantro if using.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with the melted butter.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "creamy",
+    "empanadas",
+    "high-protein",
+    "kid-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "x-tra-creamy-argentinian-chicken-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-creamy-argentinian-chicken-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:11:59Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "smoke-hot",
+    "primaryIngredient": "plum jam",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "X-tra Creamy",
+    "dishForm": "Empanadas"
+  }
+}
