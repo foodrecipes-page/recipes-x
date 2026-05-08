@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Quick Irish Beef Flank Steak Stew",
+  "description": "A hearty and quick-fix Irish dish featuring beef flank steak in a mustardy and glassy-jelly broth, perfect for a weeknight dinner. This stew is also anti-inflammatory-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1.5 pounds",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the sliced beef to the pot and cook until browned, about 5 minutes.",
+    "Add the chopped onion to the pot and cook until softened, about 3 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Stir in the Dijon mustard, beef broth, tomato paste, dried thyme, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "beef-stew",
+    "irish-cuisine",
+    "one-pot",
+    "quick-fix",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "xtra-quick-irish-beef-flank-steak-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-quick-irish-beef-flank-steak-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:38:50Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "beef flank steak",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef flank steak",
+    "descriptor": "Xtra Quick",
+    "dishForm": "Stew"
+  }
+}
