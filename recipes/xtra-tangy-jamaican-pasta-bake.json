@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Tangy Jamaican Pasta Bake",
+  "description": "A tangy and fluffy post-workout Jamaican dish featuring dark chocolate chips, pasta-water-emulsion, and ayurvedic-sattvic-friendly ingredients, perfect for a filling dinner after a workout.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat or brown rice pasta"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the pasta according to package instructions, reserving 1 cup of pasta water before draining.",
+    "In a blender or food processor, combine the reserved pasta water, coconut milk, scotch bonnet peppers, onion, garlic, and ginger, and blend until smooth.",
+    "In a large bowl, combine the cooked pasta, blended sauce, and dark chocolate chips, and stir until the chocolate is melted and the sauce is well combined.",
+    "Transfer the pasta mixture to a baking dish and sprinkle with turmeric.",
+    "Bake for 20 minutes, or until the top is lightly browned.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-carb",
+    "jamaican-inspired",
+    "one-pan",
+    "post-workout",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "xtra-tangy-jamaican-pasta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tangy-jamaican-pasta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:41:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pasta",
+    "descriptor": "Xtra Tangy",
+    "dishForm": "Pasta"
+  }
+}
