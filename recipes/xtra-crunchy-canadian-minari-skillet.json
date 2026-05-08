@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Crunchy Canadian Minari Skillet",
+  "description": "A hearty Canadian dish featuring minari, with a crunchy texture and a hint of mustard, all in one skillet. It is satvik-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "cubed"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the canola oil in a large skillet over medium heat.",
+    "Add the mustard seeds and let them sizzle for 1 minute.",
+    "Add the chopped minari and cook until it is tender, about 5 minutes.",
+    "Add the cubed whole wheat bread and cook until it is toasted, about 3 minutes.",
+    "In a small bowl, whisk together the dijon mustard, salt, and black pepper.",
+    "Pour the mustard mixture over the minari and bread mixture, and stir to combine.",
+    "Add the water to the skillet and bring to a simmer.",
+    "Reduce the heat to low and let cook for 5 minutes, stirring occasionally."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "crunchy",
+    "one-pan",
+    "satvik",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-crunchy-canadian-minari-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-canadian-minari-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:18:07Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "toast",
+    "primaryIngredient": "minari",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "minari",
+    "descriptor": "Xtra crunchy",
+    "dishForm": "Skillet"
+  }
+}
