@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Crumbly Japanese Ground Beef Bowl",
+  "description": "A garlicky and crumbly Japanese dish featuring ground ginger and namul-blanch-seasoned vegetables, served in a lacquerware bowl.",
+  "cuisine": "Japanese",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "namul vegetables",
+      "amount": "1 cup",
+      "notes": "such as zucchini and carrots"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the sesame oil over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the ground ginger and garlic to the skillet and cook for 1 minute, until fragrant.",
+    "In a small bowl, whisk together the soy sauce and 2 tablespoons of water, then pour the mixture over the beef and stir to combine.",
+    "Add the namul vegetables to the skillet and cook until they are tender, about 3-4 minutes.",
+    "Season the mixture with salt and pepper to taste.",
+    "To assemble the bowls, divide the cooked white rice between four lacquerware bowls.",
+    "Top the rice with the beef and vegetable mixture, then sprinkle with green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ground-beef",
+    "japanese-food",
+    "macrobiotic",
+    "meal-prep",
+    "one-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xtra-crumbly-japanese-ground-beef-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crumbly-japanese-ground-beef-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:24:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "ground ginger",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "ground beef",
+    "descriptor": "Xtra Crumbly",
+    "dishForm": "Bowl"
+  }
+}
