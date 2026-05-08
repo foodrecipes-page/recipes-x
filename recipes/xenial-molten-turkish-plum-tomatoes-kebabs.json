@@ -1,0 +1,96 @@
+{
+  "title": "Xenial Molten Turkish Plum Tomatoes Kebabs",
+  "description": "A kid-friendly Turkish dish featuring plum tomatoes and bonito flakes, this recipe is herbal and molten, perfect for a family dinner. It is also shojin-friendly, making it suitable for vegetarians and vegans who consume fish.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "12",
+      "notes": "halved"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, dried oregano, salt, and black pepper.",
+    "Add the halved plum tomatoes to the bowl and toss to coat with the marinade.",
+    "Thread a plum tomato half onto each wooden skewer.",
+    "Sprinkle bonito flakes over the plum tomatoes.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 20 minutes.",
+    "Remove the skewers from the oven and let them cool for a few minutes.",
+    "Serve the Xenial Molten Turkish Plum Tomatoes Kebabs hot.",
+    "Garnish with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "family-friendly",
+    "herbal",
+    "molten",
+    "one-pan",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "xenial-molten-turkish-plum-tomatoes-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-molten-turkish-plum-tomatoes-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:50:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "bonito-shave",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "Xenial molten",
+    "dishForm": "Kebabs"
+  }
+}
