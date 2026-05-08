@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Spicy Irish Sausage Skillet",
+  "description": "A spicy and dense Irish dish featuring piccalilli and air-fried ingredients, perfect for a date night, and flexitarian-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "1 pound",
+      "notes": "spicy variety"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Cook the chopped onions and bell peppers in the air fryer for 10 minutes, stirring occasionally.",
+    "Add the chopped potatoes to the air fryer and cook for an additional 10 minutes, stirring occasionally.",
+    "Slice the Irish sausage into 1-inch pieces and cook in a large skillet over medium-high heat for 5 minutes, browning on all sides.",
+    "Add the cooked onions, bell peppers, and potatoes to the skillet with the sausage.",
+    "Stir in the piccalilli, salt, and black pepper, and cook for an additional 2 minutes.",
+    "Serve the skillet hot, garnished with chopped fresh herbs if desired.",
+    "Heat the vegetable oil in a small saucepan over low heat to keep warm for serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flexitarian",
+    "irish",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xtra-spicy-irish-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-irish-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:25:18Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "air-fry",
+    "primaryIngredient": "piccalilli",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sausages",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Skillet"
+  }
+}
