@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Flaky Polish Pandan Leaf Pierogi",
+  "description": "A tangy and comforting Polish dish featuring pandan leaf, this recipe is a unique twist on traditional pierogi, with a flaky crust and satvik-friendly ingredients. The pandan leaf adds a distinct flavor and aroma to the dish.",
+  "cuisine": "Polish",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "cold"
+    },
+    {
+      "name": "pandan leaf extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": "boiled and mashed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, pandan leaf extract, and salt.",
+    "Add the melted butter to the flour mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of the mashed potato and onion mixture in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the pierogi.",
+    "Heat the vegetable oil in a large frying pan over medium heat.",
+    "Fry the pierogi until they are golden brown and crispy.",
+    "Serve the pierogi hot with your favorite toppings."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flaky-crust",
+    "pandan-leaf",
+    "polish-cuisine",
+    "satvik",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "xtra-flaky-polish-pandan-leaf-pierogi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-polish-pandan-leaf-pierogi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:25:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pandan leaf",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Pierogi"
+  }
+}
