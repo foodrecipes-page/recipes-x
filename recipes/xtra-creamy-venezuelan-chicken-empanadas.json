@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Creamy Venezuelan Chicken Empanadas",
+  "description": "A floral and creamy Venezuelan dish perfect for a date night, featuring egg wash and dashi extract, and friendly to dairy free diets.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast to the skillet and cook until browned on all sides and cooked through.",
+    "In a large bowl, whisk together the non-dairy milk, dashi extract, cumin, and paprika.",
+    "Add the cooked chicken to the bowl and stir until the chicken is well coated with the creamy mixture.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the chicken mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with the egg wash and fold the dough in half to form a half-moon shape.",
+    "Press the edges of the dough together to seal the empanada."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "date-night",
+    "gluten-free",
+    "homemade",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "xtra-creamy-venezuelan-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-venezuelan-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:37:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "egg wash",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Empanadas"
+  }
+}
