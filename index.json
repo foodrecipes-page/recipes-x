@@ -4514,6 +4514,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-flaky-syrian-lamb-tagine",
+    "title": "Xtra Flaky Syrian Lamb Tagine",
+    "tags": [
+      "clay-pot",
+      "lamb-based",
+      "low-fat",
+      "middle-eastern",
+      "oven-baked",
+      "phylo-dough"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 80,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fluffy-algerian-beans-tagine",
     "title": "Xtra Fluffy Algerian Beans Tagine",
     "tags": [
