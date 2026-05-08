@@ -4491,6 +4491,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-smoky-mediterranean-chicken-kebabs",
+    "title": "Xtra Smoky Mediterranean Chicken Kebabs",
+    "tags": [
+      "chicken",
+      "grilled",
+      "high-protein",
+      "kebabs",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-smoky-roasted-norwegian-potato-casserole",
     "title": "Xtra Smoky Roasted Norwegian Potato Casserole",
     "tags": [

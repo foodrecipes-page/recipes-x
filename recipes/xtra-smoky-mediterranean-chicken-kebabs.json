@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Smoky Mediterranean Chicken Kebabs",
+  "description": "A funky and silky meal prep Mediterranean dish featuring orange juice and smoke cold flavors, perfect for a halal friendly dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl whisk together orange juice, olive oil, smoked paprika, garlic powder, salt, and black pepper",
+    "Add the chicken to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated chicken, cherry tomatoes, and red onion onto skewers",
+    "Grill the kebabs for 10-12 minutes or until the chicken is cooked through",
+    "Let the kebabs rest for 5 minutes before serving",
+    "Serve the kebabs hot with your favorite sides",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "high-protein",
+    "kebabs",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "xtra-smoky-mediterranean-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-mediterranean-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:59:01Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "smoke-cold",
+    "primaryIngredient": "orange juice",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Kebabs"
+  }
+}
