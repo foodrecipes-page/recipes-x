@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Gooey American Pork Casserole",
+  "description": "A hearty, comforting dish featuring tender pork, sweet cranberries, and a rich, gooey sauce, perfect for a lazy Sunday afternoon.",
+  "cuisine": "American",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless, cut into 1-inch cubes"
+    },
+    {
+      "name": "cranberry sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, brown the pork cubes over medium-high heat until browned on all sides.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "In a small bowl, whisk together the cranberry sauce, ketchup, brown sugar, smoked paprika, black pepper, and salt.",
+    "Pour the sauce mixture over the pork and onions, stirring to combine.",
+    "Cover the pot and transfer to the preheated oven, braising for 2 1/2 hours, or until the pork is tender.",
+    "Remove the pot from the oven and stir in the shredded cheddar cheese until melted and gooey.",
+    "Return the pot to the oven and bake for an additional 10-15 minutes, or until the top is golden brown and the casserole is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "cheesy",
+    "comfort-food",
+    "one-pot",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "xtra-gooey-american-pork-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-gooey-american-pork-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:14:42Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "braise",
+    "primaryIngredient": "cranberry",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Pork",
+    "descriptor": "Xtra Gooey",
+    "dishForm": "Casserole"
+  }
+}
