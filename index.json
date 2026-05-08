@@ -293,6 +293,22 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-spicy-neapolitan-apricots-cassata-siciliana",
+    "title": "x-tra Spicy Neapolitan Apricots Cassata Siciliana",
+    "tags": [
+      "cassata",
+      "halal-friendly",
+      "italian-desserts",
+      "neapolitan-cuisine",
+      "sous-vide",
+      "spicy-food",
+      "sunday-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 150,
+    "shard": "x"
+  },
+  {
     "slug": "x-treme-bitter-german-kanten-agar-pilaf",
     "title": "X-treme Bitter German Kanten-Agar Pilaf",
     "tags": [

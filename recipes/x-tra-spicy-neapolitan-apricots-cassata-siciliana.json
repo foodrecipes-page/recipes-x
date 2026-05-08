@@ -1,0 +1,116 @@
+{
+  "title": "x-tra Spicy Neapolitan Apricots Cassata Siciliana",
+  "description": "A unique Neapolitan dessert featuring dried apricots, spicy kick, and traditional Sicilian cassata form.",
+  "cuisine": "italian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "120g",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "250g"
+    },
+    {
+      "name": "candied ginger",
+      "amount": "100g"
+    },
+    {
+      "name": "honey",
+      "amount": "150g"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "80g"
+    },
+    {
+      "name": "sugar",
+      "amount": "60g"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "20g"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "10ml"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "1g"
+    },
+    {
+      "name": "pistachios",
+      "amount": "120g"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, soften the gelatin in 120ml of cold water for 5 minutes.",
+    "Heat the gelatin mixture in a saucepan over low heat, stirring occasionally, until dissolved.",
+    "In a blender, puree the apricots with 100g of the honey until smooth.",
+    "In a separate blender, blend the almond paste, remaining 50g of honey, sugar, and vanilla extract until smooth.",
+    "In a large mixing bowl, combine the apricot puree, almond paste mixture, and softened gelatin. Mix until well combined.",
+    "Stir in the candied ginger, eggs, and chili flakes.",
+    "Pour the mixture into a 1.5L sous-vide container and seal.",
+    "Cook in a water bath at 82°C for 2 hours.",
+    "After cooking, allow the mixture to cool to room temperature.",
+    "Stir in the pistachios and apricot jam.",
+    "Pour the mixture into a 20cm x 10cm loaf pan lined with parchment paper.",
+    "Refrigerate for at least 4 hours or overnight to set.",
+    "Unmold the cassata and slice into thick rounds.",
+    "Serve chilled, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cassata",
+    "halal-friendly",
+    "italian-desserts",
+    "neapolitan-cuisine",
+    "sous-vide",
+    "spicy-food",
+    "sunday-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 65,
+    "fat": 20
+  },
+  "slug": "x-tra-spicy-neapolitan-apricots-cassata-siciliana",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-spicy-neapolitan-apricots-cassata-siciliana",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:57:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "dried apricots",
+    "diet": "halal",
+    "region": "neapolitan",
+    "cuisineAdjective": "Neapolitan",
+    "mainIngredient": "apricots",
+    "descriptor": "X-tra Spicy",
+    "dishForm": "Cassata Siciliana"
+  }
+}
