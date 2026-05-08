@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Pillowy Russian Date Pilaf",
+  "description": "A sour, pillowy, kid-friendly Russian dish featuring pitted dates, cooked to perfection in a tandoor, following ayurvedic-sattvic principles.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "1 cup",
+      "notes": "preferably medjool"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "Rinse the basmati rice in a fine mesh strainer until the water runs clear.",
+    "Soak the rice in water for 30 minutes, then drain and set aside.",
+    "Heat the olive oil in the tandoor and add the tandoor spice blend, cooking for 1 minute.",
+    "Add the pitted dates and cook, stirring frequently, until they are lightly browned.",
+    "Add the soaked and drained rice to the tandoor, stirring to combine with the dates and spice blend.",
+    "Add the lemon juice, salt, and water to the tandoor, stirring to combine.",
+    "Cover the tandoor and cook for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "one-pot",
+    "sattvic",
+    "tandoor-cooked",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "xtra-pillowy-russian-date-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-pillowy-russian-date-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:45:27Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "tandoor",
+    "primaryIngredient": "pitted dates",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "dates",
+    "descriptor": "xtra pillowy",
+    "dishForm": "Pilaf"
+  }
+}

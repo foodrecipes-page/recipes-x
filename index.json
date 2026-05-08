@@ -2349,6 +2349,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-algerian-bacon-skewers",
+    "title": "Xtra Crispy Algerian Bacon Skewers",
+    "tags": [
+      "algerian",
+      "bacon",
+      "breakfast",
+      "brunch",
+      "crispy",
+      "glazed",
+      "skewers"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-british-cheese-ploughmans-pie",
     "title": "Xtra Crispy British Cheese Ploughmans Pie",
     "tags": [
@@ -3416,6 +3432,21 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-pillowy-russian-date-pilaf",
+    "title": "Xtra Pillowy Russian Date Pilaf",
+    "tags": [
+      "kid-friendly",
+      "one-pot",
+      "sattvic",
+      "tandoor-cooked",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

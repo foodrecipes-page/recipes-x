@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Crispy Algerian Bacon Skewers",
+  "description": "A fresh and aerated Algerian dish featuring crispy bacon, a sweet glaze, and a Buddhist-temple-friendly vibe, served on a tagliere for a perfect brunch mood. This recipe combines the flavors of Algeria with the convenience of a skewer.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "thick cut bacon",
+      "amount": "12 slices",
+      "notes": "preferably applewood smoked"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the bacon slices in half and set aside.",
+    "In a small bowl, whisk together the honey, soy sauce, lemon juice, garlic, salt, and black pepper to make the glaze.",
+    "Thread 2-3 pieces of bacon onto each skewer, leaving a small space between each piece.",
+    "Brush the glaze evenly onto each skewer, making sure the bacon is fully coated.",
+    "Place the skewers on a baking sheet lined with parchment paper and drizzle with olive oil.",
+    "Bake the skewers in the preheated oven for 20-25 minutes, or until crispy and golden brown.",
+    "Remove the skewers from the oven and let cool for a few minutes before serving.",
+    "Serve the skewers on a tagliere and enjoy.",
+    "Garnish with fresh herbs or lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "bacon",
+    "breakfast",
+    "brunch",
+    "crispy",
+    "glazed",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-crispy-algerian-bacon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-algerian-bacon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:45:10Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "glaze",
+    "primaryIngredient": "bacon",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "bacon",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Skewers"
+  }
+}
