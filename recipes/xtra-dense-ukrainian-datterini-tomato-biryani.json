@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Dense Ukrainian Datterini Tomato Biryani",
+  "description": "A hearty and dense Ukrainian dish featuring datterini tomatoes, perfect for a post-workout meal, with a focus on ayurvedic sattvic friendly ingredients and cooking methods.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "datterini tomatoes",
+      "amount": "1 cup",
+      "notes": "poach in water before using"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ukrainian sauerkraut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice and soak it in water for 30 minutes.",
+    "Heat the ghee in a large saucepan over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the turmeric, salt, and black pepper, and stir for 1 minute.",
+    "Add the poached datterini tomatoes and stir for 2 minutes.",
+    "Add the ukrainian sauerkraut and stir for 1 minute.",
+    "Add the soaked and drained basmati rice and stir for 2 minutes.",
+    "Reduce heat to low, cover, and cook for 20 minutes or until the rice is cooked and the liquid is absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "one-pot",
+    "post-workout",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-dense-ukrainian-datterini-tomato-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-ukrainian-datterini-tomato-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:26:56Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "datterini tomato",
+    "descriptor": "Xtra dense",
+    "dishForm": "Biryani"
+  }
+}
