@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Briny French Chuck Roast Quiche",
+  "description": "A briny and flaky French quiche featuring chuck roast, perfect for a solo dinner, this dish is Jain-friendly and served on a wooden board.",
+  "cuisine": "French",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tadka spices",
+      "amount": "1 teaspoon",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pie crust and place it on a wooden board.",
+    "In a large skillet, cook the chuck roast pieces over medium-high heat until browned.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "In a large bowl, whisk together the brine, tadka spices, beaten egg, salt, and black pepper.",
+    "Add the cooked chuck roast mixture to the bowl and stir to combine.",
+    "Pour the mixture into the pie crust on the wooden board.",
+    "Bake the quiche in the preheated oven for 35 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the quiche from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "chuck-roast",
+    "flaky",
+    "french-cuisine",
+    "jain-friendly",
+    "one-pan",
+    "quiche"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "xtra-briny-french-chuck-roast-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-briny-french-chuck-roast-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:49:30Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "tadka",
+    "primaryIngredient": "chuck roast",
+    "diet": "jain",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Xtra Briny",
+    "dishForm": "Quiche"
+  }
+}

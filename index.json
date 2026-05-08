@@ -2528,6 +2528,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-briny-french-chuck-roast-quiche",
+    "title": "Xtra Briny French Chuck Roast Quiche",
+    "tags": [
+      "briny",
+      "chuck-roast",
+      "flaky",
+      "french-cuisine",
+      "jain-friendly",
+      "one-pan",
+      "quiche"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-briny-mediterranean-smoked-turkey-neck-tagine",
     "title": "Xtra Briny Mediterranean Smoked Turkey Neck Tagine",
     "tags": [
