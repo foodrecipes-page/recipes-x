@@ -1,0 +1,107 @@
+{
+  "title": "Xenial Earthy Irish Callaloo Stew",
+  "description": "A hearty, earthy Irish stew featuring callaloo, perfect for a lazy Sunday, made with katsuramuki-cut vegetables and served in an agave leaf vessel, this dish is FODMAP friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "katsuramuki cut"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "katsuramuki cut"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic free seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 large",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shoulder with garlic free seasoning, sea salt, and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onions and cook until they are translucent, about 5 minutes.",
+    "Add the katsuramuki cut carrots and potatoes, and cook for an additional 5 minutes.",
+    "Add the chopped callaloo and stir to combine.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Cook for 2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Serve the stew in agave leaves, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "hearty-stew",
+    "irish-cuisine",
+    "lazy-sunday",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xenial-earthy-irish-callaloo-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-earthy-irish-callaloo-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:06:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "callaloo",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "callaloo",
+    "descriptor": "Xenial earthy",
+    "dishForm": "Stew"
+  }
+}

@@ -872,6 +872,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-earthy-irish-callaloo-stew",
+    "title": "Xenial Earthy Irish Callaloo Stew",
+    "tags": [
+      "comfort-food",
+      "fodmap-friendly",
+      "hearty-stew",
+      "irish-cuisine",
+      "lazy-sunday",
+      "one-pot"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 150,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-ethiopian-lentils-misir-wot",
     "title": "Xenial Ethiopian Lentils Misir Wot",
     "tags": [
