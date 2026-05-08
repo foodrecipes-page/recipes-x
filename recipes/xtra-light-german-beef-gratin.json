@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Light German Beef Gratin",
+  "description": "A charred, light German dish featuring beef gravy, whisk, and dairy-free-friendly ingredients, perfect for a special occasion.",
+  "cuisine": "German",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes per side.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until caramelized, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "In a small bowl, whisk together the beef broth, non-dairy milk, and tomato paste.",
+    "Pour the whisked mixture over the onion and garlic in the skillet.",
+    "Return the beef to the skillet and stir to coat with the sauce.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dairy-free",
+    "german-cuisine",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-light-german-beef-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-german-beef-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:51:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "whisk",
+    "primaryIngredient": "beef gravy",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Light",
+    "dishForm": "Gratin"
+  }
+}
