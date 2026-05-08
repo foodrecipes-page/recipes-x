@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Crumbly Japanese Bryndza Cheese Miso Ramen",
+  "description": "A sour and crumbly Japanese-inspired ramen dish featuring bryndza cheese, perfect for a flexitarian-friendly brunch",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot",
+    "Add the ramen noodles and cook according to package instructions",
+    "In a small bowl, whisk together the miso paste, soy sauce, sake, and mirin",
+    "Add the miso mixture to the pot and stir to combine",
+    "In a small pan, heat the sesame oil over medium heat",
+    "Add the crumbled bryndza cheese to the pan and cook until lightly browned",
+    "Deglaze the pan with a small amount of the hot broth",
+    "To assemble the dish, place some noodles in the bottom of individual mini cocottes",
+    "Add a spoonful of the miso broth, some crumbled bryndza cheese, and a sprinkle of green onions on top",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cheesy-goodness",
+    "flexitarian-friendly",
+    "japanese-inspired",
+    "ramen-lovers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xtra-crumbly-japanese-bryndza-cheese-miso-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crumbly-japanese-bryndza-cheese-miso-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:45:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "Xtra Crumbly",
+    "dishForm": "Miso Ramen"
+  }
+}
