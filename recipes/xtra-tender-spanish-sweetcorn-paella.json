@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Tender Spanish Sweetcorn Paella",
+  "description": "This earthy and tender Spanish dish features sweetcorn and is a quick-fix low-fat friendly option, it is made with dry brine and is ready in no time",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup",
+      "notes": "preferably Spanish"
+    },
+    {
+      "name": "sweetcorn kernels",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly",
+    "Add the smoked paprika, salt, and black pepper, and cook for 1 minute",
+    "Add the dry white wine and cook until the liquid is almost completely absorbed",
+    "Add the chicken broth, one cup at a time, stirring constantly and allowing each cup to be absorbed before adding the next",
+    "After 20 minutes of cooking the rice, add the sweetcorn kernels and cook for an additional 5 minutes",
+    "Remove the skillet from the heat and let it rest, covered, for 5 minutes",
+    "Serve the paella hot, garnished with lemon wedges if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-paella",
+    "gluten-free",
+    "low-fat",
+    "one-pan",
+    "spanish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-tender-spanish-sweetcorn-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tender-spanish-sweetcorn-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:21:39Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "sweetcorn",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "Xtra Tender",
+    "dishForm": "Paella"
+  }
+}
