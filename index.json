@@ -916,6 +916,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-earthy-polish-vegetable-pilaf",
+    "title": "Xenial Earthy Polish Vegetable Pilaf",
+    "tags": [
+      "comfort-food",
+      "healthy-eating",
+      "lunch-recipe",
+      "one-pot",
+      "plant-based",
+      "polish-cuisine"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-ethiopian-lentils-misir-wot",
     "title": "Xenial Ethiopian Lentils Misir Wot",
     "tags": [
