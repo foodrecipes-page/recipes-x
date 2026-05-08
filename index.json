@@ -3318,6 +3318,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-dense-australian-lamb-biryani",
+    "title": "Xtra Dense Australian Lamb Biryani",
+    "tags": [
+      "australian-cuisine",
+      "high-protein",
+      "lamb-based",
+      "macrobiotic-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 150,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-dense-irish-potato-boxty",
     "title": "Xtra Dense Irish Potato Boxty",
     "tags": [

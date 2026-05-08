@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Dense Australian Lamb Biryani",
+  "description": "A peppery and dense Australian dish featuring lamb shoulder, perfect for midnight cravings, made with macrobiotic-friendly ingredients and served in a bento box.",
+  "cuisine": "Australian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 1 inch pieces"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the onion until it is translucent.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the cumin seeds and coriander powder and cook for 1 minute.",
+    "Add the lamb shoulder and cook until it is browned on all sides.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 1.5 hours.",
+    "Add the basmati rice and stir well.",
+    "Cover the pan with a lid and cook for 20 minutes.",
+    "Turn off the heat and let it rest for 10 minutes.",
+    "Fluff the biryani with a fork and season with salt and black pepper.",
+    "Serve hot in a bento box."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian-cuisine",
+    "high-protein",
+    "lamb-based",
+    "macrobiotic-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "xtra-dense-australian-lamb-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-australian-lamb-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:09:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Biryani"
+  }
+}
