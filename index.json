@@ -175,6 +175,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-roasted-spanish-galician-pillowy-jamon-jamon-iberico-croquettes",
+    "title": "X-tra Roasted Spanish (Galician) Pillowy Jamon Jamon Iberico Croquettes",
+    "tags": [
+      "meat-lovers",
+      "one-pan",
+      "party-food",
+      "spicy",
+      "tapas",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-silky-moroccan-bun-seffa",
     "title": "X-tra Silky Moroccan Bun Seffa",
     "tags": [
@@ -548,6 +563,22 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-hearty-russian-mushroom-pilaf",
+    "title": "Xenial Hearty Russian Mushroom Pilaf",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "mushroom",
+      "one-pot",
+      "pilaf",
+      "russian",
+      "vegan"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {

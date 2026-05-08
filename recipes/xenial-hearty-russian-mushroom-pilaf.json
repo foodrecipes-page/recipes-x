@@ -1,0 +1,111 @@
+{
+  "title": "Xenial Hearty Russian Mushroom Pilaf",
+  "description": "A pungent and cozy Russian dish featuring marjoram and ferment-kimchi, perfect for a cold winter night, this vegan-friendly pilaf is a hearty and satisfying meal.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "marjoram",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the dried marjoram and cook for 1 minute, stirring constantly.",
+    "Add the chopped ferment-kimchi and cook for an additional 2 minutes, stirring constantly.",
+    "Add the uncooked brown rice and cook for 1 minute, stirring constantly.",
+    "Add the low sodium vegetable broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "mushroom",
+    "one-pot",
+    "pilaf",
+    "russian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xenial-hearty-russian-mushroom-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-hearty-russian-mushroom-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:51:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "marjoram",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Xenial Hearty",
+    "dishForm": "Pilaf"
+  }
+}

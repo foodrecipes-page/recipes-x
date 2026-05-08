@@ -1,0 +1,105 @@
+{
+  "title": "X-tra Roasted Spanish (Galician) Pillowy Jamon Jamon Iberico Croquettes",
+  "description": "Delicious roasted Spanish (Galician) croquettes filled with jamon iberico, perfect as a snack or appetizer.",
+  "cuisine": "Spanish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jamon Iberico",
+      "amount": "200g",
+      "notes": "Cured and thinly sliced"
+    },
+    {
+      "name": "Bread, stale",
+      "amount": "100g",
+      "notes": "White bread, day-old"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Mince and finely chop"
+    },
+    {
+      "name": "Vanilla pod",
+      "amount": "1/2",
+      "notes": "Split lengthwise"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "20g",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20ml",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Fleur de sel or kosher salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "In a large bowl, combine the jamon iberico, bread, onion, garlic, vanilla pod, and egg. Mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before frying, dust the jamon mixture with flour, shaking off excess.",
+    "Heat the olive oil in a large skillet over medium heat. Fry the jamon mixture in batches until golden brown and crispy, about 3-4 minutes per batch.",
+    "Transfer the fried jamon mixture to a paper towel-lined plate to drain excess oil.",
+    "To assemble the croquettes, shape the fried jamon mixture into small balls, about 1-inch in diameter.",
+    "Place the croquettes on a baking sheet lined with parchment paper and bake in the preheated oven for 10-12 minutes, or until heated through.",
+    "Serve the X-tra Roasted Spanish (Galician) Pillowy Jamon Jamon Iberico Croquettes hot, garnished with fresh parsley or chives, if desired.",
+    "These croquettes are best served immediately, but can be refrigerated for up to 24 hours and reheated in the oven before serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "meat-lovers",
+    "one-pan",
+    "party-food",
+    "spicy",
+    "tapas",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 14,
+    "fat": 24
+  },
+  "slug": "x-tra-roasted-spanish-galician-pillowy-jamon-jamon-iberico-croquettes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-roasted-spanish-galician-pillowy-jamon-jamon-iberico-croquettes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:50:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "vanilla pod",
+    "diet": "ayurvedic-tamasic",
+    "region": "galician",
+    "cuisineAdjective": "Spanish (Galician)",
+    "mainIngredient": "Pillowy Jamon",
+    "descriptor": "X-tra Roasted",
+    "dishForm": "Jamon Iberico Croquettes"
+  }
+}
