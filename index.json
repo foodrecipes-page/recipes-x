@@ -1878,6 +1878,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-yeasty-moroccan-lamb-bissara",
+    "title": "Xenial Yeasty Moroccan Lamb Bissara",
+    "tags": [
+      "fondue-pot",
+      "lamb",
+      "moroccan",
+      "passion-fruit",
+      "romantic",
+      "yeasty"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 120,
+    "shard": "x"
+  },
+  {
     "slug": "xerid-crunchy-korean-peanuts-rice-bowl",
     "title": "Xerid Crunchy Korean Peanuts Rice Bowl",
     "tags": [
@@ -6171,6 +6186,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-rich-spanish-foie-gras-gambas-al-ajillo",
+    "title": "Xtra Rich Spanish Foie Gras Gambas Al Ajillo",
+    "tags": [
+      "foie-gras-recipes",
+      "gourmet-food",
+      "rich-dishes",
+      "seafood-recipes",
+      "spanish-cuisine",
+      "special-occasion"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Rich Spanish Foie Gras Gambas Al Ajillo",
+  "description": "A mustardy and pillowy Spanish dish featuring foie gras, this Basque-inspired recipe is a hangover cure, served in a traditional Talavera plate, and is egg-free friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "foie gras",
+      "amount": "12 oz",
+      "notes": "seared and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sherry wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat until melted and foamy.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the prawns and cook for 2-3 minutes per side until pink and cooked through.",
+    "Remove the prawns from the skillet and set aside on a plate.",
+    "Add the sherry wine, chicken broth, Dijon mustard, paprika, salt, and black pepper to the skillet.",
+    "Bring the mixture to a simmer and cook for 5 minutes until reduced and syrupy.",
+    "Add the sliced foie gras to the skillet and cook for 1 minute per side until seared and cooked through.",
+    "Return the prawns to the skillet and toss to coat with the sauce.",
+    "Stir in the lemon juice and cook for an additional minute.",
+    "Serve the gambas al ajillo in a traditional Talavera plate, garnished with parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "foie-gras-recipes",
+    "gourmet-food",
+    "rich-dishes",
+    "seafood-recipes",
+    "spanish-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 90
+  },
+  "slug": "xtra-rich-spanish-foie-gras-gambas-al-ajillo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-spanish-foie-gras-gambas-al-ajillo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:02:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "reduce",
+    "primaryIngredient": "foie-gras",
+    "diet": "egg-free",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "foie gras",
+    "descriptor": "Xtra Rich",
+    "dishForm": "Gambas Al Ajillo"
+  }
+}

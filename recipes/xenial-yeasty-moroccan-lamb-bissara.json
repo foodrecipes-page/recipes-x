@@ -1,0 +1,106 @@
+{
+  "title": "Xenial Yeasty Moroccan Lamb Bissara",
+  "description": "A traditional Moroccan bissara dish with a yeasty twist, featuring lamb and passion fruit pulp, cooked in a fondue pot. This halal-friendly recipe is perfect for a romantic dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the fondue pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the cumin, coriander, and yeast, and stir to combine.",
+    "Add the passion fruit pulp and chicken broth, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve the bissara hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot",
+    "lamb",
+    "moroccan",
+    "passion-fruit",
+    "romantic",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xenial-yeasty-moroccan-lamb-bissara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-yeasty-moroccan-lamb-bissara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:03:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "braise",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Yeasty",
+    "dishForm": "Bissara"
+  }
+}
