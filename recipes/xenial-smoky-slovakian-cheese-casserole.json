@@ -1,0 +1,104 @@
+{
+  "title": "Xenial Smoky Slovakian Cheese Casserole",
+  "description": "A smoky and springy Slovakian dish featuring Gruyere cheese, cooked in a clay pot and served on a Talavera plate, evoking nostalgic feelings of traditional Eastern European cuisine.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 1/2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the diced smoked bacon over medium heat until crispy.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a large bowl, whisk together the eggs, sour cream, paprika, salt, and black pepper.",
+    "Stir in the shredded Gruyere cheese and cooked bacon mixture.",
+    "Transfer the mixture to a clay pot and bake for 35 minutes.",
+    "Remove the casserole from the oven and sprinkle with chopped fresh parsley if desired.",
+    "Serve the casserole hot on a Talavera plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "clay-pot",
+    "comfort-food",
+    "nut-free",
+    "slovakian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "xenial-smoky-slovakian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-smoky-slovakian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:02:14Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "gruy re",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cheese",
+    "descriptor": "Xenial Smoky",
+    "dishForm": "Casserole"
+  }
+}
