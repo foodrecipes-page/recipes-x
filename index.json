@@ -988,6 +988,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-peppery-russian-beef-stew",
+    "title": "Xenial Peppery Russian Beef Stew",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-roasted-german-chive-roast",
     "title": "Xenial Roasted German Chive Roast",
     "tags": [
