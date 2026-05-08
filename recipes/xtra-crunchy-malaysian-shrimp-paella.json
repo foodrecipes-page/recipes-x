@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Crunchy Malaysian Shrimp Paella",
+  "description": "A quick-fix Malaysian dish featuring dry sherry and shrimp, cooked to a nutty and aerated perfection in a paella pan",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "dry sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a paella pan over medium-high heat",
+    "Add the shrimp and cook until pink and set aside",
+    "Add the onion and garlic and cook until the onion is translucent",
+    "Add the dry sherry and cook until the liquid is almost completely evaporated",
+    "Add the calamansi juice, soy sauce, saffron threads, salt, and pepper, and stir to combine",
+    "Add the uncooked Arborio rice and stir to coat the rice with the oil and mix with the spices",
+    "Add 2 cups of water to the pan and bring to a boil",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes",
+    "Return the shrimp to the pan and stir to combine with the rice",
+    "Increase the heat to high and cook for an additional 2 minutes to crisp the bottom of the paella"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-cuisine",
+    "one-pan",
+    "paella-pan",
+    "seafood",
+    "shrimp-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "xtra-crunchy-malaysian-shrimp-paella",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-malaysian-shrimp-paella",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:08:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "temper",
+    "primaryIngredient": "dry sherry",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Xtra crunchy",
+    "dishForm": "Paella"
+  }
+}
