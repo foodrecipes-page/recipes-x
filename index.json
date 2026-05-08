@@ -3812,6 +3812,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-dense-brazilian-chicken-stew",
+    "title": "Xtra Dense Brazilian Chicken Stew",
+    "tags": [
+      "brazilian-food",
+      "chicken-recipes",
+      "comfort-food",
+      "hearty-stews",
+      "low-sodium",
+      "one-pot-meals"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-dense-croatian-lamb-tagine",
     "title": "Xtra Dense Croatian Lamb Tagine",
     "tags": [
