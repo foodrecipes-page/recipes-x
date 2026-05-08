@@ -1,0 +1,113 @@
+{
+  "title": "Xeriscape Light Croatian Fish Bisque",
+  "description": "A light, creamy, and savory bisque originating from Croatia, featuring wok-hei and pescatarian-friendly ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Crushed"
+    },
+    {
+      "name": "White fish",
+      "amount": "1 pound",
+      "notes": "Cod or tilapia"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat butter and ghee in a molcajete over medium heat.",
+    "Add olive oil, then sauté chopped onion and minced garlic until softened.",
+    "Add chopped carrots and cook for 5 minutes until they start to caramelize.",
+    "Add crushed tomatoes, fish stock, and white fish. Cook for 8 minutes.",
+    "Using a slotted spoon, remove the fish and blend the bisque with an immersion blender until smooth.",
+    "Return the fish to the molcajete and add heavy cream and lemon juice. Simmer for 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Ladle the bisque into bowls and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bisque",
+    "creamy",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xeriscape-light-croatian-fish-bisque",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-light-croatian-fish-bisque",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:11:23Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "tomato",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "Xeriscape Light",
+    "dishForm": "Bisque"
+  }
+}
