@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Crispy Turkish Oyster Mushrooms Borek",
+  "description": "A crispy and savory Turkish dish featuring oyster mushrooms, perfect for a monsoon day, this borek is keto-friendly and made with score-fat, providing a delicious and fresh meal option.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, black pepper, and paprika.",
+    "Add the melted score-fat, eggs, and water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a thin sheet.",
+    "In a separate pan, saute the oyster mushrooms until they are tender and lightly browned.",
+    "Place a quarter of the mushrooms onto one end of each dough sheet, leaving a 1 inch border around the edges.",
+    "Brush the edges with water and fold the dough over the mushrooms to form a triangle, pressing the edges together to seal.",
+    "Brush the tops with egg wash and bake for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-snacks",
+    "keto-friendly",
+    "low-carb",
+    "mushroom-recipes",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 26
+  },
+  "slug": "xtra-crispy-turkish-oyster-mushrooms-borek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-turkish-oyster-mushrooms-borek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:59:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "score-fat",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Borek"
+  }
+}
