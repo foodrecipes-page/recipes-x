@@ -4691,6 +4691,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-garlicky-uruguayan-squid-empanadas",
+    "title": "Xtra Garlicky Uruguayan Squid Empanadas",
+    "tags": [
+      "baked-goods",
+      "egg-free",
+      "garlicky",
+      "latin-american",
+      "pescatarian",
+      "seafood"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-goey-venezuelan-strawberries-pilaf",
     "title": "xtra-goey Venezuelan strawberries pilaf",
     "tags": [
