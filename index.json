@@ -2599,6 +2599,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crisp-kenyan-paneer-skewers",
+    "title": "Xtra Crisp Kenyan Paneer Skewers",
+    "tags": [
+      "crispy",
+      "gluten-free",
+      "kenyan-cuisine",
+      "lazy-sunday",
+      "tangy",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crisp-mexican-ground-beef-fajitas",
     "title": "Xtra Crisp Mexican Ground Beef Fajitas",
     "tags": [
