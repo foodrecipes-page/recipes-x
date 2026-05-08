@@ -750,6 +750,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-dense-thai-almond-nam-prik",
+    "title": "Xenial Dense Thai Almond Nam Prik",
+    "tags": [
+      "almond-butter",
+      "fodmap-friendly",
+      "nam-prik",
+      "thai-cuisine",
+      "vegetarian",
+      "yeasty"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-ethiopian-lentils-misir-wot",
     "title": "Xenial Ethiopian Lentils Misir Wot",
     "tags": [

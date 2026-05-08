@@ -1,0 +1,97 @@
+{
+  "title": "Xenial Dense Thai Almond Nam Prik",
+  "description": "A yeasty, dense, and romantic Thai dish featuring almond butter, this nam prik is a unique and delicious twist on traditional Thai cuisine. It is simmered to perfection and is FODMAP-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond butter",
+      "amount": "1/2 cup",
+      "notes": " creamy"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grilled chili peppers",
+      "amount": "2 peppers",
+      "notes": " seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": " minced"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "1 stalk",
+      "notes": " bruised"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": " active dry"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine almond butter, fish sauce, lime juice, brown sugar, chili peppers, garlic, and lemon grass, and blend until smooth.",
+    "Transfer the mixture to a saucepan and whisk in the yeast.",
+    "Bring the mixture to a simmer over medium heat.",
+    "Reduce the heat to low and cook, stirring occasionally, for 10 minutes.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "Transfer the nam prik to a serving bowl and garnish with chopped fresh herbs, if desired.",
+    "Serve the nam prik with steamed vegetables or rice.",
+    "Refrigerate or freeze the nam prik for later use.",
+    "Reheat the nam prik gently over low heat before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-butter",
+    "fodmap-friendly",
+    "nam-prik",
+    "thai-cuisine",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "xenial-dense-thai-almond-nam-prik",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-dense-thai-almond-nam-prik",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:57:30Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "almond butter",
+    "diet": "fodmap",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "almonds",
+    "descriptor": "Xenial Dense",
+    "dishForm": "Nam Prik"
+  }
+}
