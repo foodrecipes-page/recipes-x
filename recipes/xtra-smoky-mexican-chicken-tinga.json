@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Smoky Mexican Chicken Tinga",
+  "description": "A high-protein Mexican dish featuring smoky chicken, couscous, and spices, all wrapped in a pandan leaf, inspired by the flavors of Jalisco, with a Yakimono grill twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the Yakimono grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together chipotle peppers, olive oil, salt, and black pepper to make the marinade.",
+    "Add the chicken to the marinade and mix well to coat, then cover and refrigerate for at least 30 minutes.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165 degrees Fahrenheit.",
+    "While the chicken is cooking, prepare the couscous according to package instructions.",
+    "Once the chicken is done, let it rest for a few minutes before shredding it into bite-sized pieces.",
+    "In a large skillet, heat a couple of tablespoons of olive oil over medium heat and saute the diced onion until translucent.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the shredded chicken to the skillet and stir to combine with the onion and garlic mixture.",
+    "To assemble the dish, place a portion of the chicken mixture onto a pandan leaf, followed by a spoonful of couscous, and wrap the leaf to form a tight package.",
+    "Serve the Xtra Smoky Mexican Chicken Tinga hot, garnished with additional chipotle peppers if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "smoky",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-smoky-mexican-chicken-tinga",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-mexican-chicken-tinga",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:38:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "couscous",
+    "diet": "high-protein",
+    "region": "jalisco-style",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Tinga"
+  }
+}

@@ -4657,6 +4657,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-smoky-mexican-chicken-tinga",
+    "title": "Xtra Smoky Mexican Chicken Tinga",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "mexican",
+      "one-pan",
+      "smoky",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-smoky-roasted-norwegian-potato-casserole",
     "title": "Xtra Smoky Roasted Norwegian Potato Casserole",
     "tags": [
