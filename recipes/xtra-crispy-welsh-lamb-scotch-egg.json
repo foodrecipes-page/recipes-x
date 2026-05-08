@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Crispy Welsh Lamb Scotch Egg",
+  "description": "A crispy and flavorful Welsh lamb scotch egg wrapped in a banana leaf, perfect for a weeknight dinner. This dish features a sugar syrup glaze and a mantecare-emulsified sauce.",
+  "cuisine": "British",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large eggs",
+      "notes": "hard-boiled and peeled"
+    },
+    {
+      "name": "manteca",
+      "amount": "2 tablespoons",
+      "notes": "or lard"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb mince, sugar syrup, salt, and black pepper until just combined.",
+    "Divide the lamb mixture into 4 equal parts and shape each part into a patty.",
+    "Wrap each patty around a hard-boiled egg, making sure to seal the edges well.",
+    "Wrap each scotch egg in a banana leaf, securing with a toothpick if necessary.",
+    "Heat the olive oil in a large skillet over medium-high heat and fry the scotch eggs until golden brown on all sides.",
+    "Transfer the scotch eggs to a baking sheet and bake in the preheated oven for 15 minutes.",
+    "While the scotch eggs are baking, melt the manteca in a small saucepan over low heat and whisk in a little water to emulsify.",
+    "Remove the scotch eggs from the oven and brush with the manteca emulsion.",
+    "Serve the scotch eggs hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "british-food",
+    "lamb-recipes",
+    "low-glycemic",
+    "scotch-egg",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-crispy-welsh-lamb-scotch-egg",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-welsh-lamb-scotch-egg",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:45:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "sugar syrup",
+    "diet": "low-glycemic",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Scotch Egg"
+  }
+}
