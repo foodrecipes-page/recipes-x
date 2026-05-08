@@ -1,0 +1,89 @@
+{
+  "title": "Xtra Chewy Ukrainian Pork Skewers",
+  "description": "Savory and chewy Ukrainian pork skewers featuring Thai sweet basil, perfect for a solo dinner, made with a mortar and pestle and grilled on a raclette grill.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium high heat.",
+    "In a mortar and pestle, pound the garlic and Thai sweet basil until well combined.",
+    "In a large bowl, combine the pork, garlic and basil mixture, onion, salt, and black pepper, and mix until the pork is evenly coated.",
+    "Thread the pork mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with coconut oil.",
+    "Place the skewers on the raclette grill and cook for 10-12 minutes, turning occasionally.",
+    "Cook the skewers to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "high-protein",
+    "paleo-friendly",
+    "sweet-basil",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "xtra-chewy-ukrainian-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-chewy-ukrainian-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:13:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Chewy",
+    "dishForm": "Skewers"
+  }
+}
