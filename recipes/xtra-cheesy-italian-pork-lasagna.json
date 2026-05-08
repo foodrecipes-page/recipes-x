@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Cheesy Italian Pork Lasagna",
+  "description": "A cozy Italian dish featuring rich flavors and a unique blend of ingredients, including cocoa and nuka-pickle, all while being FODMAP-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "FODMAP-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 lb",
+      "notes": "make sure to choose a FODMAP-friendly brand"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions.",
+    "In a large skillet, cook the ground pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the marinara sauce, cocoa powder, and nuka-pickle, and bring the mixture to a simmer.",
+    "In a large bowl, combine the ricotta cheese, mozzarella cheese, and parmesan cheese.",
+    "Spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the meat sauce.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Repeat the layers, starting with the meat sauce, then the noodles, and finally the remaining cheese mixture.",
+    "Top the lasagna with the remaining mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-dishes",
+    "comfort-food",
+    "fodmap-friendly",
+    "italian-food",
+    "pork-recipes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-cheesy-italian-pork-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-cheesy-italian-pork-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:36:34Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cocoa",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra cheesy",
+    "dishForm": "Lasagna"
+  }
+}

@@ -2350,6 +2350,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-cheesy-italian-pork-lasagna",
+    "title": "Xtra Cheesy Italian Pork Lasagna",
+    "tags": [
+      "cheesy-dishes",
+      "comfort-food",
+      "fodmap-friendly",
+      "italian-food",
+      "pork-recipes",
+      "weeknight-meals"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-cheesy-ukrainian-haricot-bean-casserole",
     "title": "Xtra Cheesy Ukrainian Haricot Bean Casserole",
     "tags": [
