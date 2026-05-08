@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Smoky Argentinian Baby Pak Koi Skewers",
+  "description": "A smoky and fluffy Argentinian dish featuring baby pak koi, perfect for a date night, made with ferment kimchi and sugar free friendly ingredients.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten free",
+    "low carb",
+    "sugar free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1/2 cup",
+      "notes": "store bought"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "Thread baby pak koi onto skewers.",
+    "Mix smoked paprika, garlic powder, salt, and black pepper in a bowl.",
+    "Brush the mixture onto the baby pak koi skewers.",
+    "Brush olive oil onto the grill.",
+    "Grill the skewers for 8 minutes per side.",
+    "Mix ferment kimchi and lemon juice in a bowl.",
+    "Serve the skewers with the kimchi mixture and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "date-night",
+    "fluffy",
+    "gluten-free",
+    "low-carb",
+    "smoky",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-smoky-argentinian-baby-pak-koi-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-argentinian-baby-pak-koi-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:24:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "baby pak koi",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "baby pak koi",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Skewers"
+  }
+}
