@@ -3781,6 +3781,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-flaky-argentinian-taleggio-empanadas",
+    "title": "Xtra Flaky Argentinian Taleggio Empanadas",
+    "tags": [
+      "fodmap-friendly",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-flaky-british-lentil-pasties",
     "title": "Xtra Flaky British Lentil Pasties",
     "tags": [
