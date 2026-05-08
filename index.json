@@ -5801,6 +5801,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-tangy-russian-fish-noodles",
+    "title": "Xtra Tangy Russian Fish Noodles",
+    "tags": [
+      "chewy",
+      "halal-friendly",
+      "noodle-dish",
+      "quick-fix",
+      "russian-cuisine",
+      "tangy"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-tender-basque-chicken-roast",
     "title": "Xtra Tender Basque Chicken Roast",
     "tags": [
