@@ -1,0 +1,91 @@
+{
+  "title": "Xtra Velvety Dutch Manchego Pasta",
+  "description": "A rich and creamy vegan pasta dish featuring manchego cheese, served in individual mini cocottes, perfect for a brunch mood. This dish is a creative twist on traditional Dutch cuisine.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "manchego cheese",
+      "amount": "1 cup",
+      "notes": "vegan manchego alternative"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the pasta according to package instructions, reserving 1 cup of pasta water.",
+    "In a blender, combine the manchego cheese, olive oil, onion, garlic, nutritional yeast, and lemon juice, blending until smooth.",
+    "Add the reserved pasta water to the blender, blending until a creamy emulsion forms.",
+    "Combine the cooked pasta and cheese emulsion in a bowl, tossing until the pasta is well coated.",
+    "Divide the pasta among individual mini cocottes.",
+    "Bake the pasta in the preheated oven for 15 minutes, or until heated through.",
+    "Serve the pasta hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "dutch",
+    "one-pot",
+    "pasta",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-velvety-dutch-manchego-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-velvety-dutch-manchego-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:48:09Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "manchego",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "manchego",
+    "descriptor": "Xtra velvety",
+    "dishForm": "Pasta"
+  }
+}
