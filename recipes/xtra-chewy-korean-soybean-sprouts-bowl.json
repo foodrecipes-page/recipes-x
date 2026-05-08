@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Chewy Korean Soybean Sprouts Bowl",
+  "description": "A peppery and chewy vegetarian dish featuring soybean sprouts, perfect for a brunch mood, inspired by Croatian and Korean cuisine. This recipe is vegetarian friendly and features pressure cooked soybean sprouts.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "also known as kongnamul"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the soybean sprouts and remove any debris or broken sprouts.",
+    "In a large pot, combine the soybean sprouts and water, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, then drain and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat, then add the chopped onion and cook until softened.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the cooked soybean sprouts, soy sauce, sesame oil, salt, and black pepper to the skillet, and stir to combine.",
+    "Transfer the soybean sprout mixture to a serving bowl and serve hot.",
+    "Pressure cook the soybean sprouts for 10 minutes, if desired, for a softer texture.",
+    "Garnish with chopped green onions and toasted sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "korean",
+    "one-pot",
+    "pressure-cooker",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-chewy-korean-soybean-sprouts-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-chewy-korean-soybean-sprouts-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:56:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "soybean sprouts",
+    "descriptor": "Xtra Chewy",
+    "dishForm": "Bowl"
+  }
+}

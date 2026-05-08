@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Crumbly Argentinian Kale Empanadas",
+  "description": "A salty and crumbly crowd-pleaser featuring kale and tadka, perfect for any occasion, this Argentinian dish is egg-free-friendly and baked in a terracotta dish.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tadka spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped kale and cook until wilted, about 3 minutes.",
+    "Stir in the tadka spice mix, salt, and black pepper.",
+    "Roll out the empanada dough and cut into circles.",
+    "Place a spoonful of the kale mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges to seal.",
+    "Place the empanadas in a terracotta dish and bake for 25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "baked",
+    "empanadas",
+    "kale",
+    "snack",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-crumbly-argentinian-kale-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crumbly-argentinian-kale-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:56:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "tadka",
+    "primaryIngredient": "kale",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "kale",
+    "descriptor": "Xtra Crumbly",
+    "dishForm": "Empanadas"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Crisp Japanese Thai Eggplant Inarizushi",
+  "description": "Smoky and crisp post-workout Japanese dish featuring Thai eggplant, served in a tagine pot, plant-based friendly and in the form of inarizushi.",
+  "cuisine": "Japanese",
+  "diet": [
+    "plant-based",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai eggplant",
+      "amount": "2 large",
+      "notes": "Makhua variety preferred"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Inari pouches",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Thai eggplant and cut it into 1-inch pieces.",
+    "In a large bowl, whisk together rice vinegar, sugar, and salt to create the brine.",
+    "Add the eggplant pieces to the brine and let it sit for at least 30 minutes to allow for proper soaking.",
+    "Preheat the tagine pot over medium heat with sesame oil.",
+    "Remove the eggplant from the brine, letting any excess liquid drip off.",
+    "Add the eggplant to the tagine pot and cook until it is tender and lightly browned.",
+    "Sprinkle smoked paprika over the eggplant for added smokiness.",
+    "Prepare the inari pouches according to the package instructions.",
+    "Fill each inari pouch with a few pieces of the crispy eggplant.",
+    "Serve the inarizushi hot, garnished with additional smoked paprika if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "inarizushi",
+    "japanese-cuisine",
+    "plant-based",
+    "smoky-flavors",
+    "tagine-pot",
+    "thai-eggplant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "xtra-crisp-japanese-thai-eggplant-inarizushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-japanese-thai-eggplant-inarizushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:56:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "plant-based",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Thai Eggplant",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Inarizushi"
+  }
+}
