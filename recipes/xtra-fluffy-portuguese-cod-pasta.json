@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Fluffy Portuguese Cod Pasta",
+  "description": "A briny and fluffy Portuguese dish featuring cod, shoyu-koji, and pasta, perfect for a family dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "high-protein",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning",
+    "Add the cod fillets to the skillet, skin side up, and cook for 3-4 minutes or until the skin is crispy and golden brown",
+    "Flip the cod over and cook for an additional 3-4 minutes or until cooked through",
+    "In a small bowl, whisk together the shoyu-koji and a pinch of salt and pepper",
+    "Add the shoyu-koji mixture to the skillet with the cod and stir to combine",
+    "Drain the cooked pasta and add it to the skillet with the cod and shoyu-koji mixture",
+    "Toss the pasta in the skillet to combine with the cod and shoyu-koji mixture, adding some grated parmesan cheese to taste"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "pasta",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-fluffy-portuguese-cod-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-portuguese-cod-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:47:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Pasta"
+  }
+}
