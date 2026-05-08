@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Pungent Kenyan Chicken Skewers",
+  "description": "A pungent and energizing Kenyan dish featuring Branston pickle and robata-grilled chicken, made in a wok and friendly to ayurvedic sattvic diets. This recipe combines the bold flavors of Kenya with the convenience of a quick and easy meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Branston pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium-high heat.",
+    "Add the grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Add the chicken to the wok and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped Branston pickle, lemon juice, cumin, coriander, salt, and black pepper to the wok and stir to combine.",
+    "Thread the chicken and pickle mixture onto skewers.",
+    "Robata-grill the skewers for 5-7 minutes, turning frequently, until the chicken is cooked through.",
+    "Serve the skewers hot, garnished with additional Branston pickle if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "grilled",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "xtra-pungent-kenyan-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-pungent-kenyan-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:44:19Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "robata-grill",
+    "primaryIngredient": "branston-pickle",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra pungent",
+    "dishForm": "Skewers"
+  }
+}
