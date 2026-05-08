@@ -1351,6 +1351,23 @@
     "shard": "x"
   },
   {
+    "slug": "xeriscape-springy-turkish-millet-kisir",
+    "title": "Xeriscape Springy Turkish Millet Kisir",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "gluten-free",
+      "healthy",
+      "one-pan",
+      "turkish",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xeriscaped-korean-apples-muchim",
     "title": "Xeriscaped Korean Apples Muchim",
     "tags": [
@@ -3380,6 +3397,22 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-french-tofu-curry",
+    "title": "Xtra Spicy French Tofu Curry",
+    "tags": [
+      "french-inspired",
+      "jain-friendly",
+      "one-pot",
+      "quick-fix",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

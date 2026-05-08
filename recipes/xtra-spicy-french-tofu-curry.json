@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Spicy French Tofu Curry",
+  "description": "A quick and spicy French-inspired curry featuring Chinese five spice powder and a mirepoix base, made Jain-friendly by using tofu and avoiding animal products. This dish is perfect for those who like a little heat in their meals.",
+  "cuisine": "French",
+  "diet": [
+    "Jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chinese five spice powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the Chinese five spice powder and curry powder and cook for 1 minute.",
+    "Add the tofu and cook until it is lightly browned on all sides.",
+    "Add the coconut milk, vegetable broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the sauce has thickened.",
+    "Add the hot sauce and stir to combine.",
+    "Reduce the heat to low and cook for an additional 5 minutes.",
+    "Serve the curry hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-inspired",
+    "jain-friendly",
+    "one-pot",
+    "quick-fix",
+    "spicy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-spicy-french-tofu-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-french-tofu-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:44:58Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "tofu",
+    "descriptor": "Xtra spicy",
+    "dishForm": "Curry"
+  }
+}
