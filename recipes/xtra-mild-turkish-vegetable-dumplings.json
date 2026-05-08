@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Mild Turkish Vegetable Dumplings",
+  "description": "A light and comforting Turkish dish featuring tender dumplings filled with a mix of sautéed vegetables and aromatic spices, perfect for a sick day. This vegetarian-friendly recipe is easy to make and packed with umami flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and salt, then gradually add the water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "In a large skillet, heat the oil over medium heat and sauté the onion, carrots, zucchini, and mushrooms until they are tender.",
+    "Add the paprika and black pepper to the skillet and stir to combine.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Use a rolling pin to flatten each ball into a thin circle.",
+    "Place a tablespoon of the vegetable mixture in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 10-15 minutes or until they float to the surface."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "healthy",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xtra-mild-turkish-vegetable-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-mild-turkish-vegetable-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "seasoning",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xtra mild",
+    "dishForm": "Dumplings"
+  }
+}
