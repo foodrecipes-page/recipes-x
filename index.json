@@ -1385,6 +1385,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-velvety-slovakian-fish-stew",
+    "title": "Xenial Velvety Slovakian Fish Stew",
+    "tags": [
+      "comfort-food",
+      "date-night",
+      "one-pot",
+      "pescatarian",
+      "slovakian-cuisine"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-vietnamese-nectarines-bun-thit-nuong",
     "title": "Xenial Vietnamese Nectarines Bun Thit Nuong",
     "tags": [

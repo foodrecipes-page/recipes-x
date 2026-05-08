@@ -1,0 +1,106 @@
+{
+  "title": "Xenial Velvety Slovakian Fish Stew",
+  "description": "A rich and velvety fish stew featuring brandy, perfect for a date night, with a resinous flavor profile that is distinctly Slovakian. This pescatarian-friendly dish is sure to impress.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "brandy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled, cubed"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the brandy over medium heat until it starts to simmer.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the sliced carrots and cubed potatoes, cook for 5 minutes, stirring occasionally.",
+    "Add the cod fillets, fish stock, dried thyme, salt, and black pepper, stir gently to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the heavy cream and continue to simmer, uncovered, for an additional 5 minutes, until the stew has thickened slightly.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "one-pot",
+    "pescatarian",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xenial-velvety-slovakian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-velvety-slovakian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:06:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "brandy",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "fish",
+    "descriptor": "Xenial Velvety",
+    "dishForm": "Stew"
+  }
+}
