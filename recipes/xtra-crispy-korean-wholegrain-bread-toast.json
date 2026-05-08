@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Crispy Korean Wholegrain Bread Toast",
+  "description": "A quick-fix Korean dish featuring wholegrain bread, this recipe is a briny and aerated treat that is vegan-friendly, made with a reduced amount of ingredients for simplicity.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wholegrain bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a small bowl, whisk together gochujang, soy sauce, and rice vinegar.",
+    "Brush the mixture evenly onto each slice of wholegrain bread.",
+    "Drizzle sesame oil over the bread slices.",
+    "Sprinkle toasted sesame seeds and salt over the bread.",
+    "Place the bread slices on the preheated skillet or griddle.",
+    "Cook for 2-3 minutes or until the bread is crispy and golden brown.",
+    "Flip the bread slices over and cook for an additional 2 minutes.",
+    "Remove the bread from the skillet and top with thinly sliced scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "crispy-snack",
+    "korean-inspired",
+    "quick-fix",
+    "vegan-friendly",
+    "wholegrain"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "xtra-crispy-korean-wholegrain-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-korean-wholegrain-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:20:26Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "bread",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Toast"
+  }
+}
