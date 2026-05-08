@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Juicy Mexican Blueberry Tacos",
+  "description": "A sweet and savory Mexican dish featuring blueberries, roast, and ayurvedic-tamasic-friendly ingredients, this nostalgic Sonoran-inspired recipe is a unique twist on traditional tacos. The jammy and juicy blueberries add a burst of flavor and texture to this delicious dish.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blueberries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "roasted pecans",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "pure"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "sea salt"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp",
+      "notes": "pure"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the blueberries, honey, lime juice, cinnamon, and salt.",
+    "Arrange the tortillas on a baking sheet and warm them in the oven for 5 minutes.",
+    "In a small bowl, mix together the melted coconut oil and vanilla extract.",
+    "Brush the coconut oil mixture onto the warmed tortillas.",
+    "Spoon the blueberry mixture onto the center of each tortilla.",
+    "Sprinkle the chopped roasted pecans over the blueberry mixture.",
+    "Fold the tortillas in half to enclose the filling.",
+    "Serve the tacos warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-desserts",
+    "gluten-free",
+    "mexican-inspired",
+    "summer-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "slug": "xtra-juicy-mexican-blueberry-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-mexican-blueberry-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:00:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "roast",
+    "primaryIngredient": "blueberries",
+    "diet": "ayurvedic-tamasic",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "blueberries",
+    "descriptor": "Xtra Juicy",
+    "dishForm": "Tacos"
+  }
+}

@@ -4821,6 +4821,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-juicy-mexican-blueberry-tacos",
+    "title": "Xtra Juicy Mexican Blueberry Tacos",
+    "tags": [
+      "easy-desserts",
+      "gluten-free",
+      "mexican-inspired",
+      "summer-recipes",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-juicy-middle-eastern-cabbage-harees",
     "title": "Xtra Juicy Middle Eastern Cabbage Harees",
     "tags": [
