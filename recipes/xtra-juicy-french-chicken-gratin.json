@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Juicy French Chicken Gratin",
+  "description": "A nutty and juicy French dish featuring pecorino and score-fat, perfect for a sick day, and paleo-friendly. This recipe is a twist on traditional French cuisine with a focus on healthy ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Season the chicken thighs with salt and pepper.",
+    "In a large skillet, heat the score-fat over medium heat and sear the chicken thighs until browned.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "In a large baking dish, arrange the cooked onion and mushroom mixture in the bottom of the dish.",
+    "Place the browned chicken thighs on top of the onion and mushroom mixture.",
+    "Sprinkle the shaved pecorino cheese over the top of the chicken.",
+    "Pour the chicken broth over the top of the cheese and sprinkle with thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-juicy-french-chicken-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-french-chicken-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:10:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "score-fat",
+    "primaryIngredient": "pecorino",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra juicy",
+    "dishForm": "Gratin"
+  }
+}

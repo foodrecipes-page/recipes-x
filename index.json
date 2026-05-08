@@ -5209,6 +5209,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-juicy-french-chicken-gratin",
+    "title": "Xtra Juicy French Chicken Gratin",
+    "tags": [
+      "french-cuisine",
+      "high-protein",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-juicy-indian-cherry-tomatoes-curry",
     "title": "Xtra Juicy Indian Cherry Tomatoes Curry",
     "tags": [
