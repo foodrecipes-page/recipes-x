@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Crispy Peruvian Rice Tacu Tacu",
+  "description": "A sweet and aerated Peruvian dish featuring palm sugar and crispy rice, perfect for a weeknight dinner. This recipe is FODMAP friendly and made with easily accessible ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup",
+      "notes": "also known as nam tan pip"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the soy sauce, salt, and pepper, and cook for about 5 minutes, until the rice is crispy and golden brown.",
+    "Stir in the chopped scallions and cook for an additional minute.",
+    "Add the palm sugar to the skillet and stir to combine, cooking for about 2 minutes, until the sugar is caramelized and the rice is crispy.",
+    "Remove the skillet from the heat and let it cool for a few minutes.",
+    "Serve the Xtra Crispy Peruvian Rice Tacu Tacu hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-rice",
+    "gluten-free",
+    "one-pan",
+    "peruvian-cuisine",
+    "vegetarian",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-crispy-peruvian-rice-tacu-tacu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-peruvian-rice-tacu-tacu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:28:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rice",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Tacu Tacu"
+  }
+}

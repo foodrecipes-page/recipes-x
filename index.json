@@ -2376,6 +2376,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-peruvian-rice-tacu-tacu",
+    "title": "Xtra Crispy Peruvian Rice Tacu Tacu",
+    "tags": [
+      "crispy-rice",
+      "gluten-free",
+      "one-pan",
+      "peruvian-cuisine",
+      "vegetarian",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-portuguese-vegetable-skewers",
     "title": "Xtra Crispy Portuguese Vegetable Skewers",
     "tags": [
