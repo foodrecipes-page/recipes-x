@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Spicy Syrian Beef Bowl",
+  "description": "A spicy and energizing Syrian dish featuring feather blade beef in a mother sauce base, served in a lacquerware bowl, ovo-vegetarian friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feather blade beef",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef strips and cook until they are browned.",
+    "Add the tomato paste, paprika, cumin, and cayenne pepper, and stir to combine.",
+    "Reduce the heat to low and simmer the mixture for 10 minutes.",
+    "Fry the eggs in a separate skillet and set them aside.",
+    "Season the beef mixture with salt and black pepper.",
+    "To assemble the bowls, place a portion of the beef mixture in the bottom of a lacquerware bowl, followed by a fried egg.",
+    "Serve the Xtra Spicy Syrian Beef Bowl immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "beef-bowl",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "xtra-spicy-syrian-beef-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-syrian-beef-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:06:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "feather blade beef",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "feather blade beef",
+    "descriptor": "Xtra spicy juicy",
+    "dishForm": "Bowl"
+  }
+}

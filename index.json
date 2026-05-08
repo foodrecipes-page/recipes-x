@@ -1480,6 +1480,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-springy-turkish-lamb-stew",
+    "title": "Xenial Springy Turkish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "lamb-based",
+      "mediterranean-inspired",
+      "one-pot",
+      "spring-recipes"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 140,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-springy-ukrainian-vegetable-pilaf",
     "title": "Xenial Springy Ukrainian Vegetable Pilaf",
     "tags": [
@@ -6496,6 +6510,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-syrian-beef-bowl",
+    "title": "Xtra Spicy Syrian Beef Bowl",
+    "tags": [
+      "beef-bowl",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
