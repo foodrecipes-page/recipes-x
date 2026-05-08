@@ -222,6 +222,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-fruity-ukrainian-blackberries-pancakes",
+    "title": "x-tra fruity ukrainian blackberries pancakes",
+    "tags": [
+      "blackberry",
+      "breakfast",
+      "brunch",
+      "pancakes",
+      "ukrainian",
+      "weekend"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-gooey-japanese-couscous-tonkotsu-ramen",
     "title": "X-tra Gooey Japanese Couscous Tonkotsu Ramen",
     "tags": [
