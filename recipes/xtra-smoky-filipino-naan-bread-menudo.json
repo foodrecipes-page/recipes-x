@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Smoky Filipino Naan Bread Menudo",
+  "description": "A fresh and crumbly vegan Filipino dish featuring naan bread and a smoky menudo, perfect for a romantic evening",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "naan bread",
+      "amount": "4 pieces",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetarian menudo mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the naan bread into small pieces and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the canned tomatoes and vegetarian menudo mix, and stir to combine.",
+    "Bring the mixture to a simmer and let cook for 10 minutes.",
+    "Add the sliced naan bread to the skillet and stir to combine with the menudo mixture.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "naan-bread",
+    "one-pot",
+    "romantic",
+    "smoky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-smoky-filipino-naan-bread-menudo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-filipino-naan-bread-menudo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:00:07Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "smoke-hot",
+    "primaryIngredient": "naan bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "naan bread",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Menudo"
+  }
+}
