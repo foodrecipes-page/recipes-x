@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Roasted Uruguayan Meat Empanadas",
+  "description": "A roasted and indulgent Uruguayan dish featuring five spice powder, enclosed in a flaky crust, with Mediterranean-friendly flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "five spice powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the five spice powder, salt, and black pepper, and cook for 1 minute.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Spoon the beef mixture onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Brush the edges with the beaten eggs and fold the other half of the dough over the filling.",
+    "Press the edges to seal and use a fork to crimp.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with the remaining egg.",
+    "Roast the empanadas in the preheated oven for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "latin-american",
+    "meat-lovers",
+    "roasted",
+    "savory-pastry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-roasted-uruguayan-meat-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-uruguayan-meat-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:10:41Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "en-croute",
+    "primaryIngredient": "five spice powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "meat",
+    "descriptor": "Xtra Roasted",
+    "dishForm": "Empanadas"
+  }
+}
