@@ -1,0 +1,109 @@
+{
+  "title": "Xtra Cheesy Ukrainian Haricot Bean Casserole",
+  "description": "A funky, cheese-pull, brunch-mood Ukrainian dish featuring haricot beans, braise, and kosher-friendly ingredients, served in a bento-box vessel. This recipe is perfect for a unique breakfast or brunch experience.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "kosher"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "kosher"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onion and minced garlic over medium heat until softened.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Stir in the haricot beans, salt, black pepper, and paprika, and cook for 2 minutes.",
+    "In a large bowl, combine the cooked bean mixture, shredded cheddar cheese, and beaten eggs.",
+    "Stir in the kosher sour cream until well combined.",
+    "Spoon the mixture into a bento-box vessel or a 9x13 inch baking dish.",
+    "Bake the casserole in the preheated oven for 35 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "brunch",
+    "cheesy",
+    "high-protein",
+    "kosher-friendly",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-cheesy-ukrainian-haricot-bean-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-cheesy-ukrainian-haricot-bean-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:59:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "braise",
+    "primaryIngredient": "haricot beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "haricot beans",
+    "descriptor": "Xtra cheesy",
+    "dishForm": "Casserole"
+  }
+}
