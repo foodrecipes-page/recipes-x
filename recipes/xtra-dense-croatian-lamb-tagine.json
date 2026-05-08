@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Dense Croatian Lamb Tagine",
+  "description": "A dense and bitter one-pot Croatian dish featuring chimichurri sauce and tagine-cooked lamb, suitable for a satvik diet. This recipe combines the flavors of Croatia with the cooking technique of a tagine.",
+  "cuisine": "Croatian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder on all sides, then set it aside.",
+    "Add the chopped onion to the pot and cook until it is softened and lightly browned.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the chopped carrots and potatoes to the pot, cooking for 5 minutes, until they begin to soften.",
+    "Add the browned lamb shoulder, chimichurri sauce, and prunes to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Season the tagine with salt and pepper to taste, then serve hot.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve the tagine over couscous or with crusty bread, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "lamb",
+    "one-pot",
+    "satvik",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "xtra-dense-croatian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-croatian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:37:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "tagine-cook",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Tagine"
+  }
+}

@@ -3616,6 +3616,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-dense-croatian-lamb-tagine",
+    "title": "Xtra Dense Croatian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "croatian",
+      "lamb",
+      "one-pot",
+      "satvik",
+      "tagine"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-dense-irish-potato-boxty",
     "title": "Xtra Dense Irish Potato Boxty",
     "tags": [
