@@ -1,0 +1,95 @@
+{
+  "title": "Xenial Briny Norwegian Lamb Kebabs",
+  "description": "A traditional Norwegian dish featuring ground lamb, cardamom, and a briny cheese pull, perfect for a comforting meal on a sick day. This recipe is low in sodium and can be cooked on a yakimono grill for a smoky flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, ground cardamom, salt-free seasoning blend, and black pepper, mixing well with your hands until just combined.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Brush the lamb kebabs with olive oil and grill for 10-12 minutes, turning occasionally, until cooked through to an internal temperature of 160 degrees Fahrenheit.",
+    "While the lamb is cooking, grill the chopped onion and bell pepper for 5-7 minutes, turning occasionally, until tender and lightly charred.",
+    "Once the lamb is cooked, remove from the grill and top each kebab with crumbled feta cheese.",
+    "Return the kebabs to the grill and cook for an additional 1-2 minutes, until the cheese is melted and slightly browned.",
+    "Serve the lamb kebabs hot, topped with grilled onion and bell pepper, and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "grilled-meat",
+    "low-sodium",
+    "norwegian-cuisine",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "xenial-briny-norwegian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-briny-norwegian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:04:05Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ground cardomom",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Briny",
+    "dishForm": "Kebabs"
+  }
+}

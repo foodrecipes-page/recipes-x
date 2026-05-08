@@ -710,6 +710,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-briny-norwegian-lamb-kebabs",
+    "title": "Xenial Briny Norwegian Lamb Kebabs",
+    "tags": [
+      "comfort-food",
+      "easy-dinner",
+      "grilled-meat",
+      "low-sodium",
+      "norwegian-cuisine",
+      "one-pan"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-buttery-middle-eastern-scamorza-flatbread",
     "title": "Xenial Buttery Middle Eastern Scamorza Flatbread",
     "tags": [
@@ -4901,6 +4916,21 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-pungent-syrian-lamb-kebabs",
+    "title": "Xtra Pungent Syrian Lamb Kebabs",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "lamb-recipes",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
