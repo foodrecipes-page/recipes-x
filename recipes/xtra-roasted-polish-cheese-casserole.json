@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Roasted Polish Cheese Casserole",
+  "description": "A quick-fix Polish dish featuring roasted cheese and scotch bonnet peppers, perfect for a low-carb dinner option.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "polish cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the cauliflower florets with melted butter, garlic powder, paprika, salt, and black pepper until they are evenly coated.",
+    "Spread the cauliflower mixture in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the cauliflower is roasting, deglaze a large skillet with chicken broth over medium heat, scraping up any browned bits from the bottom of the pan.",
+    "Add the diced scotch bonnet peppers to the skillet and cook for 5 minutes, stirring occasionally.",
+    "In a large casserole dish, combine the roasted cauliflower, cooked scotch bonnet peppers, and shredded polish cheese.",
+    "Return the casserole dish to the oven and bake for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "low-carb",
+    "one-pan",
+    "polish-cuisine",
+    "quick-fix",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-roasted-polish-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-polish-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:59:12Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra Roasted",
+    "dishForm": "Casserole"
+  }
+}
