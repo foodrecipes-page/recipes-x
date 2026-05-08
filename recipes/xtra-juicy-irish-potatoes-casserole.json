@@ -1,0 +1,106 @@
+{
+  "title": "xtra Juicy IRISH Potatoes Casserole",
+  "description": "A hearty, comforting casserole featuring tender potatoes, rich truffle oil, and a hint of Irish flair. Perfect for post-workout fuel or a cozy evening meal.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "3 large",
+      "notes": "about 2 pounds"
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "2 tbsp",
+      "notes": "high-quality, extra virgin"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "salted, for flavor"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole milk, for creaminess"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded, for flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees F (190 degrees C).",
+    "Pierce the potatoes with a fork to prevent bursting.",
+    "Bake the potatoes in a bain-marie for 45 minutes, or until tender.",
+    "In a saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Whisk in the flour to make a roux, cooking for 1-2 minutes.",
+    "Slowly pour in the milk, whisking constantly to prevent lumps.",
+    "Bring the mixture to a simmer and cook until thickened, about 5 minutes.",
+    "Stir in the truffle oil, cheddar cheese, salt, and black pepper.",
+    "Remove the potatoes from the oven and slice in half lengthwise.",
+    "Spoon the cheese sauce over the potatoes and top with additional shredded cheese.",
+    "Bake in the preheated oven for an additional 10-15 minutes, or until golden brown.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "high-carb",
+    "irish-cuisine",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-juicy-irish-potatoes-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-irish-potatoes-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:45:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "bain-marie",
+    "primaryIngredient": "truffle oil",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "IRISH",
+    "mainIngredient": "potatoes",
+    "descriptor": "xtra Juicy",
+    "dishForm": "Casserole"
+  }
+}

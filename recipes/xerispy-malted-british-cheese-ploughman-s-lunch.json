@@ -1,0 +1,98 @@
+{
+  "title": "Xerispy Malted British Cheese Ploughman's Lunch",
+  "description": "A comforting British ploughman's lunch featuring malty flavours, crumbly cheese, and the crunch of spring onions.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Malted British Cheese",
+      "amount": "220g",
+      "notes": ""
+    },
+    {
+      "name": "Spring Onions",
+      "amount": "4 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Malted Bread",
+      "amount": "1 large round",
+      "notes": "cut into quarters"
+    },
+    {
+      "name": "Apple",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "120g",
+      "notes": "crumbly, sliced"
+    },
+    {
+      "name": "Pears",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": "softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Slice the malted bread into quarters and place on a baking sheet.",
+    "Top each bread quarter with a slice of cheddar cheese and a sprinkle of malted British cheese.",
+    "Bake in the oven for 5 minutes, or until the cheese is melted and bubbly.",
+    "Meanwhile, slice the spring onions and apple.",
+    "Arrange the sliced pears on a serving platter.",
+    "Top the pears with the baked bread quarters and sprinkle with sliced spring onions.",
+    "Drizzle with softened butter and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "easy-to-make",
+    "family-friendly",
+    "lunch",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xerispy-malted-british-cheese-ploughman-s-lunch",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xerispy-malted-british-cheese-ploughman-s-lunch",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:45:29Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "steam",
+    "primaryIngredient": "spring onions",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Cheese",
+    "descriptor": "Xerispy Malted",
+    "dishForm": "Ploughman's Lunch"
+  }
+}
