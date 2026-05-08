@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Crunchy Dutch Vegetable Skewers",
+  "description": "A flexitarian-friendly dish featuring fresh vegetables, red curry paste, and a crunchy texture, served on a wooden board.",
+  "cuisine": "Dutch",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Thread the zucchini, bell peppers, onions, and mushrooms onto skewers.",
+    "In a small bowl, mix together the red curry paste, olive oil, salt, and pepper.",
+    "Brush the curry paste mixture onto the vegetables.",
+    "Roll the skewers in breadcrumbs to coat.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve the skewers on a wooden board.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snacks",
+    "dutch-cuisine",
+    "flexitarian",
+    "grilled-vegetables",
+    "vegetarian",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-crunchy-dutch-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-dutch-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:08:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "robata-grill",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xtra crunchy",
+    "dishForm": "Skewers"
+  }
+}
