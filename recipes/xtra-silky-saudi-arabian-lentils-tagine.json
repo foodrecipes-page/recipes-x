@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Silky Saudi Arabian Lentils Tagine",
+  "description": "A salty, silky one-pot Saudi Arabian dish made with lentils and vegan white wine vinegar, this tagine is a unique and flavorful meal option. It features spherified ingredients and is paleo-friendly.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "paleo",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegan white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and drain well.",
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lentils, salt, black pepper, and water to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the vegan white wine vinegar.",
+    "Mix the sodium alginate with a small amount of water to create a spherification bath.",
+    "Drop small amounts of the lentil mixture into the spherification bath to create spherified lentils.",
+    "Serve the tagine hot, garnished with the spherified lentils."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-based",
+    "one-pot",
+    "paleo-friendly",
+    "saudi-arabian",
+    "unique-ingredients",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-silky-saudi-arabian-lentils-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-saudi-arabian-lentils-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:22:27Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "spherify",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lentils",
+    "descriptor": "Xtra Silky",
+    "dishForm": "Tagine"
+  }
+}
