@@ -59,7 +59,8 @@
     "Slice the baguette into 4 inch pieces and toast until crispy.",
     "Assemble the sandwich by spreading a layer of feta cheese on the toasted baguette, then adding a piece of fried chicken, a slice of tomato, and a sprinkle of chopped lettuce.",
     "Serve immediately and enjoy.",
-    "Garnish with additional garlic and lemon juice if desired."
+    "Garnish with additional garlic and lemon juice if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra garlicky",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

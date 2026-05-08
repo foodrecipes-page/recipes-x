@@ -3,8 +3,7 @@
   "description": "A yeasty, dense, and romantic Thai dish featuring almond butter, this nam prik is a unique and delicious twist on traditional Thai cuisine. It is simmered to perfection and is FODMAP-friendly.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
     "fodmap-friendly",
     "nam-prik",
     "thai-cuisine",
-    "vegetarian",
     "yeasty"
   ],
   "nutrition": {
@@ -93,5 +91,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Xenial Dense",
     "dishForm": "Nam Prik"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

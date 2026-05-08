@@ -60,7 +60,8 @@
     "Roast the skewers in the preheated oven for 25 minutes.",
     "After 25 minutes, brush the skewers with the pan juices and continue to roast for an additional 10 minutes.",
     "Remove the skewers from the oven and sprinkle with minced garlic.",
-    "Serve the kebabs hot, garnished with fresh parsley if desired."
+    "Serve the kebabs hot, garnished with fresh parsley if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -98,5 +99,9 @@
     "mainIngredient": "pork",
     "descriptor": "Xenial Roasted",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

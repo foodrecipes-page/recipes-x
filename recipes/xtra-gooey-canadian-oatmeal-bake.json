@@ -83,11 +83,15 @@
     "mood": "crowd-pleaser",
     "technique": "mantecare-emulsify",
     "primaryIngredient": "oatmeal",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "oatmeal",
     "descriptor": "Xtra Gooey",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

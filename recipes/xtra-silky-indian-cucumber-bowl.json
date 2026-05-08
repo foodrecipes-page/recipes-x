@@ -65,7 +65,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 40,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -99,5 +99,9 @@
     "mainIngredient": "cucumber",
     "descriptor": "Xtra silky",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

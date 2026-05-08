@@ -55,7 +55,8 @@
     "Cover the cazuela with aluminum foil and bake for 25 minutes.",
     "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
     "Remove the cazuela from the oven and let it cool for a few minutes before serving.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -93,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra creamy",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

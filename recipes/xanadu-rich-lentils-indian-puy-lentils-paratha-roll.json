@@ -100,11 +100,15 @@
     "mood": "nostalgic",
     "technique": "nigiri-shaping",
     "primaryIngredient": "puy-lentils",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Indian",
     "mainIngredient": "puy-lentils",
     "descriptor": "Xanadu rich lentils",
     "dishForm": "Paratha Roll"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

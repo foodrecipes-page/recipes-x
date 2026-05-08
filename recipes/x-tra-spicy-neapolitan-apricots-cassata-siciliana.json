@@ -2,10 +2,7 @@
   "title": "x-tra Spicy Neapolitan Apricots Cassata Siciliana",
   "description": "A unique Neapolitan dessert featuring dried apricots, spicy kick, and traditional Sicilian cassata form.",
   "cuisine": "italian",
-  "diet": [
-    "halal",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -112,5 +109,10 @@
     "mainIngredient": "apricots",
     "descriptor": "X-tra Spicy",
     "dishForm": "Cassata Siciliana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-halal"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A floral and creamy Venezuelan dish perfect for a date night, featuring egg wash and dashi extract, and friendly to dairy free diets.",
   "cuisine": "Venezuelan",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -73,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "date-night",
     "gluten-free",
     "homemade",
@@ -102,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra creamy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

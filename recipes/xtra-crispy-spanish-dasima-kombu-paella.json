@@ -62,7 +62,8 @@
     "Add the dasima, kombu, and scalloped potatoes to the skillet and cook until the potatoes are tender.",
     "Transfer the mixture to a scallop shell vessel and bake in the preheated oven for 20 minutes.",
     "Remove the dish from the oven and top with chopped scallions.",
-    "Return the dish to the oven and bake for an additional 5 minutes, or until the top is crispy and golden brown."
+    "Return the dish to the oven and bake for an additional 5 minutes, or until the top is crispy and golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -100,5 +101,9 @@
     "mainIngredient": "dasima kombu",
     "descriptor": "Xtra Crispy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

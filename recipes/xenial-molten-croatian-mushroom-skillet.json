@@ -2,9 +2,7 @@
   "title": "Xenial Molten Croatian Mushroom Skillet",
   "description": "A rich and savory Croatian dish featuring molten mushrooms and a hint of umami, perfect for a date night, this recipe is also Buddhist-temple-friendly as it does not contain any animal by-products or alcohol, and it utilizes unflavored gelatin.",
   "cuisine": "Croatian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,8 +66,7 @@
     "date-night",
     "mushroom",
     "one-pan",
-    "umami",
-    "vegetarian"
+    "umami"
   ],
   "nutrition": {
     "calories": 420,
@@ -94,5 +91,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Xenial Molten",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

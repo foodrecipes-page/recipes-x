@@ -2,9 +2,7 @@
   "title": "Xenial Creamy German Pecan Roast",
   "description": "A hearty and comforting German dish featuring roasted vegetables and pecans in a creamy sauce, perfect for a sick day. This vegan-friendly recipe is made with a yeasty bread base.",
   "cuisine": "German",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "pecan nuts",
     "descriptor": "Xenial Creamy",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

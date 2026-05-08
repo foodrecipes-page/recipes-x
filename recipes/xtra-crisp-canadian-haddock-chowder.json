@@ -2,10 +2,7 @@
   "title": "Xtra Crisp Canadian Haddock Chowder",
   "description": "A crispy and comforting Canadian dish featuring fermented haddock, perfect for a sick day, and kosher-friendly. This recipe combines caramelized flavors with a crunchy texture.",
   "cuisine": "Canadian",
-  "diet": [
-    "kosher",
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,7 +65,8 @@
     "Add the fermented haddock fillets to the pot and cook for an additional 5 minutes.",
     "Season with salt and black pepper to taste.",
     "Transfer the mixture to a baking dish and top with crispy breadcrumbs.",
-    "Bake in the preheated oven for 10 minutes or until the top is golden brown."
+    "Bake in the preheated oven for 10 minutes or until the top is golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -105,5 +103,11 @@
     "mainIngredient": "haddock",
     "descriptor": "Xtra Crisp",
     "dishForm": "Chowder"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

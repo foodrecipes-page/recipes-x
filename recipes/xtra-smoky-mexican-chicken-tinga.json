@@ -3,8 +3,7 @@
   "description": "A high-protein Mexican dish featuring smoky chicken, couscous, and spices, all wrapped in a pandan leaf, inspired by the flavors of Jalisco, with a Yakimono grill twist.",
   "cuisine": "Mexican",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra Smoky",
     "dishForm": "Tinga"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "Kid-friendly Argentinian dish featuring plum jam, with a winey and creamy twist.",
   "cuisine": "Argentinian",
   "diet": [
-    "gluten-free",
     null
   ],
   "meal": "lunch",
@@ -111,5 +110,9 @@
     "mainIngredient": "chicken",
     "descriptor": "X-tra Creamy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

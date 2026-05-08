@@ -51,7 +51,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
-  "totalTimeMin": 75,
+  "totalTimeMin": 45,
   "servings": 2,
   "difficulty": "medium",
   "tags": [
@@ -83,5 +83,9 @@
     "mainIngredient": "Lamb Mince",
     "descriptor": "Crispy",
     "dishForm": "Bite-sized Spherified Patties"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -63,7 +63,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 80,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -97,5 +97,9 @@
     "mainIngredient": "yogurt",
     "descriptor": "Xtra Rich",
     "dishForm": "Tzatziki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -51,7 +51,8 @@
     "Add the chicken broth, one cup at a time, stirring constantly and allowing each cup to be absorbed before adding the next",
     "After 20 minutes of cooking the rice, add the sweetcorn kernels and cook for an additional 5 minutes",
     "Remove the skillet from the heat and let it rest, covered, for 5 minutes",
-    "Serve the paella hot, garnished with lemon wedges if desired"
+    "Serve the paella hot, garnished with lemon wedges if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -89,5 +90,9 @@
     "mainIngredient": "sweetcorn",
     "descriptor": "Xtra Tender",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

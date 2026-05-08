@@ -61,7 +61,8 @@
     "Pour in the coconut milk and bring the mixture to a simmer.",
     "Reduce the heat to low and let the sauce simmer for 5 minutes, stirring occasionally.",
     "Add the cooked noodles to the skillet and toss to coat with the sauce.",
-    "Serve the noodles hot, garnished with chopped green onions and a sprinkle of toasted sesame seeds if desired."
+    "Serve the noodles hot, garnished with chopped green onions and a sprinkle of toasted sesame seeds if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "Xtra creamy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

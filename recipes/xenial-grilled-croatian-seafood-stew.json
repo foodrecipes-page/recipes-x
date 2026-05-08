@@ -2,9 +2,7 @@
   "title": "Xenial Grilled Croatian Seafood Stew",
   "description": "A fresh and pillowy Croatian dish featuring lamb stock and char-grilled seafood, perfect for a brunch mood. This pescatarian-friendly stew is cooked in a cataplana vessel.",
   "cuisine": "Croatian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
     "croatian",
     "grilled",
     "one-pan",
-    "pescatarian",
     "seafood",
     "stew"
   ],
@@ -96,5 +93,9 @@
     "mainIngredient": "seafood",
     "descriptor": "Xenial Grilled",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

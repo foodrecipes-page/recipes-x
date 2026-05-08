@@ -3,7 +3,6 @@
   "description": "A roasted, cheese-pull Moroccan dish featuring zucchini, tandoor, and seffa form, perfect for adventurous foodies. This vegan-friendly recipe is sure to impress with its rich flavors and textures.",
   "cuisine": "moroccan",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -74,8 +73,7 @@
     "high-protein",
     "moroccan",
     "one-pan",
-    "seffa",
-    "vegan"
+    "seffa"
   ],
   "nutrition": {
     "calories": 800,
@@ -100,5 +98,9 @@
     "mainIngredient": "Zucchini",
     "descriptor": "Roasted Adventurous",
     "dishForm": "Seffa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

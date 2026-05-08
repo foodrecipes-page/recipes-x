@@ -42,7 +42,8 @@
     "Garnish with sliced red onions and fresh parsley leaves.",
     "Top with arugula leaves and grated Gouda cheese.",
     "Bake for 10 minutes or until the top is golden brown.",
-    "Let cool slightly before serving."
+    "Let cool slightly before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 10,
@@ -77,5 +78,9 @@
     "mainIngredient": "Baguette",
     "descriptor": "Pillowsoft",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

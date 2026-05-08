@@ -25,7 +25,8 @@
     "Preheat your oven to 180°C for 5 minutes before baking.",
     "Place the lotus-leaf wraps on a baking sheet lined with parchment paper and bake for 5 minutes, or until lightly browned and pliable.",
     "In a large bowl, combine the chilli powder, smoked paprika, salt, and black pepper.",
-    "Add the diced chicken and mix well to coat with the spice blend."
+    "Add the diced chicken and mix well to coat with the spice blend.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -63,5 +64,9 @@
     "mainIngredient": "chilli",
     "descriptor": "Xeriscape Aerated",
     "dishForm": "wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

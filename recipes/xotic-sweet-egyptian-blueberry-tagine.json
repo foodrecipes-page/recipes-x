@@ -2,9 +2,7 @@
   "title": "Xotic Sweet Egyptian Blueberry Tagine",
   "description": "A funky and light Egyptian dish featuring blueberries and lardons-render, perfect for a midnight craving, this vegetarian-friendly recipe is cooked in a banana leaf vessel.",
   "cuisine": "Egyptian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -67,8 +65,7 @@
     "egyptian-cuisine",
     "fruit-based",
     "midnight-craving",
-    "one-pan",
-    "vegetarian"
+    "one-pan"
   ],
   "nutrition": {
     "calories": 250,
@@ -93,5 +90,9 @@
     "mainIngredient": "blueberries",
     "descriptor": "Xotic Sweet",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

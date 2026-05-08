@@ -53,7 +53,8 @@
     "Spread half of the ground beef mixture over the eggplant layer.",
     "Sprinkle half of the oat mixture over the ground beef layer.",
     "Repeat the layers, starting with the eggplant, then the ground beef mixture, and finally the oat mixture.",
-    "Bake the casserole in the preheated oven for 45 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+    "Bake the casserole in the preheated oven for 45 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -90,5 +91,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Xtra Sweet",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

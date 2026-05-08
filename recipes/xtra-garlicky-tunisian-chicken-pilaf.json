@@ -55,7 +55,8 @@
     "Add the uncooked white rice to the saucepan and stir to combine with the chicken and garlic mixture.",
     "Add the chicken broth, salt, black pepper, and dried thyme to the saucepan and bring to a boil.",
     "Reduce the heat to low, cover the saucepan, and simmer for 20 minutes, until the rice is tender and the liquid is absorbed.",
-    "Fluff the pilaf with a fork and serve hot."
+    "Fluff the pilaf with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -92,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra garlicky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

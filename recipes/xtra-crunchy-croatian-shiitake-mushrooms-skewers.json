@@ -64,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "croatian-cuisine",
-    "gluten-free",
     "grilled-vegetables",
     "mushroom-lovers",
     "vegan",
@@ -93,5 +92,9 @@
     "mainIngredient": "shiitake mushrooms",
     "descriptor": "Xtra Crunchy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

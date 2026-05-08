@@ -2,11 +2,7 @@
   "title": "x-tra crispy shrimp indian crustaceans goan-style shrimp samosas",
   "description": "delight in the flavors of goa with these x-tra crispy samosas filled with succulent shrimp, perfect for a light and energizing meal.",
   "cuisine": "goan",
-  "diet": [
-    "vegetarian",
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -110,5 +106,11 @@
     "mainIngredient": "crustaceans",
     "descriptor": "X-tra Crispy Shrimp",
     "dishForm": "Goan-Style Shrimp Samosas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

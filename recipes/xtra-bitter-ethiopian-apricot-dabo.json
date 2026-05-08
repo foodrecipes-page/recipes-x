@@ -3,7 +3,6 @@
   "description": "A traditional Ethiopian dish with a twist, featuring bitter notes and fluffy texture, perfect for a solo dinner, this dabo incorporates apricot and rest-meat for a unique flavor profile, and is suitable for those who prefer raw-friendly ingredients.",
   "cuisine": "Ethiopian",
   "diet": [
-    "gluten-free",
     "raw-friendly"
   ],
   "meal": "dinner",
@@ -62,7 +61,6 @@
   "difficulty": "medium",
   "tags": [
     "bitter-flavors",
-    "gluten-free",
     "high-fiber",
     "one-pan",
     "raw-friendly",
@@ -91,5 +89,9 @@
     "mainIngredient": "apricot",
     "descriptor": "Xtra Bitter",
     "dishForm": "Dabo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -88,11 +88,15 @@
     "mood": "energizing",
     "technique": "mantecare-emulsify",
     "primaryIngredient": "dulce de leche",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "American",
     "mainIngredient": "Pecan",
     "descriptor": "Xtra",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -51,7 +51,8 @@
     "Pour in the lemon juice and chicken broth, making sure the chicken is mostly submerged.",
     "Cover the pot with a lid and transfer it to the preheated oven.",
     "Roast the chicken for 30 minutes, then remove the lid and continue roasting for an additional 20 minutes.",
-    "Remove the pot from the oven and let the chicken rest for 10 minutes before serving."
+    "Remove the pot from the oven and let the chicken rest for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra tender",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

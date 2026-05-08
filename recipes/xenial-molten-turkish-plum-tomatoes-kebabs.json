@@ -3,7 +3,6 @@
   "description": "A kid-friendly Turkish dish featuring plum tomatoes and bonito flakes, this recipe is herbal and molten, perfect for a family dinner. It is also shojin-friendly, making it suitable for vegetarians and vegans who consume fish.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -66,8 +65,7 @@
     "herbal",
     "molten",
     "one-pan",
-    "pescatarian",
-    "vegetarian"
+    "pescatarian"
   ],
   "nutrition": {
     "calories": 120,
@@ -92,5 +90,9 @@
     "mainIngredient": "plum tomatoes",
     "descriptor": "Xenial molten",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

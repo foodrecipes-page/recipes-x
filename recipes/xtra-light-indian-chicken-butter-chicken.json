@@ -63,7 +63,8 @@
     "Add the chicken to the skillet and cook until browned on all sides, about 6-8 minutes.",
     "Add the tomato puree, dasima-kombu, and black pepper to the skillet, then stir well to combine.",
     "Reduce heat to low and simmer the mixture for 10-15 minutes, stirring occasionally.",
-    "Season the mixture with salt to taste, then serve hot over rice or with naan bread."
+    "Season the mixture with salt to taste, then serve hot over rice or with naan bread.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra Light",
     "dishForm": "Butter Chicken"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

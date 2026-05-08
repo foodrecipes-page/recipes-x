@@ -65,7 +65,8 @@
     "Assemble the pho by layering noodles, beef, and leeks in a bowl.",
     "Pour the hot broth over the ingredients to create a steaming pot of pho.",
     "Garnish with cilantro, mint, basil, lime wedges, and optional jalapeño slices.",
-    "Serve immediately, letting diners squeeze fresh lime juice and add more herbs as desired."
+    "Serve immediately, letting diners squeeze fresh lime juice and add more herbs as desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -104,5 +105,9 @@
     "mainIngredient": "Leek",
     "descriptor": "Xtra Charred",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

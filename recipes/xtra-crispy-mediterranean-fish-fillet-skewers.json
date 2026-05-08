@@ -3,7 +3,6 @@
   "description": "A delicious and easy to make Mediterranean dish featuring fish fillet, perfect for a lazy day, this dish is ayurvedic tamasic friendly and features a mix of fresh and crispy elements.",
   "cuisine": "Mediterranean",
   "diet": [
-    "gluten-free",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -70,7 +69,6 @@
   "tags": [
     "deep-fried",
     "fish-recipes",
-    "gluten-free",
     "lazy-day",
     "mediterranean",
     "pescatarian"
@@ -98,5 +96,9 @@
     "mainIngredient": "fish fillet",
     "descriptor": "Xtra Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

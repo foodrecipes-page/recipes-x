@@ -73,7 +73,6 @@
   "tags": [
     "clay-pot-cooking",
     "crispy-top",
-    "gluten-free",
     "mediterranean-diet",
     "vegetarian-friendly"
   ],
@@ -100,5 +99,9 @@
     "mainIngredient": "fromage-blanc",
     "descriptor": "Xtra Crispy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

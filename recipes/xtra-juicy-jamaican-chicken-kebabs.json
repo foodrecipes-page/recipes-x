@@ -3,7 +3,6 @@
   "description": "A yeasty and juicy Jamaican dish featuring lemongrass, perfect for a brunch mood, made in a tandoor and nut-free-friendly.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "lunch",
@@ -65,7 +64,8 @@
     "Place the skewers in the tandoor and cook for 15-20 minutes, turning occasionally.",
     "Brush the chicken with additional olive oil if needed during cooking.",
     "Remove the skewers from the tandoor and let rest for 5 minutes before serving.",
-    "Serve the kebabs hot, garnished with additional thyme if desired."
+    "Serve the kebabs hot, garnished with additional thyme if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -102,5 +102,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra juicy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

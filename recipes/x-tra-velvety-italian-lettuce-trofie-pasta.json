@@ -2,9 +2,7 @@
   "title": "X-tra Velvety Italian Lettuce Trofie Pasta",
   "description": "A festive Italian dish featuring trofie pasta cut into katsuramuki, served with a grassy, velvety sauce and topped with crispy lettuce curls.",
   "cuisine": "Italian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -58,7 +56,8 @@
     "Top the pasta with crispy lettuce curls and serve immediately.",
     "To make crispy lettuce curls, slice a large head of lettuce into thin strips and separate the leaves.",
     "Heat a small amount of olive oil in a skillet over medium heat and sauté the lettuce strips until crispy and golden brown.",
-    "Drain the lettuce curls on paper towels and season with salt to taste."
+    "Drain the lettuce curls on paper towels and season with salt to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -69,7 +68,6 @@
     "italian",
     "one-pan",
     "pasta",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -95,5 +93,10 @@
     "mainIngredient": "Lettuce",
     "descriptor": "X-tra Velvety",
     "dishForm": "Trofie Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "X-tra Aerated Vietnamese Chicken Pho",
   "description": "A winey, aerated take on traditional Vietnamese Chicken Pho featuring Grana Padano and a dash of nostalgia.",
   "cuisine": "vietnamese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -73,7 +71,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "halal",
     "high-protein",
     "one-pan",
     "vietnamese",
@@ -102,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "X-tra aerated",
     "dishForm": "Vietnamese Chicken Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

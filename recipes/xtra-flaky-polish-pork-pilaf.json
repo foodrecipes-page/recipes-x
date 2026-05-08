@@ -51,7 +51,9 @@
     "Drizzle the agave nectar over the pork and pour in the chicken broth.",
     "Fold the agave leaf over the pork to create a papillote, and secure with kitchen twine.",
     "Bake for 25 minutes, then reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 10 minutes.",
-    "Remove the pilaf from the oven and let it rest for 5 minutes before serving."
+    "Remove the pilaf from the oven and let it rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -89,5 +91,10 @@
     "mainIngredient": "pork",
     "descriptor": "Xtra Flaky",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

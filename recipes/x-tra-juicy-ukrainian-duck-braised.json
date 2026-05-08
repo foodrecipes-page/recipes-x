@@ -92,7 +92,8 @@
     "Skim off any excess fat from the surface of the sauce.",
     "Serve the duck legs with the braising sauce spooned over the top.",
     "Garnish with fresh parsley or thyme, if desired.",
-    "Serve warm and enjoy!"
+    "Serve warm and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -130,5 +131,9 @@
     "mainIngredient": "Duck",
     "descriptor": "X-tra juicy",
     "dishForm": "Braised"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

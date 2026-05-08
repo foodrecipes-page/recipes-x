@@ -3,8 +3,7 @@
   "description": "Resinous, crisp, solo-dinner Vietnamese crepes featuring uni, brine-wet, low-fat-friendly. Perfect for a weeknight dinner.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -145,7 +144,6 @@
   "servings": 4,
   "difficulty": "hard",
   "tags": [
-    "gluten-free",
     "high-protein",
     "low-fat-friendly",
     "one-pan",
@@ -176,5 +174,10 @@
     "mainIngredient": "uni",
     "descriptor": "xerid uni",
     "dishForm": "Vietnamese Crepes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

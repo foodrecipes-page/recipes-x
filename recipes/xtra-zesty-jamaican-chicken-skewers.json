@@ -65,7 +65,8 @@
     "Close the lid and cook for 10 minutes.",
     "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
     "Thread the cooked chicken onto the wooden skewers.",
-    "Serve the skewers hot, garnished with additional thyme and lemon wedges if desired."
+    "Serve the skewers hot, garnished with additional thyme and lemon wedges if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -102,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra Zesty",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Xtra Creamy Slovakian Pinto Bean Casserole",
   "description": "A buttery and creamy Slovakian dish featuring pinto beans, perfect for a crowd, with a smoky flavor from the addition of smoked paprika.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -51,7 +49,8 @@
     "Stir until the mixture is well combined.",
     "Transfer the mixture to a 9x13 inch baking dish and top with shredded cheddar.",
     "Bake for 30 minutes or until the cheese is melted and bubbly.",
-    "Remove from the oven and let cool for a few minutes before serving."
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -63,7 +62,6 @@
     "crowd-pleaser",
     "one-pan",
     "smoky",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -89,5 +87,10 @@
     "mainIngredient": "pinto beans",
     "descriptor": "Xtra Creamy",
     "dishForm": "Casseroles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

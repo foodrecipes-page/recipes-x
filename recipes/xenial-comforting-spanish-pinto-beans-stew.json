@@ -4,8 +4,7 @@
   "cuisine": "Spanish",
   "diet": [
     "sugar-free",
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,7 +62,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour, or until the beans are tender.",
     "Serve the stew hot, garnished with additional parsley if desired.",
     "Traditionally, this stew is served in a stone bowl, which helps to retain the heat and add to the overall comforting experience.",
-    "To serve, place the stone bowl over low heat to warm it, then add the stew and serve immediately."
+    "To serve, place the stone bowl over low heat to warm it, then add the stew and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 60,
@@ -75,8 +75,7 @@
     "gluten-free",
     "one-pot",
     "spanish-cuisine",
-    "sugar-free",
-    "vegetarian"
+    "sugar-free"
   ],
   "nutrition": {
     "calories": 420,
@@ -101,5 +100,10 @@
     "mainIngredient": "pinto beans",
     "descriptor": "Xenial Comforting",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

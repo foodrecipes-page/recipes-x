@@ -84,7 +84,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 45,
+  "totalTimeMin": 15,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -118,5 +118,9 @@
     "mainIngredient": "apples",
     "descriptor": "xtra energizing",
     "dishForm": "tuscan stracciatella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

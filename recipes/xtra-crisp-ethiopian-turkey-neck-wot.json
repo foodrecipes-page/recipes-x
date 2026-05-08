@@ -80,7 +80,8 @@
     "Carefully place the hot stone bowl on a baking sheet.",
     "Transfer the turkey neck and sauce to the stone bowl.",
     "Bake in the oven for 10-15 minutes, or until the top is crispy.",
-    "Finish with clarified butter and garnish with torn ketewa."
+    "Finish with clarified butter and garnish with torn ketewa.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -118,5 +119,9 @@
     "mainIngredient": "turkey neck",
     "descriptor": "xtra Crisp",
     "dishForm": "Wot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

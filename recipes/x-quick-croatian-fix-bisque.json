@@ -55,7 +55,8 @@
     "Combine turmeric, miso paste, and bay leaves in a bowl.",
     "Add carrots, onion, and garlic to the bowl and mix well.",
     "Transfer the mixture to a donabe pot and pour in chicken broth.",
-    "Bring the mixture to a boil over medium heat, then reduce to low and simmer for 20 minutes."
+    "Bring the mixture to a boil over medium heat, then reduce to low and simmer for 20 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -94,5 +95,9 @@
     "mainIngredient": "fix",
     "descriptor": "x-quick",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

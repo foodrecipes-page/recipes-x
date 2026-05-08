@@ -3,7 +3,6 @@
   "description": "A tangy and snappy Dutch dish featuring stracciatella cheese, this skillet is a quick fix for any meal, and can be made vegan friendly with a few simple substitutions.",
   "cuisine": "Dutch",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -101,5 +100,9 @@
     "mainIngredient": "stracciatella cheese",
     "descriptor": "Xtra Crispy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

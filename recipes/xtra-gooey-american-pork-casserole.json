@@ -60,7 +60,8 @@
     "Pour the sauce mixture over the pork and onions, stirring to combine.",
     "Cover the pot and transfer to the preheated oven, braising for 2 1/2 hours, or until the pork is tender.",
     "Remove the pot from the oven and stir in the shredded cheddar cheese until melted and gooey.",
-    "Return the pot to the oven and bake for an additional 10-15 minutes, or until the top is golden brown and the casserole is heated through."
+    "Return the pot to the oven and bake for an additional 10-15 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 160,
@@ -98,5 +99,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Xtra Gooey",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

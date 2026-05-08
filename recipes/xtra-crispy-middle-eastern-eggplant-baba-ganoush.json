@@ -3,8 +3,7 @@
   "description": "A cultured and crispy Middle Eastern dish perfect for a sick day, featuring palm sugar and nuka pickle, and is dairy free friendly in the form of baba ganoush.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "dairy-free",
-    "vegan"
+    "dairy-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -70,8 +69,7 @@
     "crispy",
     "dairy-free",
     "middle-eastern",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 220,
@@ -96,5 +94,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Xtra Crispy",
     "dishForm": "Baba Ganoush"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -93,11 +93,15 @@
     "mood": "comforting",
     "technique": "ice-bath-shock",
     "primaryIngredient": "pea-eggplant",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Canadian",
     "mainIngredient": "pea eggplant",
     "descriptor": "Xtra Crisp",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

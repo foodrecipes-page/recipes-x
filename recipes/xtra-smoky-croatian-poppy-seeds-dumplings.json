@@ -56,7 +56,8 @@
     "Cook the dumplings for 10 minutes or until they float to the surface.",
     "While the dumplings are cooking, heat the vegetable oil in a pan over medium heat.",
     "Remove the dumplings from the water with a slotted spoon and add them to the pan with the oil.",
-    "Pan-fry the dumplings for 2 minutes on each side or until they are golden brown."
+    "Pan-fry the dumplings for 2 minutes on each side or until they are golden brown.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "poppy seeds",
     "descriptor": "Xtra smoky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

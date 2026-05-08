@@ -3,8 +3,7 @@
   "description": "A nutty and chewy Thai dish featuring Jamaican curry powder, this Som Tum is a festive and flavorful twist on traditional papaya salad, with a creamy emulsified dressing. It is dash-friendly and perfect for a quick and delicious meal.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "papaya",
     "descriptor": "Xtra Nutty",
     "dishForm": "Som Tum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

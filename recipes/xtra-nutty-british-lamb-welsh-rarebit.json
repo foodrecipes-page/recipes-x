@@ -3,7 +3,6 @@
   "description": "A kid-friendly British dish featuring lamb, with a nutty and springy texture, made in a tava-griddle, perfect for a family lunch",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
     "kid-friendly"
   ],
   "meal": "lunch",
@@ -92,5 +91,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Xtra Nutty",
     "dishForm": "Welsh Rarebit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

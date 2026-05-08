@@ -4,7 +4,6 @@
   "cuisine": "kenyan",
   "diet": [
     "whole30",
-    "gluten-free",
     "paleo"
   ],
   "meal": "dinner",
@@ -101,7 +100,6 @@
   "difficulty": "hard",
   "tags": [
     "east-african",
-    "gluten-free",
     "high-protein",
     "kenyan",
     "one-pan",
@@ -134,5 +132,9 @@
     "mainIngredient": "bulgur",
     "descriptor": "Xeriscape spring",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -66,7 +66,8 @@
     "Add the green curry paste and cook for 1 minute, stirring constantly.",
     "Add the chicken broth, coconut milk, salt, and black pepper.",
     "Bring the mixture to a simmer and cook, covered, for 30 minutes.",
-    "Remove the chicken from the saucepan and let it rest for 10 minutes before serving."
+    "Remove the chicken from the saucepan and let it rest for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "green-curry-paste",
     "descriptor": "xtra tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

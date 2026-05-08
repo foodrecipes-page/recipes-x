@@ -2,9 +2,7 @@
   "title": "Xtra Crispy Korean Squid Stir-fry",
   "description": "Jammy, crispy Korean Jeolla dish featuring baby squid, quick-fix, gluten-free-friendly, served on a Talavera plate.",
   "cuisine": "Korean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -71,7 +69,6 @@
   "difficulty": "easy",
   "tags": [
     "crispy",
-    "gluten-free",
     "korean",
     "one-pan",
     "quick-fix",
@@ -100,5 +97,9 @@
     "mainIngredient": "squid",
     "descriptor": "Xtra Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

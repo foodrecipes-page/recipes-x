@@ -54,7 +54,9 @@
     "Repeat the layers, starting with the meat sauce, then the noodles, and finally the remaining cheese mixture.",
     "Top the lasagna with the remaining mozzarella cheese.",
     "Cover the baking dish with aluminum foil and bake for 30 minutes.",
-    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
@@ -92,5 +94,10 @@
     "mainIngredient": "pork",
     "descriptor": "Xtra cheesy",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -65,7 +65,8 @@
     "Add 1/2 cup of warmed chicken broth to the rice and cook, stirring constantly, until the liquid is mostly absorbed.",
     "Repeat the process of adding the chicken broth in 1/2 cup increments, waiting for it to be absorbed before adding more, until all the broth is used.",
     "When the rice is cooked and creamy, remove from heat and stir in the grated grana padano cheese.",
-    "Season with salt and black pepper to taste."
+    "Season with salt and black pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -103,5 +104,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Xtra Indulgent",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

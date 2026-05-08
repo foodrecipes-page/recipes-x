@@ -57,7 +57,8 @@
     "Thread the marinated chicken pieces onto skewers",
     "Grill the skewers for 10-12 minutes, turning occasionally",
     "Serve hot and enjoy",
-    "Garnish with fresh cilantro or parsley, if desired"
+    "Garnish with fresh cilantro or parsley, if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -96,5 +97,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra Dense",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

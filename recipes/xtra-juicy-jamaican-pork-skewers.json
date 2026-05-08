@@ -2,9 +2,7 @@
   "title": "Xtra Juicy Jamaican Pork Skewers",
   "description": "A romantic Jamaican dish featuring tender pork skewers marinated in a briny mixture of vinegar and spices, then glazed to perfection",
   "cuisine": "Jamaican",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -57,7 +55,8 @@
     "Grill skewers for 10-12 minutes, turning occasionally",
     "While skewers are grilling, prepare glaze by whisking together 2 tablespoons brown sugar and 2 tablespoons soy sauce",
     "Brush glaze onto skewers during last 2 minutes of grilling",
-    "Let skewers rest for 5 minutes before serving"
+    "Let skewers rest for 5 minutes before serving",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -94,5 +93,10 @@
     "mainIngredient": "pork",
     "descriptor": "Xtra Juicy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-pork_no_temp"
+  ]
 }

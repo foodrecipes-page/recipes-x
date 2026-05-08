@@ -3,7 +3,6 @@
   "description": "A fresh and tender Australian dish featuring chopped chives and raw friendly ingredients, this poke is a nostalgic treat for anyone who loves seafood. It is made with sustainable and locally sourced ingredients.",
   "cuisine": "Australian",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "lunch",
@@ -53,11 +52,10 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-bowl",
     "seafood",
@@ -87,5 +85,10 @@
     "mainIngredient": "fish",
     "descriptor": "Xtra fresh",
     "dishForm": "Poke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

@@ -59,7 +59,8 @@
     "Reduce heat to medium and stir in sesame seeds, letting them toast for 30 seconds.",
     "Add sliced scallions, cooking for an additional minute until softened.",
     "Remove from heat and let the mixture rest for 2 minutes so the flavors meld.",
-    "Serve hot, optionally garnished with extra scallions or a drizzle of sesame oil."
+    "Serve hot, optionally garnished with extra scallions or a drizzle of sesame oil.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -98,5 +99,9 @@
     "mainIngredient": "Pork Belly",
     "descriptor": "Xenial",
     "dishForm": "Stir-Fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

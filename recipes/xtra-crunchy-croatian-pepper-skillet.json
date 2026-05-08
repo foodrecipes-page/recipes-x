@@ -3,8 +3,7 @@
   "description": "A tangy and crunchy solo dinner dish featuring roasted peppers, cooked in a ttukbaegi earthenware skillet, with ayurvedic rajasic friendly ingredients.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,6 @@
   "tags": [
     "croatian",
     "crunchy",
-    "gluten-free",
     "one-pan",
     "vegetarian",
     "weeknight"
@@ -96,5 +94,9 @@
     "mainIngredient": "pepper",
     "descriptor": "Xtra Crunchy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

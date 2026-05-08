@@ -56,7 +56,8 @@
     "Deglaze the pan with a small amount of the hot broth",
     "To assemble the dish, place some noodles in the bottom of individual mini cocottes",
     "Add a spoonful of the miso broth, some crumbled bryndza cheese, and a sprinkle of green onions on top",
-    "Serve immediately and enjoy"
+    "Serve immediately and enjoy",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -93,5 +94,9 @@
     "mainIngredient": "bryndza cheese",
     "descriptor": "Xtra Crumbly",
     "dishForm": "Miso Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

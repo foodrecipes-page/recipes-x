@@ -56,7 +56,8 @@
     "Add the capers, chicken broth, and browned lamb, then bring the mixture to a boil.",
     "Cover the tagine or Dutch oven and transfer it to the oven, then cook, stirring occasionally, until the lamb is tender, about 2 1/2 hours.",
     "Remove the tagine or Dutch oven from the oven and let it cool slightly.",
-    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -93,5 +94,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Xenial Dense",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

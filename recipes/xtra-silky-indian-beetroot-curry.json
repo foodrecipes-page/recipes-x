@@ -3,7 +3,6 @@
   "description": "A sweet and silky Indian dish featuring cooked beetroot, this curry is perfect for meal prep and is halal-friendly. It has a smoky flavor from the cold smoke process.",
   "cuisine": "Indian",
   "diet": [
-    "halal",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "halal",
     "indian-cuisine",
     "meal-prep",
     "one-pot",
@@ -101,5 +99,9 @@
     "mainIngredient": "beetroot",
     "descriptor": "Xtra Silky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

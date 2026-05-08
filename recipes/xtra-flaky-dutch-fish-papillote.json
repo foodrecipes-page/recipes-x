@@ -2,9 +2,7 @@
   "title": "Xtra Flaky Dutch Fish Papillote",
   "description": "A halal-friendly Dutch dish featuring flaky fish cooked in sake, wrapped in papillote, with a bitter twist, perfect for a weeknight dinner.",
   "cuisine": "Dutch",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "fish",
     "descriptor": "Xtra Flaky",
     "dishForm": "Papillote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

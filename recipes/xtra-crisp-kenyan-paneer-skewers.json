@@ -86,11 +86,15 @@
     "mood": "lazy-sunday",
     "technique": "cure",
     "primaryIngredient": "paneer",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Kenyan",
     "mainIngredient": "paneer",
     "descriptor": "Xtra crisp",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

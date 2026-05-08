@@ -2,10 +2,7 @@
   "title": "Xtra Pungent Vietnamese Onion Grill",
   "description": "A pungent and festive Vietnamese dish featuring chopped onion and double-rise-bread, perfect for a snack or light meal. This egg-free-friendly recipe is designed for a raclette-grill.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -88,5 +85,10 @@
     "mainIngredient": "onion",
     "descriptor": "Xtra Pungent",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

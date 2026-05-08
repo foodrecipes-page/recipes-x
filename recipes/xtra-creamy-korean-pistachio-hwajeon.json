@@ -3,8 +3,7 @@
   "description": "A charred, creamy, and cozy Korean dish featuring pistachio, this Xtra Creamy Korean Pistachio Hwajeon is a unique and delicious hwajeon recipe, steamed to perfection in a ramekin vessel, with an ayurvedic-rajasic friendly twist, making it a great option for a comforting snack or dessert",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "pistachio",
     "descriptor": "Xtra Creamy",
     "dishForm": "Hwajeon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

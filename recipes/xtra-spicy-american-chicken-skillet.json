@@ -68,7 +68,8 @@
     "Add the smoked paprika, garlic powder, salt, and black pepper, and stir to combine.",
     "Add the dried marjoram and stir to combine.",
     "Reduce heat to medium-low and simmer, covered with a papillote, for 10 minutes.",
-    "Remove the papillote and stir the mixture, then serve hot."
+    "Remove the papillote and stir the mixture, then serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -106,5 +107,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Xtra Spicy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

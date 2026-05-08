@@ -3,7 +3,6 @@
   "description": "A midnight craving Filipino dish featuring fatty and silky pork, apples, and a pasta water emulsion, wrapped in a corn husk.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
     "mediterranean-friendly"
   ],
   "meal": "snack",
@@ -52,7 +51,8 @@
     "Shred cooked pork with two forks and mix with emulsified pasta water.",
     "Lay a corn husk flat and spoon shredded pork onto the center of the husk.",
     "Top pork with sliced apples and fold the corn husk to enclose.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -89,5 +89,10 @@
     "mainIngredient": "pork",
     "descriptor": "Xtra silky",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

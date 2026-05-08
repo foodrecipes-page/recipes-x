@@ -2,10 +2,7 @@
   "title": "Xtra Crispy Algerian Bacon Skewers",
   "description": "A fresh and aerated Algerian dish featuring crispy bacon, a sweet glaze, and a Buddhist-temple-friendly vibe, served on a tagliere for a perfect brunch mood. This recipe combines the flavors of Algeria with the convenience of a skewer.",
   "cuisine": "Algerian",
-  "diet": [
-    "halal",
-    "kosher"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -92,5 +89,10 @@
     "mainIngredient": "bacon",
     "descriptor": "Xtra Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "removed-diet-kosher"
+  ]
 }

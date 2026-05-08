@@ -3,8 +3,7 @@
   "description": "A unique and refreshing take on the classic risotto, incorporating the richness of almond butter in a shojin-friendly recipe. This dish features a light and velvety texture, perfect for a warm evening.",
   "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -84,9 +83,7 @@
   "difficulty": "medium",
   "tags": [
     "almond-butter",
-    "dutch",
-    "gluten-free",
-    "vegan"
+    "dutch"
   ],
   "nutrition": {
     "calories": 420,
@@ -111,5 +108,10 @@
     "mainIngredient": "almond butter",
     "descriptor": "xerophilous",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A cultured and springy Vietnamese dish featuring red curry paste, perfect for a low-carb friendly brunch mood, this pho bo is a delicious twist on traditional Vietnamese beef noodle soup",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "beef",
     "descriptor": "Xtra Springy",
     "dishForm": "Pho Bo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

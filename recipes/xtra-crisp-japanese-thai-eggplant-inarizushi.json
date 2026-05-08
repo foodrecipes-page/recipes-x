@@ -3,8 +3,7 @@
   "description": "Smoky and crisp post-workout Japanese dish featuring Thai eggplant, served in a tagine pot, plant-based friendly and in the form of inarizushi.",
   "cuisine": "Japanese",
   "diet": [
-    "plant-based",
-    "vegan"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "Thai Eggplant",
     "descriptor": "Xtra Crisp",
     "dishForm": "Inarizushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "Rich and crumbly one-pot Ukrainian dish featuring cider, dumplings, and ayurvedic-rajasic-friendly ingredients, perfect for a cold winter evening. This recipe is a hearty and comforting meal that combines the flavors of Ukraine with the principles of ayurvedic cuisine.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,7 +62,6 @@
   "tags": [
     "ayurvedic-friendly",
     "comfort-food",
-    "gluten-free",
     "one-pot",
     "ukrainian-cuisine",
     "vegetarian"
@@ -91,5 +89,9 @@
     "mainIngredient": "dumplings",
     "descriptor": "Xenial Crumbly",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

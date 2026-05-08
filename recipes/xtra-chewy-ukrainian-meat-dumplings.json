@@ -2,9 +2,7 @@
   "title": "Xtra Chewy Ukrainian Meat Dumplings",
   "description": "Salty and chewy Ukrainian dish featuring mixed peel and a mirepoix base, this kosher friendly recipe is perfect for adventurous eaters. The combination of ground meats and spices creates a unique flavor profile.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,9 @@
     "Bring a large pot of salted water to a boil and gently add the dumplings to the pot.",
     "Reduce the heat to a simmer and cook the dumplings for 10 minutes, or until they float to the surface.",
     "Remove the dumplings from the water with a slotted spoon and serve hot.",
-    "Traditionally, the dumplings are served with a side of sour cream or fried onions."
+    "Traditionally, the dumplings are served with a side of sour cream or fried onions.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -100,5 +100,11 @@
     "mainIngredient": "meat",
     "descriptor": "Xtra Chewy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-pork_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

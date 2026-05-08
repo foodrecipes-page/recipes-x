@@ -59,7 +59,8 @@
     "Add the wine to the skillet and bring to a simmer, cooking until the liquid has almost completely reduced.",
     "Reduce heat to medium-low and continue to cook for 5 minutes, stirring occasionally.",
     "Toast the bread slices until crispy and golden brown.",
-    "Serve the ground beef mixture over the toasted bread, garnished with salt and pepper to taste."
+    "Serve the ground beef mixture over the toasted bread, garnished with salt and pepper to taste.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "Xtra Crisp",
     "dishForm": "Fajitas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

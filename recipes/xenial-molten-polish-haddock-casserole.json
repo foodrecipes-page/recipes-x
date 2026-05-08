@@ -3,8 +3,7 @@
   "description": "A hearty and comforting Polish-inspired casserole featuring haddock, infused oil, and Jain-friendly ingredients, perfect for a cozy dinner",
   "cuisine": "Polish",
   "diet": [
-    "jain",
-    "pescatarian"
+    "jain"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,6 @@
     "comfort-food",
     "jain-friendly",
     "one-pan",
-    "pescatarian",
     "polish-cuisine",
     "weeknight"
   ],
@@ -96,5 +94,9 @@
     "mainIngredient": "haddock",
     "descriptor": "Xenial Molten",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

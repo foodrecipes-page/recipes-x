@@ -3,8 +3,7 @@
   "description": "A cozy Egyptian dish featuring molten cheese curds in a herbal tagine, perfect for a low-calorie friendly dinner option.",
   "cuisine": "Egyptian",
   "diet": [
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Add the low-sodium chicken broth and bring to a simmer.",
     "Reduce the heat to low and add the low-fat cheese curds to the tagine.",
     "Cover the tagine and simmer for 10 minutes, or until the cheese curds are melted and the sauce is bubbly.",
-    "Serve the molten cheese curds hot, garnished with fresh herbs if desired."
+    "Serve the molten cheese curds hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -78,8 +78,7 @@
     "herbal",
     "low-calorie",
     "middle-eastern",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 250,
@@ -104,5 +103,10 @@
     "mainIngredient": "cheese curds",
     "descriptor": "Xenial Molten",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

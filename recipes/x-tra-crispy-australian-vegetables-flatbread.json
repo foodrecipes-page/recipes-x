@@ -69,7 +69,8 @@
     "Drizzle the nuka-pickle over the vegetables, followed by the orange blossom water.",
     "Season with salt and black pepper to taste.",
     "Bake in the preheated oven for 15-20 minutes, or until the flatbread is crispy and golden brown.",
-    "Remove from the oven and let cool for a few minutes before slicing and serving."
+    "Remove from the oven and let cool for a few minutes before slicing and serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -107,5 +108,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "X-tra Crispy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

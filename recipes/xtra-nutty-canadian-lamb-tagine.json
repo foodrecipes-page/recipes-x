@@ -68,7 +68,8 @@
     "Add the sliced almonds, prunes, chicken broth, and honey to the pot.",
     "Cover the pot and transfer it to the preheated oven.",
     "Cook the tagine for 2.5 hours or until the lamb is tender.",
-    "Season the tagine with black pepper to taste."
+    "Season the tagine with black pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 150,
@@ -106,5 +107,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Xtra Nutty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

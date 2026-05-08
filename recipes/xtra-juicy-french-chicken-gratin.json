@@ -53,7 +53,8 @@
     "In a large baking dish, arrange the cooked onion and mushroom mixture in the bottom of the dish.",
     "Place the browned chicken thighs on top of the onion and mushroom mixture.",
     "Sprinkle the shaved pecorino cheese over the top of the chicken.",
-    "Pour the chicken broth over the top of the cheese and sprinkle with thyme."
+    "Pour the chicken broth over the top of the cheese and sprinkle with thyme.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -90,5 +91,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra juicy",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

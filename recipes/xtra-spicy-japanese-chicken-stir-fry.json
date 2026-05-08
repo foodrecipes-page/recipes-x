@@ -64,7 +64,8 @@
     "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes",
     "Stir in the chopped scallions and sesame seeds",
     "Season the mixture with salt and black pepper to taste",
-    "Serve the stir-fry hot, garnished with additional scallions and sesame seeds if desired"
+    "Serve the stir-fry hot, garnished with additional scallions and sesame seeds if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -102,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra Spicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

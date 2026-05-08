@@ -3,7 +3,6 @@
   "description": "A cozy Japanese dish from the Tohoku region, featuring a tangy mustard flavor in a delicate tamagoyaki.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
     "plant-based"
   ],
   "meal": "breakfast",
@@ -74,7 +73,6 @@
     "breakfast",
     "japanese",
     "tohoku",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -100,5 +98,10 @@
     "mainIngredient": "eggs",
     "descriptor": "xeriscope mustardy",
     "dishForm": "Tamagoyaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

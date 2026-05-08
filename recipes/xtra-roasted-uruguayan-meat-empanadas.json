@@ -54,7 +54,8 @@
     "Brush the edges with the beaten eggs and fold the other half of the dough over the filling.",
     "Press the edges to seal and use a fork to crimp.",
     "Place the empanadas on a baking sheet lined with parchment paper and brush with the remaining egg.",
-    "Roast the empanadas in the preheated oven for 25 minutes, or until golden brown."
+    "Roast the empanadas in the preheated oven for 25 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "meat",
     "descriptor": "Xtra Roasted",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

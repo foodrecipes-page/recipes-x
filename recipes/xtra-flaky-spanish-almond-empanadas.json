@@ -2,9 +2,7 @@
   "title": "Xtra Flaky Spanish Almond Empanadas",
   "description": "These empanadas are a kid-friendly Spanish dish featuring filo pastry and almonds, making them a delicious and fun treat for the whole family. They are also gluten-free friendly.",
   "cuisine": "Spanish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
     "almond-based",
     "baked-goods",
     "filo-pastry",
-    "gluten-free",
     "kid-friendly",
     "spanish-food"
   ],
@@ -90,5 +87,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Xtra flaky",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Xanthan-Infused Slovakian Dark Soy Sauce Tagine",
   "description": "A hearty, comforting dish featuring the unique pairing of dark soy sauce and xanthan gum, served in a fondue pot.",
   "cuisine": "slovakian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -65,11 +62,9 @@
   "tags": [
     "ayurvedic",
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "sattvic",
     "slovakian",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -95,5 +90,10 @@
     "mainIngredient": "Dark Soy Sauce",
     "descriptor": "Xanthan-Infused",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -69,7 +69,8 @@
     "Add the chicken broth and bring the mixture to a boil.",
     "Add the basmati rice and stir well to combine.",
     "Reduce the heat to low, cover the saucepan with a tight-fitting lid, and cook using the dum method for 20 minutes.",
-    "Turn off the heat and let the biryani rest for 5 minutes before serving."
+    "Turn off the heat and let the biryani rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -107,5 +108,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra Hearty",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

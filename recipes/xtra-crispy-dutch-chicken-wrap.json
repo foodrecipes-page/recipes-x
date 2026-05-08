@@ -53,7 +53,8 @@
     "While the chicken is baking, prepare the lettuce leaves by washing and drying them.",
     "Once the chicken is done, let it cool for a few minutes.",
     "Assemble the wraps by placing a few pieces of chicken onto a lettuce leaf, topping with black olives and shredded carrots.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra Crispy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

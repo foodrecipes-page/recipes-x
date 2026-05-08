@@ -52,7 +52,8 @@
     "Season the mixture with salt and pepper to taste.",
     "To assemble the bowls, divide the cooked white rice between four lacquerware bowls.",
     "Top the rice with the beef and vegetable mixture, then sprinkle with green onions.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -90,5 +91,9 @@
     "mainIngredient": "ground beef",
     "descriptor": "Xtra Crumbly",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

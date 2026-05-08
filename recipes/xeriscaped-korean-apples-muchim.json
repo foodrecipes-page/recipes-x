@@ -3,7 +3,6 @@
   "description": "A traditional Korean dish from the Gyeongsang region, featuring crisp apples and savory lardons, served warm and light, perfect for a romantic dinner.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
     "raw-friendly"
   ],
   "meal": "dinner",
@@ -92,5 +91,9 @@
     "mainIngredient": "apples",
     "descriptor": "Xeriscaped",
     "dishForm": "Muchim"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

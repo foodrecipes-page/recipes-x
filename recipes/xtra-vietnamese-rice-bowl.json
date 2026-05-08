@@ -64,7 +64,8 @@
     "Pour the yogurt sauce over the hot rice mixture, stirring to coat evenly and keep the cheese slightly pulled.",
     "Transfer the bowl to a serving dish, then sprinkle with scallions, cilantro, toasted sesame seeds, and a few extra crumbs of cheese.",
     "Garnish with a squeeze of fresh lime and a drizzle of sesame oil for extra flavor.",
-    "Serve immediately while hot for a fresh, low-glycemic Vietnamese rice bowl."
+    "Serve immediately while hot for a fresh, low-glycemic Vietnamese rice bowl.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -101,5 +102,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Xtra",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

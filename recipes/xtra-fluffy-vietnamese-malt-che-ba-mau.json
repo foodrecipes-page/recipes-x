@@ -3,8 +3,7 @@
   "description": "A malty, fluffy, and cozy Vietnamese dish featuring enchilada sauce and leaf-wrap-steam, low-calorie-friendly and perfect for a snack. This recipe is a unique twist on traditional Che Ba Mau.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "snack",
   "ingredients": [
@@ -59,7 +58,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "low-calorie",
     "snack",
     "steamed",
@@ -88,5 +86,9 @@
     "mainIngredient": "malt",
     "descriptor": "Xtra Fluffy",
     "dishForm": "Che Ba Mau"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

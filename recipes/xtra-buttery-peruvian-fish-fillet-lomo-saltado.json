@@ -2,10 +2,7 @@
   "title": "Xtra Buttery Peruvian Fish Fillet Lomo Saltado",
   "description": "A dairy-free friendly Peruvian dish featuring fish fillet, long fermentation dough, and a buttery glassy jelly sauce, perfect for a weeknight dinner. This recipe is easy to make and serves 4 people.",
   "cuisine": "Peruvian",
-  "diet": [
-    "dairy-free",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,9 +70,7 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
     "fish-recipe",
-    "gluten-free",
     "one-pan-meal",
     "peruvian-cuisine",
     "weeknight-dinner"
@@ -103,5 +98,10 @@
     "mainIngredient": "fish fillet",
     "descriptor": "Xtra Buttery",
     "dishForm": "Lomo Saltado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

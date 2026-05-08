@@ -3,8 +3,7 @@
   "description": "A buttery, gooey, romantic argentinian dish featuring pico de gallo sauce, wood-fired-bake, low-glycemic-friendly",
   "cuisine": "argentinian",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -37,7 +36,6 @@
   "difficulty": "hard",
   "tags": [
     "argentinian",
-    "gluten-free",
     "low-glycemic",
     "pico-de-gallo",
     "romantic",
@@ -66,5 +64,9 @@
     "mainIngredient": "dough",
     "descriptor": "xtra gooey",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

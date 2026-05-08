@@ -2,9 +2,7 @@
   "title": "Xtra Chewy Umami Australian Meat Tacos",
   "description": "This kid-friendly dish combines the flavors of Australia with the comfort of tacos, featuring fajita seasoning and a high-protein twist.",
   "cuisine": "Australian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -88,7 +86,8 @@
     "While the mixture is cooking, prepare the tortillas by warming them in a dry skillet or in the microwave.",
     "To assemble the tacos, place a portion of the beef mixture onto a warmed tortilla, followed by a sprinkle of shredded cheese and a dollop of sour cream.",
     "Use the nigiri-shaping tool to shape the beef mixture into neat taco shapes, if desired.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -126,5 +125,10 @@
     "mainIngredient": "meat",
     "descriptor": "xtra chewy umami",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -61,7 +61,8 @@
     "Drain the pajeon on paper towels and serve hot with HP sauce and sour cream drizzled on top.",
     "In a small bowl, whisk together HP sauce and sour cream.",
     "Season the sauce with toasted sesame oil to taste.",
-    "Serve the pajeon with the creamy sauce spooned over the top."
+    "Serve the pajeon with the creamy sauce spooned over the top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "X-tra Creamy",
     "dishForm": "Pajeon Banchan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

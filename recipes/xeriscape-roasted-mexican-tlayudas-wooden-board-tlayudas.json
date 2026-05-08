@@ -3,8 +3,6 @@
   "description": "A roasted, flaky, brunch-mood Mexican dish featuring Sichuan pepper and an ayurvedic-rajasic-friendly deglaze.",
   "cuisine": "mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "breakfast",
@@ -85,7 +83,8 @@
     "Allow the tortillas to cool for 2-3 minutes before topping with tlayuda-style toppings.",
     "Cut the tlayudas into triangles or squares and serve immediately.",
     "Garnish with wood smoke powder for added flavor and aroma.",
-    "Serve with a side of salsa, avocado, or sour cream, if desired."
+    "Serve with a side of salsa, avocado, or sour cream, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 15,
@@ -93,11 +92,9 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "mexican",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -123,5 +120,11 @@
     "mainIngredient": "tlayudas",
     "descriptor": "Xeriscape Roasted",
     "dishForm": "Wooden-Board Tlayudas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

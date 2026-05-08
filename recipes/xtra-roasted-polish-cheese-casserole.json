@@ -62,7 +62,8 @@
     "Add the diced scotch bonnet peppers to the skillet and cook for 5 minutes, stirring occasionally.",
     "In a large casserole dish, combine the roasted cauliflower, cooked scotch bonnet peppers, and shredded polish cheese.",
     "Return the casserole dish to the oven and bake for an additional 10 minutes, or until the cheese is melted and bubbly.",
-    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Xtra Roasted",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

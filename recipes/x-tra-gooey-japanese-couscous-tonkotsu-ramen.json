@@ -3,8 +3,7 @@
   "description": "A Japanese-inspired dish that combines the comforting flavors of Tonkotsu Ramen with the lightness of couscous and the crunch of ssam-wrap. Perfect for a weeknight dinner or a special occasion.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -76,7 +75,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vegetarian-friendly",
@@ -105,5 +103,9 @@
     "mainIngredient": "couscous",
     "descriptor": "X-tra Gooey",
     "dishForm": "Tonkotsu Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

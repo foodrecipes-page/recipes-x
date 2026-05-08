@@ -2,9 +2,7 @@
   "title": "Xenial Velvety German Squid Stew",
   "description": "A hearty one-pot German dish featuring squid, score-fat, and a hint of mustard, this stew is perfect for a cold winter's night. The velvety texture and rich flavors will leave you wanting more.",
   "cuisine": "German",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,7 +65,8 @@
     "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "Stir in the chopped parsley and serve hot.",
     "Serve with crusty bread or over egg noodles.",
-    "Refrigerate or freeze leftovers for up to 3 days."
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -78,7 +77,6 @@
     "comfort-food",
     "german-cuisine",
     "one-pot",
-    "pescatarian",
     "seafood",
     "weeknight"
   ],
@@ -105,5 +103,10 @@
     "mainIngredient": "squid",
     "descriptor": "xenial velvety",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Xtra Crumby Malaysian Lentil Bowl",
   "description": "Umami and crisp Malaysian dish featuring brown lentils, perfect for a light vegetarian lunch or dinner.",
   "cuisine": "malaysian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -76,7 +74,8 @@
     "While the lentils are cooking, heat the remaining 1 tablespoon of coconut oil in a small frying pan over medium-high heat.",
     "Add the toasted coconut flakes and cook, stirring frequently, until crispy and golden brown, about 2-3 minutes.",
     "Fluff the cooked lentils with a fork and stir in the crispy fried shallots and chopped cilantro.",
-    "Serve the lentil mixture hot, topped with additional crispy fried shallots and toasted coconut flakes if desired."
+    "Serve the lentil mixture hot, topped with additional crispy fried shallots and toasted coconut flakes if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -114,5 +113,10 @@
     "mainIngredient": "lentils",
     "descriptor": "xtra crumby",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

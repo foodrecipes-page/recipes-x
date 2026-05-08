@@ -3,8 +3,7 @@
   "description": "A cozy Italian dish featuring smoked mackerel, kombu cold extract, and ayurvedic rajasic friendly ingredients, with a mustardy and springy flavor profile.",
   "cuisine": "Italian",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "smoked mackerel",
     "descriptor": "Xenial springy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

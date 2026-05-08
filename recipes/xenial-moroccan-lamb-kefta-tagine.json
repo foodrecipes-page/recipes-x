@@ -3,7 +3,6 @@
   "description": "A traditional Moroccan dish with a funky twist, featuring lamb kefta and a blend of aromatic spices, cooked in a Dutch oven with a yuzu cure and ayurvedic tamasic friendly ingredients.",
   "cuisine": "Moroccan",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -98,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Xenial Hearty",
     "dishForm": "Kefta Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

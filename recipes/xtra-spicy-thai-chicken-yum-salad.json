@@ -77,7 +77,8 @@
     "Finely chop peanuts and set aside.",
     "To assemble the salad, place a portion of the chicken mixture onto a corn husk, followed by crispy bread, chopped peanuts, and fresh cilantro.",
     "Serve immediately and enjoy!",
-    "Refrigerate leftovers for up to 3 days."
+    "Refrigerate leftovers for up to 3 days.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -115,5 +116,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xtra Spicy",
     "dishForm": "Yum Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

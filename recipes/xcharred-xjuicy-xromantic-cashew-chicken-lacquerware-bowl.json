@@ -50,7 +50,8 @@
     "Heat oil in a pressure cooker over medium-high heat. Cook chicken for 3 minutes per side until golden brown.",
     "Add cashew mixture to the cooker. Stir-fry for an additional minute until fragrant.",
     "Close and lock lid. Pressure cook on high for 10 minutes plus natural release time of 25 minutes.",
-    "Transfer chicken and sauce to a bowl. Garnish with fresh cilantro if desired."
+    "Transfer chicken and sauce to a bowl. Garnish with fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -89,5 +90,9 @@
     "mainIngredient": "Cashews",
     "descriptor": "XCharred-XJuicy-XRomantic",
     "dishForm": "Cashew XChicken Lacquerware-Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

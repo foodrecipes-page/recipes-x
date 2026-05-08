@@ -2,9 +2,7 @@
   "title": "Xtra Light Norwegian lamb Stew",
   "description": "A malty and light Norwegian stew featuring ginger and cooked to perfection in a clay pot, perfect for a romantic dinner",
   "cuisine": "Norwegian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -107,5 +105,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Xtra Light",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

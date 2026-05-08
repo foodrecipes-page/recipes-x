@@ -27,7 +27,8 @@
     "Add chicken and sauté until golden brown on all sides.",
     "Add garlic and red bell pepper, stir for about 2 minutes.",
     "Squeeze orange zest over the mixture and toss to coat evenly.",
-    "Serve hot with steamed vegetables or rice."
+    "Serve hot with steamed vegetables or rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -62,5 +63,9 @@
     "mainIngredient": "orange",
     "descriptor": "Xoazzle",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

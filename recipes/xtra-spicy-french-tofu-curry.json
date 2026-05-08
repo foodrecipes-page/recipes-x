@@ -4,8 +4,7 @@
   "cuisine": "French",
   "diet": [
     "Jain",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,7 +79,6 @@
     "one-pot",
     "quick-fix",
     "spicy",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -106,5 +104,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Xtra spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

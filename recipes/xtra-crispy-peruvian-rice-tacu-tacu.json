@@ -3,7 +3,6 @@
   "description": "A sweet and aerated Peruvian dish featuring palm sugar and crispy rice, perfect for a weeknight dinner. This recipe is FODMAP friendly and made with easily accessible ingredients.",
   "cuisine": "Peruvian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -68,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "crispy-rice",
-    "gluten-free",
     "one-pan",
     "peruvian-cuisine",
     "vegetarian",
@@ -97,5 +95,9 @@
     "mainIngredient": "rice",
     "descriptor": "Xtra Crispy",
     "dishForm": "Tacu Tacu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

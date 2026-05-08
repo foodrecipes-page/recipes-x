@@ -3,7 +3,6 @@
   "description": "A charred, light German dish featuring beef gravy, whisk, and dairy-free-friendly ingredients, perfect for a special occasion.",
   "cuisine": "German",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -73,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "beef-recipes",
-    "dairy-free",
     "german-cuisine",
     "one-pan",
     "special-occasion"
@@ -101,5 +99,9 @@
     "mainIngredient": "beef",
     "descriptor": "Xtra Light",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

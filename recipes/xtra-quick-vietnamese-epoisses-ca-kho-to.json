@@ -2,9 +2,7 @@
   "title": "Xtra Quick Vietnamese Epoisses Ca Kho To",
   "description": "A quick-fix Vietnamese dish featuring epoisses cheese, this recipe is a herbal and shattering combination of flavors, perfect for a weeknight dinner. It is also ayurvedic-rajasic-friendly, making it a great option for those looking for a balancing meal.",
   "cuisine": "vietnamese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,7 +59,6 @@
     "herbal",
     "one-pan",
     "quick-fix",
-    "vegetarian",
     "vietnamese",
     "weeknight"
   ],
@@ -88,5 +85,9 @@
     "mainIngredient": "Epoisses",
     "descriptor": "Xtra Quick",
     "dishForm": "Ca Kho To"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A rich and savory Russian dish featuring shortcrust pastry and beef, perfect for a brunch mood, made in an iron teppan and free from onions and garlic.",
   "cuisine": "Russian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -55,7 +54,8 @@
     "Fold the pastry over the filling to form a pie shape.",
     "Brush the pastry with a little water and cut a few slits in the top to allow steam to escape.",
     "Bake the pie for 35 minutes, or until the pastry is golden brown.",
-    "Remove the pie from the oven and let it rest for 10 minutes before serving."
+    "Remove the pie from the oven and let it rest for 10 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -92,5 +92,10 @@
     "mainIngredient": "beef",
     "descriptor": "Xtra rich",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

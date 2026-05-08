@@ -64,7 +64,8 @@
     "Add the berbere spice, sugar, salt, and black pepper, and cook for 1 minute, stirring constantly.",
     "Add the chicken broth, saffron threads, and paella rice, and bring to a boil.",
     "Reduce the heat to low, cover the pan, and simmer for 20 minutes, or until the rice is cooked and the liquid is absorbed.",
-    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+    "Remove the pan from the heat and let it rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -102,5 +103,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Xenial Flaky",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

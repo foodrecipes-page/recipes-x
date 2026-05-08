@@ -3,8 +3,7 @@
   "description": "A fresh and light Moroccan dish featuring peanuts and a mediterranean friendly pasta water emulsion, perfect for a quick and delicious lunch",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "peanuts",
     "descriptor": "Xtra Crispy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

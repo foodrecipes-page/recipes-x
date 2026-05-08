@@ -3,7 +3,6 @@
   "description": "A hearty and adventurous Irish stew featuring diced tomatoes and wok-hei, perfect for those who enjoy a bitter flavor profile, this dish is also dairy-free-friendly and has a unique glassy-jelly texture.",
   "cuisine": "Irish",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -74,7 +73,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "hearty-stew",
     "irish-cuisine",
     "one-pot",
@@ -104,5 +102,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Xtra Bitter",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

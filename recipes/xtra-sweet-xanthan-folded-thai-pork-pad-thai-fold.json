@@ -3,7 +3,6 @@
   "description": "A savory and comforting Thai dish featuring tender pork, nectarines, and a sweet and tangy sauce, all wrapped in a crispy rice noodle fold.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "vegetarian-option"
   ],
   "meal": "dinner",
@@ -112,5 +111,9 @@
     "mainIngredient": "pork",
     "descriptor": "Xtra Sweet Xanthan Folded",
     "dishForm": "Pad-Thai Fold"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

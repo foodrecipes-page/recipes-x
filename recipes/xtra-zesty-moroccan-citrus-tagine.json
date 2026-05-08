@@ -3,8 +3,7 @@
   "description": "A vibrant and fragrant Moroccan dish featuring the flavors of orange zest and a rich, citrusy sauce, perfect for a weekend brunch.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -101,5 +100,9 @@
     "mainIngredient": "Citrus",
     "descriptor": "xtra-zesty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

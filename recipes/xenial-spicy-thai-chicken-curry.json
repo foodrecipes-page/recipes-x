@@ -3,8 +3,7 @@
   "description": "A cultured and shaggy lazy-sunday Thai dish featuring sesame seed oil and ayurvedic-sattvic-friendly ingredients, this southern-Thai inspired curry is perfect for a relaxing afternoon meal.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -74,7 +73,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "one-pan",
     "spicy-food",
@@ -104,5 +102,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Xenial Spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

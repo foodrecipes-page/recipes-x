@@ -101,7 +101,8 @@
     "Add the chopped scallions and parsley to the saucepan and cook until the scallions are slightly caramelized, about 2-3 minutes.",
     "To assemble the dish, place the rocoto pepper on a flat surface and scoop out the seeds and membranes.",
     "Fill the rocoto pepper with the roasted duck confit leg, bhuna, and chopped cilantro.",
-    "Drizzle the cooked scallions and parsley mixture over the top of the duck confit leg and serve immediately."
+    "Drizzle the cooked scallions and parsley mixture over the top of the duck confit leg and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 27,
@@ -140,5 +141,9 @@
     "mainIngredient": "Duck",
     "descriptor": "Xeriscape Roasted",
     "dishForm": "Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

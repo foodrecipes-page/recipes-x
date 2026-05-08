@@ -63,7 +63,8 @@
     "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 2 hours, or until the turkey is tender and the sauce has thickened.",
     "Remove the turkey neck from the pot and let it cool, then shred the meat and return it to the pot.",
     "Simmer the tagine for an additional 30 minutes, stirring occasionally, until the sauce has emulsified and the flavors have melded together.",
-    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 180,
@@ -101,5 +102,9 @@
     "mainIngredient": "smoked turkey neck",
     "descriptor": "Xtra Briny",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

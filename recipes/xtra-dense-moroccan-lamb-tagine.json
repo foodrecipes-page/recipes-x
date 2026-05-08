@@ -59,7 +59,8 @@
     "Place the tagine in a larger dish or pan and add enough hot water to come halfway up the sides of the tagine.",
     "Cover the larger dish or pan with aluminum foil and bake for 2.5 hours.",
     "Remove the foil and continue baking for an additional 30 minutes.",
-    "Remove the tagine from the oven and stir in the remaining 2 tablespoons of butter until melted."
+    "Remove the tagine from the oven and stir in the remaining 2 tablespoons of butter until melted.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 180,
@@ -97,5 +98,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Xtra Dense",
     "dishForm": "Tagine Lamb"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

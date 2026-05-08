@@ -2,9 +2,7 @@
   "title": "Xtra Velvety Dutch Manchego Pasta",
   "description": "A rich and creamy vegan pasta dish featuring manchego cheese, served in individual mini cocottes, perfect for a brunch mood. This dish is a creative twist on traditional Dutch cuisine.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -61,8 +59,7 @@
     "comfort-food",
     "dutch",
     "one-pot",
-    "pasta",
-    "vegan"
+    "pasta"
   ],
   "nutrition": {
     "calories": 420,
@@ -87,5 +84,9 @@
     "mainIngredient": "manchego",
     "descriptor": "Xtra velvety",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -72,7 +72,6 @@
   "tags": [
     "breakfast",
     "easy-to-make",
-    "gluten-free",
     "healthy",
     "one-pan",
     "turkish",
@@ -102,5 +101,9 @@
     "mainIngredient": "millet",
     "descriptor": "Xeriscape Springy",
     "dishForm": "Kisir"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

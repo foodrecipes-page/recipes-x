@@ -66,7 +66,9 @@
     "Add the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the meat is tender.",
     "Stir in the pickle relish and continue to simmer for 10 minutes.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 160,
@@ -103,5 +105,10 @@
     "mainIngredient": "hind shank",
     "descriptor": "Xtra lazy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

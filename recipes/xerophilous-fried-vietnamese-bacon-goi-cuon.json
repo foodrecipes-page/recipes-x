@@ -3,7 +3,6 @@
   "description": "A savory, flaky, and festive Vietnamese dish featuring crispy bacon lardon, perfect for slow-cooked vegetarian delights. This goi cuon recipe is a unique twist on the traditional dish, featuring a slate-tile vessel.",
   "cuisine": "vietnamese",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -75,7 +74,8 @@
     "Serve the goi cuon on a slate-tile vessel with the fried shallots and toasted peanuts on the side, accompanied by a side of Vietnamese dipping sauce for serving.",
     "Refrigerate the goi cuon for at least 30 minutes to allow the flavors to meld together before serving.",
     "Cook the goi cuon in a deep frying pan with about 1-2 inches of vegetable oil over medium-high heat until golden brown and crispy, about 3-4 minutes on each side, flipping occasionally.",
-    "Drain the goi cuon on paper towels and serve hot."
+    "Drain the goi cuon on paper towels and serve hot.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -111,5 +111,10 @@
     "mainIngredient": "Bacon",
     "descriptor": "Xerophilous Fried",
     "dishForm": "Goi Cuon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-preserving_no_acid"
+  ]
 }

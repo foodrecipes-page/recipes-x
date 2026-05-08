@@ -54,7 +54,8 @@
     "Pour the whole milk over the cheese.",
     "Fold the edges of the dough up over the filling, pressing gently to seal.",
     "Place the skillet in the preheated oven and bake for 25 minutes.",
-    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+    "Remove the skillet from the oven and let it cool for a few minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -92,5 +93,9 @@
     "mainIngredient": "dough",
     "descriptor": "Xtra Molten",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

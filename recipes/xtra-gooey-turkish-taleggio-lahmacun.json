@@ -2,9 +2,7 @@
   "title": "Xtra Gooey Turkish Taleggio Lahmacun",
   "description": "A salty and gooey Turkish dish featuring taleggio cheese, perfect for a post-workout meal. This lacquer-glaze lahmacun is kosher-friendly and made with high-quality ingredients.",
   "cuisine": "Turkish",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -94,5 +92,9 @@
     "mainIngredient": "Taleggio",
     "descriptor": "Xtra Gooey",
     "dishForm": "Lahmacun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Xtra Rich Australian Pita Bread Wrap",
   "description": "A rich and energizing Australian dish featuring pita bread and a mother-sauce-base, perfect for a satisfying lunch, and is vegan-friendly.",
   "cuisine": "Australian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -69,8 +67,7 @@
     "healthy",
     "lunch",
     "pita",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 550,
@@ -95,5 +92,9 @@
     "mainIngredient": "pita bread",
     "descriptor": "Xtra Rich",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

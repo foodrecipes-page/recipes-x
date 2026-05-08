@@ -51,7 +51,8 @@
     "Roast the duck legs and vegetables in the preheated oven for 45 minutes.",
     "Baste the duck legs with the pan juices and continue roasting for an additional 20 minutes.",
     "Remove the roasting pan from the oven and let the duck legs rest for 10 minutes before serving.",
-    "Serve the roasted duck legs with the carrots and potatoes, spooning some of the pan juices over the top."
+    "Serve the roasted duck legs with the carrots and potatoes, spooning some of the pan juices over the top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 65,
@@ -89,5 +90,9 @@
     "mainIngredient": "duck legs",
     "descriptor": "Xtra Dense Roasted",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

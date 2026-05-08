@@ -60,7 +60,8 @@
     "Add the chicken broth, salt, and black pepper, and stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and cover the saucepan.",
     "Simmer for 20 minutes, or until the liquid has been absorbed and the rice is tender.",
-    "Fluff the pilaf with a fork and garnish with chopped parsley, if desired."
+    "Fluff the pilaf with a fork and garnish with chopped parsley, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -98,5 +99,9 @@
     "mainIngredient": "rice",
     "descriptor": "xeriscent comforting",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

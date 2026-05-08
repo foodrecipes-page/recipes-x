@@ -2,10 +2,7 @@
   "title": "Xtra Crunchy Chinese Almond Noodles",
   "description": "A pungent and adventurous Chinese dish featuring flaked almonds and a glassy-jelly texture, this recipe is egg-free-friendly and perfect for those looking to try something new. It combines the crunch of almonds with the savory flavor of Chinese noodles.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,5 +98,10 @@
     "mainIngredient": "almonds",
     "descriptor": "Xtra Crunchy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

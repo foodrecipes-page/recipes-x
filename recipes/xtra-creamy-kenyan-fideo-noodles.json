@@ -3,8 +3,7 @@
   "description": "A nut-free, creamy, and comforting Kenyan dish featuring fideo noodles, perfect for a sick day, with a rich and nutty flavor from caramelized onions. This dish is a twist on traditional Kenyan cuisine, made with easily accessible ingredients.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -84,11 +83,16 @@
     "mood": "sick-day",
     "technique": "caramelize",
     "primaryIngredient": "fideo",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Kenyan",
     "mainIngredient": "fideo",
     "descriptor": "Xtra creamy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A sweet and savory Mexican dish featuring blueberries, roast, and ayurvedic-tamasic-friendly ingredients, this nostalgic Sonoran-inspired recipe is a unique twist on traditional tacos. The jammy and juicy blueberries add a burst of flavor and texture to this delicious dish.",
   "cuisine": "Mexican",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -72,7 +71,6 @@
   "difficulty": "easy",
   "tags": [
     "easy-desserts",
-    "gluten-free",
     "mexican-inspired",
     "summer-recipes",
     "vegetarian-friendly"
@@ -100,5 +98,9 @@
     "mainIngredient": "blueberries",
     "descriptor": "Xtra Juicy",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

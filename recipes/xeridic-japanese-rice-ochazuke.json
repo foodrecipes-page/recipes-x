@@ -49,7 +49,8 @@
     "For a more intense flavor, allow the ochazuke to cool and refrigerate for at least 2 hours before serving.",
     "To reheat, simply microwave or reheat on the stovetop, as desired.",
     "Experiment with different flavor combinations, such as adding diced green onions or grated ginger for added depth and complexity.",
-    "For a more substantial meal, serve the ochazuke with grilled chicken or fish, or as a side dish for a Japanese-style meal."
+    "For a more substantial meal, serve the ochazuke with grilled chicken or fish, or as a side dish for a Japanese-style meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -88,5 +89,9 @@
     "mainIngredient": "rice",
     "descriptor": "xeridic",
     "dishForm": "Ochazuke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

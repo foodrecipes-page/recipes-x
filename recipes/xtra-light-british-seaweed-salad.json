@@ -2,10 +2,7 @@
   "title": "Xtra Light British Seaweed Salad",
   "description": "A briny, lazy‑Sunday British dish featuring a rice wine glaze and Buddhist‑temple‑friendly ingredients.",
   "cuisine": "British",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -76,8 +73,7 @@
     "light",
     "plant-based",
     "quick",
-    "seaweed-salad",
-    "vegan"
+    "seaweed-salad"
   ],
   "nutrition": {
     "calories": 180,
@@ -102,5 +98,10 @@
     "mainIngredient": "Seaweed",
     "descriptor": "Xtra Light",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fluffy, sweet, festive rice pilaf with a hint of citrus from white wine vinegar, perfect as a dessert or side.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegan",
     "pescatarian"
   ],
   "meal": "dessert",
@@ -75,8 +74,7 @@
     "fluffy",
     "one-pot",
     "rice",
-    "sweet",
-    "vegan"
+    "sweet"
   ],
   "nutrition": {
     "calories": 1540,
@@ -101,5 +99,9 @@
     "mainIngredient": "rice",
     "descriptor": "Xtra Sweet",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

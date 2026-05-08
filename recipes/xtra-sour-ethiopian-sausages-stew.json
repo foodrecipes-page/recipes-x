@@ -2,9 +2,7 @@
   "title": "Xtra Sour Ethiopian Sausages Stew",
   "description": "A sour and gooey Ethiopian stew featuring kabanos sausages, perfect for a weeknight dinner, and pescatarian-friendly by using fish-based broth and skipping traditional meat ingredients.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
     "ethiopian",
     "gooey",
     "one-pot",
-    "pescatarian",
     "sour",
     "weeknight"
   ],
@@ -90,5 +87,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Xtra Sour",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

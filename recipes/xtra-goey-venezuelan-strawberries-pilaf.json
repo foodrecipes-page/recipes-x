@@ -78,7 +78,8 @@
     "add the strawberries, chicken broth, coconut milk, rice vinegar, salt, and black pepper",
     "bring the mixture to a simmer and cook, stirring occasionally, until the strawberries have broken down and the liquid has thickened, about 10 minutes",
     "stir in the fried onions and cook for 1 minute",
-    "garnish with chopped cilantro and serve hot"
+    "garnish with chopped cilantro and serve hot",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -89,7 +90,6 @@
     "grassy",
     "lazy-sunday",
     "morning-dish",
-    "vegan",
     "venezuelan"
   ],
   "nutrition": {
@@ -115,5 +115,10 @@
     "mainIngredient": "strawberries",
     "descriptor": "xtra-goey",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "added-safety-poultry_no_temp"
+  ]
 }

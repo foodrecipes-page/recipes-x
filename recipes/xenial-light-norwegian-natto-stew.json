@@ -3,8 +3,7 @@
   "description": "A briny and light Norwegian post-workout stew featuring natto, cooked in a clay pot, suitable for a satvik diet. This dish is easy to prepare and packed with nutrients.",
   "cuisine": "Norwegian",
   "diet": [
-    "satvik",
-    "vegetarian"
+    "satvik"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -107,5 +106,9 @@
     "mainIngredient": "natto",
     "descriptor": "Xenial light",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A hearty, cultural dish from Croatia featuring a dense and rich ragù filled with garlic and topped with a crispy spherified crust. Perfect for a cold winter evening.",
   "cuisine": "croatian",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -81,7 +80,9 @@
     "Add the cooked pasta to the ragù and stir to combine.",
     "Transfer the ragù to a baking dish and top with grated parmesan.",
     "If using spherified milk powder, sprinkle it over the parmesan.",
-    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -120,5 +121,11 @@
     "mainIngredient": "Ragù",
     "descriptor": "X-tra Dense",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

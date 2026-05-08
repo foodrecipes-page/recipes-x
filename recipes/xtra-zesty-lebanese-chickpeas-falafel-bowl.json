@@ -3,7 +3,6 @@
   "description": "A spicy, cheese‑pull, one‑pot Lebanese falafel bowl that bursts with orange zest and dashi flavor, served in a copper mug for a dramatic presentation.",
   "cuisine": "Lebanese",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "lunch",
@@ -100,5 +99,9 @@
     "mainIngredient": "Chickpeas",
     "descriptor": "Xtra Zesty",
     "dishForm": "Falafel Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

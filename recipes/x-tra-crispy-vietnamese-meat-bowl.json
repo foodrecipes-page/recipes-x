@@ -73,7 +73,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vietnamese",
@@ -102,5 +101,9 @@
     "mainIngredient": "meat",
     "descriptor": "x-tra crispy",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

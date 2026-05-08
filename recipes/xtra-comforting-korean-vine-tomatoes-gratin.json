@@ -3,8 +3,7 @@
   "description": "A rich and light Korean dish featuring vine tomatoes, beurre-monte, and low-glycemic-friendly ingredients, inspired by the Gyeongsang cuisine.",
   "cuisine": "Korean",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -95,5 +94,9 @@
     "mainIngredient": "vine tomatoes",
     "descriptor": "Xtra comforting",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:07Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }
