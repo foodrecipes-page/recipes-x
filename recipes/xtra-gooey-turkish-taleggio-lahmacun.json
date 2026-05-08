@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Gooey Turkish Taleggio Lahmacun",
+  "description": "A salty and gooey Turkish dish featuring taleggio cheese, perfect for a post-workout meal. This lacquer-glaze lahmacun is kosher-friendly and made with high-quality ingredients.",
+  "cuisine": "Turkish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced lamb",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the olive oil and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a thin circle.",
+    "Place the circles on a baking sheet lined with parchment paper.",
+    "Spread a quarter of the softened taleggio cheese on each circle, leaving a 1-inch border around the edges.",
+    "Top the cheese with a quarter of the minced lamb and chopped onion.",
+    "Drizzle the lacquer glaze over the lamb and onion.",
+    "Bake the lahmacun in the preheated oven for 15 minutes, or until the crust is golden brown and the cheese is melted and gooey."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "gooey-cheese",
+    "kosher-friendly",
+    "lacquer-glaze",
+    "post-workout",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xtra-gooey-turkish-taleggio-lahmacun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-gooey-turkish-taleggio-lahmacun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:45:58Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "taleggio",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Xtra Gooey",
+    "dishForm": "Lahmacun"
+  }
+}
