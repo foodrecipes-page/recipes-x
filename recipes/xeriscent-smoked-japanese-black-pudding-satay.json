@@ -1,0 +1,123 @@
+{
+  "title": "xeriscent smoked japanese black pudding satay",
+  "description": "a mediterranean-friendly chugoku dish featuring black pudding, sous-vide and a robata-grill, ideal for hangover remedy. this dish is rich in protein, perfect for post-party breakfast.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "japanese black pudding",
+      "amount": "200g"
+    },
+    {
+      "name": "sous-vide machine",
+      "amount": ""
+    },
+    {
+      "name": "black sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "2g, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2g, minced"
+    },
+    {
+      "name": "green chili",
+      "amount": "1g, minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sushi vinegar rice",
+      "amount": "100g"
+    },
+    {
+      "name": "water",
+      "amount": "100g"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "6-8"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "prepare the ingredients: peel and mince the ginger, garlic and green chili.",
+    "mix the cocoa powder and black sesame oil together in a bowl.",
+    "submerge the black pudding in the cocoa powder mixture and coat evenly.",
+    "place the coated black pudding on the bamboo skewers.",
+    "place the sushi vinegar rice on the skewers around the black pudding.",
+    "season the rice with soy sauce, mirin, rice vinegar and sugar.",
+    "place the skewers in the sous-vide machine and cook at 85°C for 1 hour.",
+    "grill the skewers over a robata-grill for 2 minutes on each side.",
+    "cut the skewers into bite-sized pieces and serve with yuzu juice.",
+    "serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 67,
+  "totalTimeMin": 87,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "chugoku",
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "satay",
+    "smoked-meat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 48,
+    "carbs": 60,
+    "fat": 38
+  },
+  "slug": "xeriscent-smoked-japanese-black-pudding-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscent-smoked-japanese-black-pudding-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:15:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "black pudding",
+    "diet": "mediterranean",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Black Pudding",
+    "descriptor": "Xeriscent Smoked",
+    "dishForm": "Satay"
+  }
+}
