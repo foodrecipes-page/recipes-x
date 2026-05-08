@@ -1,0 +1,111 @@
+{
+  "title": "Xtra Hearty Australian Chicken Biryani",
+  "description": "A flavorful and nutritious Australian dish featuring basmati rice, chicken, and earthy spices, perfect for a hangover cure or a hearty meal. This low-glycemic-friendly recipe is made with wholesome ingredients and cooked to perfection using the dum method.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large saucepan over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the grated carrot and chopped zucchini and cook for 2 minutes.",
+    "Add the chicken breast pieces and cook until they are browned on all sides.",
+    "Add the coriander powder, turmeric powder, and salt, and stir well.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Add the basmati rice and stir well to combine.",
+    "Reduce the heat to low, cover the saucepan with a tight-fitting lid, and cook using the dum method for 20 minutes.",
+    "Turn off the heat and let the biryani rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "chicken",
+    "gluten-free",
+    "hearty",
+    "low-glycemic",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "xtra-hearty-australian-chicken-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-hearty-australian-chicken-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:18:20Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "basmati rice",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Hearty",
+    "dishForm": "Biryani"
+  }
+}

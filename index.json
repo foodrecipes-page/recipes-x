@@ -5091,6 +5091,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-hearty-australian-chicken-biryani",
+    "title": "Xtra Hearty Australian Chicken Biryani",
+    "tags": [
+      "australian",
+      "chicken",
+      "gluten-free",
+      "hearty",
+      "low-glycemic",
+      "one-pan"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-hearty-irish-lamb-stew",
     "title": "Xtra Hearty Irish Lamb Stew",
     "tags": [
