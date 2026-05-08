@@ -2560,6 +2560,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-chewy-italian-muffins",
+    "title": "Xtra Chewy Italian Muffins",
+    "tags": [
+      "chewy-muffins",
+      "diabetic-friendly",
+      "healthy-option",
+      "italian-food",
+      "quick-snack",
+      "tandoor-cooking"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-chewy-kenyan-asparagus-skillet",
     "title": "Xtra Chewy Kenyan Asparagus Skillet",
     "tags": [

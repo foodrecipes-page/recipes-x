@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Chewy Italian Muffins",
+  "description": "A quick-fix Italian dish featuring chewy muffins marinated in a peppery sauce, cooked in a tandoor clay pot and suitable for diabetics.",
+  "cuisine": "Italian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups",
+      "notes": "preferably stone ground"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, baking powder, salt, and black pepper.",
+    "Add the olive oil and marinara sauce to the dry ingredients and stir until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Place the balls into the preheated tandoor clay pot and bake for 15 minutes.",
+    "Remove the muffins from the pot and let them cool for 5 minutes.",
+    "Sprinkle the grated parmesan cheese and chopped parsley over the muffins and serve.",
+    "Serve the muffins warm, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chewy-muffins",
+    "diabetic-friendly",
+    "healthy-option",
+    "italian-food",
+    "quick-snack",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-chewy-italian-muffins",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-chewy-italian-muffins",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:19:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "marinate",
+    "primaryIngredient": "muffins",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "muffins",
+    "descriptor": "Xtra Chewy",
+    "dishForm": "Muffins"
+  }
+}
