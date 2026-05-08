@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Roasted Filipino Cheese Casserole",
+  "description": "A kid-friendly Filipino dish featuring muscovado sugar, this casserole is roasted to perfection in a ttukbaegi earthenware cookware, making it a great option for a Buddhist temple gathering.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "muscovado sugar",
+      "amount": "1 cup",
+      "notes": "dark brown sugar"
+    },
+    {
+      "name": "edam cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "macaroni",
+      "amount": "1 pound",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the cooked macaroni, muscovado sugar, and melted butter.",
+    "In a separate bowl, whisk together the flour, eggs, salt, and black pepper.",
+    "Add the shredded edam cheese to the egg mixture and stir until well combined.",
+    "Add the cheese mixture to the macaroni mixture and stir until the macaroni is well coated.",
+    "Transfer the mixture to a ttukbaegi earthenware cookware or a 9x13 inch baking dish.",
+    "Bake the casserole in the preheated oven for 35 minutes or until the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "filipino-food",
+    "kid-friendly",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xtra-roasted-filipino-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-filipino-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:39:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra Roasted",
+    "dishForm": "Casserole"
+  }
+}
