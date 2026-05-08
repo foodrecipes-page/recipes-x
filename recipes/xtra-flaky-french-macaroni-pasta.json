@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Flaky French Macaroni Pasta",
+  "description": "A salty, flaky, and comforting French dish featuring macaroni, perfect for a sick day, made with low-glycemic ingredients and cooked on a cedar plank.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Bring a large pot of salted water to a boil and cook the macaroni according to the package instructions until al dente.",
+    "In a large saucepan, whisk together the unsalted butter, sea salt, black pepper, and garlic powder over medium heat until the butter is melted.",
+    "Add the heavy cream to the saucepan and whisk until smooth.",
+    "Remove the saucepan from the heat and stir in the shredded gruyere cheese until melted and smooth.",
+    "Drain the cooked macaroni and add it to the cheese sauce, stirring until well combined.",
+    "Transfer the macaroni mixture to a cedar plank and top with chopped fresh parsley.",
+    "Bake the macaroni in the preheated oven for 15 minutes, or until the top is golden brown and the macaroni is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "comfort-food",
+    "french-cuisine",
+    "gluten-free",
+    "low-glycemic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "xtra-flaky-french-macaroni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-french-macaroni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:39:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "macaroni",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "macaroni",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Pasta"
+  }
+}
