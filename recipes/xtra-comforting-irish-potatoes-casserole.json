@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Comforting Irish Potatoes Casserole",
+  "description": "A sweet and springy Irish dish featuring floury potatoes, this casserole is perfect for a comforting meal. It is ovo-vegetarian-friendly and features salt-baked potatoes.",
+  "cuisine": "Irish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "floury potatoes",
+      "amount": "4 large",
+      "notes": "such as Russet or Idaho"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Peel and slice the potatoes into 1/4 inch thick rounds.",
+    "In a large bowl, combine the sliced potatoes and melted butter, tossing to coat.",
+    "In a separate bowl, mix together the brown sugar, granulated sugar, eggs, salt, and black pepper.",
+    "Add the sugar and egg mixture to the potatoes and toss to combine.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "Bake the casserole for 45 minutes, or until the potatoes are tender and the top is lightly browned.",
+    "Remove the casserole from the oven and sprinkle with chopped scallions, if using.",
+    "Return the casserole to the oven and bake for an additional 10 minutes, or until the scallions are lightly browned.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-dish",
+    "ovo-vegetarian",
+    "potato-casserole",
+    "springy-texture",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "xtra-comforting-irish-potatoes-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-comforting-irish-potatoes-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:31:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "salt-bake",
+    "primaryIngredient": "floury potatoes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Xtra comforting",
+    "dishForm": "Casserole"
+  }
+}

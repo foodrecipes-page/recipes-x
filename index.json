@@ -2588,6 +2588,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-comforting-irish-potatoes-casserole",
+    "title": "Xtra Comforting Irish Potatoes Casserole",
+    "tags": [
+      "comfort-food",
+      "irish-dish",
+      "ovo-vegetarian",
+      "potato-casserole",
+      "springy-texture",
+      "sweet-and-savory"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 75,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-comforting-korean-vine-tomatoes-gratin",
     "title": "Xtra Comforting Korean Vine Tomatoes Gratin",
     "tags": [
@@ -3884,6 +3899,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-fluffy-egyptian-rice-pilaf",
+    "title": "Xtra Fluffy Egyptian Rice Pilaf",
+    "tags": [
+      "gluten-free",
+      "middle-eastern",
+      "one-pan",
+      "rice-bowl",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {

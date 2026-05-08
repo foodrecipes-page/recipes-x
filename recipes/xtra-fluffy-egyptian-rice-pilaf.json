@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Fluffy Egyptian Rice Pilaf",
+  "description": "A peppery and fluffy Egyptian dish featuring Carnaroli rice, Ssam wrap, and gluten-free friendly ingredients, this pilaf is a nostalgic treat for the senses. It is a perfect side dish for any meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4 sheets",
+      "notes": "cut into strips"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the rice and cook for 2 minutes, stirring constantly.",
+    "Add the water, salt, and pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Remove from heat and let it rest for 5 minutes.",
+    "Fluff the rice with a fork and stir in the Ssam wrap strips.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "rice-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "xtra-fluffy-egyptian-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-egyptian-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:32:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "rice",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Pilaf"
+  }
+}
