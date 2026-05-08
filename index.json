@@ -2619,6 +2619,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-cheesy-mexican-epoisses-quesadilla",
+    "title": "Xtra Cheesy Mexican Epoisses Quesadilla",
+    "tags": [
+      "cheesy",
+      "fodmap-friendly",
+      "mexican",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-cheesy-ukrainian-haricot-bean-casserole",
     "title": "Xtra Cheesy Ukrainian Haricot Bean Casserole",
     "tags": [

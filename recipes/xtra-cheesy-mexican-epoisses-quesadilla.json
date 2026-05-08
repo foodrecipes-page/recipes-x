@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Cheesy Mexican Epoisses Quesadilla",
+  "description": "A nostalgic Oaxacan dish featuring epoisses and ferment jang, this recipe brings a citrusy twist to the classic Mexican quesadilla, with a focus on cheese pull and fodmap friendly ingredients, cooked to perfection in a ceramic tagine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "fodmap friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Ferment jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "4 large"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Oaxacan cheese",
+      "amount": "4 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the ceramic tagine over medium heat, adding the olive oil to coat the bottom.",
+    "In a bowl, mix together the softened epoisses cheese, ferment jang, and lime juice until well combined.",
+    "Add the chopped cilantro, salt, and black pepper to the cheese mixture and stir until the cilantro is evenly distributed.",
+    "Place a large corn tortilla in the tagine and sprinkle a quarter of the cheese mixture onto half of the tortilla.",
+    "Sprinkle a quarter of the shredded Oaxacan cheese over the epoisses mixture.",
+    "Fold the tortilla in half to enclose the cheese, and cook for 2-3 minutes or until the tortilla is lightly browned and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also lightly browned.",
+    "Repeat the process with the remaining tortillas and cheese mixture.",
+    "Cut the quesadillas into wedges and serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "fodmap-friendly",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 32,
+    "fat": 25
+  },
+  "slug": "xtra-cheesy-mexican-epoisses-quesadilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-cheesy-mexican-epoisses-quesadilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:40:03Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "epoisses",
+    "diet": "fodmap",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "epoisses",
+    "descriptor": "Xtra cheesy",
+    "dishForm": "Quesadilla"
+  }
+}
