@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Salty Middle Eastern Cheese Knafeh",
+  "description": "A salty and aerated Middle Eastern dish featuring doenjang and miso-marinate, perfect for a lazy Sunday, this gluten-free friendly Knafeh is a unique twist on traditional desserts",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "knafeh dough",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "doenjang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded, salty"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Thaw the knafeh dough according to package instructions.",
+    "In a small bowl, mix together the doenjang, miso paste, and melted butter.",
+    "Spread the dough into a large baking dish and brush with the doenjang mixture.",
+    "Sprinkle the shredded cheese over the dough, making sure to cover the entire surface.",
+    "In a separate bowl, whisk together the rose water, orange blossom water, salt, and sugar.",
+    "Pour the sugar mixture over the cheese, followed by the heavy cream and eggs.",
+    "Bake the knafeh for 35 minutes, or until golden brown.",
+    "Remove the knafeh from the oven and let it cool for 10 minutes before serving.",
+    "Serve warm, garnished with additional cheese and sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "dessert",
+    "gluten-free",
+    "lazy-sunday",
+    "middle-eastern",
+    "salty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "xtra-salty-middle-eastern-cheese-knafeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-salty-middle-eastern-cheese-knafeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:00:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "miso-marinate",
+    "primaryIngredient": "doenjang",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra Salty",
+    "dishForm": "Knafeh"
+  }
+}

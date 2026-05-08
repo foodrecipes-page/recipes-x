@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Citrusy Peruvian Seitan Seco De Cordero",
+  "description": "A plant-based Peruvian dish featuring seitan, star anise, and citrus flavors, wrapped in lotus leaves for a fun and kid-friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 pound",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole pods"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dum",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together orange juice, lime juice, and dum, if using.",
+    "Add the seitan to the bowl and marinate for at least 30 minutes.",
+    "In a small pan, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the star anise pods to the pan and cook for 1 minute.",
+    "Remove the seitan from the marinade and add it to the pan, cooking until browned on all sides.",
+    "Wrap each piece of seitan in a lotus leaf, spooning some of the cooking liquid and garlic over the top.",
+    "Place the wrapped seitan on a baking sheet and bake for 20 minutes.",
+    "Serve the seitan hot, garnished with additional citrus slices and star anise pods, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy-dishes",
+    "kid-friendly-meals",
+    "lotus-leaf-wraps",
+    "peruvian-food",
+    "seitan-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-citrusy-peruvian-seitan-seco-de-cordero",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-citrusy-peruvian-seitan-seco-de-cordero",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:00:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "star anise",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "seitan",
+    "descriptor": "Xtra Citrusy",
+    "dishForm": "Seco De Cordero"
+  }
+}
