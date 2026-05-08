@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Nutty British Lamb Welsh Rarebit",
+  "description": "A kid-friendly British dish featuring lamb, with a nutty and springy texture, made in a tava-griddle, perfect for a family lunch",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium heat",
+    "Melt 1 tablespoon of butter in the tava-griddle",
+    "Add the katsuramuki-cut lamb and cook until browned, about 5 minutes",
+    "Remove the lamb from the tava-griddle and set aside",
+    "In a bowl, whisk together the flour and milk until smooth",
+    "Add the shredded cheese, chopped walnuts, salt, and black pepper to the bowl and stir until well combined",
+    "Add the remaining 1 tablespoon of butter to the tava-griddle and melt",
+    "Pour the cheese mixture into the tava-griddle and cook until the bottom is golden brown, about 5 minutes",
+    "Add the cooked lamb on top of the cheese mixture and fold the mixture over the lamb",
+    "Cook for an additional 2 minutes, until the cheese is melted and the lamb is heated through"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "kid-friendly",
+    "lamb-recipes",
+    "nutty-dishes",
+    "one-pan-meals",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-nutty-british-lamb-welsh-rarebit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-nutty-british-lamb-welsh-rarebit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:24:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "lamb",
+    "diet": "ayurvedic-tamasic",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Nutty",
+    "dishForm": "Welsh Rarebit"
+  }
+}

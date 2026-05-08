@@ -3879,6 +3879,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-nutty-british-lamb-welsh-rarebit",
+    "title": "Xtra Nutty British Lamb Welsh Rarebit",
+    "tags": [
+      "british-cuisine",
+      "kid-friendly",
+      "lamb-recipes",
+      "nutty-dishes",
+      "one-pan-meals",
+      "weeknight-dinners"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-nutty-canadian-lamb-tagine",
     "title": "Xtra Nutty Canadian Lamb Tagine",
     "tags": [
