@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Chewy Indian Chestnuts Aloo Gobi",
+  "description": "A fermented and chewy post-workout Indian dish featuring chestnuts and aloo gobi, perfect for a snack or dinner",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "2 cups",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Grill the fermented chestnuts for 10 minutes on each side.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped tomato and cook for an additional 2 minutes.",
+    "Add the cauliflower and potatoes to the pan and cook for 10 minutes, stirring occasionally.",
+    "Add the grilled chestnuts, garam masala, cumin, coriander, salt, and pepper to the pan and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "indian-food",
+    "post-workout",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-chewy-indian-chestnuts-aloo-gobi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-chewy-indian-chestnuts-aloo-gobi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:30:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "grill",
+    "primaryIngredient": "chestnuts",
+    "diet": "dash",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Xtra Chewy",
+    "dishForm": "Aloo Gobi"
+  }
+}
