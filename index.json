@@ -2693,6 +2693,19 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-cheesy-canadian-lemon-solo-dinner",
+    "title": "Xtra Cheesy Canadian Lemon Solo-Dinner",
+    "tags": [
+      "canadian",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-cheesy-italian-pork-lasagna",
     "title": "Xtra Cheesy Italian Pork Lasagna",
     "tags": [

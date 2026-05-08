@@ -1,0 +1,118 @@
+{
+  "title": "Xtra Cheesy Canadian Lemon Solo-Dinner",
+  "description": "Rich, cheese-pull, solo-dinner Canadian dish featuring lemongrass stalks, coconut-cream-crack. Perfect for a quick and satisfying flexitarian meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lemongrass stalks",
+      "amount": "4 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a blender or food processor, combine coconut oil, onion, garlic, and lemongrass stalks. Blend until smooth.",
+    "In a medium skillet, cook cauliflower over medium heat until tender, about 5 minutes.",
+    "In a separate bowl, whisk together Greek yogurt, mozzarella cheese, cheddar cheese, salt, and black pepper.",
+    "Grease six 6-ounce ramekins with coconut oil and sprinkle with shredded mozzarella cheese.",
+    "Divide cooked cauliflower among the ramekins, followed by the yogurt-cheese mixture, and top with lemongrass onion mixture.",
+    "Pour coconut cream over the cheese mixture, then sprinkle with additional mozzarella cheese and parsley.",
+    "Bake for 20-25 minutes or until cheese is melted and bubbly.",
+    "Serve immediately and enjoy!",
+    "Let ramekins cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "xtra-cheesy-canadian-lemon-solo-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-cheesy-canadian-lemon-solo-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "lemon",
+    "descriptor": "xtra cheesy",
+    "dishForm": "solo-dinner"
+  }
+}
