@@ -406,6 +406,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenergized-mediterranean-biryani-masala-biryani",
+    "title": "Xenergized Mediterranean Biryani Masala Biryani",
+    "tags": [
+      "air-fried",
+      "high-protein",
+      "ovo-vegetarian",
+      "quick-lunch",
+      "use-lemons"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-algerian-fish-tagine",
     "title": "Xenial Algerian Fish Tagine",
     "tags": [

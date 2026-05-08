@@ -1,0 +1,100 @@
+{
+  "title": "Xenergized Mediterranean Biryani Masala Biryani",
+  "description": "An energizing mediterranean dish featuring biryani masala with an air-fry twist. Perfect for a quick and healthy lunch or dinner.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "3 garlic cloves",
+      "amount": ""
+    },
+    {
+      "name": "2 medium onions, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 cup cherry tomatoes, halved",
+      "amount": ""
+    },
+    {
+      "name": "1 can (400g) chickpeas, rinsed and drained",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup fresh parsley, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup fresh mint leaves, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": ""
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon ground coriander",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in air fryer to 375°F (190°C).",
+    "Add garlic and onions, sauté for 2-3 minutes.",
+    "Stir in cherry tomatoes, chickpeas, parsley, mint, lemon juice, zest, cumin, coriander. Mix well.",
+    "Add rice, cover with lid, cook on air fryer at 375°F (190°C) for 12-15 minutes or until fully cooked.",
+    "Garnish with additional chopped herbs before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "high-protein",
+    "ovo-vegetarian",
+    "quick-lunch",
+    "use-lemons"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "xenergized-mediterranean-biryani-masala-biryani",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenergized-mediterranean-biryani-masala-biryani",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T04:23:12Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "air-fry",
+    "primaryIngredient": "biryani masala",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Biryani Masala",
+    "descriptor": "Xenergized",
+    "dishForm": "Biryani"
+  }
+}
