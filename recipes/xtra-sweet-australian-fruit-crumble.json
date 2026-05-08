@@ -1,0 +1,90 @@
+{
+  "title": "Xtra Sweet Australian Fruit Crumble",
+  "description": "A jammy and crumbly Australian dessert featuring maple syrup, made with long-fermentation-dough and lacto-vegetarian-friendly ingredients, cooked in a salt-block vessel.",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "mixed berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the mixed berries and maple syrup until well combined.",
+    "In a separate bowl, whisk together the long-fermentation-dough, rolled oats, brown sugar, and salt.",
+    "Add the melted unsalted butter to the dry ingredients and mix until a crumbly mixture forms.",
+    "Pour the berry mixture into a salt-block vessel.",
+    "Top the berry mixture with the crumbly mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "fruit-based",
+    "lacto-vegetarian",
+    "maple-syrup",
+    "salt-block",
+    "sweet-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "xtra-sweet-australian-fruit-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sweet-australian-fruit-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:51:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "maple syrup",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fruit",
+    "descriptor": "Xtra Sweet",
+    "dishForm": "Crumble"
+  }
+}

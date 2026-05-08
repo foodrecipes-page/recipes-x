@@ -5475,6 +5475,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-sweet-australian-fruit-crumble",
+    "title": "Xtra Sweet Australian Fruit Crumble",
+    "tags": [
+      "australian-cuisine",
+      "fruit-based",
+      "lacto-vegetarian",
+      "maple-syrup",
+      "salt-block",
+      "sweet-dishes"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-sweet-brazilian-rice-pilaf",
     "title": "Xtra Sweet Brazilian Rice Pilaf",
     "tags": [
