@@ -1,0 +1,99 @@
+{
+  "title": "Xanthous Pillowy British Sea Bass Dolsot Stone Bowl Scones with Clotted Cream",
+  "description": "A show-off British dish featuring pillowy sea bass fillets, served in a Dolsot stone bowl with clotted cream and scones, perfect for a special occasion.",
+  "cuisine": "British",
+  "diet": [
+    "low-fodmap",
+    "fish-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sea Bass Fillets",
+      "amount": "4",
+      "notes": "Fresh, 6 oz each"
+    },
+    {
+      "name": "Scone Mix",
+      "amount": "1 cup",
+      "notes": "Gluten-free, low-fodmap"
+    },
+    {
+      "name": "Clotted Cream",
+      "amount": "8 oz",
+      "notes": "Homemade or store-bought, low-fodmap"
+    },
+    {
+      "name": "Fresh Lemons",
+      "amount": "2",
+      "notes": "Juice and zest"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your Dolsot stone bowl in the oven to 425°F (220°C).",
+    "Season the sea bass fillets with salt, pepper, and a squeeze of fresh lemon juice.",
+    "Add a tablespoon of oil to the hot Dolsot stone bowl and sear the sea bass fillets for 2-3 minutes per side.",
+    "While the sea bass is cooking, prepare the scone mix according to the package instructions.",
+    "Scoop the scone mix into the hot Dolsot stone bowl, around the cooked sea bass fillets.",
+    "Top the scones with a dollop of homemade or store-bought clotted cream, a sprinkle of fresh dill, and a squeeze of fresh lemon juice.",
+    "Garnish with a sprinkle of garlic powder and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "clotted-cream",
+    "dolsot-stone-bowl",
+    "low-fodmap",
+    "scones",
+    "sea-bass",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "xanthous-pillowy-british-sea-bass-dolsot-stone-bowl-scones-with-clotted-cream",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-pillowy-british-sea-bass-dolsot-stone-bowl-scones-with-clotted-cream",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:37:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "fold",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "fodmap",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "sea bass",
+    "descriptor": "xanthous, pillowy",
+    "dishForm": "Dolsot Stone Bowl Scones with Clotted Cream"
+  }
+}

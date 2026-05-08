@@ -1,0 +1,99 @@
+{
+  "title": "Xeriscape Shaggy Peruvian Lettuce Salad",
+  "description": "A fresh, grassy Peruvian-inspired lettuce salad with a mirepoix base, perfect for a solo dinner.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "little gem lettuce",
+      "amount": "4 heads"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "orange bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Cut the little gem lettuce into wedges and set aside.",
+    "Peel and thinly slice the red onion and red bell pepper.",
+    "Seed and thinly slice the orange bell pepper.",
+    "In a large bowl, whisk together the red wine vinegar and olive oil.",
+    "Add the sliced onion, red bell pepper, and orange bell pepper to the bowl and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Add the chopped cilantro to the bowl and toss to combine.",
+    "Arrange the lettuce wedges on a platter and spoon the mirepoix mixture over the top.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lettuce",
+    "mirepoix",
+    "one-pan",
+    "peruvian",
+    "salad",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 9
+  },
+  "slug": "xeriscape-shaggy-peruvian-lettuce-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-shaggy-peruvian-lettuce-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:37:53Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Xeriscape Shaggy",
+    "dishForm": "Salad"
+  }
+}
