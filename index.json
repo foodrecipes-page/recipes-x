@@ -2768,6 +2768,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-dense-northern-thai-chicken-curry",
+    "title": "Xtra Dense Northern Thai Chicken Curry",
+    "tags": [
+      "chicken-recipe",
+      "lazy-sunday",
+      "one-pot",
+      "pressure-cooker",
+      "shojin-friendly",
+      "thai-curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-dense-roasted-irish-duck-leg-roast",
     "title": "Xtra Dense Roasted Irish Duck Leg Roast",
     "tags": [

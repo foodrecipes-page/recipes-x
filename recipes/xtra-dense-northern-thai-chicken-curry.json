@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Dense Northern Thai Chicken Curry",
+  "description": "A rich and flavorful Northern Thai-inspired chicken curry made with salsa and pressure-cooked to perfection, perfect for a lazy Sunday",
+  "cuisine": "Thai",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the pressure cooker over medium heat",
+    "Add curry paste and cook until fragrant",
+    "Add chicken and cook until browned",
+    "Add salsa, coconut milk, fish sauce, and brown sugar",
+    "Stir well and close the pressure cooker lid",
+    "Cook for 10 minutes and let the pressure release naturally",
+    "Stir in chopped Thai basil",
+    "Serve hot over rice or noodles"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "lazy-sunday",
+    "one-pot",
+    "pressure-cooker",
+    "shojin-friendly",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-dense-northern-thai-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-northern-thai-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:22:16Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "salsa",
+    "diet": "shojin",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Curry"
+  }
+}
