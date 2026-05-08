@@ -1,0 +1,93 @@
+{
+  "title": "Xenial Fluffy Middle Eastern Green Chilli Umm Ali",
+  "description": "A tangy and fluffy Middle Eastern dessert featuring green chilli, made with double-rise-bread and ayurvedic-sattvic-friendly ingredients, served in a salt block vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "green chilli",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "torn into pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pistachio",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a blender, puree the green chilli, coconut milk, and honey until smooth.",
+    "In a large bowl, combine the torn bread, pistachio, cardamom powder, and rose water.",
+    "Pour the green chilli mixture over the bread mixture and stir until well combined.",
+    "Transfer the mixture to a salt block vessel and bake for 25 minutes.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "double-rise-bread",
+    "green-chilli",
+    "middle-eastern",
+    "sattvic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "xenial-fluffy-middle-eastern-green-chilli-umm-ali",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-fluffy-middle-eastern-green-chilli-umm-ali",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:05:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "green chilli",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "green chilli",
+    "descriptor": "Xenial Fluffy",
+    "dishForm": "Umm Ali"
+  }
+}

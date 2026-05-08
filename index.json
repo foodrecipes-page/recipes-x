@@ -823,6 +823,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-fluffy-middle-eastern-green-chilli-umm-ali",
+    "title": "Xenial Fluffy Middle Eastern Green Chilli Umm Ali",
+    "tags": [
+      "dessert",
+      "double-rise-bread",
+      "green-chilli",
+      "middle-eastern",
+      "sattvic",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-hearty-russian-mushroom-pilaf",
     "title": "Xenial Hearty Russian Mushroom Pilaf",
     "tags": [
