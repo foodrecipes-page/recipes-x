@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Creamy Korean Pistachio Hwajeon",
+  "description": "A charred, creamy, and cozy Korean dish featuring pistachio, this Xtra Creamy Korean Pistachio Hwajeon is a unique and delicious hwajeon recipe, steamed to perfection in a ramekin vessel, with an ayurvedic-rajasic friendly twist, making it a great option for a comforting snack or dessert",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pistachio meal",
+      "amount": "1 cup",
+      "notes": "finely ground"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a medium bowl, whisk together pistachio meal, rice flour, cornstarch, sugar, and salt",
+    "In a separate bowl, whisk together melted butter, heavy cream, egg, and water",
+    "Add the wet ingredients to the dry ingredients and mix until just combined",
+    "Pour the batter into 4 ramekins, filling them about 3/4 of the way full",
+    "Place the ramekins in a large steamer basket, leaving about 1 inch of space between each ramekin",
+    "Steam the hwajeon over boiling water for 12 minutes, or until they are cooked through and slightly charred on the bottom",
+    "Remove the hwajeon from the steamer and let them cool for a few minutes",
+    "Serve the Xtra Creamy Korean Pistachio Hwajeon warm, garnished with additional pistachio meal if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean-food",
+    "pistachio-recipes",
+    "ramekin-recipes",
+    "snack-ideas",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "xtra-creamy-korean-pistachio-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-korean-pistachio-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:26:48Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "pistachio",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pistachio",
+    "descriptor": "Xtra Creamy",
+    "dishForm": "Hwajeon"
+  }
+}

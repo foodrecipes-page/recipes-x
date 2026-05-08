@@ -2573,6 +2573,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-korean-pistachio-hwajeon",
+    "title": "Xtra Creamy Korean Pistachio Hwajeon",
+    "tags": [
+      "comfort-food",
+      "korean-food",
+      "pistachio-recipes",
+      "ramekin-recipes",
+      "snack-ideas",
+      "steamed-dishes"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 32,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-mediterranean-celeriac-pasta",
     "title": "Xtra Creamy Mediterranean Celeriac Pasta",
     "tags": [
@@ -4057,6 +4072,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-juicy-middle-eastern-cabbage-harees",
+    "title": "Xtra Juicy Middle Eastern Cabbage Harees",
+    "tags": [
+      "gluten-free",
+      "healthy-snack",
+      "low-carb",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
