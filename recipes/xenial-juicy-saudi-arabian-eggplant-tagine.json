@@ -1,0 +1,101 @@
+{
+  "title": "Xenial Juicy Saudi Arabian Eggplant Tagine",
+  "description": "A winey and juicy Saudi Arabian dish featuring miniature marshmallows, perfect for a brunch mood, this ovo-vegetarian friendly recipe is a unique twist on traditional tagine.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the cubed eggplant and cook until it is tender, about 10 minutes.",
+    "Add the red wine, tomato paste, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the miniature marshmallows and cook until they are melted and the sauce is thickened, about 5 minutes.",
+    "Crack in the eggs and scramble them into the sauce.",
+    "Serve the tagine hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xenial-juicy-saudi-arabian-eggplant-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-juicy-saudi-arabian-eggplant-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:54:21Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Xenial Juicy",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Spicy Jamaican Chicken Skewers",
+  "description": "A low-calorie, cultured dish featuring white wine and a cheese-pull, perfect for a date night, this Jamaican recipe is a must-try for any occasion.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together white wine, scotch bonnet peppers, allspice, thyme, garlic powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat.",
+    "Thread the chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "While the chicken is cooking, knead the feta cheese to make it pliable.",
+    "Once the chicken is cooked, brush with additional white wine and top with the kneaded feta cheese.",
+    "Return the skewers to the grill for an additional 1-2 minutes, until the cheese is melted and slightly browned.",
+    "Remove the skewers from the grill and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "date-night",
+    "grilled-chicken",
+    "jamaican-cuisine",
+    "low-calorie",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "xtra-spicy-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:53:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "white wine",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra spicy",
+    "dishForm": "Skewers"
+  }
+}

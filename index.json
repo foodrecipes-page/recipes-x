@@ -1050,6 +1050,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-juicy-saudi-arabian-eggplant-tagine",
+    "title": "Xenial Juicy Saudi Arabian Eggplant Tagine",
+    "tags": [
+      "brunch",
+      "middle-eastern",
+      "one-pan",
+      "vegetarian",
+      "wine-based"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-korean-pork-belly-stir-fry",
     "title": "Xenial Korean Pork Belly Stir-Fry",
     "tags": [
@@ -6335,6 +6349,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-jamaican-chicken-skewers",
+    "title": "Xtra Spicy Jamaican Chicken Skewers",
+    "tags": [
+      "cheese-pull",
+      "date-night",
+      "grilled-chicken",
+      "jamaican-cuisine",
+      "low-calorie",
+      "spicy-food"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
