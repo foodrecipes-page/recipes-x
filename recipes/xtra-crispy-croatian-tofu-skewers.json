@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Crispy Croatian Tofu Skewers",
+  "description": "A tangy and flaky Croatian dish featuring tofu, perfect for a crowd, and keto-friendly, cooked to perfection on a yakimono-grill.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, paprika, garlic powder, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and toss to coat with the marinade.",
+    "Thread the marinated tofu onto skewers, leaving a small space between each cube.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the tofu skewers for 10-12 minutes, turning occasionally, until crispy and golden brown.",
+    "Brush the skewers with lemon juice during the last minute of grilling.",
+    "Remove the skewers from the grill and sprinkle with chopped parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "grilled",
+    "keto-friendly",
+    "skewers",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "xtra-crispy-croatian-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-croatian-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:44:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "tofu",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "tofu",
+    "descriptor": "Xtra crispy",
+    "dishForm": "Skewers"
+  }
+}
