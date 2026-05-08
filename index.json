@@ -4549,6 +4549,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-peppery-argentinian-beef-sandwich",
+    "title": "Xtra Peppery Argentinian Beef Sandwich",
+    "tags": [
+      "beef",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "sandwich",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-peppery-piedmontese-paneer-piadina",
     "title": "Xtra Peppery Piedmontese Paneer Piadina",
     "tags": [

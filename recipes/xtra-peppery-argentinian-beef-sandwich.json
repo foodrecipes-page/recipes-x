@@ -1,0 +1,91 @@
+{
+  "title": "Xtra Peppery Argentinian Beef Sandwich",
+  "description": "A peppery and gooey solo dinner featuring garlic sauce and double rise bread, this low carb friendly Argentinian dish is perfect for a solo evening meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grilled beef strips",
+      "amount": "6 oz",
+      "notes": "flank steak or ribeye"
+    },
+    {
+      "name": "double rise bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "garlic sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pepper jack cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coarse black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to 400 degrees Fahrenheit.",
+    "Season the beef strips with coarse black pepper and cook for 5 minutes per side.",
+    "Butter the double rise bread slices on the outside.",
+    "Spread garlic sauce on the inside of the bread slices.",
+    "Assemble the sandwiches by placing the grilled beef strips on the bread, then topping with pepper jack cheese, mayonnaise, diced onion, and diced bell pepper.",
+    "Place the sandwiches in the grill or grill pan and cook for 2 minutes per side, or until the bread is toasted and the cheese is melted.",
+    "Let the sandwiches cool for a minute before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "sandwich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-peppery-argentinian-beef-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-peppery-argentinian-beef-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:31:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "garlic sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra peppery",
+    "dishForm": "Sandwich"
+  }
+}
