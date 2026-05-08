@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Malty Polish Padron Peppers Toast",
+  "description": "A plant-based Polish dish featuring malty flavors, padron peppers, and pillowy texture, perfect for a crowd-pleasing snack, served in a bento-box vessel.",
+  "cuisine": "Polish",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "vegan mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the padron peppers with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the peppers in the oven for 15 minutes, or until slightly charred.",
+    "Toast the whole wheat bread until lightly browned.",
+    "Spread a layer of vegan mayonnaise on each toasted bread slice.",
+    "Top each bread slice with a roasted padron pepper.",
+    "Drizzle malt syrup over the peppers.",
+    "Sprinkle chopped parsley over the top.",
+    "Serve in a bento-box vessel immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "crowd-pleaser",
+    "easy-snack",
+    "malty-flavors",
+    "plant-based",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xtra-malty-polish-padron-peppers-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-malty-polish-padron-peppers-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:44:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "padron peppers",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Xtra malty",
+    "dishForm": "Toast"
+  }
+}

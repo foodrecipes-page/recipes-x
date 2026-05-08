@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Molten American Dough Skillet",
+  "description": "A mustardy, molten, one-pot American dish featuring Dutch stroop and long-fermentation-dough, perfect for a low-sodium friendly meal.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 pound",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "American cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the long-fermentation-dough to a thickness of about 1/4 inch.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Stir in the Dutch stroop, Dijon mustard, and salt-free seasoning.",
+    "Arrange the cooked ground beef mixture in the center of the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the shredded American cheese over the top of the beef mixture.",
+    "Pour the whole milk over the cheese.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Place the skillet in the preheated oven and bake for 25 minutes.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "comfort-food",
+    "family-friendly",
+    "low-sodium",
+    "one-pot",
+    "skillet-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-molten-american-dough-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-molten-american-dough-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:45:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "dutch stroop",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "dough",
+    "descriptor": "Xtra Molten",
+    "dishForm": "Skillet"
+  }
+}

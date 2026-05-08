@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Nutty Thai Papaya Som Tum",
+  "description": "A nutty and chewy Thai dish featuring Jamaican curry powder, this Som Tum is a festive and flavorful twist on traditional papaya salad, with a creamy emulsified dressing. It is dash-friendly and perfect for a quick and delicious meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green papaya",
+      "amount": "2 cups shredded",
+      "notes": "use fresh and firm papaya"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup chopped",
+      "notes": "roasted and unsalted"
+    },
+    {
+      "name": "dried shrimp",
+      "amount": "1/4 cup chopped",
+      "notes": "optional, but recommended for authentic flavor"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "use high-quality fish sauce for best flavor"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "or brown sugar as substitute"
+    },
+    {
+      "name": "chilies",
+      "amount": "2-3 chopped",
+      "notes": "use Thai bird's eye chilies for authentic heat"
+    }
+  ],
+  "instructions": [
+    "In a large mortar and pestle, pound the chilies and peanuts until well combined and fragrant.",
+    "Add the dried shrimp, if using, and pound until well combined.",
+    "Add the shredded green papaya and pound until it starts to break down and release its juices.",
+    "In a small bowl, whisk together the fish sauce, lime juice, and palm sugar until well combined.",
+    "Add the Jamaican curry powder to the bowl and whisk until smooth and emulsified.",
+    "Pour the dressing over the papaya mixture and pound until well coated.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the Som Tum to a serving platter and garnish with additional peanuts and chilies, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "flavorful-dish",
+    "gluten-free",
+    "spicy-food",
+    "thai-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "xtra-nutty-thai-papaya-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-nutty-thai-papaya-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:45:03Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "emulsify",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "papaya",
+    "descriptor": "Xtra Nutty",
+    "dishForm": "Som Tum"
+  }
+}

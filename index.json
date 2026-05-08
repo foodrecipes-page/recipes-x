@@ -502,6 +502,22 @@
     "shard": "x"
   },
   {
+    "slug": "xanthous-yeasty-peruvian-sweet-potato-picarones",
+    "title": "Xanthous Yeasty Peruvian Sweet Potato Picarones",
+    "tags": [
+      "deep-fried",
+      "dessert",
+      "gluten-free",
+      "peruvian",
+      "sweet-potato",
+      "traditional",
+      "yeasty"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xbittersweet-goozy-new-potatoes-pudding",
     "title": "Xbittersweet Goozy New Potatoes Pudding",
     "tags": [
@@ -3181,6 +3197,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-malty-polish-padron-peppers-toast",
+    "title": "Xtra Malty Polish Padron Peppers Toast",
+    "tags": [
+      "bento-box",
+      "crowd-pleaser",
+      "easy-snack",
+      "malty-flavors",
+      "plant-based",
+      "polish-cuisine"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-malty-southern-thai-chicken-nam-prik",
     "title": "Xtra Malty Southern Thai Chicken Nam Prik",
     "tags": [
@@ -3193,6 +3224,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-molten-american-dough-skillet",
+    "title": "Xtra Molten American Dough Skillet",
+    "tags": [
+      "american-cuisine",
+      "comfort-food",
+      "family-friendly",
+      "low-sodium",
+      "one-pot",
+      "skillet-meal"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -3223,6 +3269,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 195,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-nutty-thai-papaya-som-tum",
+    "title": "Xtra Nutty Thai Papaya Som Tum",
+    "tags": [
+      "easy-to-make",
+      "flavorful-dish",
+      "gluten-free",
+      "spicy-food",
+      "thai-cuisine",
+      "vegetarian-option"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
