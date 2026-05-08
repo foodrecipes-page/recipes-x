@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Silky Indian Cucumber Bowl",
+  "description": "A light and refreshing Indian dish featuring persian cucumber, with a silky texture and earthy flavors, served in a dolsot stone bowl.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "persian cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the yogurt, lemon juice, ghee, cumin seeds, coriander powder, and salt.",
+    "In a separate bowl, mix together the sodium alginate and water to create a spherification bath.",
+    "Add the sliced cucumber to the spherification bath and let it sit for 30 minutes to allow the sodium alginate to take effect.",
+    "Remove the cucumber slices from the bath and rinse them gently with cold water.",
+    "In a dolsot stone bowl, arrange the cucumber slices in a decorative pattern.",
+    "Spoon the yogurt mixture over the cucumber slices, making sure to cover them evenly.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "To enhance the presentation, add a few spherified cucumber balls to the bowl, if desired.",
+    "Let the dish sit at room temperature for 10 minutes to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy-snack",
+    "indian-cuisine",
+    "refreshing-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "xtra-silky-indian-cucumber-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-indian-cucumber-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:48:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "spherify",
+    "primaryIngredient": "persian cucumber",
+    "diet": "mediterranean",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Xtra silky",
+    "dishForm": "Bowl"
+  }
+}
