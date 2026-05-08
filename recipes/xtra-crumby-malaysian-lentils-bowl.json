@@ -1,0 +1,118 @@
+{
+  "title": "Xtra Crumby Malaysian Lentil Bowl",
+  "description": "Umami and crisp Malaysian dish featuring brown lentils, perfect for a light vegetarian lunch or dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crispy fried shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a medium saucepan over medium-high heat.",
+    "Add the onion, garlic, and ginger. Cook, stirring occasionally, until the onion is translucent, about 5 minutes.",
+    "Add the lemongrass and cook for 1 minute, until fragrant.",
+    "Add the brown lentils, chicken broth, sambal oelek, and fish sauce. Bring to a boil, then reduce the heat to low and simmer, covered, until the lentils are tender, about 20 minutes.",
+    "While the lentils are cooking, heat the remaining 1 tablespoon of coconut oil in a small frying pan over medium-high heat.",
+    "Add the toasted coconut flakes and cook, stirring frequently, until crispy and golden brown, about 2-3 minutes.",
+    "Fluff the cooked lentils with a fork and stir in the crispy fried shallots and chopped cilantro.",
+    "Serve the lentil mixture hot, topped with additional crispy fried shallots and toasted coconut flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lentils",
+    "malaysian-cuisine",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "xtra-crumby-malaysian-lentils-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crumby-malaysian-lentils-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:54:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "brown lentils",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "lentils",
+    "descriptor": "xtra crumby",
+    "dishForm": "Bowl"
+  }
+}
