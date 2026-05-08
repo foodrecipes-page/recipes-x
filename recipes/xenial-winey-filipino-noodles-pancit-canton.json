@@ -1,0 +1,96 @@
+{
+  "title": "Xenial Winey Filipino Noodles Pancit Canton",
+  "description": "A winey and romantic Filipino dish featuring rosemary and salt-bake flavors, served with glassy-jelly noodles, this pancit canton is a unique twist on a classic recipe, with a focus on raw-friendly ingredients and a delicate balance of flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pancit canton noodles",
+      "amount": "1 package",
+      "notes": "preferably glassy-jelly type"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the salt and baking soda.",
+    "Rub the mixture all over the rosemary sprigs and place them on a baking sheet.",
+    "Bake the rosemary in the preheated oven for 10 minutes, or until fragrant.",
+    "In a large pan, heat the vegetable oil over medium heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the white wine to the pan and bring to a simmer.",
+    "Let the wine reduce by half, stirring occasionally, about 5 minutes.",
+    "Add the pancit canton noodles to the pan and toss to coat with the wine sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "glassy-jelly-noodles",
+    "one-pan",
+    "raw-friendly",
+    "rosemary-flavored",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xenial-winey-filipino-noodles-pancit-canton",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-winey-filipino-noodles-pancit-canton",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:27:19Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "salt-bake",
+    "primaryIngredient": "rosemary",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "noodles",
+    "descriptor": "Xenial Winey",
+    "dishForm": "Pancit Canton"
+  }
+}
