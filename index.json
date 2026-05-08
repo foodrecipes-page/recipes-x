@@ -724,6 +724,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-creamy-german-pecan-roast",
+    "title": "Xenial Creamy German Pecan Roast",
+    "tags": [
+      "comfort-food",
+      "german-inspired",
+      "hearty",
+      "one-pan",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-crumbly-french-rice-cake",
     "title": "Xenial Crumbly French Rice Cake",
     "tags": [

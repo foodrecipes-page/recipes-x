@@ -1,0 +1,98 @@
+{
+  "title": "Xenial Creamy German Pecan Roast",
+  "description": "A hearty and comforting German dish featuring roasted vegetables and pecans in a creamy sauce, perfect for a sick day. This vegan-friendly recipe is made with a yeasty bread base.",
+  "cuisine": "German",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "pecans",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegan cream",
+      "amount": "1 cup",
+      "notes": "such as soy or coconut cream"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "to replicate cheesy flavor"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Tear the bread into small pieces and toast until lightly browned.",
+    "In a large bowl, whisk together the vegan cream, nutritional yeast, and smoked paprika.",
+    "Add the toasted bread, chopped pecans, sliced mushrooms, chopped onions, and chopped carrots to the bowl and stir until well combined.",
+    "Transfer the mixture to a baking dish and roast in the preheated oven for 30 minutes.",
+    "Stir the mixture and continue roasting for an additional 20 minutes, or until the top is golden brown.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve hot, garnished with additional chopped pecans if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-inspired",
+    "hearty",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xenial-creamy-german-pecan-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-creamy-german-pecan-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:25:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "pecan nuts",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "Xenial Creamy",
+    "dishForm": "Roast"
+  }
+}
