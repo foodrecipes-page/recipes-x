@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Creamy Kenyan Fideo Noodles",
+  "description": "A nut-free, creamy, and comforting Kenyan dish featuring fideo noodles, perfect for a sick day, with a rich and nutty flavor from caramelized onions. This dish is a twist on traditional Kenyan cuisine, made with easily accessible ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fideo noodles",
+      "amount": "8 oz",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "for caramelizing"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the fideo noodles according to package instructions until al dente.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat and add the sliced onions, cooking until caramelized and golden brown.",
+    "In a separate saucepan, melt the remaining 2 tablespoons of butter over medium heat and whisk in the heavy cream, bringing the mixture to a simmer.",
+    "Reduce the cream mixture by half, stirring constantly, until it thickens and coats the back of a spoon.",
+    "Remove the cream mixture from the heat and stir in the grated cheddar cheese until melted and smooth.",
+    "Add the cooked fideo noodles to the cheese sauce and toss until the noodles are well coated.",
+    "Add the caramelized onions to the noodle mixture and season with salt and black pepper to taste.",
+    "Serve the Xtra Creamy Kenyan Fideo Noodles hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy-sauce",
+    "fideo-noodles",
+    "kenyan-cuisine",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "xtra-creamy-kenyan-fideo-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-kenyan-fideo-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:14:34Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "fideo",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fideo",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Noodles"
+  }
+}

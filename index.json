@@ -2467,6 +2467,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-kenyan-fideo-noodles",
+    "title": "Xtra Creamy Kenyan Fideo Noodles",
+    "tags": [
+      "comfort-food",
+      "creamy-sauce",
+      "fideo-noodles",
+      "kenyan-cuisine",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-kenyan-mackerel-curry",
     "title": "Xtra Creamy Kenyan Mackerel Curry",
     "tags": [
