@@ -1,0 +1,109 @@
+{
+  "title": "Xenial Velvety German Squid Stew",
+  "description": "A hearty one-pot German dish featuring squid, score-fat, and a hint of mustard, this stew is perfect for a cold winter's night. The velvety texture and rich flavors will leave you wanting more.",
+  "cuisine": "German",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with bacon fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "German mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the score-fat in a large pot over medium heat until melted.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrot and potato and cook for an additional 5 minutes.",
+    "Add the squid and cook until browned, about 5 minutes.",
+    "Add the German mustard, chicken broth, white wine, salt, and pepper, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the chopped parsley and serve hot.",
+    "Serve with crusty bread or over egg noodles.",
+    "Refrigerate or freeze leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "one-pot",
+    "pescatarian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xenial-velvety-german-squid-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-velvety-german-squid-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:08:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "score-fat",
+    "primaryIngredient": "squid",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "squid",
+    "descriptor": "xenial velvety",
+    "dishForm": "Stew"
+  }
+}

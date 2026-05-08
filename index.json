@@ -1462,6 +1462,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-velvety-german-squid-stew",
+    "title": "Xenial Velvety German Squid Stew",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "one-pot",
+      "pescatarian",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-velvety-slovakian-fish-stew",
     "title": "Xenial Velvety Slovakian Fish Stew",
     "tags": [
