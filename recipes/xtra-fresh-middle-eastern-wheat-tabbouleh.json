@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Fresh Middle Eastern Wheat Tabbouleh",
+  "description": "A fresh and light Middle Eastern dish featuring whole wheat, perfect for a healthy snack or lunch, this plant-based friendly tabbouleh is a show-off dish for any occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat bulgur",
+      "amount": "1 cup",
+      "notes": "fine bulgur"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 bunch",
+      "notes": "fresh curly leaf"
+    },
+    {
+      "name": "mint",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "diced fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/4 cup",
+      "notes": "rendered plant-based"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur in cold water and soak it in water for 30 minutes.",
+    "Drain and squeeze out excess water from the bulgur.",
+    "Chop the parsley, mint, and scallions finely and mix in a bowl.",
+    "Add the diced tomatoes, lemon juice, olive oil, salt, and black pepper to the bowl and mix well.",
+    "Fluff the soaked bulgur with a fork and add it to the bowl.",
+    "Mix all the ingredients together until they are well combined.",
+    "Stir in the rendered plant-based lardons.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the tabbouleh chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "fresh-ingredients",
+    "healthy-snack",
+    "lunch-idea",
+    "middle-eastern",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "xtra-fresh-middle-eastern-wheat-tabbouleh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fresh-middle-eastern-wheat-tabbouleh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:28:20Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "lardons-render",
+    "primaryIngredient": "whole wheat",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "wheat",
+    "descriptor": "Xtra Fresh",
+    "dishForm": "Tabbouleh"
+  }
+}

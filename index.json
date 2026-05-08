@@ -2261,6 +2261,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-charred-croatian-meat-skillet",
+    "title": "Xtra Charred Croatian Meat Skillet",
+    "tags": [
+      "croatian-cuisine",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-charred-vietnamese-leek-pho",
     "title": "Xtra Charred Vietnamese Leek Pho",
     "tags": [
@@ -3810,6 +3824,21 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-fresh-middle-eastern-wheat-tabbouleh",
+    "title": "Xtra Fresh Middle Eastern Wheat Tabbouleh",
+    "tags": [
+      "easy-to-make",
+      "fresh-ingredients",
+      "healthy-snack",
+      "lunch-idea",
+      "middle-eastern",
+      "plant-based"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {

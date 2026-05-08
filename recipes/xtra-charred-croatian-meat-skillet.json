@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Charred Croatian Meat Skillet",
+  "description": "A hearty one-pot dish featuring charred Croatian sausage and vegetables in a savory oyster sauce, perfect for a weeknight dinner. This recipe is gluten-free friendly and features a cure for added flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cure",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast iron skillet over medium high heat.",
+    "Add the sliced Croatian sausage to the skillet and cook until browned, about 5 minutes.",
+    "Add the chopped onion and bell pepper to the skillet and cook until they start to soften, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the oyster sauce, smoked paprika, salt, black pepper, and cure to the skillet, stirring to combine.",
+    "Continue to cook the mixture for an additional 5 minutes, stirring occasionally, until the sausage is charred and the vegetables are tender.",
+    "Remove the skillet from the heat and let it cool for a few minutes before serving.",
+    "Serve the Xtra Charred Croatian Meat Skillet hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-charred-croatian-meat-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-charred-croatian-meat-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:27:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "oyster sauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "charred crispy",
+    "dishForm": "Skillet"
+  }
+}
