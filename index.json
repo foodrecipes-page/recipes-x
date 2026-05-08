@@ -4483,6 +4483,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-fluffy-filipino-pork-blood-dinuguan",
+    "title": "Xtra Fluffy Filipino Pork Blood Dinuguan",
+    "tags": [
+      "cast-iron-skillet",
+      "dinuguan-recipes",
+      "filipino-food",
+      "flexitarian-friendly",
+      "one-pan",
+      "pork-recipes"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fluffy-french-cheese-souffle",
     "title": "Xtra Fluffy French Cheese Souffle",
     "tags": [
@@ -6570,6 +6585,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 150,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-uruguayan-tempeh-stew",
+    "title": "Xtra Spicy Uruguayan Tempeh Stew",
+    "tags": [
+      "diabetic-friendly",
+      "high-protein",
+      "one-pot",
+      "spicy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
