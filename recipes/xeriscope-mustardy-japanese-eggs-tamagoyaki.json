@@ -1,0 +1,104 @@
+{
+  "title": "Xeriscope Mustardy Japanese Eggs Tamagoyaki",
+  "description": "A cozy Japanese dish from the Tohoku region, featuring a tangy mustard flavor in a delicate tamagoyaki.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium soy sauce recommended"
+    },
+    {
+      "name": "Japanese mustard",
+      "amount": "1 teaspoon",
+      "notes": "Grape or brown mustard blend"
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "1 tablespoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For cooking eggs"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "Use room temperature eggs"
+    },
+    {
+      "name": "Dashi powder",
+      "amount": "1 teaspoon",
+      "notes": "Optional, but recommended for authentic flavor"
+    },
+    {
+      "name": "Sushi vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For flavor and moisture"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together soy sauce, mustard, and sugar until smooth.",
+    "Heat a small non-stick pan over medium heat and brush with sesame oil.",
+    "In a separate bowl, whisk together eggs, dashi powder, and salt.",
+    "Pour the egg mixture into the pan and cook until the bottom is almost set, about 1 minute.",
+    "Use a spatula to gently lift and fold the edges of the egg mixture towards the center.",
+    "Continue cooking and folding the eggs for about 2-3 minutes, until the top is just set and the eggs are cooked through.",
+    "Transfer the tamagoyaki to a serving plate and brush with sushi vinegar.",
+    "Garnish with chopped green onions and serve warm.",
+    "Serve with steamed rice and your favorite Japanese sides for a complete meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "tohoku",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 16,
+    "carbs": 12,
+    "fat": 12
+  },
+  "slug": "xeriscope-mustardy-japanese-eggs-tamagoyaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscope-mustardy-japanese-eggs-tamagoyaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:28:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "fold",
+    "primaryIngredient": "caster sugar",
+    "diet": "plant-based",
+    "region": "tohoku",
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "eggs",
+    "descriptor": "xeriscope mustardy",
+    "dishForm": "Tamagoyaki"
+  }
+}
