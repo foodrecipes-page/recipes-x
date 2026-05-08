@@ -2882,6 +2882,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-vietnamese-ground-beef-noodles",
+    "title": "Xtra Creamy Vietnamese Ground Beef Noodles",
+    "tags": [
+      "diabetic-friendly",
+      "ground-beef",
+      "kid-friendly",
+      "noodle-dish",
+      "one-pot",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crisp-american-chicken-skewers",
     "title": "Xtra Crisp American Chicken Skewers",
     "tags": [
@@ -5680,6 +5695,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-sour-ethiopian-sausages-stew",
+    "title": "Xtra Sour Ethiopian Sausages Stew",
+    "tags": [
+      "comfort-food",
+      "ethiopian",
+      "gooey",
+      "one-pot",
+      "pescatarian",
+      "sour",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-american-chicken-skillet",
     "title": "Xtra Spicy American Chicken Skillet",
     "tags": [
@@ -5742,6 +5773,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-irish-beef-stew",
+    "title": "Xtra Spicy Irish Beef Stew",
+    "tags": [
+      "date-night",
+      "hearty",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-irish-sausage-skillet",
     "title": "Xtra Spicy Irish Sausage Skillet",
     "tags": [
@@ -5797,6 +5843,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-malaysian-chicken-satay",
+    "title": "Xtra Spicy Malaysian Chicken Satay",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {

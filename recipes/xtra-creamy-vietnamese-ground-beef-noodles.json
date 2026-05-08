@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Creamy Vietnamese Ground Beef Noodles",
+  "description": "A salty and creamy Vietnamese dish featuring ground beef and mirepoix-base, suitable for kids and diabetic-friendly, this recipe is a delicious and healthy option for the whole family.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion, grated carrot, and diced celery to the skillet and cook until the vegetables are tender.",
+    "Stir in the fish sauce, soy sauce, salt, and black pepper, and cook for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, stirring occasionally.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Serve the noodles hot, garnished with chopped green onions and a sprinkle of toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "ground-beef",
+    "kid-friendly",
+    "noodle-dish",
+    "one-pot",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xtra-creamy-vietnamese-ground-beef-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-vietnamese-ground-beef-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:16:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "ground beef",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "ground beef",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Noodles"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Sour Ethiopian Sausages Stew",
+  "description": "A sour and gooey Ethiopian stew featuring kabanos sausages, perfect for a weeknight dinner, and pescatarian-friendly by using fish-based broth and skipping traditional meat ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos sausages",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the fish broth in a large pot over medium heat until it starts to simmer.",
+    "Add the sliced kabanos sausages to the pot and cook for 5 minutes.",
+    "In a small bowl, mix the lemon juice and sodium alginate, then slowly pour the mixture into the pot while stirring constantly.",
+    "Add the chopped onion and minced garlic to the pot and cook until the onion is translucent.",
+    "Add the berbere spice to the pot and stir to combine.",
+    "Reduce the heat to low and let the stew simmer for 10 minutes.",
+    "Using a syringe or spoon, drop small amounts of the stew mixture into a bath of cold water to spherify the sauce.",
+    "Serve the stew hot, garnished with the spherified sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian",
+    "gooey",
+    "one-pot",
+    "pescatarian",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-sour-ethiopian-sausages-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sour-ethiopian-sausages-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:16:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "spherify",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "sausages",
+    "descriptor": "Xtra Sour",
+    "dishForm": "Stew"
+  }
+}
