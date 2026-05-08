@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Gooey Malaysian Chicken Curry",
+  "description": "A quick-fix Malaysian dish featuring coriander leaves and a mustardy flavor, served in a copper mug and suitable for a Buddhist temple gathering.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tandoor masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a copper mug over medium heat.",
+    "Add mustard seeds and let them sizzle for a few seconds.",
+    "Add chopped coriander leaves and saute until fragrant.",
+    "Add chicken breast pieces and cook until they are browned on all sides.",
+    "Add curry powder, tandoor masala, and salt, and stir well.",
+    "Pour in coconut milk and water, and bring to a simmer.",
+    "Reduce heat to low and let the curry simmer for 20 minutes or until the chicken is cooked through.",
+    "Serve hot, garnished with additional coriander leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "copper-mug",
+    "dairy-free",
+    "gluten-free",
+    "malaysian-cuisine",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-gooey-malaysian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-gooey-malaysian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:21:20Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "tandoor",
+    "primaryIngredient": "coriander leaves",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Gooey",
+    "dishForm": "Curry"
+  }
+}
