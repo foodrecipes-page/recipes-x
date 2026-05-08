@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Light Malaysian Rice Flour Bao",
+  "description": "A fresh and shaggy Malaysian dish featuring pink food coloring, made with long-fermentation dough, suitable for Buddhist temple gatherings.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": "finely milled"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pink food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine rice flour, sugar, yeast, and salt in a large mixing bowl.",
+    "Gradually add in water and mix until a shaggy dough forms.",
+    "Add pink food coloring and mix until the color is evenly distributed.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 4 hours.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Brush the tops with vegetable oil and sesame oil.",
+    "Steam the buns over boiling water for 12 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "long-fermentation",
+    "malaysian-cuisine",
+    "steamed-buns",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 1
+  },
+  "slug": "xtra-light-malaysian-rice-flour-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-malaysian-rice-flour-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:18:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "pink food colouring",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "rice flour",
+    "descriptor": "Xtra Light",
+    "dishForm": "Bao"
+  }
+}
