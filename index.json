@@ -1018,6 +1018,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-silky-vietnamese-marzipan-bun-cha",
+    "title": "Xenial Silky Vietnamese Marzipan Bun Cha",
+    "tags": [
+      "marzipan-based",
+      "noodle-dish",
+      "stir-fry",
+      "vegetarian-friendly",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-slovakian-ackee-dumplings",
     "title": "Xenial Slovakian Ackee Dumplings",
     "tags": [

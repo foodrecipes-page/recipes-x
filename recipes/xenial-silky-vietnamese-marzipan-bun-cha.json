@@ -1,0 +1,100 @@
+{
+  "title": "Xenial Silky Vietnamese Marzipan Bun Cha",
+  "description": "A satvik-friendly Vietnamese dish featuring marzipan and stir-fry, this bun cha is a jammy and silky delight. It is made with a variety of ingredients and cooked to perfection.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "marzipan",
+      "amount": "1 cup",
+      "notes": "almond-based"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the onion and carrots to the skillet and cook until they are tender.",
+    "Add the bean sprouts and tofu to the skillet and cook until they are heated through.",
+    "In a small bowl, whisk together the soy sauce, maple syrup, and sesame oil.",
+    "Pour the sauce over the vegetables and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the vegetables and sauce.",
+    "Crumble the marzipan into the skillet and stir to combine.",
+    "Cook for an additional 2 minutes, until the marzipan is melted and the mixture is silky and jammy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "marzipan-based",
+    "noodle-dish",
+    "stir-fry",
+    "vegetarian-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xenial-silky-vietnamese-marzipan-bun-cha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-silky-vietnamese-marzipan-bun-cha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:15:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "marzipan",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "marzipan",
+    "descriptor": "xenial silky",
+    "dishForm": "Bun Cha"
+  }
+}
