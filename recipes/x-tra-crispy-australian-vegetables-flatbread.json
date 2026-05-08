@@ -1,0 +1,111 @@
+{
+  "title": "X-tra Crispy Australian Vegetables Flatbread",
+  "description": "A crowd-pleasing Australian vegetarian dish featuring fresh, crunchy vegetables, nuka-pickle, and the subtle flavor of orange blossom water.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flatbread (store-bought or homemade)",
+      "amount": "4-6 pieces",
+      "notes": "Look for a flatbread that is high in fiber and low in sodium."
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "Use store-bought nuka-pickle or make your own by fermentation."
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste for the subtle fragrance."
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup, peeled and grated",
+      "notes": "Choose a mix of colors for added visual appeal."
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup, sliced",
+      "notes": "Pat dry with a paper towel to remove excess moisture."
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 cup, sliced",
+      "notes": "Any color bell pepper will do."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "Reserve some for garnish."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "4 tablespoons",
+      "notes": "Use a high-quality extra virgin olive oil."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use sea salt or Himalayan pink salt for added flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground is best."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the flatbread to a thickness of about 1/8 inch (3 mm).",
+    "Transfer the flatbread to a baking sheet lined with parchment paper, trimming the edges to fit.",
+    "Mix the grated carrots, sliced zucchini, sliced red bell pepper, and chopped parsley in a bowl.",
+    "Brush the flatbread with 2 tablespoons of olive oil, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Sprinkle the mixed vegetables over the flatbread, leaving a small border around the edges.",
+    "Drizzle the nuka-pickle over the vegetables, followed by the orange blossom water.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 15-20 minutes, or until the flatbread is crispy and golden brown.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "easy-to-make",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "x-tra-crispy-australian-vegetables-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-crispy-australian-vegetables-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:50:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "orange blossom water",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "vegetables",
+    "descriptor": "X-tra Crispy",
+    "dishForm": "Flatbread"
+  }
+}
