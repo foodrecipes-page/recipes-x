@@ -206,6 +206,20 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-gooey-japanese-couscous-tonkotsu-ramen",
+    "title": "X-tra Gooey Japanese Couscous Tonkotsu Ramen",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-juicy-ukrainian-duck-braised",
     "title": "X-tra Juicy Ukrainian Duck Braised",
     "tags": [

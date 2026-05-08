@@ -1,0 +1,109 @@
+{
+  "title": "X-tra Gooey Japanese Couscous Tonkotsu Ramen",
+  "description": "A Japanese-inspired dish that combines the comforting flavors of Tonkotsu Ramen with the lightness of couscous and the crunch of ssam-wrap. Perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tonkotsu broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, grated"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4-6 sheets"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block, drained and cubed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Pour in the tonkotsu broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Cook the couscous according to package instructions.",
+    "To assemble the ramen, place a spoonful of couscous in the bottom of a bowl.",
+    "Add a sheet of ssam-wrap on top of the couscous.",
+    "Ladle the hot tonkotsu broth over the ssam-wrap.",
+    "Add the cubed tofu and sliced green onions on top.",
+    "Sprinkle with sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "x-tra-gooey-japanese-couscous-tonkotsu-ramen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-gooey-japanese-couscous-tonkotsu-ramen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:47:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "couscous",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "couscous",
+    "descriptor": "X-tra Gooey",
+    "dishForm": "Tonkotsu Ramen"
+  }
+}
