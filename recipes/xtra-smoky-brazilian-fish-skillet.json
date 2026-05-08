@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Smoky Brazilian Fish Skillet",
+  "description": "A fresh and energizing Brazilian dish featuring fish stock and smoke, perfect for an ovo-vegetarian friendly meal, cooked to perfection in an iron teppan vessel.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": " Cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brazilian cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan vessel over medium high heat",
+    "Add olive oil and saute the chopped onion and bell pepper until tender",
+    "Add the chopped tomato and cook for an additional 2 minutes",
+    "Add the fish stock, smoked paprika, and lime juice, stirring to combine",
+    "Add the cod fillets and cook for 4 minutes per side, or until cooked through",
+    "Top the cod fillets with shredded Brazilian cheese and cook until melted and bubbly",
+    "Garnish with chopped cilantro and serve hot",
+    "Cook the dish for an additional 2 minutes to ensure the cheese is melted and bubbly"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "fish-recipes",
+    "one-pan-meals",
+    "ovo-vegetarian",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-smoky-brazilian-fish-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-brazilian-fish-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:03:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "smoke",
+    "primaryIngredient": "fish stock",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Skillet"
+  }
+}
