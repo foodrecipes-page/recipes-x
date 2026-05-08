@@ -4373,6 +4373,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-tender-turkish-potato-icli-kofte",
+    "title": "Xtra Tender Turkish Potato Icli Kofte",
+    "tags": [
+      "jain-friendly",
+      "potato-starch",
+      "quick-fix",
+      "sous-vide",
+      "turkish-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-velvety-venezuelan-noodles",
     "title": "Xtra Velvety Venezuelan Noodles",
     "tags": [

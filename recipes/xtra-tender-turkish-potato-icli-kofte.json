@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Tender Turkish Potato Icli Kofte",
+  "description": "A peppery and tender Turkish dish featuring potato starch, perfect for a quick-fix meal, made Jain-friendly by using plant-based ingredients, and formed into icli kofte",
+  "cuisine": "Turkish",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potato starch",
+      "amount": "1 cup",
+      "notes": "used as a binding agent"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "Mix the potato starch, all-purpose flour, chopped onion, minced garlic, black pepper, and salt in a large bowl.",
+    "Gradually add the olive oil and water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Use your thumb to make a hole in the center of each ball and shape into icli kofte.",
+    "Place the icli kofte in the sous-vide machine and cook for 30 minutes.",
+    "Remove the icli kofte from the sous-vide machine and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "potato-starch",
+    "quick-fix",
+    "sous-vide",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "xtra-tender-turkish-potato-icli-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tender-turkish-potato-icli-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:06:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "potato starch",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "potato",
+    "descriptor": "Xtra Tender",
+    "dishForm": "Icli Kofte"
+  }
+}
