@@ -1,0 +1,98 @@
+{
+  "title": "Xyloid Silky Croatian Cod Skewers",
+  "description": "A low-carb, umami-rich Croatian dish featuring silky cod, perfect for a date night, with a side of fried capers for added crunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, black pepper, and paprika.",
+    "Add the cod pieces to the bowl and marinate for 10 minutes.",
+    "Thread the marinated cod onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the cod is cooked through.",
+    "While the cod is cooking, heat about 1/2 inch of olive oil in a small saucepan over medium heat.",
+    "Add the capers to the saucepan and fry until crispy, about 2-3 minutes.",
+    "Serve the cod skewers hot, garnished with fried capers, parsley, and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "grilled",
+    "low-carb",
+    "mediterranean",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "xyloid-silky-croatian-cod-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xyloid-silky-croatian-cod-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:17:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "fry",
+    "primaryIngredient": "cod",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cod",
+    "descriptor": "xyloid silky",
+    "dishForm": "Skewers"
+  }
+}
