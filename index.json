@@ -1004,6 +1004,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-hearty-mediterranean-beef-shin-stew",
+    "title": "Xenial Hearty Mediterranean Beef Shin Stew",
+    "tags": [
+      "beef-stew",
+      "hangover-cure",
+      "high-protein",
+      "mediterranean",
+      "robata-grill",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-hearty-russian-mushroom-pilaf",
     "title": "Xenial Hearty Russian Mushroom Pilaf",
     "tags": [

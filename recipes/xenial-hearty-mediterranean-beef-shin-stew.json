@@ -1,0 +1,108 @@
+{
+  "title": "Xenial Hearty Mediterranean Beef Shin Stew",
+  "description": "A sweet and pillowy Mediterranean stew featuring beef shin, perfect for a hangover cure, made with robata-grilled beef and high-protein ingredients.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "Season the beef shin pieces with salt and black pepper.",
+    "Grill the beef shin pieces for 5 minutes per side, or until browned.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the red wine, beef broth, tomato paste, and dried oregano to the pot, stirring to combine.",
+    "Add the grilled beef shin pieces and bay leaves to the pot, bringing the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2.5 hours, or until the beef is tender.",
+    "Remove the bay leaves and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-stew",
+    "hangover-cure",
+    "high-protein",
+    "mediterranean",
+    "robata-grill",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 57,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "xenial-hearty-mediterranean-beef-shin-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-hearty-mediterranean-beef-shin-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:09:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "beef shin",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beef shin",
+    "descriptor": "Xenial Hearty",
+    "dishForm": "Stew"
+  }
+}
