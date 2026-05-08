@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Dense Australian Chicken Skewers",
+  "description": "A citrusy and dense Australian dish featuring anchovy fillet, tandoor, and ayurvedic-rajasic-friendly ingredients, perfect for a weeknight dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "anchovy fillet",
+      "amount": "4 fillets",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together lemon juice, olive oil, tandoor spice mix, garlic, ginger, salt, and black pepper",
+    "Add the chopped anchovy fillet to the bowl and mix well",
+    "Add the chicken breast pieces to the bowl and toss to coat with the marinade",
+    "Thread the marinated chicken pieces onto skewers",
+    "Grill the skewers for 10-12 minutes, turning occasionally",
+    "Serve hot and enjoy",
+    "Garnish with fresh cilantro or parsley, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anchovy",
+    "australian",
+    "chicken",
+    "citrusy",
+    "dense",
+    "grilled",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "xtra-dense-australian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-australian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:32:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "tandoor",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Skewers"
+  }
+}

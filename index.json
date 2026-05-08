@@ -4137,6 +4137,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-dense-australian-chicken-skewers",
+    "title": "Xtra Dense Australian Chicken Skewers",
+    "tags": [
+      "anchovy",
+      "australian",
+      "chicken",
+      "citrusy",
+      "dense",
+      "grilled",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 32,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-dense-australian-lamb-biryani",
     "title": "Xtra Dense Australian Lamb Biryani",
     "tags": [
