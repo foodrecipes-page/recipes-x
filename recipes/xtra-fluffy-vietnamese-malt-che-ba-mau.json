@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Fluffy Vietnamese Malt Che Ba Mau",
+  "description": "A malty, fluffy, and cozy Vietnamese dish featuring enchilada sauce and leaf-wrap-steam, low-calorie-friendly and perfect for a snack. This recipe is a unique twist on traditional Che Ba Mau.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "tapioca starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large egg"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine malt syrup, enchilada sauce, and coconut milk, and whisk until smooth.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "In a small bowl, mix together tapioca starch and salt.",
+    "Gradually add the starch mixture to the saucepan and whisk until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the water and egg.",
+    "Cut the banana leaves into large squares and place a spoonful of the malt mixture onto the center of each leaf.",
+    "Fold the leaves over the filling to form a square package and steam for 10-12 minutes.",
+    "Serve the Che Ba Mau hot, garnished with additional malt syrup if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-calorie",
+    "snack",
+    "steamed",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "xtra-fluffy-vietnamese-malt-che-ba-mau",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-vietnamese-malt-che-ba-mau",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:43:55Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "malt",
+    "descriptor": "Xtra Fluffy",
+    "dishForm": "Che Ba Mau"
+  }
+}
