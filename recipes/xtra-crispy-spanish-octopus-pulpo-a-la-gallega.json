@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Crispy Spanish Octopus Pulpo A La Gallega",
+  "description": "A mustardy, pillowy, solo-dinner Spanish dish featuring clear honey, this recipe is a low-calorie-friendly version of the traditional pulpo a la gallega. It is a brine-dry, flavorful meal that is perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "clear honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, clear honey, dijon mustard, paprika, garlic powder, salt, and black pepper.",
+    "Add the octopus pieces to the bowl and toss to coat with the marinade.",
+    "Let the octopus marinate for at least 30 minutes.",
+    "Remove the octopus from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Drizzle the lemon juice over the octopus and pour the water into the baking sheet.",
+    "Bake the octopus for 20 minutes or until it is cooked through and crispy on the outside.",
+    "Remove the octopus from the oven and let it cool for a few minutes.",
+    "Serve the octopus hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "low-calorie",
+    "one-pan",
+    "seafood",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "xtra-crispy-spanish-octopus-pulpo-a-la-gallega",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-spanish-octopus-pulpo-a-la-gallega",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:42:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "brine-dry",
+    "primaryIngredient": "clear honey",
+    "diet": "low-calorie",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "octopus",
+    "descriptor": "xtra crispy",
+    "dishForm": "Pulpo A La Gallega"
+  }
+}
