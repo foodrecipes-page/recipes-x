@@ -446,6 +446,22 @@
     "shard": "x"
   },
   {
+    "slug": "xanthic-herbal-australian-fennel-wrap",
+    "title": "Xanthic Herbal Australian Fennel Wrap",
+    "tags": [
+      "australian",
+      "gluten-free",
+      "hangover-cure",
+      "herbal",
+      "paleo",
+      "shaggy",
+      "whole30"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 32,
+    "shard": "x"
+  },
+  {
     "slug": "xanthous-citrusy-venezuelan-vermicelli-noodles",
     "title": "Xanthous Citrusy Venezuelan Vermicelli Noodles",
     "tags": [
@@ -4172,6 +4188,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-roasted-portuguese-cottage-cheese-curry",
+    "title": "Xtra Roasted Portuguese Cottage Cheese Curry",
+    "tags": [
+      "cottage-cheese-recipes",
+      "fodmap-friendly",
+      "monsoon-recipes",
+      "portuguese-cuisine",
+      "roasted-vegetables"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {

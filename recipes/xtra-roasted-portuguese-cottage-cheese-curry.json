@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Roasted Portuguese Cottage Cheese Curry",
+  "description": "A roasted and shaggy Portuguese dish featuring cottage cheese, this curry is perfect for a monsoon day. It is also FODMAP friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "paneer or ricotta can be used as substitutes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together the cottage cheese, chopped onion, minced garlic, and grated ginger.",
+    "Transfer the mixture to a baking dish and roast in the oven for 20 minutes.",
+    "In a pan, heat 2 tablespoons of oil over medium heat.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the tomato puree and cook for 2 minutes, stirring occasionally.",
+    "Add the roasted cottage cheese mixture, coconut milk, salt, and pepper to the pan.",
+    "Stir well and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cottage-cheese-recipes",
+    "fodmap-friendly",
+    "monsoon-recipes",
+    "portuguese-cuisine",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "xtra-roasted-portuguese-cottage-cheese-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-portuguese-cottage-cheese-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:50:44Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "cottage cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "Xtra Roasted",
+    "dishForm": "Curry"
+  }
+}

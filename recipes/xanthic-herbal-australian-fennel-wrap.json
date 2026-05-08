@@ -1,0 +1,104 @@
+{
+  "title": "Xanthic Herbal Australian Fennel Wrap",
+  "description": "A Whole30-friendly Australian dish featuring fennel seeds, designed to cure hangovers, wrapped in a pandan leaf wrap. This herbal and shaggy wrap is perfect for a snack or lunch.",
+  "cuisine": "Australian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fennel seeds",
+      "amount": "2 tablespoons",
+      "notes": "freshly toasted"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "grass fed beef",
+      "amount": "1 pound",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, mix together the toasted fennel seeds, melted coconut oil, sliced onion, minced garlic, and grated ginger.",
+    "Add the sliced grass fed beef to the bowl and toss to coat with the fennel seed mixture.",
+    "Season the beef with sea salt.",
+    "Grill the beef for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "Meanwhile, prepare the pandan leaves by rinsing them in cold water and patting them dry with paper towels.",
+    "To assemble the wraps, place a few slices of the grilled beef onto the center of a pandan leaf.",
+    "Spoon some of the fennel seed mixture over the top of the beef.",
+    "Fold the bottom edge of the pandan leaf up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients.",
+    "Serve the wraps immediately, garnished with additional toasted fennel seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "hangover-cure",
+    "herbal",
+    "paleo",
+    "shaggy",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "xanthic-herbal-australian-fennel-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthic-herbal-australian-fennel-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:49:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "fennel seeds",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fennel",
+    "descriptor": "Xanthic Herbal",
+    "dishForm": "Wrap"
+  }
+}
