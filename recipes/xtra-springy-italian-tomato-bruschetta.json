@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Springy Italian Tomato Bruschetta",
+  "description": "A savory Italian dish featuring fresh tomatoes and a hint of vanilla, served in a dolsot stone bowl. This kid-friendly bruschetta is perfect for a quick snack or lunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh tomatoes",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "italian bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toast the Italian bread slices until lightly browned.",
+    "In a large bowl, combine the diced tomatoes, vanilla bean paste, coconut cream, olive oil, garlic, basil, salt, and pepper.",
+    "Stir the mixture until the tomatoes are well coated with the other ingredients.",
+    "Spoon the tomato mixture over the toasted bread slices.",
+    "Place the dolsot stone bowl in the oven for 2 minutes to warm it up.",
+    "Remove the stone bowl from the oven and carefully place the bruschetta inside.",
+    "Serve the Xtra Springy Italian Tomato Bruschetta immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-food",
+    "kid-friendly",
+    "quick-snack",
+    "spring-recipes",
+    "stone-bowl-recipes",
+    "tomato-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "xtra-springy-italian-tomato-bruschetta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-springy-italian-tomato-bruschetta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:16:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tomato",
+    "descriptor": "Xtra Springy",
+    "dishForm": "Bruschetta"
+  }
+}
