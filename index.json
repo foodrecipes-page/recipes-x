@@ -840,6 +840,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-molten-egyptian-cheese-curds-tagine",
+    "title": "Xenial Molten Egyptian Cheese Curds Tagine",
+    "tags": [
+      "comfort-food",
+      "herbal",
+      "low-calorie",
+      "middle-eastern",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-moroccan-lamb-harira",
     "title": "Xenial Moroccan Lamb Harira",
     "tags": [

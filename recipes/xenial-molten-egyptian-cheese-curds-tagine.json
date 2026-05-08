@@ -1,0 +1,108 @@
+{
+  "title": "Xenial Molten Egyptian Cheese Curds Tagine",
+  "description": "A cozy Egyptian dish featuring molten cheese curds in a herbal tagine, perfect for a low-calorie friendly dinner option.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheese curds",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in the cumin, coriander, paprika, salt, and black pepper and cook for 1 minute.",
+    "Add the low-sodium chicken broth and bring to a simmer.",
+    "Reduce the heat to low and add the low-fat cheese curds to the tagine.",
+    "Cover the tagine and simmer for 10 minutes, or until the cheese curds are melted and the sauce is bubbly.",
+    "Serve the molten cheese curds hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "herbal",
+    "low-calorie",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "xenial-molten-egyptian-cheese-curds-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-molten-egyptian-cheese-curds-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:40:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "cheese curds",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheese curds",
+    "descriptor": "Xenial Molten",
+    "dishForm": "Tagine"
+  }
+}
