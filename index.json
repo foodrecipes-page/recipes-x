@@ -3939,6 +3939,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-rich-australian-pita-bread-wrap",
+    "title": "Xtra Rich Australian Pita Bread Wrap",
+    "tags": [
+      "australian",
+      "easy",
+      "healthy",
+      "lunch",
+      "pita",
+      "quick",
+      "vegan"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-rich-filipino-celeriac-dinuguan",
     "title": "Xtra Rich Filipino Celeriac Dinuguan",
     "tags": [

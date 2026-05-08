@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Rich Australian Pita Bread Wrap",
+  "description": "A rich and energizing Australian dish featuring pita bread and a mother-sauce-base, perfect for a satisfying lunch, and is vegan-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "hummus",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "2 cups",
+      "notes": "such as eggplant, zucchini, and red bell pepper"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the vegetables in the oven for 20 minutes, or until tender.",
+    "Cook the quinoa according to package instructions.",
+    "Spread a layer of hummus on each pita bread.",
+    "Top the hummus with roasted vegetables, quinoa, avocado, cherry tomatoes, and spinach.",
+    "Drizzle with lemon juice and serve immediately.",
+    "Cut the pita bread in half and fill with the desired ingredients.",
+    "Serve and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "easy",
+    "healthy",
+    "lunch",
+    "pita",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "xtra-rich-australian-pita-bread-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-australian-pita-bread-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:57:49Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "pita bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pita bread",
+    "descriptor": "Xtra Rich",
+    "dishForm": "Wrap"
+  }
+}
