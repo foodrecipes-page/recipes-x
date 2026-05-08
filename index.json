@@ -2022,6 +2022,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-bitter-irish-tomato-stew",
+    "title": "Xtra Bitter Irish Tomato Stew",
+    "tags": [
+      "dairy-free",
+      "hearty-stew",
+      "irish-cuisine",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-bitter-portuguese-plum-tomatoes-stew",
     "title": "Xtra Bitter Portuguese Plum Tomatoes Stew",
     "tags": [
