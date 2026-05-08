@@ -1377,6 +1377,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-spiced-moroccan-lamb-tagine",
+    "title": "Xenial Spiced Moroccan lamb Tagine",
+    "tags": [
+      "lamb",
+      "moroccan",
+      "shojin-friendly",
+      "slow-cooked",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-springy-indian-kidney-beans-rajma",
     "title": "Xenial Springy Indian Kidney Beans Rajma",
     "tags": [
