@@ -325,6 +325,20 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-velvety-italian-lettuce-trofie-pasta",
+    "title": "X-tra Velvety Italian Lettuce Trofie Pasta",
+    "tags": [
+      "italian",
+      "one-pan",
+      "pasta",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "x-treme-bitter-german-kanten-agar-pilaf",
     "title": "X-treme Bitter German Kanten-Agar Pilaf",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "X-tra Velvety Italian Lettuce Trofie Pasta",
+  "description": "A festive Italian dish featuring trofie pasta cut into katsuramuki, served with a grassy, velvety sauce and topped with crispy lettuce curls.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "trofie pasta",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 large head",
+      "notes": "use a firm, green lettuce variety"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup (60ml)"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup (120ml)"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup (50g), grated"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp (15g)"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp (2g)"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook trofie pasta according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat and sauté garlic until fragrant.",
+    "Add white wine and chicken broth to the skillet and simmer until reduced by half.",
+    "Add parmesan cheese, nutritional yeast, salt, and black pepper to the skillet and stir to combine.",
+    "Add cooked trofie pasta to the skillet and toss with the sauce until well coated.",
+    "Top the pasta with crispy lettuce curls and serve immediately.",
+    "To make crispy lettuce curls, slice a large head of lettuce into thin strips and separate the leaves.",
+    "Heat a small amount of olive oil in a skillet over medium heat and sauté the lettuce strips until crispy and golden brown.",
+    "Drain the lettuce curls on paper towels and season with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "one-pan",
+    "pasta",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "x-tra-velvety-italian-lettuce-trofie-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-velvety-italian-lettuce-trofie-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:42:03Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "lettuce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Lettuce",
+    "descriptor": "X-tra Velvety",
+    "dishForm": "Trofie Pasta"
+  }
+}
