@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Creamy American Suet Casserole",
+  "description": "A rich and savory lacto-vegetarian casserole featuring suet and nuka-pickle, perfect for a post-workout meal. This umami-packed dish is both creamy and satisfying.",
+  "cuisine": "American",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "1 cup",
+      "notes": "beef or vegetable suet, shredded"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "macaroni",
+      "amount": "8 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Cook the macaroni according to package instructions until al dente, then set aside.",
+    "In a large skillet, sauté the chopped onion and minced garlic over medium heat until softened.",
+    "Add the shredded suet to the skillet and cook until lightly browned.",
+    "Add the chopped nuka-pickle, mushroom broth, and cooked macaroni to the skillet, stirring to combine.",
+    "Transfer the skillet mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix the heavy cream and shredded cheddar cheese.",
+    "Pour the cream and cheese mixture over the top of the casserole.",
+    "Season with salt and black pepper to taste.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "casserole",
+    "comfort-food",
+    "lacto-vegetarian",
+    "post-workout",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 32
+  },
+  "slug": "xtra-creamy-american-suet-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-american-suet-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:28:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "suet",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "suet",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Casserole"
+  }
+}
