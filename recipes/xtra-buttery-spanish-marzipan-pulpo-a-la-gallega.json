@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Buttery Spanish Marzipan Pulpo A La Gallega",
+  "description": "A buttery and shattering Spanish dish featuring marzipan, spherified and ayurvedic-sattvic-friendly, in the form of pulpo a la gallega, perfect for a lazy Sunday",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Marzipan",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1 tablespoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for spherification bath"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, mix together the marzipan, butter, and paprika until well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes to allow the mixture to firm up.",
+    "In a small bowl, mix together the sodium alginate and water to create the spherification bath.",
+    "Using a syringe or spoon, drop small amounts of the marzipan mixture into the spherification bath, creating small spheres.",
+    "Let the spheres sit in the bath for 30 seconds to 1 minute, until they are fully spherified.",
+    "Remove the spheres from the bath with a slotted spoon and place them on a paper towel-lined plate to drain excess water.",
+    "In a large skillet, heat a couple of tablespoons of oil over medium heat and add the garlic, cooking for 1-2 minutes until fragrant.",
+    "Add the spherified marzipan to the skillet and cook for 2-3 minutes on each side, until lightly browned.",
+    "Season with salt, black pepper, and lemon juice, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic",
+    "gluten-free",
+    "spanish-cuisine",
+    "spherification",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "xtra-buttery-spanish-marzipan-pulpo-a-la-gallega",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-spanish-marzipan-pulpo-a-la-gallega",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:26:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "spherify",
+    "primaryIngredient": "marzipan",
+    "diet": "ayurvedic-sattvic",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "marzipan",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Pulpo A La Gallega"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Xenial Dense Norwegian Shirataki Noodles",
+  "description": "A citrusy and dense Norwegian dish featuring shirataki noodles, perfect for a lazy Sunday, with a miso marinade and raw-friendly ingredients. This dish combines the simplicity of shirataki noodles with the richness of miso and citrus flavors.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "raw",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shirataki noodles",
+      "amount": "8 oz",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, lemon juice, and olive oil to make the marinade.",
+    "Add the shirataki noodles to the marinade and toss to coat.",
+    "Let the noodles marinate for at least 30 minutes to allow the flavors to meld.",
+    "In a small bowl, mix together salt and black pepper.",
+    "Sprinkle the salt and pepper mixture over the marinated noodles and toss to coat.",
+    "Garnish with chopped fresh parsley and dill.",
+    "Serve immediately and enjoy.",
+    "Refrigerate any leftovers for up to 24 hours.",
+    "Before serving, give the noodles a good toss to redistribute the marinade."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "dense",
+    "lazy-sunday",
+    "norwegian-cuisine",
+    "raw-friendly",
+    "shirataki-noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xenial-dense-norwegian-shirataki-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-dense-norwegian-shirataki-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:25:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "miso-marinate",
+    "primaryIngredient": "shirataki",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "shirataki",
+    "descriptor": "Xenial Dense",
+    "dishForm": "Noodles"
+  }
+}

@@ -871,6 +871,22 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-dense-norwegian-shirataki-noodles",
+    "title": "Xenial Dense Norwegian Shirataki Noodles",
+    "tags": [
+      "citrusy",
+      "dense",
+      "lazy-sunday",
+      "norwegian-cuisine",
+      "raw-friendly",
+      "shirataki-noodles",
+      "vegetarian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-dense-polish-bread-bake",
     "title": "Xenial Dense Polish Bread Bake",
     "tags": [
@@ -2645,6 +2661,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-buttery-spanish-marzipan-pulpo-a-la-gallega",
+    "title": "Xtra Buttery Spanish Marzipan Pulpo A La Gallega",
+    "tags": [
+      "ayurvedic-sattvic",
+      "gluten-free",
+      "spanish-cuisine",
+      "spherification",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
