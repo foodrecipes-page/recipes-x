@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Chewy Middle Eastern Lentil Tabbouleh",
+  "description": "A hearty and flavorful Middle Eastern dish featuring brown lentils, nuka-pickle, and a blend of fresh herbs, perfect for a satisfying meal prep option. This recipe combines the chewiness of lentils with the tanginess of nuka-pickle and a hint of mustard.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "whole wheat bulgur",
+      "amount": "1/2 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 2 cups of water to a boil and add the brown lentils, cooking until they are tender and chewy.",
+    "In a large bowl, whisk together the lemon juice, olive oil, salt, and black pepper.",
+    "Add the chopped nuka-pickle, parsley, mint, and red onion to the bowl and stir to combine.",
+    "Once the lentils are cooked, drain and rinse them with cold water, then add them to the bowl and stir to combine.",
+    "Cook the whole wheat bulgur according to package instructions and let it cool.",
+    "Add the cooked bulgur to the bowl and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the tabbouleh chilled, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "meal-prep",
+    "middle-eastern",
+    "raw-friendly",
+    "vegan-friendly",
+    "whole-grain"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-chewy-middle-eastern-lentil-tabbouleh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-chewy-middle-eastern-lentil-tabbouleh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:22:42Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "brown lentils",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "Xtra Chewy",
+    "dishForm": "Tabbouleh"
+  }
+}
