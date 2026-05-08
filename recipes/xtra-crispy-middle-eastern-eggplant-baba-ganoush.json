@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Crispy Middle Eastern Eggplant Baba Ganoush",
+  "description": "A cultured and crispy Middle Eastern dish perfect for a sick day, featuring palm sugar and nuka pickle, and is dairy free friendly in the form of baba ganoush.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "preferably firm and heavy"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Poke some holes in the eggplants and bake them for 45 minutes, or until the skin is charred and the flesh is tender.",
+    "Let the eggplants cool down, then peel and chop them into small pieces.",
+    "In a blender or food processor, combine the eggplant, palm sugar, nuka pickle, lemon juice, tahini, garlic, salt, and black pepper.",
+    "Blend the mixture until it is smooth and creamy, stopping to scrape down the sides of the blender as needed.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the blended eggplant mixture to the skillet and stir to combine with the oil.",
+    "Cook the mixture for 10 minutes, stirring frequently, until it is heated through and slightly caramelized.",
+    "Transfer the baba ganoush to a serving bowl and garnish with additional nuka pickle and parsley if desired.",
+    "Serve the baba ganoush warm or at room temperature, with pita bread or vegetables for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy",
+    "dairy-free",
+    "middle-eastern",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "xtra-crispy-middle-eastern-eggplant-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-middle-eastern-eggplant-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:07:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggplant",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Baba Ganoush"
+  }
+}
