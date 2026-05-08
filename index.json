@@ -3479,6 +3479,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-chinese-shrimp-tagine",
+    "title": "Xtra Crispy Chinese Shrimp Tagine",
+    "tags": [
+      "brunch",
+      "chinese-cuisine",
+      "deep-fried",
+      "seafood",
+      "tajine"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-chinese-tempeh-baozi",
     "title": "Xtra Crispy Chinese Tempeh Baozi",
     "tags": [

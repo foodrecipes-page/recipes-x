@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Crispy Chinese Shrimp Tagine",
+  "description": "A tangy and shattering Chinese dish featuring hp-sauce and deep-fry-tod, served in a tajine-clay vessel, perfect for a brunch mood.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "hp-sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees.",
+    "In a large bowl, whisk together the cornstarch, eggs, and a pinch of salt.",
+    "Add the shrimp to the bowl and toss to coat evenly with the cornstarch mixture.",
+    "Deep-fry the shrimp in batches until golden brown and crispy, about 2-3 minutes per batch.",
+    "In a small bowl, whisk together the hp-sauce, soy sauce, garlic, and ginger.",
+    "Add the fried shrimp to the tajine-clay vessel and pour the hp-sauce mixture over the top.",
+    "Sprinkle the chopped scallions over the shrimp and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "chinese-cuisine",
+    "deep-fried",
+    "seafood",
+    "tajine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-crispy-chinese-shrimp-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-chinese-shrimp-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:17:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "hp-sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Tagine"
+  }
+}
