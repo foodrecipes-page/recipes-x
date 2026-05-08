@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Silky Filipino Pork Wrap",
+  "description": "A midnight craving Filipino dish featuring fatty and silky pork, apples, and a pasta water emulsion, wrapped in a corn husk.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "mediterranean-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "fatty cuts preferred"
+    },
+    {
+      "name": "apples",
+      "amount": "2 medium",
+      "notes": "granny smith or similar"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "Wrap pork shoulder in foil and roast for 2 hours.",
+    "While pork is cooking, boil pasta water and let it cool.",
+    "Emulsify cooled pasta water with olive oil, garlic, black pepper, and salt.",
+    "Slice apples into thin pieces and set aside.",
+    "Shred cooked pork with two forks and mix with emulsified pasta water.",
+    "Lay a corn husk flat and spoon shredded pork onto the center of the husk.",
+    "Top pork with sliced apples and fold the corn husk to enclose.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-recipes",
+    "filipino-food",
+    "midnight-cravings",
+    "pork-recipes",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-silky-filipino-pork-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-filipino-pork-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:53:12Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "apples",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra silky",
+    "dishForm": "Wrap"
+  }
+}
