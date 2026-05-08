@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Creamy Saudi Arabian Red Potatoes Gratin",
+  "description": "A rich and creamy Saudi Arabian dish featuring red potatoes, this gratin is perfect for a cold winter night, it is kosher friendly and can be served as a side dish.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "4 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "salt free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced red potatoes and melted unsalted butter, toss until they are evenly coated.",
+    "In a separate bowl, mix the heavy cream, grated cheddar cheese, sour cream, garlic powder, salt, and black pepper.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Pour some of the cream mixture over the potatoes, then sprinkle with some chopped parsley.",
+    "Repeat the layers two more times, ending with a layer of cream on top.",
+    "Drizzle the extra virgin olive oil over the top layer of cream.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kosher-friendly",
+    "middle-eastern",
+    "one-pan",
+    "potato-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "xtra-creamy-saudi-arabian-red-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-saudi-arabian-red-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:24:38Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "red potatoes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "red potatoes",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Gratin"
+  }
+}
