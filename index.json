@@ -2126,6 +2126,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-argentinian-gorgonzola-pasta",
+    "title": "Xtra Creamy Argentinian Gorgonzola Pasta",
+    "tags": [
+      "comfort-food",
+      "italian-inspired",
+      "lazy-sunday",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-brazilian-chicken-casserole",
     "title": "Xtra Creamy Brazilian Chicken Casserole",
     "tags": [
