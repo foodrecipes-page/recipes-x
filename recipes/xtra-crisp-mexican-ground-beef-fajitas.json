@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Crisp Mexican Ground Beef Fajitas",
+  "description": "A winey, crisp, and cozy Mexican dish featuring ground beef and served with toast, this recipe is a satvik-friendly version of traditional fajitas, originating from the Chiapan region.",
+  "cuisine": "Mexican",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 packet",
+      "notes": "or homemade blend"
+    },
+    {
+      "name": "wine",
+      "amount": "1/4 cup",
+      "notes": "red or white"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the diced bell pepper and cook for an additional 2 minutes.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks.",
+    "Once the ground beef is browned, add the fajita seasoning and stir to combine.",
+    "Add the wine to the skillet and bring to a simmer, cooking until the liquid has almost completely reduced.",
+    "Reduce heat to medium-low and continue to cook for 5 minutes, stirring occasionally.",
+    "Toast the bread slices until crispy and golden brown.",
+    "Serve the ground beef mixture over the toasted bread, garnished with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fajita-recipes",
+    "ground-beef-recipes",
+    "mexican-food",
+    "satvik-diet",
+    "wine-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-crisp-mexican-ground-beef-fajitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-mexican-ground-beef-fajitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:53:28Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "toast",
+    "primaryIngredient": "ground beef",
+    "diet": "satvik",
+    "region": "chiapan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "ground beef",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Fajitas"
+  }
+}

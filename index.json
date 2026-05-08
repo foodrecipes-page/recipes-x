@@ -1896,6 +1896,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crisp-mexican-ground-beef-fajitas",
+    "title": "Xtra Crisp Mexican Ground Beef Fajitas",
+    "tags": [
+      "fajita-recipes",
+      "ground-beef-recipes",
+      "mexican-food",
+      "satvik-diet",
+      "wine-cooking"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crisp-tunisian-petit-pois-tagine",
     "title": "Xtra Crisp Tunisian Petit Pois Tagine",
     "tags": [
