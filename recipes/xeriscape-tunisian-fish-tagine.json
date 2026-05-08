@@ -1,0 +1,120 @@
+{
+  "title": "Xeriscape Tunisian Fish Tagine",
+  "description": "A floral, tender, weeknight Tunisian dish featuring palm sugar, cure, no onion, no garlic.",
+  "cuisine": "tunisian",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cure",
+      "amount": "1 teaspoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the cure by mixing palm sugar, cure, salt, and black pepper in a small bowl.",
+    "Season cod fillets with the cure mixture and place them on a plate.",
+    "Let it sit for 10 minutes and then rinse under cold water.",
+    "Dry the cod fillets using paper towels.",
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add dried rose petals and cook for 1 minute.",
+    "Add cod fillets, lemon juice, and water to the Dutch oven.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 12 minutes or until the fish is cooked through.",
+    "Garnish with fresh parsley and fresh mint.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "pescetarian",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 4
+  },
+  "slug": "xeriscape-tunisian-fish-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-tunisian-fish-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T18:52:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "palm sugar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Fish",
+    "descriptor": "Xeriscape",
+    "dishForm": "Tagine"
+  }
+}
