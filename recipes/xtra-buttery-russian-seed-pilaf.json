@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Buttery Russian Seed Pilaf",
+  "description": "A buttery and energizing Russian dish featuring seeds, bhuna, and keto-friendly ingredients, cooked to perfection in a kazan cauldron. This pilaf is perfect for a hearty lunch or dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sunflower seeds",
+      "amount": "1 cup",
+      "notes": "shelled and chopped"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/2 cup",
+      "notes": "shelled and chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a kazan cauldron over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sunflower seeds and pumpkin seeds, and cook for 2 minutes, stirring frequently.",
+    "Add the cauliflower rice, chicken broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with additional chopped seeds, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower-rice",
+    "gluten-free",
+    "keto-friendly",
+    "one-pan",
+    "russian-cuisine",
+    "seed-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "xtra-buttery-russian-seed-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-russian-seed-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:43:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "seeds",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "seeds",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Pilaf"
+  }
+}
