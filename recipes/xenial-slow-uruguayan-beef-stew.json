@@ -1,0 +1,92 @@
+{
+  "title": "Xenial Slow Uruguayan Beef Stew",
+  "description": "A hearty and flavorful Uruguayan stew made with tender beef, peppercorns, and a rich wine broth, perfect for a weeknight dinner. This macrobiotic-friendly dish is cooked to perfection using sous-vide techniques.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the beef cubes with salt and black peppercorns.",
+    "Heat the red wine and beef broth in a saucepan over medium heat until reduced by half.",
+    "Add the garlic, onion, carrots, and potatoes to the saucepan and cook until the vegetables are tender.",
+    "Seal the beef cubes in a sous-vide bag with the reduced wine broth and cook for 24 hours.",
+    "Remove the beef from the bag and slice into thin strips.",
+    "Strain the cooking liquid and discard the solids.",
+    "Serve the beef strips with the strained cooking liquid spooned over the top.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1470,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "macrobiotic",
+    "slow-cooked",
+    "south-american",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 29
+  },
+  "slug": "xenial-slow-uruguayan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-slow-uruguayan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:15:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "peppercorns",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Xenial Slow",
+    "dishForm": "Stew"
+  }
+}

@@ -1362,6 +1362,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-slow-uruguayan-beef-stew",
+    "title": "Xenial Slow Uruguayan Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "macrobiotic",
+      "slow-cooked",
+      "south-american",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 1470,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-smoky-slovakian-cheese-casserole",
     "title": "Xenial Smoky Slovakian Cheese Casserole",
     "tags": [
