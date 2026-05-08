@@ -1,0 +1,100 @@
+{
+  "title": "Venezuelan Shrimp Ceviche",
+  "description": "A fresh and tender Venezuelan dish featuring raw vegetables and a sweet glaze, perfect for a light brunch, this recipe is onion and garlic free.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "fresh and peeled"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mixed bell peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the shrimp under cold water and pat them dry with paper towels.",
+    "In a large bowl, combine the shrimp, lime juice, mixed bell peppers, cucumber, tomato, and cilantro.",
+    "In a small bowl, whisk together the honey, salt, and black pepper to make the glaze.",
+    "Pour the glaze over the shrimp mixture and stir gently to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir the mixture again and adjust the seasoning if needed.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired.",
+    "Cover and refrigerate any leftovers promptly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "easy-to-make",
+    "fresh",
+    "gluten-free",
+    "low-carb",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "xtra-fresh-venezuelan-shrimp-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fresh-venezuelan-shrimp-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:41:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "glaze",
+    "primaryIngredient": "raw vegetables",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "shrimp",
+    "descriptor": "Xtra fresh",
+    "dishForm": "Ceviche"
+  }
+}

@@ -1243,6 +1243,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-springy-indian-kidney-beans-rajma",
+    "title": "Xenial Springy Indian Kidney Beans Rajma",
+    "tags": [
+      "gluten-free",
+      "indian-food",
+      "kidney-beans",
+      "one-pot",
+      "vegetarian",
+      "whole30"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-springy-italian-smoked-mackerel-pasta",
     "title": "Xenial Springy Italian Smoked Mackerel Pasta",
     "tags": [
@@ -3854,6 +3869,21 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-fresh-venezuelan-shrimp-ceviche",
+    "title": "Venezuelan Shrimp Ceviche",
+    "tags": [
+      "brunch",
+      "easy-to-make",
+      "fresh",
+      "gluten-free",
+      "low-carb",
+      "seafood"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
