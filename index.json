@@ -1050,6 +1050,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-peppery-moroccan-lamb-tagine",
+    "title": "Xenial Peppery Moroccan Lamb Tagine",
+    "tags": [
+      "egg-free",
+      "gluten-free",
+      "lamb-recipes",
+      "moroccan-food",
+      "one-pot",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 110,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-peppery-russian-beef-stew",
     "title": "Xenial Peppery Russian Beef Stew",
     "tags": [

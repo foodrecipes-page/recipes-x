@@ -1,0 +1,99 @@
+{
+  "title": "Xenial Peppery Moroccan Lamb Tagine",
+  "description": "A peppery and chewy Moroccan dish featuring lamb, rice wine, and ferment, perfect for a light dinner, and is egg-free-friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "rice wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ferment",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the rice wine, ferment, black pepper, dried apricots, and chicken broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season the tagine with salt to taste.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro.",
+    "Let it rest for 10 minutes before serving.",
+    "Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "lamb-recipes",
+    "moroccan-food",
+    "one-pot",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 23,
+    "fat": 32
+  },
+  "slug": "xenial-peppery-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-peppery-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:32:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "rice wine",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Peppery",
+    "dishForm": "Tagine"
+  }
+}
