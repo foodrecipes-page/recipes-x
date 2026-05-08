@@ -2216,6 +2216,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-buttery-egyptian-fish-pilaf",
+    "title": "Xtra Buttery Egyptian Fish Pilaf",
+    "tags": [
+      "fish-based",
+      "middle-eastern",
+      "one-pan",
+      "pescatarian",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-buttery-german-pork-bowl",
     "title": "Xtra Buttery German Pork Bowl",
     "tags": [
@@ -4996,6 +5011,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 95,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-smoky-slovakian-pork-skewers",
+    "title": "Xtra Smoky Slovakian Pork Skewers",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "grilled",
+      "midnight-cravings",
+      "slovakian",
+      "smoky"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 32,
     "shard": "x"
   },
   {

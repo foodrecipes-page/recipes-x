@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Buttery Egyptian Fish Pilaf",
+  "description": "A buttery and energizing Egyptian dish featuring sumac and bhuna, perfect for pescatarians, this fish pilaf is a delicious and satisfying meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "1 pound",
+      "notes": "cod or tilapia work well"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the fish fillets and pat them dry with paper towels.",
+    "Melt 2 tablespoons of butter in a large skillet over medium heat.",
+    "Add the fish fillets to the skillet and cook for 3-4 minutes on each side, until cooked through.",
+    "Remove the fish from the skillet and set it aside on a plate.",
+    "Add the remaining 6 tablespoons of butter to the skillet and stir in the sumac and bhuna spice blend.",
+    "Add the basmati rice to the skillet and stir to coat the rice in the butter and spice mixture.",
+    "Add the water, salt, and black pepper to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 15-20 minutes, until the rice is cooked and the liquid is absorbed.",
+    "Fluff the rice with a fork and stir in the chopped parsley and lemon juice.",
+    "Serve the fish on top of the pilaf and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "middle-eastern",
+    "one-pan",
+    "pescatarian",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-buttery-egyptian-fish-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-egyptian-fish-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:54:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "sumac",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Pilaf"
+  }
+}
