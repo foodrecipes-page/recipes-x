@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Comforting Korean Vine Tomatoes Gratin",
+  "description": "A rich and light Korean dish featuring vine tomatoes, beurre-monte, and low-glycemic-friendly ingredients, inspired by the Gyeongsang cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "4 large",
+      "notes": "halved"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together gochujang, soy sauce, and melted beurre-monte.",
+    "Add the halved vine tomatoes to the bowl and toss to coat with the sauce.",
+    "In a separate bowl, mix together cooked brown rice, chopped green onions, sesame oil, salt, and black pepper.",
+    "In a 9x13 inch baking dish, create a layer of the rice mixture.",
+    "Arrange the tomato halves on top of the rice layer.",
+    "Pour the remaining sauce over the tomatoes.",
+    "Bake for 25 minutes or until the tomatoes are tender.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean-cuisine",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "xtra-comforting-korean-vine-tomatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-comforting-korean-vine-tomatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:25:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "beurre-monte",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "low-glycemic",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vine tomatoes",
+    "descriptor": "Xtra comforting",
+    "dishForm": "Gratin"
+  }
+}

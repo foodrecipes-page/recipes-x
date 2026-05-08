@@ -1947,6 +1947,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-comforting-korean-vine-tomatoes-gratin",
+    "title": "Xtra Comforting Korean Vine Tomatoes Gratin",
+    "tags": [
+      "comfort-food",
+      "korean-cuisine",
+      "low-glycemic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-brazilian-chicken-casserole",
     "title": "Xtra Creamy Brazilian Chicken Casserole",
     "tags": [
@@ -3655,6 +3669,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 38,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-sweet-ukrainian-apricot-pancakes",
+    "title": "Xtra Sweet Ukrainian Apricot Pancakes",
+    "tags": [
+      "breakfast",
+      "kid-friendly",
+      "pancakes",
+      "plant-based",
+      "sweet",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
