@@ -1,0 +1,92 @@
+{
+  "title": "Xenial Dense Polish Bread Bake",
+  "description": "A yeasty, dense, romantic Polish dish featuring Thai red curry paste, double-rise-bread, and low-sodium-friendly ingredients, baked in a fondue pot.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, yeast, curry paste, salt, and sugar.",
+    "In a separate bowl, whisk together eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf in the preheated fondue pot and bake for 35 minutes.",
+    "Let the bread cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dense-bread",
+    "fondue-pot",
+    "low-sodium",
+    "polish-cuisine",
+    "romantic-dish",
+    "thai-influenced"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "xenial-dense-polish-bread-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-dense-polish-bread-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:53:19Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "bread",
+    "descriptor": "Xenial Dense",
+    "dishForm": "Bake"
+  }
+}

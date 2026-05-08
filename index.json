@@ -750,6 +750,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-dense-polish-bread-bake",
+    "title": "Xenial Dense Polish Bread Bake",
+    "tags": [
+      "dense-bread",
+      "fondue-pot",
+      "low-sodium",
+      "polish-cuisine",
+      "romantic-dish",
+      "thai-influenced"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 65,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-dense-thai-almond-nam-prik",
     "title": "Xenial Dense Thai Almond Nam Prik",
     "tags": [
