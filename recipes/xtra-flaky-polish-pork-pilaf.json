@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Flaky Polish Pork Pilaf",
+  "description": "A spicy and flaky Polish dish featuring muscovado sugar, cooked in an agave leaf vessel with a papillote method, this recipe is dash-friendly and perfect for a weeknight dinner. The combination of pork, muscovado sugar, and spices creates a unique flavor profile.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and cut into small pieces"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together muscovado sugar, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the pork pieces to the bowl and toss to coat with the spice mixture.",
+    "Cut a large agave leaf into a square shape and place it on a baking sheet.",
+    "Spoon the pork mixture onto the center of the agave leaf, leaving a 1-inch border around the edges.",
+    "Drizzle the agave nectar over the pork and pour in the chicken broth.",
+    "Fold the agave leaf over the pork to create a papillote, and secure with kitchen twine.",
+    "Bake for 25 minutes, then reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 10 minutes.",
+    "Remove the pilaf from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "polish-cuisine",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-flaky-polish-pork-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-polish-pork-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:13:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Pilaf"
+  }
+}
