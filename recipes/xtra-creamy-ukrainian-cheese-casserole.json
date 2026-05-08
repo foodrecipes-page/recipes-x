@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Creamy Ukrainian Cheese Casserole",
+  "description": "This earthy and energizing Ukrainian dish features a delicious cheese pull and is made with macrobiotic-friendly ingredients, including lemon juice, and is slow-cooked to perfection in a ramekin.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup",
+      "notes": "pre-soaked overnight"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and mushrooms until they are softened.",
+    "Add the garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "In a large bowl, combine the pre-soaked buckwheat, cottage cheese, lemon juice, dill, salt, and black pepper, and stir until well combined.",
+    "Add the cooked onion and mushroom mixture to the bowl and stir until the ingredients are fully incorporated.",
+    "Transfer the mixture to a ramekin and smooth the top.",
+    "Cover the ramekin with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is lightly browned.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "macrobiotic-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-creamy-ukrainian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-ukrainian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:01:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "lemon juice",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra Creamy",
+    "dishForm": "Casserole"
+  }
+}
