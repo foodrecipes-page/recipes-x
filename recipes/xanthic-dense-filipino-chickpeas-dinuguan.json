@@ -1,0 +1,100 @@
+{
+  "title": "Xanthic Dense Filipino Chickpeas Dinuguan",
+  "description": "A sour and dense Filipino dish made with chickpeas and long-fermentation-dough, perfect for meal prep. This satvik-friendly dish is a unique twist on traditional dinuguan.",
+  "cuisine": "Filipino",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "2 cups",
+      "notes": "made with rice flour and water"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup",
+      "notes": "apple cider or white vinegar"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried or fresh"
+    }
+  ],
+  "instructions": [
+    "Soak the chickpeas in water overnight and cook them until they are tender.",
+    "Make the long-fermentation-dough by mixing rice flour and water, and letting it ferment for at least 24 hours.",
+    "Chop the onion and mince the garlic, and saute them in a pan until they are softened.",
+    "Add the vinegar, salt, and black pepper to the pan, and stir to combine.",
+    "Add the cooked chickpeas and long-fermentation-dough to the pan, and stir to combine.",
+    "Add the bay leaves to the pan, and stir to combine.",
+    "Reduce heat to low and simmer the mixture for at least 30 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the dinuguan hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 60,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea-recipes",
+    "filipino-food",
+    "long-fermentation",
+    "meal-prep",
+    "satvik",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xanthic-dense-filipino-chickpeas-dinuguan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthic-dense-filipino-chickpeas-dinuguan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:48:37Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "chickpeas",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Xanthic Dense",
+    "dishForm": "Dinuguan"
+  }
+}
