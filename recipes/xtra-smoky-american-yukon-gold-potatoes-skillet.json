@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Smoky American Yukon Gold Potatoes Skillet",
+  "description": "A smoky and flavorful weeknight dish featuring Yukon gold potatoes, perfect for a quick dinner, this recipe is also dairy-free-friendly. It combines the natural sweetness of potatoes with a smoky twist.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "In a large bowl, toss the sliced potatoes with smoked paprika, salt, and black pepper until they are evenly coated.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the coated potatoes to the skillet, stirring to combine with the onion and garlic.",
+    "Transfer the skillet to the broiler and broil for 10 minutes, or until the potatoes are golden brown.",
+    "Remove the skillet from the broiler and stir in the liquid smoke and cherry tomatoes.",
+    "Return the skillet to the stovetop over medium heat and cook for an additional 5 minutes, stirring occasionally."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "potatoes",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-smoky-american-yukon-gold-potatoes-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-american-yukon-gold-potatoes-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:37:30Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Yukon gold potatoes",
+    "descriptor": "Xtra smoky",
+    "dishForm": "Skillet"
+  }
+}
