@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Light Spanish Fish Ensaimada",
+  "description": "A light and flavorful Spanish dish featuring sashimi-cut fish, perfect for a crowd, this ensaimada is a low-carb friendly option that is sure to please. It is a fatty and delicious Andalusian dish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish",
+      "amount": "1 pound",
+      "notes": "such as cod or halibut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ensaimada dough",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the fish into sashimi-style slices.",
+    "In a small bowl, mix together the olive oil, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Brush the mixture onto the fish slices.",
+    "Roll out the ensaimada dough to a large rectangle.",
+    "Place the fish slices in the center of the dough.",
+    "Fold the dough over the fish to form a spiral shape.",
+    "Place the ensaimada on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until the dough is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "ensaimada",
+    "fish-recipes",
+    "low-carb",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-light-spanish-fish-ensaimada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-spanish-fish-ensaimada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:37:00Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fish",
+    "diet": "low-carb",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra Light",
+    "dishForm": "Ensaimada"
+  }
+}

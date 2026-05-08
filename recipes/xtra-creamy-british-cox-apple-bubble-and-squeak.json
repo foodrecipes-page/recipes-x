@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Creamy British Cox Apple Bubble And Squeak",
+  "description": "A creamy, mustardy twist on the classic British dish, featuring Cox apples and a yuzu cure, perfect for a crowd-pleasing breakfast or brunch. This lacto-vegetarian friendly recipe is sure to delight.",
+  "cuisine": "British",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Cox apples",
+      "amount": "4",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "yuzu cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "leftover mashed potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pan, melt the butter over medium heat and add the diced Cox apples, cooking until they are tender and lightly browned.",
+    "Add the yuzu cure, Dijon mustard, salt, and black pepper to the pan and stir to combine.",
+    "In a separate saucepan, whisk together the flour and milk, cooking over medium heat until the mixture thickens and forms a creamy sauce.",
+    "Add the grated cheddar cheese to the sauce and stir until melted and smooth.",
+    "Combine the cooked apple mixture and the creamy cheese sauce, stirring to combine.",
+    "Add the leftover mashed potatoes to the pan, stirring until they are well coated with the apple and cheese mixture.",
+    "Using a spatula, shape the mixture into a round, flat shape, similar to a pancake.",
+    "Cook the bubble and squeak for an additional 5-7 minutes, until the bottom is golden brown and crispy.",
+    "Flip the bubble and squeak over and cook for an additional 5 minutes, until the other side is also golden brown.",
+    "Serve the Xtra Creamy British Cox Apple Bubble And Squeak hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "comfort-food",
+    "crowd-pleaser",
+    "lacto-vegetarian",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 22
+  },
+  "slug": "xtra-creamy-british-cox-apple-bubble-and-squeak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-british-cox-apple-bubble-and-squeak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:36:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "cox-apple",
+    "diet": "lacto-vegetarian",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "cox apple",
+    "descriptor": "Xtra Creamy",
+    "dishForm": "Bubble And Squeak"
+  }
+}

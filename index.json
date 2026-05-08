@@ -2900,6 +2900,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-british-cox-apple-bubble-and-squeak",
+    "title": "Xtra Creamy British Cox Apple Bubble And Squeak",
+    "tags": [
+      "breakfast",
+      "british",
+      "comfort-food",
+      "crowd-pleaser",
+      "lacto-vegetarian",
+      "one-pan"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-croatian-cheese-pasta",
     "title": "Xtra Creamy Croatian Cheese Pasta",
     "tags": [
@@ -4733,6 +4748,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-hearty-irish-lamb-stew",
+    "title": "Xtra Hearty Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "lamb-recipes",
+      "one-pot",
+      "red-wine"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 110,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-hearty-syrian-white-bean-stew",
     "title": "Xtra Hearty Syrian White Bean Stew",
     "tags": [
@@ -5141,6 +5170,20 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 32,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-light-spanish-fish-ensaimada",
+    "title": "Xtra Light Spanish Fish Ensaimada",
+    "tags": [
+      "crowd-pleaser",
+      "ensaimada",
+      "fish-recipes",
+      "low-carb",
+      "spanish-cuisine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {

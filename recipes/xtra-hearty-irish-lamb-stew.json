@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Hearty Irish Lamb Stew",
+  "description": "A rich and savory stew featuring lamb, pitted dates, and a soffritto base, perfect for curing hangovers. This Mediterranean-friendly dish is made with red wine and hearty ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pitted dates",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 teaspoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the onions, carrots, and celery and cook until the vegetables are tender, about 8 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the red wine, scraping up any browned bits from the bottom of the pot.",
+    "Add the pitted dates, tomato paste, and lamb broth, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Stir in the chopped thyme and season with salt and pepper to taste.",
+    "Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "lamb-recipes",
+    "one-pot",
+    "red-wine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 23,
+    "fat": 29
+  },
+  "slug": "xtra-hearty-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-hearty-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:36:36Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "soffritto-base",
+    "primaryIngredient": "pitted dates",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Hearty",
+    "dishForm": "Stew"
+  }
+}
