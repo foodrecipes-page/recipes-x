@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Springy Vietnamese Beef Pho Bo",
+  "description": "A cultured and springy Vietnamese dish featuring red curry paste, perfect for a low-carb friendly brunch mood, this pho bo is a delicious twist on traditional Vietnamese beef noodle soup",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "low-carb"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the beef broth to a boil over high heat",
+    "Add the sliced beef brisket to the pot and cook for 5 minutes",
+    "Add the red curry paste to the pot and stir to combine",
+    "Reduce the heat to low and simmer for 10 minutes",
+    "Add the fish sauce and lime juice to the pot and stir to combine",
+    "Cook the rice noodles according to the package instructions",
+    "Add the cooked noodles to the pot and stir to combine",
+    "Top the pho bo with bean sprouts, basil leaves, and green onions",
+    "Serve the pho bo hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "brunch",
+    "low-carb",
+    "noodle-soup",
+    "springy",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "xtra-springy-vietnamese-beef-pho-bo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-springy-vietnamese-beef-pho-bo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:49:28Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "boil",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Springy",
+    "dishForm": "Pho Bo"
+  }
+}
