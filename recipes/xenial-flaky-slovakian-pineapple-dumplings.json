@@ -1,0 +1,94 @@
+{
+  "title": "Xenial Flaky Slovakian Pineapple Dumplings",
+  "description": "A funky and flaky Slovakian dish featuring pineapple juice, perfect for a sick day, served in a copper mug. This vegetarian-friendly recipe is a unique twist on traditional dumplings.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, sugar, and salt.",
+    "In a separate bowl, whisk together pineapple juice, vegetable oil, and yeast.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten it into a disk shape.",
+    "Place a few pineapple chunks in the center of each disk and fold the dough over to form a dumpling.",
+    "Place the dumplings in a copper mug and bake for 20 minutes.",
+    "Serve the dumplings hot in the copper mug."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "dumplings",
+    "pineapple",
+    "slovakian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "xenial-flaky-slovakian-pineapple-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-flaky-slovakian-pineapple-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:37:42Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "pineapple juice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pineapple",
+    "descriptor": "Xenial Flaky",
+    "dishForm": "Dumplings"
+  }
+}

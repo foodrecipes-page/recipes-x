@@ -808,6 +808,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-flaky-slovakian-pineapple-dumplings",
+    "title": "Xenial Flaky Slovakian Pineapple Dumplings",
+    "tags": [
+      "copper-mug",
+      "dumplings",
+      "pineapple",
+      "slovakian",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-hearty-russian-mushroom-pilaf",
     "title": "Xenial Hearty Russian Mushroom Pilaf",
     "tags": [
