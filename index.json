@@ -3499,6 +3499,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-dense-slovakian-minari-dumplings",
+    "title": "Xtra Dense Slovakian Minari Dumplings",
+    "tags": [
+      "bento-box",
+      "dense-dumplings",
+      "no-onion-no-garlic",
+      "peppery-dishes",
+      "slovakian-cuisine",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-dense-syrian-chickpeas-wrap",
     "title": "Xtra Dense Syrian Chickpeas Wrap",
     "tags": [
@@ -3884,6 +3899,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-fresh-norwegian-chicken-skewers",
+    "title": "Xtra Fresh Norwegian Chicken Skewers",
+    "tags": [
+      "grilled-chicken",
+      "healthy-dinner",
+      "low-carb",
+      "norwegian-cuisine",
+      "post-workout",
+      "thai-inspired"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

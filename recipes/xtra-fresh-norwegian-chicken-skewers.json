@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Fresh Norwegian Chicken Skewers",
+  "description": "A low-carb and refreshing Norwegian dish featuring Thai holy basil and katsuramuki-cut chicken, perfect for a post-workout meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into katsuramuki style"
+    },
+    {
+      "name": "Thai holy basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut oil, garlic, ginger, lemon juice, salt, and pepper.",
+    "Add the chopped Thai holy basil to the bowl and mix well.",
+    "Add the katsuramuki-cut chicken to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto the bamboo skewers.",
+    "Grill the chicken skewers for 10-12 minutes per side, or until they reach an internal temperature of 165 degrees Fahrenheit.",
+    "Let the chicken rest for 5 minutes before serving.",
+    "Serve the chicken skewers hot, garnished with additional Thai holy basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "healthy-dinner",
+    "low-carb",
+    "norwegian-cuisine",
+    "post-workout",
+    "thai-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 12
+  },
+  "slug": "xtra-fresh-norwegian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fresh-norwegian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:01:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra fresh",
+    "dishForm": "Skewers"
+  }
+}
