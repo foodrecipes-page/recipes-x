@@ -2958,6 +2958,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-argentinian-stracciatella-cheese-casserole",
+    "title": "Xtra Creamy Argentinian Stracciatella Cheese Casserole",
+    "tags": [
+      "argentinian",
+      "casserole",
+      "comfort-food",
+      "kid-friendly",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-brazilian-chicken-casserole",
     "title": "Xtra Creamy Brazilian Chicken Casserole",
     "tags": [
@@ -5744,6 +5759,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-rich-greek-yogurt-tzatziki",
+    "title": "Xtra Rich Greek Yogurt Tzatziki",
+    "tags": [
+      "greek-cuisine",
+      "high-protein",
+      "one-bowl",
+      "post-workout",
+      "refuel",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 80,
     "shard": "x"
   },
   {

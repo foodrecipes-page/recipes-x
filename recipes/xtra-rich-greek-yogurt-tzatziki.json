@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Rich Greek Yogurt Tzatziki",
+  "description": "A rich and creamy post-workout Greek dish featuring parmesan cheese, this tzatziki is slow-cooked to perfection and rajasic-friendly, making it a great way to refuel after a workout. It is made with high-quality ingredients and a unique blend of spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the Greek yogurt, Parmesan cheese, cucumber, garlic, dill, lemon juice, olive oil, salt, and black pepper.",
+    "Mix all the ingredients together until they are well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "After 30 minutes, remove the bowl from the refrigerator and give the mixture a good stir.",
+    "Taste the tzatziki and adjust the seasoning if necessary.",
+    "Cover the bowl again and refrigerate for an additional 30 minutes to allow the flavors to meld further.",
+    "After the second 30 minutes, remove the bowl from the refrigerator and serve the tzatziki chilled.",
+    "Garnish with additional chopped fresh dill if desired.",
+    "Serve the tzatziki with pita bread, vegetables, or as a dip for grilled meats."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-cuisine",
+    "high-protein",
+    "one-bowl",
+    "post-workout",
+    "refuel",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "xtra-rich-greek-yogurt-tzatziki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-greek-yogurt-tzatziki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:20:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yogurt",
+    "descriptor": "Xtra Rich",
+    "dishForm": "Tzatziki"
+  }
+}
