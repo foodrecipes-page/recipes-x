@@ -1,0 +1,124 @@
+{
+  "title": "X-tra Dense Croatian Ragù Casserole",
+  "description": "A hearty, cultural dish from Croatia featuring a dense and rich ragù filled with garlic and topped with a crispy spherified crust. Perfect for a cold winter evening.",
+  "cuisine": "croatian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic cloves",
+      "amount": "8",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "450g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "spherified milk powder",
+      "amount": "20g",
+      "notes": "optional"
+    },
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "macaroni or penne"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "70g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the pasta according to the package instructions and set aside.",
+    "In a large pan, heat the olive oil over medium heat and sauté the onion until softened.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces.",
+    "Add the caraway seeds, tomato paste, and beef broth to the pan and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the canned diced tomatoes and chicken broth.",
+    "Add the cooked pasta to the ragù and stir to combine.",
+    "Transfer the ragù to a baking dish and top with grated parmesan.",
+    "If using spherified milk powder, sprinkle it over the parmesan.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "cultural-dish",
+    "gluten-free-options",
+    "hearty-meal",
+    "low-fat-options",
+    "one-pan",
+    "spherification"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 24
+  },
+  "slug": "x-tra-dense-croatian-ragu-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-dense-croatian-ragu-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T14:22:08Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "spherify",
+    "primaryIngredient": "garlic clove",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Ragù",
+    "descriptor": "X-tra Dense",
+    "dishForm": "Casserole"
+  }
+}

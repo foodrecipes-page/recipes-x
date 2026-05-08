@@ -191,6 +191,22 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-dense-croatian-ragu-casserole",
+    "title": "X-tra Dense Croatian Ragù Casserole",
+    "tags": [
+      "cold-weather",
+      "cultural-dish",
+      "gluten-free-options",
+      "hearty-meal",
+      "low-fat-options",
+      "one-pan",
+      "spherification"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-flaky-french-pastry-tart",
     "title": "X-tra Flaky French Pastry Tart",
     "tags": [
