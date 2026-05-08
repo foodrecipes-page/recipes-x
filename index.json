@@ -1125,6 +1125,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-molten-polish-haddock-casserole",
+    "title": "Xenial Molten Polish Haddock Casserole",
+    "tags": [
+      "comfort-food",
+      "jain-friendly",
+      "one-pan",
+      "pescatarian",
+      "polish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-moroccan-lamb-harira",
     "title": "Xenial Moroccan Lamb Harira",
     "tags": [
