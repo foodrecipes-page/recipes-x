@@ -3795,6 +3795,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-dense-mexican-sausages-carnitas",
+    "title": "Xtra Dense Mexican Sausages Carnitas",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "high-protein",
+      "mexican-food",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 140,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-dense-middle-eastern-chickpeas-umm-ali",
     "title": "Xtra Dense Middle Eastern Chickpeas Umm Ali",
     "tags": [

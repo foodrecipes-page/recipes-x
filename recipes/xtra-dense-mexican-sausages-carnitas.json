@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Dense Mexican Sausages Carnitas",
+  "description": "A fatty and dense Mexican dish featuring sausages, perfect for midnight cravings, this recipe is gluten-free friendly and served in a carnitas style.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mexican sausage",
+      "amount": "1 pound",
+      "notes": "preferably with a high fat content"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "papillote paper or foil",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the lard or oil over medium heat.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Mexican sausage to the pot, browning it on all sides.",
+    "Add the orange and lime juice, and sprinkle with dried oregano.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the sausage mixture for 2 hours, or until the meat is tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the sausage mixture with two forks and serve it in a carnitas style, using the papillote paper or foil to make individual servings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "mexican-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-dense-mexican-sausages-carnitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-mexican-sausages-carnitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:37:14Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "papillote",
+    "primaryIngredient": "sausages",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "sausages",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Carnitas"
+  }
+}
