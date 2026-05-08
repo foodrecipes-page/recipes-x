@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Light Spanish Pumpkin Paella",
+  "description": "A salty, light, and nostalgic Spanish dish featuring pumpkin, made with sous-vide and ovo-vegetarian friendly ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": " Arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the pumpkin and cook until it starts to soften, about 5 minutes.",
+    "Add the Arborio rice and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth and bring to a boil.",
+    "Transfer the mixture to a sous-vide bag and seal.",
+    "Cook the paella in the sous-vide machine for 30 minutes.",
+    "Crack in the eggs and stir gently to distribute.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "ovo-vegetarian",
+    "pumpkin-recipe",
+    "sous-vide",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-light-spanish-pumpkin-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-spanish-pumpkin-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:23:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "pumpkin",
+    "diet": "ovo-vegetarian",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Xtra Light",
+    "dishForm": "Paella"
+  }
+}

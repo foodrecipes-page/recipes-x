@@ -4208,6 +4208,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-light-spanish-pumpkin-paella",
+    "title": "Xtra Light Spanish Pumpkin Paella",
+    "tags": [
+      "one-pan",
+      "ovo-vegetarian",
+      "pumpkin-recipe",
+      "sous-vide",
+      "spanish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-light-ukrainian-sesame-pilaf",
     "title": "Xtra Light Ukrainian Sesame Pilaf",
     "tags": [
