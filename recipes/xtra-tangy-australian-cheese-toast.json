@@ -1,0 +1,86 @@
+{
+  "title": "Xtra Tangy Australian Cheese Toast",
+  "description": "A quick and tangy Australian dish featuring crusty bread and melted cheese, served in a copper mug.",
+  "cuisine": "Australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "crusty bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tangy cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Butter one side of each bread slice with butter.",
+    "Place the bread slices, buttered side down, in a copper mug.",
+    "Mix the beurre-monte, shredded cheese, salt, pepper, and paprika in a bowl.",
+    "Spread the cheese mixture evenly over the bread slices in the copper mug.",
+    "Place the copper mug in the oven and bake for 5 minutes or until the cheese is melted and bubbly.",
+    "Remove the copper mug from the oven and let it cool for a minute.",
+    "Serve the Xtra Tangy Australian Cheese Toast hot and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "xtra-tangy-australian-cheese-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tangy-australian-cheese-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:56:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "beurre-monte",
+    "primaryIngredient": "crusty bread",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra tangy",
+    "dishForm": "Toast"
+  }
+}

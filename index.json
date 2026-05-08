@@ -3469,6 +3469,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-fluffy-uruguayan-rigatoni-pasta",
+    "title": "Xtra Fluffy Uruguayan Rigatoni Pasta",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fluffy-venezuelan-chicken-empanadas",
     "title": "Xtra Fluffy Venezuelan Chicken Empanadas",
     "tags": [
@@ -3773,6 +3787,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-juicy-turkish-lentils-mercimek-corbasi",
+    "title": "Xtra Juicy Turkish Lentils Mercimek Corbasi",
+    "tags": [
+      "comfort-food",
+      "lentil-soup",
+      "one-pot",
+      "turkish-cuisine",
+      "vegan-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -4775,6 +4803,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-tangy-australian-cheese-toast",
+    "title": "Xtra Tangy Australian Cheese Toast",
+    "tags": [
+      "australian-cuisine",
+      "comfort-food",
+      "lacto-vegetarian",
+      "one-pan",
+      "quick-fix"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 10,
     "shard": "x"
   },
   {

@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Fluffy Uruguayan Rigatoni Pasta",
+  "description": "A fermented and fluffy pasta dish featuring rigatoni, inspired by Uruguayan cuisine, with a macrobiotic-friendly twist. This dish is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rigatoni",
+      "amount": "12 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Fermented vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the rigatoni according to package instructions, then set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic and chopped onion until softened.",
+    "Add the fermented vegetable broth, dried oregano, salt, and black pepper to the skillet and stir to combine.",
+    "Bring the broth mixture to a simmer and let cook for 10 minutes.",
+    "In a large bowl, combine the cooked rigatoni, broth mixture, and grated Parmesan cheese, if using.",
+    "Transfer the rigatoni mixture to a baking dish and dehydrate in the oven for 20 minutes.",
+    "Remove the dish from the oven and let cool for a few minutes before serving.",
+    "Serve hot, garnished with additional Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-fluffy-uruguayan-rigatoni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-uruguayan-rigatoni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:55:00Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "dehydrate",
+    "primaryIngredient": "rigatoni",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "rigatoni",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Pasta"
+  }
+}
