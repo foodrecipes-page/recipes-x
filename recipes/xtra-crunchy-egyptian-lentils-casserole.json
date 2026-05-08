@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Crunchy Egyptian Lentils Casserole",
+  "description": "A sour, crumbly, and indulgent Egyptian dish featuring paprika and caramelized onions, with anti-inflammatory friendly ingredients",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crushed crackers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat and caramelize the onions for 20 minutes.",
+    "Add the garlic, paprika, salt, and black pepper to the pan and cook for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the lentils, lemon juice, and 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes or until the lentils are tender.",
+    "In a separate bowl, mix the crushed crackers and a pinch of salt.",
+    "Transfer the lentil mixture to a baking dish and top with the cracker mixture.",
+    "Bake for 25 minutes or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-crunchy-egyptian-lentils-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-egyptian-lentils-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:19:11Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "caramelize",
+    "primaryIngredient": "paprika",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Xtra crunchy",
+    "dishForm": "Casserole"
+  }
+}
