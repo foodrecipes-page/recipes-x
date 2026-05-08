@@ -1,0 +1,100 @@
+{
+  "title": "Xenial Grilled Croatian Seafood Stew",
+  "description": "A fresh and pillowy Croatian dish featuring lamb stock and char-grilled seafood, perfect for a brunch mood. This pescatarian-friendly stew is cooked in a cataplana vessel.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "2 pounds",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together lamb stock, garlic, and lemon juice.",
+    "Add the shrimp, mussels, and clams to the bowl and toss to coat with the marinade.",
+    "Brush the cataplana vessel with olive oil and add the seafood mixture.",
+    "Close the cataplana and place it on the grill, cooking for 10 minutes.",
+    "Open the cataplana and stir in chopped parsley.",
+    "Return the cataplana to the grill and cook for an additional 5 minutes.",
+    "Remove the cataplana from the grill and let it cool for a few minutes.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "croatian",
+    "grilled",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xenial-grilled-croatian-seafood-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-grilled-croatian-seafood-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:41:54Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "lamb stock",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "seafood",
+    "descriptor": "Xenial Grilled",
+    "dishForm": "Stew"
+  }
+}

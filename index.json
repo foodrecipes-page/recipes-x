@@ -929,6 +929,22 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-grilled-croatian-seafood-stew",
+    "title": "Xenial Grilled Croatian Seafood Stew",
+    "tags": [
+      "brunch",
+      "croatian",
+      "grilled",
+      "one-pan",
+      "pescatarian",
+      "seafood",
+      "stew"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-hearty-russian-mushroom-pilaf",
     "title": "Xenial Hearty Russian Mushroom Pilaf",
     "tags": [
