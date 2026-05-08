@@ -1,0 +1,104 @@
+{
+  "title": "X-tra Creamy Korean Chicken Pajeon Banchan",
+  "description": "A crispy Korean pancake banchan infused with a rich, creamy sauce, perfect for a midnight snack or side dish.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated Korean chili flakes (gochugaru)",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "HP Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, green onions, gochugaru, and sugar.",
+    "In a separate bowl, whisk together egg and water.",
+    "Add the wet ingredients to the dry ingredients and stir until a smooth batter forms.",
+    "Cut the chicken into small pieces and add to the batter, stirring until coated.",
+    "Heat 1/2 cup of vegetable oil in a large skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the oil and flatten slightly.",
+    "Cook for 2-3 minutes on each side or until golden brown and crispy.",
+    "Drain the pajeon on paper towels and serve hot with HP sauce and sour cream drizzled on top.",
+    "In a small bowl, whisk together HP sauce and sour cream.",
+    "Season the sauce with toasted sesame oil to taste.",
+    "Serve the pajeon with the creamy sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banchan",
+    "crunchy-outside-creamy-inside",
+    "easy-to-make",
+    "korean-cuisine",
+    "midnight-snack",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 16
+  },
+  "slug": "x-tra-creamy-korean-chicken-pajeon-banchan",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-creamy-korean-chicken-pajeon-banchan",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:01:42Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "hp-sauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "X-tra Creamy",
+    "dishForm": "Pajeon Banchan"
+  }
+}
