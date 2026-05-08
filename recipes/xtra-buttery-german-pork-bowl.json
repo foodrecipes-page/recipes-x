@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Buttery German Pork Bowl",
+  "description": "A rich and savory German dish featuring tender pork, rose water, and a generous amount of butter, served in a hot dolsot stone bowl.",
+  "cuisine": "German",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork tenderloin with paprika, garlic powder, salt, and black pepper.",
+    "In a large skillet, melt 2 tablespoons of butter over medium-high heat and sear the pork tenderloin until browned on all sides.",
+    "Transfer the pork to a baking sheet and roast in the oven for 15 minutes, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the pork is cooking, prepare the rose water butter by mixing the rose water with the remaining 4 tablespoons of butter in a small bowl.",
+    "Remove the pork from the oven and brush the rose water butter all over the pork tenderloin.",
+    "Wrap the pork in foil and let it rest for 5 minutes before slicing it thinly.",
+    "To assemble the dish, place a scoop of cooked brown rice in the bottom of a hot dolsot stone bowl, followed by a few slices of the pork and a sprinkle of chopped parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "flexitarian",
+    "german-cuisine",
+    "one-pot",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "xtra-buttery-german-pork-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-german-pork-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:31:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "papillote",
+    "primaryIngredient": "rose water",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Bowl"
+  }
+}
