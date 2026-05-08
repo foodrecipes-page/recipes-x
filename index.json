@@ -3091,6 +3091,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-american-chicken-burger",
+    "title": "Xtra Crispy American Chicken Burger",
+    "tags": [
+      "american-classics",
+      "cheese-pull",
+      "crispy-chicken",
+      "dinner-ideas",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-british-cheese-ploughmans-pie",
     "title": "Xtra Crispy British Cheese Ploughmans Pie",
     "tags": [

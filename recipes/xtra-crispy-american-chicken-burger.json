@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Crispy American Chicken Burger",
+  "description": "A spicy cheese-pull weeknight American dish featuring cider vinegar, this sugar-free-friendly burger is perfect for a quick dinner",
+  "cuisine": "American",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4",
+      "notes": "pounded to 1/2 inch thickness"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cheddar cheese slices",
+      "amount": "4"
+    },
+    {
+      "name": "buns",
+      "amount": "4"
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "Pound the chicken breast to 1/2 inch thickness and season with salt, black pepper, and hot sauce",
+    "Dredge the chicken in flour, shaking off excess",
+    "Heat the vegetable oil in a large skillet over medium-high heat to 350 degrees",
+    "Fry the chicken for 5-6 minutes on each side, or until it reaches an internal temperature of 165 degrees",
+    "Transfer the chicken to a paper towel-lined plate to drain excess oil",
+    "In a small bowl, whisk together the cider vinegar and 1 tablespoon of water",
+    "Brush the vinegar mixture onto the fried chicken",
+    "Assemble the burgers by placing a chicken breast on each bun, topping with a cheese slice, and adding a lettuce leaf",
+    "Place the burgers under the broiler for 1-2 minutes, or until the cheese is melted and bubbly"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "cheese-pull",
+    "crispy-chicken",
+    "dinner-ideas",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-crispy-american-chicken-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-american-chicken-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:05:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "fry",
+    "primaryIngredient": "cider vinegar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Burger"
+  }
+}
