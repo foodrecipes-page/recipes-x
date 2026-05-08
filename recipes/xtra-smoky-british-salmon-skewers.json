@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Smoky British Salmon Skewers",
+  "description": "Smoky, flaky, and festive, these British salmon skewers are perfect for any occasion, featuring a hint of red food coloring and a deliciously charred flavor from the grill.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, red food coloring, olive oil, lemon juice, garlic powder, salt, and black pepper.",
+    "Add the salmon pieces to the bowl and toss to coat evenly with the smoky mixture.",
+    "Thread the salmon pieces onto the soaked wooden skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 8-10 minutes, turning occasionally, until the salmon is cooked through and slightly charred.",
+    "Remove the skewers from the grill and serve immediately on a lazy-susan-spinner.",
+    "Garnish with fresh parsley or dill, if desired.",
+    "Serve with your favorite sides, such as roasted vegetables or quinoa.",
+    "Refrigerate any leftovers and consume within 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "grilled",
+    "healthy",
+    "pescatarian",
+    "seafood",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "slug": "xtra-smoky-british-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-british-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:16:53Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "red food colouring",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "salmon",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Skewers"
+  }
+}

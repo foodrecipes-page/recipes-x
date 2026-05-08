@@ -1,0 +1,107 @@
+{
+  "title": "Xenial Roasted German Chive Roast",
+  "description": "A hearty, earthy German dish featuring Asian chives and a delicious roast, perfect for a lazy Sunday, this lacto-vegetarian friendly meal is sure to satisfy. The combination of flavors and textures creates a truly unique taste experience.",
+  "cuisine": "German",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "2 pounds",
+      "notes": "such as top round or rump roast"
+    },
+    {
+      "name": "Asian chives",
+      "amount": "1 bunch",
+      "notes": "also known as buchu"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Season the beef roast with salt and black pepper.",
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef roast until browned on all sides, then set aside.",
+    "Add the chopped onion to the pot and cook until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and potatoes to the pot, stirring to combine.",
+    "Return the beef roast to the pot and add the vegetable broth.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Roast for 2 1/2 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Stir in the chopped Asian chives and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "lacto-vegetarian",
+    "lazy-sunday",
+    "one-pot",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xenial-roasted-german-chive-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-roasted-german-chive-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:17:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "roast",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chive",
+    "descriptor": "Xenial Roasted",
+    "dishForm": "Roast"
+  }
+}
