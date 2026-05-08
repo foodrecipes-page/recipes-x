@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Chewy Ukrainian Meat Dumplings",
+  "description": "Salty and chewy Ukrainian dish featuring mixed peel and a mirepoix base, this kosher friendly recipe is perfect for adventurous eaters. The combination of ground meats and spices creates a unique flavor profile.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "mixed peel",
+      "amount": "1/4 cup",
+      "notes": "dried and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the ground beef, ground pork, mixed peel, onion, carrot, celery, egg, salt, and black pepper, and mix until just combined.",
+    "Gradually add the flour to the meat mixture and mix until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 20 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape using a rolling pin or your hands.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings to the pot.",
+    "Reduce the heat to a simmer and cook the dumplings for 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot.",
+    "Traditionally, the dumplings are served with a side of sour cream or fried onions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "homemade",
+    "one-pan",
+    "traditional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-chewy-ukrainian-meat-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-chewy-ukrainian-meat-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:02:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "mixed peel",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "meat",
+    "descriptor": "Xtra Chewy",
+    "dishForm": "Dumplings"
+  }
+}
