@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Crispy Uruguayan Fries Wrap",
+  "description": "A malty, light, and festive Uruguayan dish featuring crispy fries and a flexitarian-friendly ssam-wrap, perfect for a snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Cut the potatoes into long thin strips and soak them in cold water for 30 minutes.",
+    "Drain the potatoes and dry them thoroughly with paper towels.",
+    "Toss the potatoes with olive oil, salt, black pepper, garlic powder, and paprika until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and bake for 20 minutes.",
+    "Remove the potatoes from the oven and increase the oven temperature to 425 degrees.",
+    "Return the potatoes to the oven and bake for an additional 10 minutes, or until crispy.",
+    "Wrap each ssam wrap around a portion of the crispy fries and drizzle with malt vinegar.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "flexitarian",
+    "fries",
+    "latin-american",
+    "snack",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-crispy-uruguayan-fries-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-uruguayan-fries-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:12:38Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "fries",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "fries",
+    "descriptor": "Xtra crispy",
+    "dishForm": "Wrap"
+  }
+}
