@@ -3766,6 +3766,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-flaky-british-potato-bake",
+    "title": "Xtra Flaky British Potato Bake",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "earthy",
+      "flaky",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 65,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-flaky-dutch-fish-papillote",
     "title": "Xtra Flaky Dutch Fish Papillote",
     "tags": [

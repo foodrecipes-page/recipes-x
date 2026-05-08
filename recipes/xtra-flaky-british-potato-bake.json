@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Flaky British Potato Bake",
+  "description": "A quick-fix British dish featuring panang curry paste, earthy flavors, and a flaky texture, perfect for a weeknight dinner. This macrobiotic-friendly recipe is baked on a slate-tile vessel.",
+  "cuisine": "British",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes, panang curry paste, olive oil, salt, and black pepper, and toss until the potatoes are evenly coated.",
+    "In a separate bowl, mix the chopped onion and minced garlic.",
+    "In a greased slate-tile vessel, create a layer of potatoes, followed by a layer of the onion and garlic mixture, and repeat this process until all ingredients are used, finishing with a layer of potatoes on top.",
+    "Sprinkle the grated cheddar cheese over the top layer of potatoes.",
+    "Bake the potato bake in the preheated oven for 45 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove the bake from the oven and let it cool for a few minutes before serving.",
+    "Serve the Xtra Flaky British Potato Bake hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "earthy",
+    "flaky",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-flaky-british-potato-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-british-potato-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:36:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "panang curry paste",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "potatoes",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Bake"
+  }
+}
