@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Fluffy French Cheese Souffle",
+  "description": "A rich and decadent French dish from Normandy, featuring a long-fermentation dough and a blend of cheeses, perfect for a date night dinner.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gruyere cheese",
+      "amount": "1 1/2 cups",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup",
+      "notes": "long-fermentation dough"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the flour, mustard powder, and salt.",
+    "In a separate bowl, whisk together the melted butter, eggs, and heavy cream.",
+    "Add the grated parmesan cheese and shredded gruyere cheese to the bowl with the egg mixture and stir until well combined.",
+    "Add the flour mixture to the cheese mixture and stir until smooth.",
+    "Pour the mixture into a buttered souffle dish and smooth the top.",
+    "Bake the souffle for 35 minutes, or until puffed and golden brown.",
+    "Remove the souffle from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy-goodness",
+    "date-night",
+    "french-cuisine",
+    "low-glycemic",
+    "rich-and-decadent"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 12,
+    "fat": 32
+  },
+  "slug": "xtra-fluffy-french-cheese-souffle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-french-cheese-souffle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:13:41Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "mustard powder",
+    "diet": "low-glycemic",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra Fluffy",
+    "dishForm": "Souffle"
+  }
+}

@@ -3604,6 +3604,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-fluffy-french-cheese-souffle",
+    "title": "Xtra Fluffy French Cheese Souffle",
+    "tags": [
+      "cheesy-goodness",
+      "date-night",
+      "french-cuisine",
+      "low-glycemic",
+      "rich-and-decadent"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fluffy-irish-eggplant-frittata",
     "title": "Xtra Fluffy Irish Eggplant Frittata",
     "tags": [
