@@ -4322,6 +4322,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-fluffy-kenyan-egg-spring-rolls",
+    "title": "Xtra Fluffy Kenyan Egg Spring Rolls",
+    "tags": [
+      "african-food",
+      "kenyan-cuisine",
+      "ovo-vegetarian",
+      "snack-food",
+      "spring-rolls",
+      "tandoor-cooking"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fluffy-norwegian-oatmeal-grill",
     "title": "Xtra Fluffy Norwegian Oatmeal Grill",
     "tags": [

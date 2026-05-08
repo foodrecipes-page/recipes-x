@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Fluffy Kenyan Egg Spring Rolls",
+  "description": "A funky and fluffy Kenyan dish featuring egg roll wrappers, leaf wrap steam, and ovo-vegetarian friendly ingredients, cooked to perfection in a tandoor clay pot.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 sheets",
+      "notes": "found in most Asian markets"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the beaten eggs, chopped onion, grated carrots, and shredded cabbage.",
+    "Season the egg mixture with salt and pepper to taste.",
+    "Lay an egg roll wrapper on a flat surface and place about 1/4 cup of the egg mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "Place the spring rolls in the preheated tandoor clay pot, leaving about 1 inch of space between each roll.",
+    "Cover the pot with a leaf wrapper and steam the spring rolls for 10 minutes.",
+    "Remove the spring rolls from the pot and fry them in hot oil until golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "african-food",
+    "kenyan-cuisine",
+    "ovo-vegetarian",
+    "snack-food",
+    "spring-rolls",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "xtra-fluffy-kenyan-egg-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-kenyan-egg-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:52:48Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "eggs",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Spring-Rolls"
+  }
+}
