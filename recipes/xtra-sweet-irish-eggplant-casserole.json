@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Sweet Irish Eggplant Casserole",
+  "description": "A sweet and aerated Irish dish featuring eggplant, this casserole is a crowd-pleaser and gluten-free friendly. It is made with kneaded ingredients and baked to perfection.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gluten-free oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "In a large bowl, combine the cooked ground beef mixture, tomato sauce, and shredded cheese.",
+    "In a separate bowl, knead together the gluten-free oats and brown sugar.",
+    "In a greased 9x13 inch baking dish, create a layer of eggplant slices.",
+    "Spread half of the ground beef mixture over the eggplant layer.",
+    "Sprinkle half of the oat mixture over the ground beef layer.",
+    "Repeat the layers, starting with the eggplant, then the ground beef mixture, and finally the oat mixture.",
+    "Bake the casserole in the preheated oven for 45 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "gluten-free",
+    "irish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-sweet-irish-eggplant-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sweet-irish-eggplant-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:35:11Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "eggplant",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Xtra Sweet",
+    "dishForm": "Casserole"
+  }
+}
