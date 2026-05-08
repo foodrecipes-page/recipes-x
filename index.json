@@ -739,6 +739,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-cheesy-algerian-deodeok-root-tagine",
+    "title": "Xenial Cheesy Algerian Deodeok Root Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-comforting-spanish-pinto-beans-stew",
     "title": "Xenial Comforting Spanish Pinto Beans Stew",
     "tags": [
