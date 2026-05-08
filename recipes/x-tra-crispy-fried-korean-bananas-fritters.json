@@ -1,0 +1,100 @@
+{
+  "title": "X-tra Crispy Fried Korean Bananas Fritters",
+  "description": "A crispy and flavorful Korean dessert featuring fried ripe bananas. Perfect for a solo dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, cornstarch, sugar, cinnamon, ginger, and salt.",
+    "Peel the bananas and cut them into 1-inch pieces.",
+    "Add the banana pieces to the dry ingredients and toss until they are evenly coated.",
+    "Heat about 2 inches of vegetable oil in a deep frying pan over medium-high heat.",
+    "When the oil is hot, add the banana pieces in batches and fry until they are golden brown, about 2-3 minutes per side.",
+    "Using a slotted spoon, remove the fried bananas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, mix together the mustard seeds and green onions.",
+    "Sprinkle the mustard seed mixture over the fried bananas and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "fried",
+    "korean",
+    "solo-dinner",
+    "vegetarian-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "x-tra-crispy-fried-korean-bananas-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-crispy-fried-korean-bananas-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:18:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "shojin",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "bananas",
+    "descriptor": "X-tra crispy fried",
+    "dishForm": "Fritters"
+  }
+}
