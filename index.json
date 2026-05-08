@@ -3288,6 +3288,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crunchy-chinese-almond-noodles",
+    "title": "Xtra Crunchy Chinese Almond Noodles",
+    "tags": [
+      "adventurous-eating",
+      "asian-cuisine",
+      "chinese-food",
+      "noodle-recipes",
+      "vegan-friendly",
+      "vegetarian-options"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crunchy-croatian-shiitake-mushrooms-skewers",
     "title": "Xtra Crunchy Croatian Shiitake Mushrooms Skewers",
     "tags": [
@@ -5324,6 +5339,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 10,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-tender-basque-chicken-roast",
+    "title": "Xtra Tender Basque Chicken Roast",
+    "tags": [
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "spanish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 70,
     "shard": "x"
   },
   {

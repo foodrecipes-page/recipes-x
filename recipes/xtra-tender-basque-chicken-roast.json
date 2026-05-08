@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Tender Basque Chicken Roast",
+  "description": "A tender and flavorful solo dinner dish from the Basque region of Spain, featuring ghee and steam for a moist and delicious chicken roast.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the chicken thighs and pat them dry with paper towels.",
+    "In a small bowl, mix together the ghee, paprika, garlic powder, salt, and black pepper.",
+    "Rub the ghee mixture all over the chicken thighs, making sure they are fully coated.",
+    "Place the chicken thighs in a large Dutch oven or oven-safe pot with a lid.",
+    "Pour in the lemon juice and chicken broth, making sure the chicken is mostly submerged.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Roast the chicken for 30 minutes, then remove the lid and continue roasting for an additional 20 minutes.",
+    "Remove the pot from the oven and let the chicken rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 28
+  },
+  "slug": "xtra-tender-basque-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tender-basque-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:54:34Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "steam",
+    "primaryIngredient": "ghee",
+    "diet": "egg-free",
+    "region": "basque",
+    "cuisineAdjective": "Basque",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra tender",
+    "dishForm": "Roast"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Crunchy Chinese Almond Noodles",
+  "description": "A pungent and adventurous Chinese dish featuring flaked almonds and a glassy-jelly texture, this recipe is egg-free-friendly and perfect for those looking to try something new. It combines the crunch of almonds with the savory flavor of Chinese noodles.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "flaked almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "agar agar",
+      "amount": "2 tbsp",
+      "notes": "powdered"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the flaked almonds and stir-fry until they are golden brown and fragrant.",
+    "In a small bowl, whisk together the soy sauce, oyster sauce, sesame oil, salt, and sugar.",
+    "Pour the sauce into the skillet or wok and stir to combine with the almonds.",
+    "Add the cooked noodles to the skillet or wok and stir-fry for 2-3 minutes.",
+    "In a small saucepan, combine the agar agar powder with 1 cup of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the agar agar is dissolved and the mixture has a glassy-jelly texture.",
+    "Stir the agar agar mixture into the noodles and almonds.",
+    "Transfer the noodles to a serving platter and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eating",
+    "asian-cuisine",
+    "chinese-food",
+    "noodle-recipes",
+    "vegan-friendly",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "xtra-crunchy-chinese-almond-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-chinese-almond-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:53:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "cure",
+    "primaryIngredient": "flaked almonds",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "almonds",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Noodles"
+  }
+}
