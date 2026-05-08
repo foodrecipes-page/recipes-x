@@ -1,0 +1,106 @@
+{
+  "title": "Xenial Lazy Ukrainian Tomato Pilaf",
+  "description": "A briny and savory Ukrainian dish featuring confit tomatoes and a glassy jelly texture, perfect for a lazy Sunday. It is a lacto-vegetarian friendly recipe.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 1/2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 3/4 cups"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the confit tomatoes, tomato paste, salt, and black pepper, and cook for 2 minutes.",
+    "Add the rice to the saucepan and cook for 1 minute, stirring constantly.",
+    "Add the water, canned diced tomatoes, and grated carrot to the saucepan, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Remove the saucepan from the heat and let it stand, covered, for 5 minutes.",
+    "Fluff the pilaf with a fork and stir in the chopped fresh dill.",
+    "Serve the pilaf hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "glassy-jelly",
+    "lacto-vegetarian",
+    "lazy-sunday",
+    "one-pot",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xenial-lazy-ukrainian-tomato-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-lazy-ukrainian-tomato-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:48:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "confit-tomato",
+    "primaryIngredient": "black pepper",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "tomato",
+    "descriptor": "Xenial Lazy",
+    "dishForm": "Pilaf"
+  }
+}

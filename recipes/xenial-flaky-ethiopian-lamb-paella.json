@@ -1,0 +1,106 @@
+{
+  "title": "Xenial Flaky Ethiopian Lamb Paella",
+  "description": "A savory and flaky Ethiopian dish featuring lamb, sugars, and ayurvedic-tamasic-friendly ingredients, cooked to perfection in a paella pan, ideal for a post-workout meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the berbere spice, sugar, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, saffron threads, and paella rice, and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes, or until the rice is cooked and the liquid is absorbed.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xenial-flaky-ethiopian-lamb-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-flaky-ethiopian-lamb-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:48:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "sugars",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Flaky",
+    "dishForm": "Paella"
+  }
+}

@@ -959,6 +959,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-flaky-ethiopian-lamb-paella",
+    "title": "Xenial Flaky Ethiopian Lamb Paella",
+    "tags": [
+      "dairy-free",
+      "ethiopian-cuisine",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "post-workout"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-flaky-slovakian-pineapple-dumplings",
     "title": "Xenial Flaky Slovakian Pineapple Dumplings",
     "tags": [
@@ -1077,6 +1092,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-lazy-ukrainian-tomato-pilaf",
+    "title": "Xenial Lazy Ukrainian Tomato Pilaf",
+    "tags": [
+      "briny",
+      "glassy-jelly",
+      "lacto-vegetarian",
+      "lazy-sunday",
+      "one-pot",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
