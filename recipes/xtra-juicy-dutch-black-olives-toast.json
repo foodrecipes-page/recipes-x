@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Juicy Dutch Black Olives Toast",
+  "description": "A midnight craving Dutch dish featuring fresh and juicy black olives on toast, perfect for a quick snack.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Slice the whole wheat bread into 1-inch thick slices.",
+    "Place the bread slices on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the bread slices.",
+    "Sprinkle the garlic powder, salt, and pepper over the bread slices.",
+    "Bake the bread slices in the preheated oven for 5 minutes.",
+    "Remove the bread slices from the oven and let them cool for 2 minutes.",
+    "Top each bread slice with a quarter cup of pitted black olives.",
+    "Sprinkle the chopped fresh parsley over the black olives.",
+    "Drizzle the lemon juice over the parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "easy-to-make",
+    "midnight-craving",
+    "quick-snack",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-juicy-dutch-black-olives-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-dutch-black-olives-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:15:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "toast",
+    "primaryIngredient": "black olives",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "black olives",
+    "descriptor": "Xtra juicy",
+    "dishForm": "Toast"
+  }
+}
