@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Rich Russian Beef Pie",
+  "description": "A rich and savory Russian dish featuring shortcrust pastry and beef, perfect for a brunch mood, made in an iron teppan and free from onions and garlic.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "ground"
+    },
+    {
+      "name": "shortcrust pastry",
+      "amount": "250g"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "100g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "sour cream",
+      "amount": "100g"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "20g"
+    },
+    {
+      "name": "salt",
+      "amount": "10g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 180 degrees Celsius.",
+    "Roll out the shortcrust pastry to a thickness of 5mm.",
+    "In a large bowl, combine the ground beef, sliced mushrooms, butter, eggs, sour cream, dijon mustard, salt, and black pepper, and mix until just combined.",
+    "Place the pastry into the iron teppan and fill with the beef mixture.",
+    "Fold the pastry over the filling to form a pie shape.",
+    "Brush the pastry with a little water and cut a few slits in the top to allow steam to escape.",
+    "Bake the pie for 35 minutes, or until the pastry is golden brown.",
+    "Remove the pie from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "brunch-ideas",
+    "iron-teppan-recipes",
+    "pie-recipes",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "xtra-rich-russian-beef-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-russian-beef-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:39:12Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "emulsify",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra rich",
+    "dishForm": "Pie"
+  }
+}

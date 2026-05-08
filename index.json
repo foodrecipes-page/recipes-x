@@ -3032,6 +3032,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-algerian-chicken-roast",
+    "title": "Xtra Crispy Algerian Chicken Roast",
+    "tags": [
+      "algerian-cuisine",
+      "coconut-flakes",
+      "crispy-chicken",
+      "gluten-free",
+      "low-carb",
+      "yeasty"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-british-cheese-ploughmans-pie",
     "title": "Xtra Crispy British Cheese Ploughmans Pie",
     "tags": [
@@ -4972,6 +4987,20 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-rich-russian-beef-pie",
+    "title": "Xtra Rich Russian Beef Pie",
+    "tags": [
+      "beef-recipes",
+      "brunch-ideas",
+      "iron-teppan-recipes",
+      "pie-recipes",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 55,
     "shard": "x"
   },
   {

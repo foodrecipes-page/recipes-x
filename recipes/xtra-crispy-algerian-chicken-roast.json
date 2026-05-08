@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Crispy Algerian Chicken Roast",
+  "description": "A yeasty and crispy Algerian dish featuring coconut flakes, perfect for a low-carb dinner. This recipe is energizing and full of flavor.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 lbs",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together the yeast, garlic powder, paprika, salt, and black pepper.",
+    "Add the coconut flakes to the bowl and stir until well combined.",
+    "Rinse the chicken thighs and pat them dry with paper towels.",
+    "Brush the chicken thighs with olive oil and sprinkle the coconut flake mixture evenly over both sides of the chicken.",
+    "Place the chicken thighs on a baking sheet lined with parchment paper.",
+    "Bake the chicken in the preheated oven for 30 minutes.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "coconut-flakes",
+    "crispy-chicken",
+    "gluten-free",
+    "low-carb",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "xtra-crispy-algerian-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-algerian-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:39:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "coconut flakes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Roast"
+  }
+}
