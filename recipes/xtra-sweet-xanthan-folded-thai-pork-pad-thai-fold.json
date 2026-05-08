@@ -1,0 +1,116 @@
+{
+  "title": "Xtra Sweet Xanthan Folded Thai Pork Pad Thai Fold",
+  "description": "A savory and comforting Thai dish featuring tender pork, nectarines, and a sweet and tangy sauce, all wrapped in a crispy rice noodle fold.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian-option"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "pork loin",
+      "amount": "1 lb",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "nectarines",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the pork to the skillet and cook until browned and cooked through, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the sliced onion and minced garlic to the skillet and cook until the onion is softened and translucent, about 3-4 minutes.",
+    "Add the soy sauce, fish sauce, and sugar to the skillet and stir to combine.",
+    "Bring the sauce to a simmer and cook for 1-2 minutes, or until slightly thickened.",
+    "Add the cooked noodles and pork back to the skillet and stir to combine.",
+    "To assemble the dish, place a portion of the noodle mixture onto a flat surface.",
+    "Add a slice of nectarine on top of the noodles, followed by a sprinkle of chopped peanuts if desired.",
+    "Fold the noodles and nectarine in half to enclose the filling, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfortfood",
+    "easysnack",
+    "snappy",
+    "thaifood",
+    "umami",
+    "veggieoption",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "xtra-sweet-xanthan-folded-thai-pork-pad-thai-fold",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sweet-xanthan-folded-thai-pork-pad-thai-fold",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:59:41Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "nectarines",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Sweet Xanthan Folded",
+    "dishForm": "Pad-Thai Fold"
+  }
+}
