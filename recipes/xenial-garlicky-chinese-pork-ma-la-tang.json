@@ -1,0 +1,92 @@
+{
+  "title": "Xenial Garlicky Chinese Pork Ma La Tang",
+  "description": "A garlicky, molten, monsoon Chinese dish featuring clotted cream, mushimono-steam, and gluten-free-friendly ingredients, served in a traditional ma-la-tang form in a wok vessel.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "ma la tang sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a wok over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry until fragrant.",
+    "Add the pork shoulder slices and stir-fry until browned.",
+    "Add the soy sauce, ma la tang sauce, and clotted cream, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Stir in the chopped scallions and cook for an additional 2 minutes.",
+    "Serve the Xenial Garlicky Chinese Pork Ma La Tang hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "gluten-free",
+    "one-pan",
+    "pork-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "xenial-garlicky-chinese-pork-ma-la-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-garlicky-chinese-pork-ma-la-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:34:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "clotted cream",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Xenial Garlicky",
+    "dishForm": "Ma La Tang"
+  }
+}

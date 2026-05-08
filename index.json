@@ -915,6 +915,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-garlicky-chinese-pork-ma-la-tang",
+    "title": "Xenial Garlicky Chinese Pork Ma La Tang",
+    "tags": [
+      "chinese-food",
+      "gluten-free",
+      "one-pan",
+      "pork-recipes",
+      "spicy-food"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-hearty-russian-mushroom-pilaf",
     "title": "Xenial Hearty Russian Mushroom Pilaf",
     "tags": [
