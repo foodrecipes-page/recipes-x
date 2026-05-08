@@ -3672,6 +3672,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-smoky-jamaican-chicken-skewers",
+    "title": "Xtra Smoky Jamaican Chicken Skewers",
+    "tags": [
+      "chicken-skewers",
+      "grilled",
+      "jamaican",
+      "kid-friendly",
+      "low-calorie",
+      "smoky"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 37,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-smoky-venezuelan-taleggio-empanadas",
     "title": "Xtra Smoky Venezuelan Taleggio Empanadas",
     "tags": [
