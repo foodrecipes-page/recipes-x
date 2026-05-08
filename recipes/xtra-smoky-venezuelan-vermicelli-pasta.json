@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Smoky Venezuelan Vermicelli Pasta",
+  "description": "A smoky and silky Venezuelan dish featuring vermicelli pasta, agemono-deep-fry, and ovo-vegetarian-friendly ingredients, served in a corn husk wrap.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the vermicelli pasta according to package instructions until al dente.",
+    "While the pasta cooks, heat the olive oil in a large skillet over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the smoked paprika and cook for 1 minute, allowing the flavors to meld.",
+    "In a large bowl, whisk together the eggs and a pinch of salt and pepper.",
+    "Add the cooked vermicelli pasta to the bowl and toss with the egg mixture until the pasta is well coated.",
+    "Add the skillet mixture to the bowl and toss until the pasta is well combined with the onion and garlic mixture.",
+    "To assemble the dish, lay a corn husk flat on a work surface and place a portion of the pasta mixture in the center of the husk.",
+    "Fold the sides of the husk over the filling and roll the husk into a tight cylinder, securing with a toothpick if necessary.",
+    "Repeat with the remaining ingredients and serve hot, garnished with grated cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wrap",
+    "ovo-vegetarian",
+    "silky",
+    "smoky",
+    "venezuelan",
+    "vermicelli-pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-smoky-venezuelan-vermicelli-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-venezuelan-vermicelli-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:34:41Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "vermicelli",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Pasta"
+  }
+}
