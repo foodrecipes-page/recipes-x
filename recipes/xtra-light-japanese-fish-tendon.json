@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Light Japanese Fish Tendon",
+  "description": "A light and flavorful Japanese dish featuring fish sauce and toasted bread, perfect for a keto-friendly meal. This tendon dish is grassy and velvety in texture.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "nam pla"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "white fish",
+      "amount": "1 pound",
+      "notes": "such as cod or tilapia"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the white fish with salt and black pepper.",
+    "Place the fish on a baking sheet lined with parchment paper and bake for 12 minutes.",
+    "While the fish is baking, toast the bread slices until lightly browned.",
+    "In a small bowl, whisk together the fish sauce, lemon juice, and sesame oil.",
+    "Once the fish is done, brush the fish sauce mixture evenly over the top of the fish.",
+    "Top each slice of toast with a piece of the fish, some grated daikon, and chopped scallions.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-eating",
+    "japanese-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "xtra-light-japanese-fish-tendon",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-japanese-fish-tendon",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:47:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "fish-sauce-nam-pla",
+    "diet": "keto",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra Light",
+    "dishForm": "Tendon"
+  }
+}

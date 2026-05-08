@@ -1088,6 +1088,22 @@
     "shard": "x"
   },
   {
+    "slug": "xeridic-tunisian-herbs-tagine",
+    "title": "Xeridic Tunisian Herbs Tagine",
+    "tags": [
+      "coconut-cream",
+      "flambe",
+      "herbs",
+      "jain-friendly",
+      "one-pan",
+      "tunisian",
+      "vegan-optional"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xeridic-yeast-glazed-mediterranean-bellflower-root-doraji-wrap",
     "title": "Xeridic Yeast-Glazed Mediterranean Bellflower-root-doraji Wrap",
     "tags": [
@@ -2663,6 +2679,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-light-japanese-fish-tendon",
+    "title": "Xtra Light Japanese Fish Tendon",
+    "tags": [
+      "healthy-eating",
+      "japanese-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "quick-meal",
+      "seafood"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 27,
     "shard": "x"
   },
   {

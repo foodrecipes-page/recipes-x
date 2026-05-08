@@ -1,0 +1,111 @@
+{
+  "title": "Xeridic Tunisian Herbs Tagine",
+  "description": "A traditional Tunisian dish featuring a rich and flavorful stew made with coconut cream, aromatic herbs, and a hint of spice, finished with a flambe. This Jain-friendly recipe showcases the beauty of North African cuisine.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 1/2 teaspoons"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Dried mint leaves",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large clay or ceramic tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute, until fragrant.",
+    "Add the cumin seeds, coriander powder, turmeric powder, and cayenne pepper, and cook for 1 minute, until the spices are fragrant.",
+    "Add the dried mint leaves and cook for 1 minute, until the mixture is well combined.",
+    "Stir in the coconut cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes, or until the sauce has thickened and the flavors have melded together.",
+    "Stir in the chopped parsley and season with salt to taste.",
+    "To finish the dish, ignite the mixture with a flambe, using a kitchen torch or by carefully pouring a small amount of rum or cognac into the tagine and igniting it.",
+    "Serve the tagine immediately, garnished with additional parsley if desired.",
+    "Note: To make the dish more substantial, you can add cooked chickpeas, lentils, or quinoa to the tagine before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream",
+    "flambe",
+    "herbs",
+    "jain-friendly",
+    "one-pan",
+    "tunisian",
+    "vegan-optional"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 34
+  },
+  "slug": "xeridic-tunisian-herbs-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeridic-tunisian-herbs-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:47:30Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "flambe",
+    "primaryIngredient": "coconut cream",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "herbs",
+    "descriptor": "Xeridic",
+    "dishForm": "Tagine"
+  }
+}
