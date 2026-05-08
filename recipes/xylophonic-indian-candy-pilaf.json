@@ -1,0 +1,101 @@
+{
+  "title": "Xylophonic Indian Candy Pilaf",
+  "description": "A sweet and fluffy pilaf dish featuring vermicelli rice noodles, candied citrus, and warm spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "1 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Candied orange peel",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Candied lemon peel",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1 tsp ground",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp ground",
+      "notes": ""
+    },
+    {
+      "name": "Rosewater",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring 2 cups of water to a boil in a large saucepan.",
+    "Add vermicelli rice noodles to the boiling water and cook according to package instructions.",
+    "Drain the noodles and set them aside.",
+    "In a large skillet, heat the ghee over medium heat.",
+    "Add the cardamom and cinnamon to the skillet and cook for 1 minute.",
+    "Add the candied orange and lemon peel to the skillet and cook for an additional 2 minutes.",
+    "Add the cooked noodles to the skillet and toss to combine with the spices and citrus.",
+    "Stir in the rosewater and sugar until well combined.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated with the spice and citrus mixture.",
+    "Serve hot, garnished with additional candied citrus peel if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "floral",
+    "indian-inspired",
+    "silky",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "xylophonic-indian-candy-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xylophonic-indian-candy-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T23:16:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "candy",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "candy",
+    "descriptor": "Xylophonic",
+    "dishForm": "Pilaf"
+  }
+}

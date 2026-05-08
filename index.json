@@ -6545,6 +6545,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-silky-saudi-arabian-amazake-onigiri",
+    "title": "Xtra Silky Saudi Arabian Amazake Onigiri",
+    "tags": [
+      "herbal",
+      "japanese-fusion",
+      "quick-snack",
+      "saudi-arabian",
+      "silky",
+      "vegetarian"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-silky-saudi-arabian-lentils-tagine",
     "title": "Xtra Silky Saudi Arabian Lentils Tagine",
     "tags": [
@@ -7759,6 +7774,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xylophonic-indian-candy-pilaf",
+    "title": "Xylophonic Indian Candy Pilaf",
+    "tags": [
+      "dessert",
+      "floral",
+      "indian-inspired",
+      "silky",
+      "sweet"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {

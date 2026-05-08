@@ -1,0 +1,91 @@
+{
+  "title": "Xtra Silky Saudi Arabian Amazake Onigiri",
+  "description": "A quick-fix Saudi Arabian dish featuring amazake and nigiri-shaping, this vegetarian-friendly recipe combines herbal notes with a silky texture. It is a unique fusion of Japanese and Saudi Arabian flavors.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "amazake",
+      "amount": "1 cup",
+      "notes": "Japanese sweet rice drink"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "2 cups",
+      "notes": "Japanese short-grain rice"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice thoroughly and soak it in water for 30 minutes.",
+    "Combine the amazake, sesame oil, salt, black pepper, dried parsley, and dried mint in a saucepan and heat over low heat.",
+    "Add the soaked sushi rice to the saucepan and stir well to combine.",
+    "Cook the mixture over low heat for 15 minutes, stirring constantly.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "Once the mixture has cooled, shape it into small triangular onigiri shapes.",
+    "Serve the onigiri immediately, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "japanese-fusion",
+    "quick-snack",
+    "saudi-arabian",
+    "silky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "xtra-silky-saudi-arabian-amazake-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-saudi-arabian-amazake-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:17:37Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "amazake",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "amazake",
+    "descriptor": "Xtra silky",
+    "dishForm": "Onigiri"
+  }
+}
