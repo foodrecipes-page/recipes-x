@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Spicy Jamaican Pepper Wrap",
+  "description": "A pungent and molten Jamaican dish featuring sweet peppadew peppers, this low-carb-friendly wrap is perfect for midnight cravings. It combines the bold flavors of Jamaica with the convenience of a wrap.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peppadew peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1/4 cup",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a bowl, mix together jerk seasoning, scotch bonnet peppers, and lime juice.",
+    "Add the chicken breast to the bowl and coat with the jerk seasoning mixture.",
+    "Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165 degrees.",
+    "Let the chicken rest for a few minutes before slicing it thinly.",
+    "In a pan, heat a little oil over medium heat and saute the sliced red onion until it is translucent.",
+    "Add the sliced peppadew peppers to the pan and cook for an additional 2 minutes.",
+    "Warm the ssam wrap pieces by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by placing a few slices of the grilled chicken onto a ssam wrap, followed by some of the sauteed onion and peppers, and finally a sprinkle of chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "jamaican-cuisine",
+    "low-carb",
+    "spicy-food",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "xtra-spicy-jamaican-pepper-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-jamaican-pepper-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:53:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "peppers",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Wrap"
+  }
+}

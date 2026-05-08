@@ -5939,6 +5939,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-jamaican-pepper-wrap",
+    "title": "Xtra Spicy Jamaican Pepper Wrap",
+    "tags": [
+      "grilled-chicken",
+      "jamaican-cuisine",
+      "low-carb",
+      "spicy-food",
+      "weeknight-meal"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-japanese-chicken-stir-fry",
     "title": "Xtra Spicy Japanese Chicken Stir-fry",
     "tags": [
