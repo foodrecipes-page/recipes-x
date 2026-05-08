@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Light Saudi Arabian Mascarpone Flatbread",
+  "description": "A funky and aerated Saudi Arabian dish featuring mascarpone, fry, and Mediterranean-friendly ingredients, perfect for a light meal or snack. This flatbread is a unique blend of flavors and textures.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mascarpone cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "Add the softened mascarpone cheese to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and brush with olive oil.",
+    "Sprinkle garlic powder and dried oregano over the disks.",
+    "Place the disks on a baking sheet lined with parchment paper and bake for 12 minutes.",
+    "While the flatbreads are baking, toast the pita bread pieces until crispy.",
+    "Top each flatbread with a toasted pita bread piece, some cherry tomatoes, and a sprinkle of salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "light-meal",
+    "mediterranean-inspired",
+    "middle-eastern",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "xtra-light-saudi-arabian-mascarpone-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-saudi-arabian-mascarpone-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:15:08Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "fry",
+    "primaryIngredient": "mascarpone",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "mascarpone",
+    "descriptor": "Xtra Light",
+    "dishForm": "Flatbread"
+  }
+}
