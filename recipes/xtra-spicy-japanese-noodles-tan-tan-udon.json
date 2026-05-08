@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Spicy Japanese Noodles Tan Tan Udon",
+  "description": "A spicy and crumbly Japanese dish featuring parsley and a mirepoix base, served in a ramekin. This vegetarian-friendly tan-tan-udon is a kid-friendly option for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the udon noodles according to package instructions and set aside.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion, carrot, and celery to the skillet and cook until the vegetables are tender.",
+    "Add the chopped parsley, gochujang, soy sauce, and sesame oil to the skillet and stir to combine.",
+    "Add the cooked udon noodles to the skillet and toss to combine with the vegetable mixture.",
+    "Transfer the noodle mixture to a ramekin and top with crushed red pepper.",
+    "Serve the tan-tan-udon hot and enjoy.",
+    "Garnish with additional parsley and sesame seeds if desired.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "noodle-dish",
+    "one-pot",
+    "spicy-food",
+    "vegetarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "xtra-spicy-japanese-noodles-tan-tan-udon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-japanese-noodles-tan-tan-udon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:19:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "parsley",
+    "diet": "vegetarian",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Tan Tan Udon"
+  }
+}
