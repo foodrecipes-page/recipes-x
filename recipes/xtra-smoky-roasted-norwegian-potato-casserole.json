@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Smoky Roasted Norwegian Potato Casserole",
+  "description": "A hearty, smoky, and flaky Norwegian dish perfect for midnight cravings, featuring ground ginger and a blend of vegetarian-friendly ingredients. This casserole is roasted to perfection with a crispy exterior and a tender interior.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes with olive oil, smoked paprika, and ground ginger until they are evenly coated.",
+    "In a separate pan, saute the chopped onion and minced garlic until they are softened and fragrant.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, followed by a layer of sauteed onion and garlic, and then a sprinkle of shredded cheese.",
+    "Repeat the layering process until all the ingredients are used, ending with a layer of cheese on top.",
+    "Pour the vegetable broth over the casserole, making sure that all the ingredients are moistened.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "norwegian-cuisine",
+    "one-pan",
+    "smoky-flavors",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xtra-smoky-roasted-norwegian-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-roasted-norwegian-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:54:57Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "smoke",
+    "primaryIngredient": "ground ginger",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Xtra Smoky Roasted",
+    "dishForm": "Casserole"
+  }
+}
