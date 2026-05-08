@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Crispy Argentinian Egg Frittata",
+  "description": "A buttery and crispy egg dish from Argentina, perfect for a hangover cure, featuring egg whites and fried to perfection in a donabe vessel, suitable for ovo-vegetarian diets.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg whites",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the egg whites, salt, black pepper, and garlic powder until stiff peaks form.",
+    "In a donabe vessel, melt 2 tablespoons of unsalted butter over medium heat.",
+    "Add the diced red bell pepper and onion to the donabe and cook until they are tender, about 5 minutes.",
+    "Pour the whisked egg whites over the cooked vegetables in the donabe.",
+    "If using cheese, sprinkle it evenly over the top of the egg whites.",
+    "Transfer the donabe to the preheated oven and bake for 20 minutes, or until the eggs are set and the top is golden brown.",
+    "Remove the donabe from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the edges of the frittata from the donabe and slide it onto a plate.",
+    "Cut the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "crispy-eggs",
+    "high-protein",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "xtra-crispy-argentinian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-argentinian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:55:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "fry",
+    "primaryIngredient": "egg white",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "egg",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Frittata"
+  }
+}
