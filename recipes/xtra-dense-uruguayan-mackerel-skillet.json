@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Dense Uruguayan Mackerel Skillet",
+  "description": "A malty and dense Uruguayan dish featuring mackerel, this skillet is perfect for a diabetic-friendly dinner option, inspired by the monsoon season",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "air-fryer seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit",
+    "Season the mackerel fillets with salt, black pepper, and air-fryer seasoning",
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Add the chopped onion to the skillet and cook until translucent",
+    "Add the minced garlic to the skillet and cook for an additional minute",
+    "Add the mackerel fillets to the skillet and cook for 3-4 minutes per side",
+    "Transfer the mackerel fillets to the air fryer and cook for an additional 5 minutes",
+    "In a small bowl, whisk together the malt vinegar and dried oregano",
+    "Pour the malt vinegar mixture over the mackerel fillets and serve hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipe",
+    "diabetic-friendly",
+    "high-protein",
+    "low-carb",
+    "one-pan-dinner",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-dense-uruguayan-mackerel-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-uruguayan-mackerel-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:15:12Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "mackerel",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "mackerel",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Skillet"
+  }
+}
