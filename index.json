@@ -1331,6 +1331,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-lemon-mediterranean-chicken-skillet",
+    "title": "Xenial Lemon Mediterranean Chicken Skillet",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-light-indian-fish-baingan-bharta",
     "title": "Xenial Light Indian Fish Baingan Bharta",
     "tags": [
@@ -3563,6 +3577,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-korean-tofu-stew",
+    "title": "Xtra Creamy Korean Tofu Stew",
+    "tags": [
+      "comfort-food",
+      "halal-friendly",
+      "korean-cuisine",
+      "one-pot",
+      "tofu-recipes"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-mediterranean-celeriac-pasta",
     "title": "Xtra Creamy Mediterranean Celeriac Pasta",
     "tags": [
@@ -4186,6 +4214,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-korean-pancetta-skewers",
+    "title": "Xtra Crispy Korean Pancetta Skewers",
+    "tags": [
+      "grilled-meats",
+      "korean-fusion",
+      "mediterranean-inspired",
+      "party-food",
+      "quick-snacks"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {

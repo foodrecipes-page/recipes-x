@@ -1,0 +1,94 @@
+{
+  "title": "Xenial Lemon Mediterranean Chicken Skillet",
+  "description": "A floral and tender Mediterranean dish featuring lemons and beurre-monte, cooked to perfection in a comal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a comal over medium-high heat.",
+    "Add the chicken breast and cook for 5-6 minutes per side, or until cooked through.",
+    "Remove the chicken from the comal and set aside to rest.",
+    "Reduce the heat to medium and add the beurre-monte to the comal.",
+    "Once the beurre-monte is melted, add the garlic, oregano, salt, and pepper to the comal.",
+    "Cook for 1 minute, stirring constantly, until the garlic is fragrant.",
+    "Stir in the lemon juice and bring the mixture to a simmer.",
+    "Return the chicken to the comal and spoon some of the sauce over the top of each breast.",
+    "Cook for an additional 2-3 minutes, or until the chicken is coated in the sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "xenial-lemon-mediterranean-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-lemon-mediterranean-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:26:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "beurre-monte",
+    "primaryIngredient": "lemons",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Xenial Lemon",
+    "dishForm": "Skillet"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Creamy Korean Tofu Stew",
+  "description": "A lazy Sunday Korean dish featuring hoisin sauce and a sweet twist, this stew is a comforting and creamy blend of fermented and halal-friendly flavors. It is a traditional Jeolla dish with a modern twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "silken or soft"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "pepero or similar Korean candy"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the gochujang and hoisin sauce, stirring to combine.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and add the tofu, breaking it up into small pieces.",
+    "Add the chopped candy and stir to combine.",
+    "Simmer the stew for 20 minutes or until the flavors have melded together.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-friendly",
+    "korean-cuisine",
+    "one-pot",
+    "tofu-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xtra-creamy-korean-tofu-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-korean-tofu-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:25:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "candy",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "halal",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Stew"
+  }
+}

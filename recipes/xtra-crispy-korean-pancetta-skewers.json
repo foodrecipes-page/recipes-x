@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Crispy Korean Pancetta Skewers",
+  "description": "A fresh and aerated Korean dish featuring crispy pancetta, perfect for a lazy Sunday, with a Mediterranean twist. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pancetta",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, and ginger to make the marinade.",
+    "Add the pancetta slices to the marinade and mix well to coat.",
+    "Thread the marinated pancetta slices onto skewers, leaving a small space between each slice.",
+    "Brush the grill with sesame oil to prevent sticking.",
+    "Grill the pancetta skewers for 2-3 minutes per side, or until crispy and golden brown.",
+    "Garnish with green onions and toasted sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-meats",
+    "korean-fusion",
+    "mediterranean-inspired",
+    "party-food",
+    "quick-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-crispy-korean-pancetta-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-korean-pancetta-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:26:32Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "pancetta",
+    "diet": "mediterranean",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pancetta",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Skewers"
+  }
+}
