@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Fluffy British Praline Pudding",
+  "description": "A traditional British dessert with a French twist, featuring praline and tempered chocolate, this dish is perfect for cozy nights in Yorkshire",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk preferred"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "praline paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, combine the milk, sugar, and praline paste, and heat over medium heat, stirring constantly, until the sugar has dissolved.",
+    "In a small bowl, whisk together the flour and melted butter.",
+    "Temper the chocolate chips by melting them in a double boiler, then cooling them slightly.",
+    "In a large bowl, whisk together the eggs and vanilla extract.",
+    "Add the flour mixture to the egg mixture, and whisk until smooth.",
+    "Add the milk mixture to the egg mixture, and whisk until well combined.",
+    "Pour the mixture into 6 individual serving cups.",
+    "Place the serving cups in a large baking dish, and add hot water to come halfway up the sides of the cups.",
+    "Bake for 25 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the puddings from the water bath, and let them cool to room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "cozy-nights",
+    "dessert-ideas",
+    "french-influence"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "xtra-fluffy-british-praline-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-british-praline-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:39:11Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "praline-french",
+    "diet": "dash",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "praline",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Pudding"
+  }
+}
