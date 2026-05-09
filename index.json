@@ -1241,6 +1241,22 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-hearty-moroccan-beef-tagine",
+    "title": "Xenial Hearty Moroccan Beef Tagine",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "hearty",
+      "moroccan",
+      "one-pot",
+      "slow-cooked",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-hearty-portuguese-beef-stew",
     "title": "Xenial Hearty Portuguese Beef Stew",
     "tags": [

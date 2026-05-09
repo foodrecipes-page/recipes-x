@@ -1,0 +1,112 @@
+{
+  "title": "Xenial Hearty Moroccan Beef Tagine",
+  "description": "A flavorful and aromatic Moroccan dish featuring tender beef and rich spices, perfect for a solo dinner, this recipe is designed to be ayurvedic-rajasic-friendly and features hot beef stock and lardons-render for added depth of flavor",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch cubes"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "beef stock",
+      "amount": "2 cups",
+      "notes": "hot"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat",
+    "Add the diced lardons and cook until crispy, then remove from pot",
+    "Add the chopped onion to the pot and cook until browned, about 5 minutes",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute",
+    "Add the beef cubes to the pot and cook until browned on all sides",
+    "Add the ground cumin, coriander, and cayenne pepper to the pot and cook for 1 minute",
+    "Add the hot beef stock to the pot and bring to a boil",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours",
+    "Season with salt and pepper to taste",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "hearty",
+    "moroccan",
+    "one-pot",
+    "slow-cooked",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "xenial-hearty-moroccan-beef-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-hearty-moroccan-beef-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:50:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "lardons-render",
+    "primaryIngredient": "hot beef stock",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "beef",
+    "descriptor": "Xenial Hearty",
+    "dishForm": "Tagine"
+  }
+}
