@@ -1,0 +1,106 @@
+{
+  "title": "Xenial Garlicky Norwegian Lamb Stew",
+  "description": "A hearty and nostalgic Norwegian dish featuring tender lamb, garlicky flavors, and a hint of chervil, finished to an al-dente texture, and Whole30-friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "Whole30",
+    "Gluten-free",
+    "Dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chervil",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside, then add the sliced onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the sliced carrots and celery and cook for 5 minutes, stirring occasionally.",
+    "Add the lamb broth, browned lamb, chopped chervil, sea salt, and black pepper to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Check the stew for tenderness and seasoning, adjusting as needed.",
+    "Serve the stew hot, garnished with additional chervil if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty-dinner",
+    "lamb-stew",
+    "norwegian-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "xenial-garlicky-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-garlicky-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:28:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "chervil",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Garlicky",
+    "dishForm": "Stew"
+  }
+}

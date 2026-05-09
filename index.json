@@ -1049,6 +1049,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-garlicky-norwegian-lamb-stew",
+    "title": "Xenial Garlicky Norwegian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-dinner",
+      "lamb-stew",
+      "norwegian-cuisine",
+      "whole30"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-grilled-croatian-seafood-stew",
     "title": "Xenial Grilled Croatian Seafood Stew",
     "tags": [
