@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Flaky Portuguese Marshmallows Pastries",
+  "description": "A yeasty and flaky Portuguese pastry featuring miniature marshmallows and a hint of smoke, friendly to dairy-free diets. This nostalgic dessert is perfect for special occasions.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "miniature marshmallows",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the non-dairy milk to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Cut out small squares of dough, about 3 inches per side.",
+    "Place a few miniature marshmallows in the center of each square.",
+    "Fold the dough over the marshmallows to form a triangle and press the edges together to seal.",
+    "Brush the tops of the pastries with melted vegan butter and sprinkle with smoked paprika.",
+    "Bake the pastries for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "flaky",
+    "portuguese-desserts",
+    "smoky",
+    "special-occasion",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "xtra-flaky-portuguese-marshmallows-pastries",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-portuguese-marshmallows-pastries",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:13:48Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "miniature marshmallows",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "marshmallows",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Pastries"
+  }
+}
