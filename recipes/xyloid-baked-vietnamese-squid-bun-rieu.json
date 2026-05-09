@@ -1,0 +1,96 @@
+{
+  "title": "Xyloid Baked Vietnamese Squid Bun Rieu",
+  "description": "A buttery and velvety Vietnamese dish featuring squid, this meal prep recipe is perfect for a weeknight dinner, and is shojin-friendly, meaning it is vegetarian and vegan friendly with the omission of the squid and addition of tofu or tempeh.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "or substitute with tofu or tempeh for vegan option"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Slice the squid into small pieces and set aside.",
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat and saute the onion, garlic, and ginger until the onion is translucent.",
+    "Add the tomato paste and soy sauce to the skillet and stir to combine.",
+    "Add the cooked noodles and squid to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish and dot the top with butter.",
+    "Bake for 20 minutes or until the butter is melted and the top is golden brown.",
+    "Serve hot over a wooden board."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "meal-prep",
+    "seafood",
+    "shojin-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xyloid-baked-vietnamese-squid-bun-rieu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xyloid-baked-vietnamese-squid-bun-rieu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:46:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "bake",
+    "primaryIngredient": "squid",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "squid",
+    "descriptor": "xyloid baked",
+    "dishForm": "Bun Rieu"
+  }
+}
