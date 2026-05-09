@@ -1,0 +1,109 @@
+{
+  "title": "Xtra Roasted Slovakian Vegetable Stew",
+  "description": "A hearty lacto-vegetarian stew featuring roasted vegetables and a hint of grapefruit juice, cooked to perfection in a clay cataplana pot. This traditional Slovakian dish is perfect for a cold winter's night.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grapefruit juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the carrots, potatoes, zucchini, red bell pepper, and onion with a little bit of oil and season with salt and pepper.",
+    "Spread the vegetables out in a single layer on a large baking sheet and roast for 30 minutes.",
+    "While the vegetables are roasting, heat a little bit of oil in the cataplana pot over medium heat.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the roasted vegetables, grapefruit juice, and vegetable broth to the pot and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the sour cream and cook for an additional 2 minutes, until heated through.",
+    "Season the stew with salt and pepper to taste, then serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pot",
+    "slovakian-cuisine",
+    "vegetarian",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-roasted-slovakian-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-slovakian-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:11:40Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "grapefruit juice",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xtra Roasted",
+    "dishForm": "Stew"
+  }
+}

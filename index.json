@@ -7444,6 +7444,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-roasted-slovakian-vegetable-stew",
+    "title": "Xtra Roasted Slovakian Vegetable Stew",
+    "tags": [
+      "comfort-food",
+      "lacto-vegetarian",
+      "one-pot",
+      "slovakian-cuisine",
+      "vegetarian",
+      "winter-stew"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-roasted-uruguayan-meat-empanadas",
     "title": "Xtra Roasted Uruguayan Meat Empanadas",
     "tags": [
