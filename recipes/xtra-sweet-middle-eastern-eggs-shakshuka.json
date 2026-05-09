@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Sweet Middle Eastern Eggs Shakshuka",
+  "description": "A sweet and savory Middle Eastern dish featuring eggs, parmesan cheese, and a blend of spices, perfect for a midnight craving. This plant-based friendly recipe is cooked to perfection on a yakimono grill.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium heat.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Heat the olive oil in a large cast-iron skillet on the grill.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the canned crushed tomatoes, paprika, salt, and black pepper.",
+    "Create 4 wells in the tomato mixture and pour the whisked eggs into each well.",
+    "Sprinkle the shredded parmesan cheese over the eggs.",
+    "Cover the skillet with a lid and cook for 10-12 minutes, until the eggs are set."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "middle-eastern",
+    "one-pan",
+    "plant-based",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "xtra-sweet-middle-eastern-eggs-shakshuka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sweet-middle-eastern-eggs-shakshuka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:49:27Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggs",
+    "descriptor": "Xtra Sweet",
+    "dishForm": "Shakshuka"
+  }
+}
