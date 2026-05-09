@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Roasted Portuguese Kongnamul Roast",
+  "description": "A pescatarian friendly Portuguese dish featuring roasted soybean sprouts and tempered chocolate, served on a slate tile.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "also known as kongnamul"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "portuguese sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tempered chocolate",
+      "amount": "1/4 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grilled shrimp",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the soybean sprouts with olive oil, garlic, portuguese sea salt, and black pepper in a bowl until they are evenly coated.",
+    "Spread the soybean sprouts on a slate tile in a single layer.",
+    "Roast the soybean sprouts in the preheated oven for 20 minutes, or until they are tender and lightly browned.",
+    "Melt the tempered chocolate in a double boiler or in the microwave in 30 second increments, stirring between each interval until smooth.",
+    "Stir the lemon juice into the melted chocolate until well combined.",
+    "Brush the chocolate mixture over the roasted soybean sprouts.",
+    "Top the soybean sprouts with grilled shrimp.",
+    "Return the slate tile to the oven and roast for an additional 5 minutes, or until the shrimp are pink and cooked through.",
+    "Remove the slate tile from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-glaze",
+    "pescatarian-friendly",
+    "portuguese-cuisine",
+    "roasted-vegetables",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "xtra-roasted-portuguese-kongnamul-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-portuguese-kongnamul-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:38:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "kongnamul",
+    "descriptor": "Xtra roasted",
+    "dishForm": "Roast"
+  }
+}
