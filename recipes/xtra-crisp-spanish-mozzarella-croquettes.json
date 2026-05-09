@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Crisp Spanish Mozzarella Croquettes",
+  "description": "Umami rich and crispy Spanish dish featuring mozzarella balls, double fried to perfection, served on a vibrant talavera plate, this recipe is a delightful combination of flavors and textures, rajasic friendly and sure to please, with a focus on catalan cuisine and ayurvedic principles.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together flour, smoked paprika, garlic powder, and salt.",
+    "In a separate bowl, beat the eggs.",
+    "Cut the mozzarella cheese into small balls.",
+    "Dip each mozzarella ball into the flour mixture, then the eggs, and finally the breadcrumbs, pressing gently to adhere.",
+    "Heat the olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double fry the croquettes, first frying at 325 degrees Fahrenheit for 2 minutes, then increasing the temperature to 375 degrees Fahrenheit for an additional 2 minutes.",
+    "Remove the croquettes from the oil with a slotted spoon and place on a paper towel lined plate to drain excess oil.",
+    "Serve the croquettes hot on a talavera plate.",
+    "Garnish with fresh parsley or chives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "catalan-dishes",
+    "crunchy-snacks",
+    "double-fried",
+    "gluten-free",
+    "spanish-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "xtra-crisp-spanish-mozzarella-croquettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-spanish-mozzarella-croquettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:22:23Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "ayurvedic-rajasic",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "mozzarella balls",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Croquettes"
+  }
+}
