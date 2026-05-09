@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Bouncy Indian Chicken Biryani",
+  "description": "Rich and flavorful Indian dish featuring golden caster sugar and a soffritto base, perfect for a post-workout meal, this low-carb friendly recipe is a great way to refuel.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large pan over medium heat and add the cumin seeds.",
+    "Add the chopped onion and cook until it is lightly browned.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken breast and cook until it is browned on all sides and cooked through.",
+    "Add the golden caster sugar, coriander powder, and salt, and stir well.",
+    "Add the basmati rice and stir well to combine with the chicken and spice mixture.",
+    "Reduce heat to low, cover, and cook for 15 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Turn off the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indian-food",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "xtra-bouncy-indian-chicken-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-bouncy-indian-chicken-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:12:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "soffritto-base",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Bouncy",
+    "dishForm": "Biryani"
+  }
+}

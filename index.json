@@ -2972,6 +2972,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-bouncy-indian-chicken-biryani",
+    "title": "Xtra Bouncy Indian Chicken Biryani",
+    "tags": [
+      "high-protein",
+      "indian-food",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-bouncy-indian-kerala-ground-pistachios-thoran",
     "title": "Xtra Bouncy Indian (Kerala) Ground Pistachios Thoran",
     "tags": [
