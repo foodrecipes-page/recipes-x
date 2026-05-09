@@ -1,0 +1,105 @@
+{
+  "title": "Xanthous Energizing Ethiopian Salt Cod Doro Wot",
+  "description": "A malty and energizing Ethiopian dish featuring salt cod, ssam-wrap, and ayurvedic-tamasic-friendly ingredients, served in a traditional doro wot style.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "ayurvedic ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the ayurvedic ghee in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for an additional 2 minutes.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Add the soaked and drained salt cod and cook until it is flaked and heated through.",
+    "Stir in the malt syrup and lemon juice.",
+    "Warm the ssam wrap pieces by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the doro wot by placing a piece of salt cod on each ssam wrap and topping with a spoonful of the onion and spice mixture.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "international",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xanthous-energizing-ethiopian-salt-cod-doro-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-energizing-ethiopian-salt-cod-doro-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:25:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "salt cod",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "salt cod",
+    "descriptor": "Xanthous Energizing",
+    "dishForm": "Doro Wot"
+  }
+}
