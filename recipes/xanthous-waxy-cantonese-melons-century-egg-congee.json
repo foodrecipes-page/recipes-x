@@ -1,0 +1,99 @@
+{
+  "title": "Xanthous Waxy Cantonese Melons Century Egg Congee",
+  "description": "Winey and bouncy, this midnight-craving Chinese (Cantonese) dish features sweet melons and savory century egg in a comforting congee.",
+  "cuisine": "Chinese (Cantonese)",
+  "diet": [
+    "ayurvedic-sattvic-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Xanthous Waxy Melons",
+      "amount": "2",
+      "notes": "about 1 pound each"
+    },
+    {
+      "name": "Century Egg",
+      "amount": "2",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Bhuna",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "medium-grain, rinsed and drained"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat 1 tablespoon of vegetable oil over medium heat. Add 2 cloves of minced garlic and sauté until fragrant, about 1 minute.",
+    "Add the century eggs and cook, stirring occasionally, until they start to break apart, about 2 minutes.",
+    "Add the Xanthous Waxy Melons and cook, stirring occasionally, until they start to soften, about 3 minutes.",
+    "Add the rice and stir to combine with the vegetables and eggs.",
+    "Add 4 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the congee is creamy and the rice is broken down, about 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the congee hot, garnished with additional Xanthous Waxy Melon slices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "comfort-food",
+    "congee",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xanthous-waxy-cantonese-melons-century-egg-congee",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-waxy-cantonese-melons-century-egg-congee",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:54:20Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "melons",
+    "diet": "ayurvedic-sattvic",
+    "region": "cantonese",
+    "cuisineAdjective": "Cantonese",
+    "mainIngredient": "Melons",
+    "descriptor": "Xanthous Waxy",
+    "dishForm": "Century Egg Congee"
+  }
+}
