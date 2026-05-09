@@ -8240,6 +8240,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-sharp-american-cheese-tacos",
+    "title": "Xtra Sharp American Cheese Tacos",
+    "tags": [
+      "american",
+      "cheesy",
+      "easy",
+      "lunch",
+      "macrobiotic",
+      "quick",
+      "tacos"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-silky-chinese-white-yam-scallion-pancake",
     "title": "Xtra Silky Chinese White Yam Scallion Pancake",
     "tags": [

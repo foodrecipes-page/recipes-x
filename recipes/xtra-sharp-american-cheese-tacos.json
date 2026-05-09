@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Sharp American Cheese Tacos",
+  "description": "A light American dish featuring Monterey Jack cheese, shaped like nigiri, with an earthy and shattering texture, macrobiotic-friendly and easy to make.",
+  "cuisine": "American",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "warm"
+    },
+    {
+      "name": "xtra sharp American cheese",
+      "amount": "4 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a bowl, mix together the shredded Monterey Jack cheese and sliced xtra sharp American cheese.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by spooning the cheese mixture onto a tortilla and shaping like nigiri.",
+    "Top each taco with chopped cilantro, scallions, and a squeeze of lime juice.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "cheesy",
+    "easy",
+    "lunch",
+    "macrobiotic",
+    "quick",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "xtra-sharp-american-cheese-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sharp-american-cheese-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:51:53Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Monterey Jack Cheese",
+    "descriptor": "Xtra Sharp",
+    "dishForm": "Tacos"
+  }
+}
