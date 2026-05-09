@@ -1,0 +1,98 @@
+{
+  "title": "Xenial Roasted Greek Vine Tomatoes Skewers",
+  "description": "A festive and flavorful Greek dish featuring roasted vine tomatoes, perfect for any occasion. This low-sodium-friendly recipe is made with fresh ingredients and cooked to perfection in a bamboo steamer.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Thread a vine tomato onto each bamboo skewer.",
+    "In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Brush the mixture onto both sides of the tomatoes.",
+    "Place the skewers in a bamboo steamer lined with parchment paper.",
+    "Steam the tomatoes for 10 minutes, then broil for an additional 2 minutes.",
+    "Remove the skewers from the oven and let cool for a few minutes.",
+    "Serve the xenial roasted Greek vine tomatoes skewers hot, garnished with fresh oregano.",
+    "Repeat the process until all the skewers are cooked.",
+    "Arrange the skewers on a platter and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "greek-food",
+    "healthy-recipe",
+    "low-sodium",
+    "roasted-vegetables",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "xenial-roasted-greek-vine-tomatoes-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-roasted-greek-vine-tomatoes-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:05:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "broil",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "vine tomatoes",
+    "descriptor": "Xenial Roasted",
+    "dishForm": "Skewers"
+  }
+}

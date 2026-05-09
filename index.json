@@ -1734,6 +1734,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-roasted-greek-vine-tomatoes-skewers",
+    "title": "Xenial Roasted Greek Vine Tomatoes Skewers",
+    "tags": [
+      "easy-dinner",
+      "greek-food",
+      "healthy-recipe",
+      "low-sodium",
+      "roasted-vegetables",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-roasted-polish-pork-kebabs",
     "title": "Xenial Roasted Polish Pork Kebabs",
     "tags": [
