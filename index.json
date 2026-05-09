@@ -1005,6 +1005,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-flaky-greek-phyllo-baklava",
+    "title": "Xenial Flaky Greek Phyllo Baklava",
+    "tags": [
+      "egg-free",
+      "flaky-pastry",
+      "greek-dessert",
+      "umami-rich",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 65,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-flaky-slovakian-pineapple-dumplings",
     "title": "Xenial Flaky Slovakian Pineapple Dumplings",
     "tags": [

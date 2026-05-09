@@ -1,0 +1,100 @@
+{
+  "title": "Xenial Flaky Greek Phyllo Baklava",
+  "description": "A pungent and flaky Greek dessert featuring whole milk and shio-koji cure, friendly for those with egg allergies, formed into a baklava shape.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": "used for moisture"
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "2 tablespoons",
+      "notes": "for umami flavor"
+    },
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1 cup",
+      "notes": "for texture"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "for spice"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "for unique flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Layer the phyllo dough in a large baking dish, brushing each layer with melted butter.",
+    "Mix the chopped walnuts, granulated sugar, ground cinnamon, and ground cardamom in a bowl.",
+    "Spread the walnut mixture evenly over the phyllo dough layers.",
+    "Drizzle the shio-koji cure and whole milk over the walnut mixture.",
+    "Fold the phyllo dough over the filling to form a baklava shape.",
+    "Brush the top of the baklava with melted butter.",
+    "Bake the baklava in the preheated oven for 45 minutes.",
+    "Let the baklava cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "flaky-pastry",
+    "greek-dessert",
+    "umami-rich",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "xenial-flaky-greek-phyllo-baklava",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-flaky-greek-phyllo-baklava",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:14:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "whole milk",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "phyllo",
+    "descriptor": "Xenial Flaky",
+    "dishForm": "Baklava"
+  }
+}
