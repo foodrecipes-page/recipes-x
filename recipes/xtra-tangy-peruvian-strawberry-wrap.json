@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Tangy Peruvian Strawberry Wrap",
+  "description": "A tangy and refreshing Peruvian dish featuring strawberries and shio-cure, wrapped in a corn husk, perfect for a light lunch or snack. This Mediterranean-friendly wrap is a unique twist on traditional Peruvian cuisine.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 cup",
+      "notes": "mixed with 2 tablespoons water"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4-6",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "In a bowl, mix together the sliced strawberries and shio-cure mixture.",
+    "Add the crumbly feta cheese, pitted kalamata olives, thinly sliced red onion, and chopped cilantro to the bowl and stir to combine.",
+    "Squeeze the lime juice over the mixture and sprinkle with salt.",
+    "To assemble the wraps, lay a corn husk flat and spoon about 1/2 cup of the strawberry mixture onto the center of the husk.",
+    "Fold the bottom edge of the husk up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-husk",
+    "gluten-free",
+    "mediterranean",
+    "peruvian",
+    "strawberry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xtra-tangy-peruvian-strawberry-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tangy-peruvian-strawberry-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:37:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "shio-cure",
+    "primaryIngredient": "strawberries",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "strawberries",
+    "descriptor": "xtra tangy",
+    "dishForm": "Wrap"
+  }
+}
