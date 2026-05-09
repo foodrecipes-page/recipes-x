@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Sweet Polish Apple Pudding",
+  "description": "A traditional Polish dessert featuring demerara sugar and a lazy-sunday twist, this pudding is perfect for a relaxing day at home, it is jain-friendly and does not include any animal products.",
+  "cuisine": "Polish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "demerara sugar",
+      "amount": "1 1/2 cups",
+      "notes": "used for sweetening and caramelizing"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "apples",
+      "amount": "4-5",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "used for lamination"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "2 tablespoons",
+      "notes": "used for jelly texture"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the puff pastry and laminate it by folding and rolling several times.",
+    "In a large bowl, mix together the sliced apples, demerara sugar, and lemon juice.",
+    "In a separate bowl, mix together the flour, agar agar powder, and salt.",
+    "Add the dry ingredients to the apple mixture and stir until combined.",
+    "Roll out the laminated puff pastry and place it in a baking dish.",
+    "Pour the apple mixture into the pastry-lined baking dish.",
+    "Bake the pudding in the preheated oven for 40 minutes.",
+    "Remove the pudding from the oven and let it cool to room temperature.",
+    "Refrigerate the pudding for at least 2 hours to allow it to set."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 130,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "glassy-jelly",
+    "jain-friendly",
+    "lazy-sunday",
+    "polish-desserts",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-sweet-polish-apple-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sweet-polish-apple-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:54:16Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "lamination-puff",
+    "primaryIngredient": "demerara sugar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "apples",
+    "descriptor": "Xtra Sweet",
+    "dishForm": "Pudding"
+  }
+}
