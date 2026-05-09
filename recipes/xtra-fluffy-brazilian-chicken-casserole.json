@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Fluffy Brazilian Chicken Casserole",
+  "description": "A grassy and pillowy weeknight Brazilian dish featuring tomato and shio-koji-cure, friendly to diabetic diets",
+  "cuisine": "Brazilian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 1 tablespoon water"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 ounces",
+      "notes": "drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit",
+    "In a large bowl, mix together chicken, shio-koji mixture, and olive oil",
+    "Add onion and garlic to the bowl and mix until chicken is coated",
+    "Transfer the chicken mixture to a 9x13 inch baking dish",
+    "Add diced tomatoes and coconut milk to the baking dish",
+    "Season with salt and black pepper to taste",
+    "Bake for 35 minutes or until chicken is cooked through",
+    "Let it rest for 10 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "casserole",
+    "chicken-recipe",
+    "diabetic-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "xtra-fluffy-brazilian-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-brazilian-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:17:16Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "tomato",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Casserole"
+  }
+}

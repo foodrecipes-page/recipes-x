@@ -5165,6 +5165,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-fluffy-brazilian-chicken-casserole",
+    "title": "Xtra Fluffy Brazilian Chicken Casserole",
+    "tags": [
+      "brazilian-cuisine",
+      "casserole",
+      "chicken-recipe",
+      "diabetic-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fluffy-egyptian-rice-pilaf",
     "title": "Xtra Fluffy Egyptian Rice Pilaf",
     "tags": [
