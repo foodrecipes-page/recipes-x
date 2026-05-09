@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Nutty Ethiopian Thai Eggplant Gored Gored",
+  "description": "A nutty and springy Ethiopian dish featuring Thai eggplant, ferment jang, and a dash of friendly spices, formed into gored gored.",
+  "cuisine": "Ethiopian Thai",
+  "diet": [
+    "vegetarian",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai eggplant",
+      "amount": "2 medium",
+      "notes": "purple variety"
+    },
+    {
+      "name": "Ferment jang",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a large skillet over medium heat.",
+    "Add sliced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and grated ginger, cook for 1 minute.",
+    "Add Thai eggplant, ferment jang, berbere spice, salt, and black pepper, stir to combine.",
+    "Cook for 10 minutes, stirring occasionally, until eggplant is tender.",
+    "Stir in chopped peanuts and cook for 1 minute.",
+    "Taste and adjust seasoning as needed.",
+    "Form mixture into gored gored shapes and serve hot.",
+    "Garnish with additional chopped peanuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "international",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "xtra-nutty-ethiopian-thai-eggplant-gored-gored",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-nutty-ethiopian-thai-eggplant-gored-gored",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:23:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Thai eggplant",
+    "descriptor": "Xtra Nutty",
+    "dishForm": "Gored Gored"
+  }
+}
