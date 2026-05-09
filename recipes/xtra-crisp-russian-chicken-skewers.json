@@ -3,8 +3,7 @@
   "description": "A quick-fix Russian dish featuring coconut cream and clay-pot cooking, this recipe is perfect for a weeknight dinner and is Buddhist-temple-friendly, charred and crisp on the outside and juicy on the inside, these skewers are a delight to eat.",
   "cuisine": "Russian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "high-protein",
     "one-pan",

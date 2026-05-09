@@ -3,9 +3,7 @@
   "description": "A sweet and fluffy pilaf dish featuring vermicelli rice noodles, candied citrus, and warm spices.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [

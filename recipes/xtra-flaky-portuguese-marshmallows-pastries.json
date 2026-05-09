@@ -2,9 +2,7 @@
   "title": "Xtra Flaky Portuguese Marshmallows Pastries",
   "description": "A yeasty and flaky Portuguese pastry featuring miniature marshmallows and a hint of smoke, friendly to dairy-free diets. This nostalgic dessert is perfect for special occasions.",
   "cuisine": "Portuguese",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -62,7 +60,6 @@
   "servings": 12,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "flaky",
     "portuguese-desserts",
     "smoky",

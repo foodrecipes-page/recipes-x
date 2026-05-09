@@ -3,7 +3,6 @@
   "description": "A jammy, molten, crowd-pleaser Polish dish featuring chilli and cure, friendly to dairy-free diets.",
   "cuisine": "Polish",
   "diet": [
-    "dairy-free",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -92,7 +91,7 @@
     "mood": "crowd-pleaser",
     "technique": "cure",
     "primaryIngredient": "chilli",
-    "diet": "dairy-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Polish",
     "mainIngredient": "sausage",

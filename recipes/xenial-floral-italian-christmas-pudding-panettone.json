@@ -3,7 +3,6 @@
   "description": "A romantic Italian dessert featuring Christmas pudding, wok-hei, and floral flavors, made in a tajine-clay vessel and shaped like a panettone, this dish is perfect for the holiday season and can be enjoyed by those with dairy-free dietary needs.",
   "cuisine": "Italian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -57,11 +56,10 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 40,
-  "totalTimeMin": 120,
+  "totalTimeMin": 70,
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "holiday-treats",
     "italian-desserts",
     "romantic-dishes",
@@ -84,7 +82,7 @@
     "mood": "romantic",
     "technique": "wok-hei",
     "primaryIngredient": "christmas pudding",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Italian",
     "mainIngredient": "christmas pudding",

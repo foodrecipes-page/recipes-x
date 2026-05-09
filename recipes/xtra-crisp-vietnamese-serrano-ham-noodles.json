@@ -3,7 +3,6 @@
   "description": "A citrusy and cozy Vietnamese dish featuring serrano ham and render-fat, with anti-inflammatory friendly ingredients.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -69,7 +68,6 @@
     "citrusy",
     "comfort-food",
     "crispy",
-    "gluten-free",
     "vietnamese-cuisine"
   ],
   "nutrition": {

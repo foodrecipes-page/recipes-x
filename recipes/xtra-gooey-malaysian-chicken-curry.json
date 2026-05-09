@@ -3,8 +3,7 @@
   "description": "A quick-fix Malaysian dish featuring coriander leaves and a mustardy flavor, served in a copper mug and suitable for a Buddhist temple gathering.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "tags": [
     "buddhist-temple-friendly",
     "copper-mug",
-    "dairy-free",
     "gluten-free",
     "malaysian-cuisine",
     "quick-fix"

@@ -3,8 +3,7 @@
   "description": "A malty and energizing Ethiopian dish featuring salt cod, ssam-wrap, and ayurvedic-tamasic-friendly ingredients, served in a traditional doro wot style.",
   "cuisine": "Ethiopian",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "international",
     "one-pan",

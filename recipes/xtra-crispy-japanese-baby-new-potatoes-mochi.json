@@ -3,8 +3,7 @@
   "description": "A crispy and savory Japanese dish featuring baby new potatoes in a mochi form, perfect for a solo dinner, with a grassy and high-protein-friendly flavor profile, served in a stone bowl dolsot.",
   "cuisine": "Japanese",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,6 @@
   "tags": [
     "crispy-mochi",
     "dinner-ideas",
-    "gluten-free",
     "high-protein",
     "japanese-cuisine",
     "stone-bowl-recipes"

@@ -3,8 +3,7 @@
   "description": "A romantic Algerian dish featuring roasted chicken, coconut flakes, and coconut cream, with anti-inflammatory friendly ingredients. This dish is perfect for a special occasion or a cozy night in.",
   "cuisine": "Algerian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -61,7 +60,8 @@
     "Transfer the skillet to the preheated oven and roast for 30 minutes.",
     "Remove the skillet from the oven and stir in the coconut cream.",
     "Return the skillet to the oven and roast for an additional 10 minutes.",
-    "Remove the skillet from the oven and let the chicken rest for 10 minutes before serving."
+    "Remove the skillet from the oven and let the chicken rest for 10 minutes before serving.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -71,7 +71,6 @@
   "tags": [
     "algerian-cuisine",
     "coconut-cream",
-    "dairy-free",
     "gluten-free",
     "one-pan",
     "roasted-chicken"

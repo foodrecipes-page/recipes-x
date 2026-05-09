@@ -2,9 +2,7 @@
   "title": "Xtra Tangy Indian Redcurrant Curry",
   "description": "A tangy and crunchy vegan curry featuring redcurrants, this dish is perfect for a solo dinner with a side of rice or roti.",
   "cuisine": "Indian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -74,7 +72,6 @@
     "indian-cuisine",
     "one-pot",
     "tangy",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {

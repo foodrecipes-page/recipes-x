@@ -3,7 +3,6 @@
   "description": "A kid-friendly Jamaican dish featuring pappardelle pasta and score-fat pork, with a nutty and juicy flavor profile.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -53,7 +52,9 @@
     "Reduce heat to low and simmer the sauce for 10 minutes, stirring occasionally.",
     "Add the cooked pappardelle pasta to the skillet and toss to coat with the sauce.",
     "Serve the pasta hot, garnished with chopped fresh herbs if desired.",
-    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F, then rest 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,

@@ -2,9 +2,7 @@
   "title": "Xenial Yeasty Moroccan Lamb Bissara",
   "description": "A traditional Moroccan bissara dish with a yeasty twist, featuring lamb and passion fruit pulp, cooked in a fondue pot. This halal-friendly recipe is perfect for a romantic dinner.",
   "cuisine": "Moroccan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,7 +62,8 @@
     "Add the passion fruit pulp and chicken broth, and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
     "Season with salt and pepper to taste.",
-    "Serve the bissara hot, garnished with fresh herbs if desired."
+    "Serve the bissara hot, garnished with fresh herbs if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 90,

@@ -3,8 +3,7 @@
   "description": "A comforting and flavorful Egyptian-inspired noodle stir-fry dish, served in a scallop shell, perfect for a sick day. This ayurvedic-sattvic-friendly recipe features a blend of briny and molten flavors.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -74,7 +73,6 @@
     "egyptian-cuisine",
     "noodle-stir-fry",
     "one-pan",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {

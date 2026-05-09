@@ -2,9 +2,7 @@
   "title": "Xtra Crisp Korean Mulukhiyah Jeon",
   "description": "A traditional Korean dish from the Chungcheong region, Mulukhiyah Jeon is a crispy and cozy jeon featuring mulukhiyah, cooked to perfection in a clay pot, this gluten-free friendly recipe is sure to delight. It has a distinct bitter flavor balanced by the crunch of the jeon.",
   "cuisine": "Korean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -65,7 +63,6 @@
   "tags": [
     "clay-pot",
     "crispy",
-    "gluten-free",
     "jeon",
     "korean-food",
     "mulukhiyah"

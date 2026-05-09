@@ -3,8 +3,7 @@
   "description": "A herbal and crunchy Ethiopian dish featuring pancetta and en-croute, perfect for a low-calorie friendly meal during the monsoon season.",
   "cuisine": "Ethiopian",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,10 +74,8 @@
   "tags": [
     "crunchy",
     "ethiopian",
-    "gluten-free",
     "lentil",
-    "low-calorie",
-    "vegetarian"
+    "low-calorie"
   ],
   "nutrition": {
     "calories": 320,

@@ -3,8 +3,7 @@
   "description": "A comforting and earthy Vietnamese dish featuring chicken bouillon powder and flambe, perfect for a sick day, this satvik-friendly recipe is made in the traditional ca-kho-to form",
   "cuisine": "vietnamese",
   "diet": [
-    "satvik",
-    "gluten-free"
+    "satvik"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Add the water and bring the mixture to a boil",
     "Reduce the heat to low and simmer, covered, for 20 minutes",
     "Use a kitchen torch to flambe the dish, or simmer over low heat for an additional 5 minutes",
-    "Serve the ca-kho-to hot, garnished with chopped scallions and a sprinkle of black pepper"
+    "Serve the ca-kho-to hot, garnished with chopped scallions and a sprinkle of black pepper",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -71,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pot",
     "satvik-friendly",
     "vietnamese-cuisine"

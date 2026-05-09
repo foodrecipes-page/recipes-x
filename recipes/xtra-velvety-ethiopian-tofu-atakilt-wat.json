@@ -3,8 +3,7 @@
   "description": "A kid-friendly Ethiopian dish featuring soya milk and tofu, with a citrusy and velvety texture, shaped like nigiri for a fun twist.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
