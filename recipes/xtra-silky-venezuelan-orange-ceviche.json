@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Silky Venezuelan Orange Ceviche",
+  "description": "A rich and silky Venezuelan dish featuring oranges and kombu cold extract, perfect for a quick and refreshing meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "raw",
+    "gluten free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "orange",
+      "amount": "4",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine orange segments, red onion, and cilantro.",
+    "In a small bowl, whisk together lime juice, kombu cold extract, salt, black pepper, and coriander.",
+    "Pour the lime juice mixture over the orange mixture and toss to coat.",
+    "Gently fold in diced avocado.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the ceviche a good stir and adjust the seasoning if needed.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired.",
+    "Cover and refrigerate any leftovers for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "quick-fix",
+    "raw-friendly",
+    "refreshing",
+    "south-american",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "xtra-silky-venezuelan-orange-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-venezuelan-orange-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:27:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "oranges",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "oranges",
+    "descriptor": "Xtra silky",
+    "dishForm": "Ceviche"
+  }
+}
