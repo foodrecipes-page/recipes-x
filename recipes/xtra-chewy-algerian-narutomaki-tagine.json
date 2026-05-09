@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Chewy Algerian Narutomaki Tagine",
+  "description": "A sweet and chewy one-pot Algerian dish featuring narutomaki, yakimono-grill, and paleo-friendly ingredients, this tagine is a unique blend of flavors and textures. It is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Algerian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "narutomaki",
+      "amount": "1 cup",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the sliced narutomaki and cook for 2 minutes on each side, or until it is lightly browned.",
+    "Add the cumin, coriander, and cinnamon and cook for 1 minute, stirring constantly.",
+    "Add the honey and chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the narutomaki is tender and the sauce has thickened.",
+    "Remove the tagine from the heat and let it cool slightly.",
+    "Serve the narutomaki and sauce over couscous or cauliflower rice, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "narutomaki-recipes",
+    "one-pot",
+    "paleo-friendly",
+    "sweet-and-savory",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-chewy-algerian-narutomaki-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-chewy-algerian-narutomaki-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:58:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "narutomaki",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "narutomaki",
+    "descriptor": "Xtra Chewy",
+    "dishForm": "Tagine"
+  }
+}
