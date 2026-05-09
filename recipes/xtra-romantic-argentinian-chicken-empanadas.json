@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Romantic Argentinian Chicken Empanadas",
+  "description": "Earthy and romantic Argentinian dish featuring basil and coconut cream, perfect for a special occasion, this recipe is onion and garlic free.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the chicken breast, basil, coconut cream, salt, and black pepper.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a tablespoon of the chicken mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the egg and fold the dough in half to form a half moon shape.",
+    "Press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 25 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "chicken-recipes",
+    "coconut-cream-recipes",
+    "empanada-recipes",
+    "romantic-dinners"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "xtra-romantic-argentinian-chicken-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-romantic-argentinian-chicken-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:31:59Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "basil",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Romantic",
+    "dishForm": "Empanadas"
+  }
+}
