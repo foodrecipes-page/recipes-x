@@ -8674,6 +8674,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-uruguayan-kiwifruit-empanadas",
+    "title": "Xtra Spicy Uruguayan Kiwifruit Empanadas",
+    "tags": [
+      "baked-goods",
+      "fruit-filled",
+      "kosher-friendly",
+      "south-american",
+      "spicy-food"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-uruguayan-tempeh-stew",
     "title": "Xtra Spicy Uruguayan Tempeh Stew",
     "tags": [

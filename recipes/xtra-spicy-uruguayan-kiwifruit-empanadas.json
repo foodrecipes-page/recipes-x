@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Spicy Uruguayan Kiwifruit Empanadas",
+  "description": "A spicy and flaky pastry filled with kiwifruit and a hint of dashi extract, perfect for a cozy snack. This kosher-friendly dish is a unique twist on traditional Uruguayan empanadas.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "cold"
+    },
+    {
+      "name": "kiwifruit",
+      "amount": "4",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, salt, black pepper, and cayenne pepper.",
+    "Add the melted butter to the flour mixture and stir until a dough forms.",
+    "Gradually add the water to the dough and knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a spoonful of kiwifruit in the center of each circle.",
+    "Add a dash of dashi extract on top of the kiwifruit.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg.",
+    "Bake the empanadas for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "fruit-filled",
+    "kosher-friendly",
+    "south-american",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "xtra-spicy-uruguayan-kiwifruit-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-uruguayan-kiwifruit-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:40:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "dashi-extract",
+    "primaryIngredient": "kiwifruit",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Empanadas"
+  }
+}
