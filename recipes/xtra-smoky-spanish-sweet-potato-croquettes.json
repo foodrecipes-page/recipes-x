@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Smoky Spanish Sweet Potato Croquettes",
+  "description": "Smoky sweet potato croquettes wrapped in banana leaves, perfect for a solo dinner, featuring brown sugar and a crumbly texture, all made possible with an ice bath shock to lock in the flavors.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped into 1 inch cubes"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Boil the chopped sweet potatoes in salted water until they are tender, then immediately submerge them in an ice bath to stop the cooking process.",
+    "Once the sweet potatoes have cooled, mash them in a bowl with a fork until they are mostly smooth.",
+    "Add the brown sugar, smoked paprika, garlic powder, salt, and black pepper to the bowl and mix until well combined.",
+    "Gradually add the flour to the bowl, mixing until a dough forms.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and wrap each disk in a banana leaf, securing the leaf with a toothpick if necessary.",
+    "Heat the olive oil in a large skillet over medium heat and fry the croquettes until they are golden brown and crispy, about 3-4 minutes per side.",
+    "Remove the croquettes from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Serve the croquettes hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "crunchy",
+    "fried",
+    "smoky",
+    "spanish",
+    "sweet-potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-smoky-spanish-sweet-potato-croquettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-spanish-sweet-potato-croquettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:22:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "brown sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Croquettes"
+  }
+}
