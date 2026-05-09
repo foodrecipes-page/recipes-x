@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Crunchy Canadian Duck Skewers",
+  "description": "Crispy Canadian duck skewers featuring duck fat, served with a side of tangy slaw, perfect for a satisfying dinner",
+  "cuisine": "Canadian",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "duck fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cabbage",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot with duck fat to 375 degrees Fahrenheit",
+    "In a shallow dish, mix together flour, cornstarch, salt, and pepper",
+    "In a separate dish, beat the eggs",
+    "In a third dish, place the panko breadcrumbs",
+    "Dip each piece of duck into the flour mixture, then the eggs, and finally the breadcrumbs, coating evenly",
+    "Carefully place the coated duck pieces into the preheated fondue pot",
+    "Fry the duck skewers for 5-6 minutes, or until golden brown and crispy",
+    "Using a slotted spoon, remove the duck skewers from the fondue pot and place on a paper towel lined plate to drain excess oil",
+    "In a large bowl, mix together shredded cabbage and grated carrots",
+    "Serve the crispy duck skewers with a side of the tangy slaw"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "canadian-cuisine",
+    "crunchy-snacks",
+    "duck-recipes",
+    "fondue-pot",
+    "sattvic-diet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-crunchy-canadian-duck-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-canadian-duck-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:27:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "fry",
+    "primaryIngredient": "duck fat",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "duck",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Skewers"
+  }
+}
