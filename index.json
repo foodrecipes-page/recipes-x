@@ -1111,6 +1111,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-indian-pork-kebabs",
+    "title": "Xenial Indian Pork Kebabs",
+    "tags": [
+      "flambe-technique",
+      "grilled-meats",
+      "indian-cuisine",
+      "pork-recipes",
+      "tagliere-recipes",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-juicy-saudi-arabian-eggplant-tagine",
     "title": "Xenial Juicy Saudi Arabian Eggplant Tagine",
     "tags": [

@@ -1,0 +1,106 @@
+{
+  "title": "Xenial Indian Pork Kebabs",
+  "description": "A flavorful and adventurous Indian dish featuring minced pork, flambe, and vegetarian friendly ingredients, served on a tagliere vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Combine the minced pork, onion, ginger, garam masala, cumin, coriander, salt, and black pepper in a large bowl.",
+    "Mix well with your hands or a wooden spoon until just combined.",
+    "Stir in the yogurt and lemon juice.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread the pork mixture onto skewers, leaving a little space between each piece.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until cooked through.",
+    "Flambe the kebabs with a little extra oil and serve hot on a tagliere vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe-technique",
+    "grilled-meats",
+    "indian-cuisine",
+    "pork-recipes",
+    "tagliere-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xenial-indian-pork-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-indian-pork-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:37:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "flambe",
+    "primaryIngredient": "minced pork",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "pork",
+    "descriptor": "Xenial pillowy",
+    "dishForm": "Kebabs"
+  }
+}
