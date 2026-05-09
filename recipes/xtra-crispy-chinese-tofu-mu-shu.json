@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Crispy Chinese Tofu Mu Shu",
+  "description": "A plant-based, fermented, aerated Chinese dish originating from Dongbei, featuring crispy tofu and mixed vegetables, served with rice and pancakes. This recipe is a post-workout friendly meal option.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cabbage",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mu shu pancakes",
+      "amount": "4-6 pancakes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, toss the tofu cubes with cornstarch until they are evenly coated.",
+    "Heat 2 tablespoons of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu cubes to the skillet and cook until they are golden brown and crispy, about 5 minutes.",
+    "Remove the tofu from the skillet and set aside on a plate.",
+    "In the same skillet, add the remaining 2 tablespoons of vegetable oil and stir in the chopped scallions and sliced mushrooms.",
+    "Cook the scallions and mushrooms until they are softened, about 3 minutes.",
+    "Add the shredded cabbage to the skillet and cook until it is wilted, about 2 minutes.",
+    "In a small bowl, whisk together the soy sauce and rice vinegar, and pour the mixture over the cabbage mixture in the skillet.",
+    "Stir in the cooked tofu cubes and season with salt and pepper to taste.",
+    "Warm the mu shu pancakes by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the mu shu by spreading a small amount of the tofu and vegetable mixture onto a pancake and serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-crispy-chinese-tofu-mu-shu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-chinese-tofu-mu-shu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:17:02Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "restaurant",
+    "diet": "plant-based",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Mu Shu"
+  }
+}
