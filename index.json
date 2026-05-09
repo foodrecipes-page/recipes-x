@@ -725,6 +725,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-briny-egyptian-noodle-stir-fry",
+    "title": "Xenial Briny Egyptian Noodle Stir fry",
+    "tags": [
+      "comfort-food",
+      "egyptian-cuisine",
+      "noodle-stir-fry",
+      "one-pan",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-briny-norwegian-lamb-kebabs",
     "title": "Xenial Briny Norwegian Lamb Kebabs",
     "tags": [

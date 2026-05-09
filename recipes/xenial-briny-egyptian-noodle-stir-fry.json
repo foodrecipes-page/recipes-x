@@ -1,0 +1,104 @@
+{
+  "title": "Xenial Briny Egyptian Noodle Stir fry",
+  "description": "A comforting and flavorful Egyptian-inspired noodle stir-fry dish, served in a scallop shell, perfect for a sick day. This ayurvedic-sattvic-friendly recipe features a blend of briny and molten flavors.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown rice noodles",
+      "amount": "8 oz",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Egyptian ful medames",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "briny feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Stir in the Egyptian ful medames, briny feta cheese, cooked noodles, salt, and black pepper.",
+    "Cook for 2-3 minutes, until the cheese is melted and the noodles are well coated.",
+    "Stir in the chopped fresh parsley and lemon juice.",
+    "Season with additional salt and pepper to taste.",
+    "Serve the noodle stir-fry in a scallop shell, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egyptian-cuisine",
+    "noodle-stir-fry",
+    "one-pan",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xenial-briny-egyptian-noodle-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-briny-egyptian-noodle-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:27:36Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "sick-day",
+    "technique": "stir-fry",
+    "primaryIngredient": "noodles",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "noodles",
+    "descriptor": "Xenial Briny",
+    "dishForm": "Stir-fry"
+  }
+}
