@@ -1674,6 +1674,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-silky-kenyan-semolina-biryani",
+    "title": "Xenial Silky Kenyan Semolina Biryani",
+    "tags": [
+      "ayurvedic-friendly",
+      "fermented-food",
+      "gluten-free",
+      "kenyan-cuisine",
+      "slow-cooked",
+      "vegetarian-option"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 90,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-silky-vietnamese-marzipan-bun-cha",
     "title": "Xenial Silky Vietnamese Marzipan Bun Cha",
     "tags": [

@@ -1,0 +1,93 @@
+{
+  "title": "Xenial Silky Kenyan Semolina Biryani",
+  "description": "A fermented and silky Kenyan dish featuring semolina flour, slow-cooked to perfection, and friendly to ayurvedic tamasic diets. This monsoon-inspired recipe is a unique twist on traditional biryani.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together semolina flour, water, and yogurt to form a smooth batter.",
+    "Let the batter ferment for 24 hours in a warm place.",
+    "Heat ghee in a large pan over medium heat.",
+    "Add cumin seeds and coriander seeds and let them sizzle for 1 minute.",
+    "Add turmeric and salt and stir well.",
+    "Add the fermented batter to the pan and stir constantly.",
+    "Reduce heat to low and let the biryani cook for 30 minutes.",
+    "Stir occasionally to prevent burning.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "fermented-food",
+    "gluten-free",
+    "kenyan-cuisine",
+    "slow-cooked",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "xenial-silky-kenyan-semolina-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-silky-kenyan-semolina-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:34:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "slow-cook",
+    "primaryIngredient": "semolina flour",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "semolina",
+    "descriptor": "Xenial Silky",
+    "dishForm": "Biryani"
+  }
+}
