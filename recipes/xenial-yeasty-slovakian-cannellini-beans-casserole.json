@@ -1,0 +1,102 @@
+{
+  "title": "Xenial Yeasty Slovakian Cannellini Beans Casserole",
+  "description": "A traditional Slovakian dish featuring cannellini beans in a yeasty sauce, perfect for a solo dinner, this recipe is egg-free-friendly and cooked to perfection on a salt block.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 375 degrees Fahrenheit for 30 minutes.",
+    "In a large bowl, combine the cannellini beans, yeast, olive oil, onion, garlic, caraway seeds, paprika, salt, and black pepper, and mix well.",
+    "Add the water to the bowl and stir until the mixture is well combined.",
+    "Remove the salt block from the oven and carefully place the bean mixture on it.",
+    "Return the salt block to the oven and bake for 35 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes.",
+    "Serve the Xenial Yeasty Slovakian Cannellini Beans Casserole hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cannellini-beans",
+    "gluten-free",
+    "one-pan",
+    "slovakian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xenial-yeasty-slovakian-cannellini-beans-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-yeasty-slovakian-cannellini-beans-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:57:14Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "brine-wet",
+    "primaryIngredient": "cannellini beans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Xenial Yeasty",
+    "dishForm": "Casserole"
+  }
+}
