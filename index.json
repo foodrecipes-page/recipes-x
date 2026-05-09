@@ -7446,6 +7446,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-rich-canadian-beef-pie",
+    "title": "Xtra Rich Canadian Beef Pie",
+    "tags": [
+      "beef-based",
+      "canadian-cuisine",
+      "comfort-food",
+      "one-dish",
+      "special-occasion"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 65,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-rich-filipino-celeriac-dinuguan",
     "title": "Xtra Rich Filipino Celeriac Dinuguan",
     "tags": [

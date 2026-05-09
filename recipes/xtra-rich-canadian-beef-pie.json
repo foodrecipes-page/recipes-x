@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Rich Canadian Beef Pie",
+  "description": "A rich and indulgent Canadian dish featuring smoked paprika and flaky crust, perfect for a special occasion",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ice cold water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cognac",
+      "amount": "2 tbsp",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, cook the ground beef over medium high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the smoked paprika, salt, and black pepper to the pan and stir to combine.",
+    "In a large bowl, whisk together the flour and cold unsalted butter until the mixture resembles coarse crumbs.",
+    "Gradually add the ice cold water to the bowl, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out into a large circle, about 1/4 inch thick.",
+    "Spoon the beef mixture into the center of the dough circle, leaving a 1 inch border around the edges.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough up over the filling, pressing the edges to seal, and use a knife to cut a few slits in the top crust.",
+    "Place the pie on a baking sheet and bake for 25 minutes, then flambe with cognac and continue baking for an additional 10 minutes.",
+    "Remove the pie from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-based",
+    "canadian-cuisine",
+    "comfort-food",
+    "one-dish",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 37
+  },
+  "slug": "xtra-rich-canadian-beef-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-canadian-beef-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:45:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "flambe",
+    "primaryIngredient": "smoked paprika",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra rich",
+    "dishForm": "Pie"
+  }
+}
