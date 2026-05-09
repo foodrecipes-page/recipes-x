@@ -798,6 +798,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-comforting-filipino-rice-pilaf",
+    "title": "Xenial Comforting Filipino Rice Pilaf",
+    "tags": [
+      "comfort-food",
+      "filipino-cuisine",
+      "one-pot",
+      "satvik",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-comforting-spanish-pinto-beans-stew",
     "title": "Xenial Comforting Spanish Pinto Beans Stew",
     "tags": [
