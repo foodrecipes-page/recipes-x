@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Crisp Egyptian Oats Wrap",
+  "description": "A resinous and crisp Egyptian dish featuring porridge oats, perfect for a date night, made with leaf wrap steam and no onion or garlic.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "1 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "leaf wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the water to a boil.",
+    "Add the porridge oats, salt, and black pepper, and stir to combine.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the olive oil and honey.",
+    "Lay a leaf wrap flat on a work surface.",
+    "Spoon about 1/2 cup of the oat mixture onto the center of the leaf wrap.",
+    "Top with a few dates.",
+    "Fold the bottom half of the leaf wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Repeat with the remaining ingredients.",
+    "Steam the wraps over boiling water for 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "egyptian-cuisine",
+    "gluten-free",
+    "healthy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-crisp-egyptian-oats-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-egyptian-oats-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:18:21Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "porridge oats",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "oats",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Wrap"
+  }
+}

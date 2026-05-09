@@ -3476,6 +3476,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crisp-egyptian-oats-wrap",
+    "title": "Xtra Crisp Egyptian Oats Wrap",
+    "tags": [
+      "date-night",
+      "egyptian-cuisine",
+      "gluten-free",
+      "healthy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crisp-ethiopian-turkey-neck-wot",
     "title": "Xtra Crisp Ethiopian Turkey Neck Wot",
     "tags": [
