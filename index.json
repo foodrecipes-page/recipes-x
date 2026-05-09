@@ -1333,6 +1333,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-molten-portuguese-seitan-stew",
+    "title": "Xenial Molten Portuguese Seitan Stew",
+    "tags": [
+      "clay-pot",
+      "comfort-food",
+      "one-pot",
+      "portuguese-cuisine",
+      "slow-cooked",
+      "vegan-friendly"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-molten-turkish-plum-tomatoes-kebabs",
     "title": "Xenial Molten Turkish Plum Tomatoes Kebabs",
     "tags": [

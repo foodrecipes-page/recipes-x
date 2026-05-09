@@ -1,0 +1,108 @@
+{
+  "title": "Xenial Molten Portuguese Seitan Stew",
+  "description": "A vegan-friendly, one-pot Portuguese dish featuring sweet sherry and seitan, cooked to perfection in a tandoor-clay-pot.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "seitan",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "dum",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tandoor-clay-pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the seitan and cook until browned on all sides, about 5 minutes.",
+    "Add the sweet sherry, dum, salt, and black pepper, and stir to combine.",
+    "Add the potatoes, carrots, and vegetable broth, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 30 minutes.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "comfort-food",
+    "one-pot",
+    "portuguese-cuisine",
+    "slow-cooked",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xenial-molten-portuguese-seitan-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-molten-portuguese-seitan-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:14:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "dum",
+    "primaryIngredient": "sweet sherry",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "seitan",
+    "descriptor": "Xenial Molten",
+    "dishForm": "Stew"
+  }
+}
