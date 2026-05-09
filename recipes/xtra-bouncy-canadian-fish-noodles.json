@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Bouncy Canadian Fish Noodles",
+  "description": "A pescatarian-friendly Canadian dish featuring gelatine leaves and bonito flakes, this recipe is a unique and tasty monsoon-inspired meal. The resinous and bouncy texture of the noodles makes it a standout dish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gelatine leaves",
+      "amount": "12 sheets",
+      "notes": "soaked in cold water"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "noodle flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Soak the gelatine leaves in cold water for 5 minutes to soften them.",
+    "Combine the noodle flour and water in a large mixing bowl to form a dough.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a long rope.",
+    "Cut the rope into 1-inch pieces to form the noodles.",
+    "Heat the vegetable oil in a large pan over medium heat and cook the noodles for 5 minutes.",
+    "Add the bonito flakes, soy sauce, and sesame oil to the pan and stir to combine.",
+    "Add the cod fillets to the pan and cook for an additional 5 minutes.",
+    "Drain the gelatine leaves and add them to the pan, stirring to combine.",
+    "Serve the Xtra Bouncy Canadian Fish Noodles hot, garnished with additional bonito flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gelatine-based",
+    "monsoon-inspired",
+    "noodle-dish",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-bouncy-canadian-fish-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-bouncy-canadian-fish-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:28:13Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "bonito-shave",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra Bouncy",
+    "dishForm": "Noodles"
+  }
+}

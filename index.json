@@ -2942,6 +2942,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-bouncy-canadian-fish-noodles",
+    "title": "Xtra Bouncy Canadian Fish Noodles",
+    "tags": [
+      "canadian-cuisine",
+      "gelatine-based",
+      "monsoon-inspired",
+      "noodle-dish",
+      "pescatarian",
+      "seafood"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-bouncy-indian-kerala-ground-pistachios-thoran",
     "title": "Xtra Bouncy Indian (Kerala) Ground Pistachios Thoran",
     "tags": [
