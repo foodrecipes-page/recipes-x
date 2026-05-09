@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Crunchy Slovakian Nectarine Skewers",
+  "description": "A quick-fix Slovakian dish featuring nectarines, ferment-jang, and a citrusy twist, perfect for a diabetic-friendly snack.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "4",
+      "notes": "ripe, sliced into wedges"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Toasted pumpkin seeds",
+      "amount": "2 tablespoons",
+      "notes": "for crunch"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together ferment-jang, lemon juice, and olive oil to make the marinade.",
+    "Add the sliced nectarines to the marinade and toss to coat, letting them sit for at least 5 minutes.",
+    "Thread the marinated nectarine wedges onto skewers, leaving a small space between each piece.",
+    "Sprinkle the toasted pumpkin seeds, chopped parsley, and chopped mint over the nectarines.",
+    "Season with salt and black pepper to taste.",
+    "Grill the skewers for 2-3 minutes per side, or until the nectarines are slightly caramelized.",
+    "Serve the Xtra Crunchy Slovakian Nectarine Skewers warm, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crunchy",
+    "diabetic-friendly",
+    "gluten-free",
+    "quick-fix",
+    "slovakian",
+    "summer-snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "xtra-crunchy-slovakian-nectarine-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-slovakian-nectarine-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:19:34Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "ferment-jang",
+    "primaryIngredient": "nectarines",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "nectarines",
+    "descriptor": "Xtra crunchy",
+    "dishForm": "Skewers"
+  }
+}
