@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Fluffy Filipino Almond Noodles",
+  "description": "A solo dinner Filipino dish featuring almond paste and bonito flakes, this paleo friendly meal is both resinous and fluffy.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "1/2 cup",
+      "notes": "freshly made or store bought"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "rice flour noodles",
+      "amount": "1 cup",
+      "notes": "paleo friendly"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the rice flour noodles according to package instructions and set aside.",
+    "In a blender or food processor, combine almond paste, coconut milk, and a pinch of sea salt, then blend until smooth.",
+    "Heat coconut oil in a large skillet over medium heat and add the blended almond mixture, stirring constantly.",
+    "Bring the mixture to a simmer and cook for 5 minutes or until it thickens, stirring occasionally.",
+    "Add the cooked noodles to the skillet and toss to coat with the almond sauce.",
+    "Sprinkle bonito flakes over the noodles and toss again to combine.",
+    "Season with sea salt and black pepper to taste.",
+    "Transfer the noodles to a serving dish and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "filipino-food",
+    "noodle-recipes",
+    "one-pot",
+    "paleo-diet"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "xtra-fluffy-filipino-almond-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-filipino-almond-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:39:34Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "bonito-shave",
+    "primaryIngredient": "almond paste",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "almonds",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Noodles"
+  }
+}
