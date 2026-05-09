@@ -1303,6 +1303,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-light-indian-fish-baingan-bharta",
+    "title": "Xenial Light Indian Fish Baingan Bharta",
+    "tags": [
+      "fish-recipes",
+      "indian-cuisine",
+      "lazy-sunday",
+      "pescatarian-friendly",
+      "pressure-cooker"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-light-norwegian-natto-stew",
     "title": "Xenial Light Norwegian Natto Stew",
     "tags": [

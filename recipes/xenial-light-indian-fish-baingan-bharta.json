@@ -1,0 +1,103 @@
+{
+  "title": "Xenial Light Indian Fish Baingan Bharta",
+  "description": "A floral and light Indian dish featuring vanilla sugar and fish, perfect for a lazy Sunday. This pescatarian-friendly recipe is a unique twist on traditional Chettinad cuisine.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vanilla sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the fish fillets and cut them into small pieces.",
+    "Heat 1 tablespoon of coconut oil in a pan over medium heat and cook the fish until it is opaque and flakes easily.",
+    "Remove the fish from the pan and set it aside.",
+    "In the same pan, add the remaining 1 tablespoon of coconut oil and saute the chopped onion until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped eggplant and cook until it is tender.",
+    "Add the tomato puree, garam masala, salt, and pepper, and stir well.",
+    "Add the cooked fish back into the pan and stir gently.",
+    "Add the vanilla sugar and stir well.",
+    "Pressure cook the mixture for 5 minutes or until the flavors are well combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipes",
+    "indian-cuisine",
+    "lazy-sunday",
+    "pescatarian-friendly",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "xenial-light-indian-fish-baingan-bharta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-light-indian-fish-baingan-bharta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:51:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "vanilla sugar",
+    "diet": "pescatarian",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "fish",
+    "descriptor": "Xenial Light",
+    "dishForm": "Baingan Bharta"
+  }
+}
