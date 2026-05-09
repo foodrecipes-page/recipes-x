@@ -1,0 +1,103 @@
+{
+  "title": "Xanthous Springy Uruguayan Lentil Pilaf",
+  "description": "A rich and festive Uruguayan dish featuring lentils, miso-marinate, and a unique cedar-plank vessel, this pilaf is perfect for springtime celebrations. It is a satvik-friendly option that combines flavors and textures in a delightful way.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 piece",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste and olive oil to create the marinade.",
+    "Add the chopped onion and minced garlic to the marinade and stir to combine.",
+    "Add the rinsed and drained green lentils to the marinade and stir to coat.",
+    "Season the lentil mixture with salt and black pepper.",
+    "Place the soaked cedar plank on a baking sheet lined with parchment paper.",
+    "Spoon the lentil mixture onto the cedar plank, leaving a 1-inch border around the edges.",
+    "Bake the pilaf for 35 minutes, or until the lentils are tender and the cedar plank is fragrant.",
+    "Remove the pilaf from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the Xanthous Springy Uruguayan Lentil Pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank-cooked",
+    "lentil-based",
+    "satvik-friendly",
+    "spring-inspired",
+    "uruguayan-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xanthous-springy-uruguayan-lentil-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-springy-uruguayan-lentil-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:14:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "miso-marinate",
+    "primaryIngredient": "lentils",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lentils",
+    "descriptor": "Xanthous Springy",
+    "dishForm": "Pilaf"
+  }
+}
