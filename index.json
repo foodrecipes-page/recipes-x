@@ -6272,6 +6272,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-juicy-chinese-chicken-noodles",
+    "title": "Xtra Juicy Chinese Chicken Noodles",
+    "tags": [
+      "chinese-food",
+      "gluten-free",
+      "one-pot",
+      "quick-dinner",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-juicy-dutch-black-olives-toast",
     "title": "Xtra Juicy Dutch Black Olives Toast",
     "tags": [

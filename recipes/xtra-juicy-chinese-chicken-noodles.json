@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Juicy Chinese Chicken Noodles",
+  "description": "A monsoon Chinese dish featuring chicken and noodles with an umami flavor, this recipe is gluten-free-friendly and mantecare-emulsified for a juicy twist.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the grated ginger and minced garlic to the skillet and cook for 1 minute.",
+    "Add the soy sauce, oyster sauce, and sesame oil to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the cooked noodles to the skillet and stir to combine with the sauce.",
+    "Return the chicken to the skillet and stir to combine with the noodles and sauce.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "gluten-free",
+    "one-pot",
+    "quick-dinner",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-juicy-chinese-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-chinese-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:23:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "chicken",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Juicy",
+    "dishForm": "Noodles"
+  }
+}
