@@ -1804,6 +1804,22 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-tender-slovakian-tofu-skewers",
+    "title": "Xenial Tender Slovakian Tofu Skewers",
+    "tags": [
+      "grilled",
+      "quick-fix",
+      "slovakian",
+      "tofu",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-tunisian-apple-tagine",
     "title": "Xenial Tunisian Apple Tagine",
     "tags": [

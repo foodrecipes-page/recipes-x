@@ -1,0 +1,101 @@
+{
+  "title": "Xenial Tender Slovakian Tofu Skewers",
+  "description": "A quick and earthy Slovakian dish featuring marinated silken tofu, perfect for a weeknight dinner or snack. This recipe is Buddhist-temple-friendly and easy to make.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12 skewers"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, apple cider vinegar, maple syrup, smoked paprika, garlic powder, onion powder, salt, and black pepper to make the marinade.",
+    "Add the cubed silken tofu to the marinade and toss to coat, making sure each piece is fully covered.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the tofu to marinate.",
+    "Preheat a grill or grill pan to medium-high heat, making sure it reaches 400 degrees Fahrenheit.",
+    "Thread the marinated tofu cubes onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with a small amount of oil to prevent sticking.",
+    "Grill the tofu skewers for 3-4 minutes per side, or until they are golden brown and tender.",
+    "Remove the skewers from the heat and serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "quick-fix",
+    "slovakian",
+    "tofu",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "xenial-tender-slovakian-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-tender-slovakian-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:06:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "marinate",
+    "primaryIngredient": "silken tofu",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "tofu",
+    "descriptor": "Xenial Tender",
+    "dishForm": "Skewers"
+  }
+}
