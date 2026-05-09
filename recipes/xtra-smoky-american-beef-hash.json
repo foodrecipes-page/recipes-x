@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Smoky American Beef Hash",
+  "description": "A buttery and shaggy American dish featuring coriander and smoke, served in a banana leaf, perfect for curing hangovers. This low-sodium-friendly recipe is a delicious and satisfying meal.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Banana Leaf",
+      "amount": "4 large leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Stir in the ground coriander, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Remove the skillet from the heat and stir in the butter until it is melted and the mixture is well combined.",
+    "Lay a banana leaf flat on a work surface and spoon about 1/2 cup of the beef mixture onto the center of the leaf.",
+    "Fold the sides of the leaf over the filling and roll the leaf into a tight cylinder, repeating with the remaining beef mixture and banana leaves.",
+    "Place the banana leaf rolls on a baking sheet and bake for 15 minutes, or until the leaves are slightly charred and the filling is hot and steamy.",
+    "Serve the Xtra Smoky American Beef Hash hot, straight from the banana leaf."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "beef-recipes",
+    "breakfast-ideas",
+    "hangover-food",
+    "low-sodium",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "xtra-smoky-american-beef-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-american-beef-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:02:47Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "coriander",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Hash"
+  }
+}
