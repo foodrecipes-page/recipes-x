@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Crispy Vietnamese Tofu Noodles",
+  "description": "A lacto-vegetarian friendly Vietnamese dish featuring crispy tofu and citrusy flavors, perfect for a midnight craving. This recipe combines the sweetness of jam with the savory taste of slow-cooked noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jam",
+      "amount": "1 tablespoon",
+      "notes": "apricot or orange marmalade"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the tofu cubes and cook until golden brown on all sides, about 5 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the soy sauce, jam, lime juice, and grated ginger to the skillet and stir to combine.",
+    "Add the dried rice noodles to the skillet and cook, stirring constantly, until they are soft and slightly caramelized.",
+    "Return the tofu to the skillet and stir to combine with the noodles and sauce.",
+    "Cook for an additional 2 minutes, until the tofu is crispy and the noodles are well coated.",
+    "Transfer the noodles to a serving platter and garnish with chopped green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy-flavors",
+    "crispy-tofu",
+    "lacto-vegetarian",
+    "midnight-cravings",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-crispy-vietnamese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-vietnamese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:33:25Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "slow-cook",
+    "primaryIngredient": "jam",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Xtra crispy",
+    "dishForm": "Noodles"
+  }
+}
