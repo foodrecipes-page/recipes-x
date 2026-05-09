@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Snappy Kenyan Bean Sprouts Bao",
+  "description": "A diabetic-friendly Kenyan dish featuring snappy bean sprouts in a long-fermentation-dough bao, packed with umami flavor. This monsoon-inspired recipe is perfect for a healthy and satisfying meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the long-fermentation-dough to a thickness of about 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Steam the bean sprouts until they are tender but still crisp.",
+    "Heat the sesame oil in a pan over medium heat and saute the onion, garlic, and ginger until the onion is translucent.",
+    "Add the soy sauce, salt, and black pepper to the pan and stir to combine.",
+    "Add the steamed bean sprouts to the pan and stir to combine with the sauce.",
+    "Place a tablespoon of the bean sprout mixture onto the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the bao.",
+    "Brush the tops of the bao with a little water and sprinkle with chopped scallions.",
+    "Bake the bao in the preheated oven for 15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "high-fiber",
+    "kenyan-cuisine",
+    "snappy-texture",
+    "umami-rich",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xtra-snappy-kenyan-bean-sprouts-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-snappy-kenyan-bean-sprouts-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:25:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "bean sprouts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "xtra snappy",
+    "dishForm": "Bao"
+  }
+}
