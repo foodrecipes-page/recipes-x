@@ -1,0 +1,91 @@
+{
+  "title": "Xtra Pungent American Shrimp Skewers",
+  "description": "Silky and pungent, these American shrimp skewers are a festive dish perfect for any occasion, featuring kosher salt and low-sodium friendly ingredients. The ice-bath-shock step ensures the shrimp stay tender and juicy.",
+  "cuisine": "American",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp.",
+    "Mix kosher salt, black pepper, garlic powder, onion powder, and paprika in a bowl.",
+    "Sprinkle the salt mixture evenly over the shrimp.",
+    "Brush the shrimp with lemon juice and olive oil.",
+    "Grill the shrimp for 2-3 minutes per side, or until they turn pink.",
+    "Immediately submerge the grilled shrimp in an ice bath to stop the cooking process.",
+    "Let the shrimp sit in the ice bath for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "grilled",
+    "low-sodium",
+    "seafood",
+    "shrimp",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "xtra-pungent-american-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-pungent-american-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:31:25Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "kosher salt",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "shrimp",
+    "descriptor": "Xtra pungent",
+    "dishForm": "Skewers"
+  }
+}
