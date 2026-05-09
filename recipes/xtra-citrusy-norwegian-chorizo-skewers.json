@@ -1,0 +1,91 @@
+{
+  "title": "Xtra Citrusy Norwegian Chorizo Skewers",
+  "description": "A low-carb and citrusy Norwegian dish featuring chorizo, yuzu-cure, and pillowy texture, perfect for a dinner meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian chorizo",
+      "amount": "1 pound",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together yuzu juice, olive oil, lemon zest, garlic, salt, and black pepper.",
+    "Add the sliced chorizo to the bowl and toss to coat with the yuzu mixture.",
+    "Thread the chorizo pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chorizo is cooked through.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus-recipes",
+    "grilled-meats",
+    "low-carb",
+    "norwegian-cuisine",
+    "skewer-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "xtra-citrusy-norwegian-chorizo-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-citrusy-norwegian-chorizo-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:03:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "chorizo",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chorizo",
+    "descriptor": "Xtra Citrusy",
+    "dishForm": "Skewers"
+  }
+}
