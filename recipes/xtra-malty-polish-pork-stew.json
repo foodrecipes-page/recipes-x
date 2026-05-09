@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Malty Polish Pork Stew",
+  "description": "A hearty and malty Polish pork stew featuring jam and ib rico, made in a copper pot and glazed to perfection, this dish is Whole30 friendly and perfect for a cold evening",
+  "cuisine": "Polish",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ib rico",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the copper pot over medium heat and add the pork cubes, cooking until browned on all sides",
+    "Add the malt syrup, jam, and ib rico to the pot, stirring to combine",
+    "Add the carrots, potatoes, onion, and garlic to the pot, stirring to combine",
+    "Pour in enough water to cover the ingredients and bring to a boil",
+    "Reduce the heat to low and simmer, covered, for 2 hours",
+    "Remove the lid and glaze the stew with the reduced cooking liquid",
+    "Serve hot, garnished with fresh herbs if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "hearty-stews",
+    "one-pot",
+    "polish-cuisine",
+    "pork-recipes",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xtra-malty-polish-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-malty-polish-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:18:01Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "glaze",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra malty",
+    "dishForm": "Stew"
+  }
+}
