@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Spicy Polish Sausage Casserole",
+  "description": "A jammy, molten, crowd-pleaser Polish dish featuring chilli and cure, friendly to dairy-free diets.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "spicy variety"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegan mozzarella shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the Polish sausage over medium-high heat until browned, about 5 minutes.",
+    "Add the chopped onion and bell pepper to the skillet and cook until the vegetables are tender.",
+    "Stir in the chilli flakes, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "In a large bowl, combine the cooked rice, tomato sauce, and vegan mozzarella shreds.",
+    "Add the cooked sausage and vegetable mixture to the bowl and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-spicy-polish-sausage-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-polish-sausage-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:34:30Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "chilli",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sausage",
+    "descriptor": "Xtra spicy",
+    "dishForm": "Casserole"
+  }
+}
