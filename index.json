@@ -6618,6 +6618,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-rich-polish-cheese-dumplings",
+    "title": "Xtra Rich Polish Cheese Dumplings",
+    "tags": [
+      "cheese-lovers",
+      "comfort-food",
+      "low-fat",
+      "polish-cuisine",
+      "romantic-dinner"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-rich-russian-beef-pie",
     "title": "Xtra Rich Russian Beef Pie",
     "tags": [

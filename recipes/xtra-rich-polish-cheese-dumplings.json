@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Rich Polish Cheese Dumplings",
+  "description": "A rich and romantic Polish dish featuring egg roll wrappers and a low-fat friendly cheese filling, perfect for a special occasion.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg roll wrappers",
+      "amount": "20 sheets",
+      "notes": "found in the frozen food section"
+    },
+    {
+      "name": "reduced fat cream cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "beaten, for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the reduced fat cream cheese, shredded cheddar cheese, chopped fresh dill, chopped scallions, salt, and black pepper, and mix until well combined.",
+    " Lay an egg roll wrapper on a flat surface and place a tablespoon of the cheese mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with the beaten egg for a secure seal.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling.",
+    "Repeat the process with the remaining wrappers and cheese mixture.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Brush the tops of the dumplings with the remaining egg wash.",
+    "Bake the dumplings in the preheated oven for 15 minutes, or until golden brown.",
+    "Serve the dumplings hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "comfort-food",
+    "low-fat",
+    "polish-cuisine",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "xtra-rich-polish-cheese-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-polish-cheese-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:36:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra Rich",
+    "dishForm": "Dumplings"
+  }
+}
