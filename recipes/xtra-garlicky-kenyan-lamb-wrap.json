@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Garlicky Kenyan Lamb Wrap",
+  "description": "A garlicky and gooey Kenyan dish featuring sage, wrapped in a corn husk, perfect for a rainy day. This kosher-friendly recipe is a unique twist on traditional Kenyan cuisine.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sage",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4 large",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb, garlic, sage, onion, salt, and pepper.",
+    "Lay a corn husk flat and place one quarter of the lamb mixture in the center.",
+    "Brush the edges of the corn husk with olive oil and fold the husk over the filling to form a triangle or square shape.",
+    "Repeat with the remaining corn husks and lamb mixture.",
+    "Place the wraps on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Increase the oven temperature to 375 degrees Fahrenheit and continue baking for an additional 10 minutes.",
+    "Remove the wraps from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-husk-wrap",
+    "garlicky",
+    "gooey",
+    "kenyan-cuisine",
+    "kosher-friendly",
+    "lamb-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-garlicky-kenyan-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-garlicky-kenyan-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:30:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "monsoon",
+    "technique": "en-croute",
+    "primaryIngredient": "sage",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Garlicky",
+    "dishForm": "Wrap"
+  }
+}
