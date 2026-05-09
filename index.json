@@ -1541,6 +1541,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-smoky-middle-eastern-renkon-lotus-root-tagine",
+    "title": "Xenial Smoky Middle Eastern Renkon Lotus Root Tagine",
+    "tags": [
+      "comfort-food",
+      "dutch-oven",
+      "middle-eastern",
+      "one-pan",
+      "plant-based",
+      "smoky"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-smoky-slovakian-cheese-casserole",
     "title": "Xenial Smoky Slovakian Cheese Casserole",
     "tags": [

@@ -1,0 +1,101 @@
+{
+  "title": "Xenial Smoky Middle Eastern Renkon Lotus Root Tagine",
+  "description": "A hearty and aromatic solo dinner dish featuring renkon lotus root in a rich and smoky Middle Eastern tagine sauce, made in a Dutch oven.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "renkon lotus root",
+      "amount": "1 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the Dutch oven over medium heat.",
+    "Add the smoked paprika, ground cumin, ground coriander, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the cubed renkon lotus root and cook for 5 minutes, stirring occasionally.",
+    "Add the chopped fresh parsley, lemon juice, and vegetable broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the lid and simmer for an additional 10 minutes, or until the sauce has thickened and the lotus root is tender.",
+    "Serve the tagine hot, garnished with additional parsley if desired.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Serve alone as a solo dinner.",
+    "Refrigerate or freeze any leftovers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-oven",
+    "middle-eastern",
+    "one-pan",
+    "plant-based",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xenial-smoky-middle-eastern-renkon-lotus-root-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-smoky-middle-eastern-renkon-lotus-root-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:24:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "brine-wet",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "renkon lotus root",
+    "descriptor": "Xenial Smoky",
+    "dishForm": "Tagine"
+  }
+}
