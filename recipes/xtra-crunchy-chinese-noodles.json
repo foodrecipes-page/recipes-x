@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Crunchy Chinese Noodles",
+  "description": "A charred and crunchy Chinese dish featuring dry white wine, perfect for a hangover cure, Xtra Crunchy Chinese Noodles are made with a combination of ingredients that provide a smoky and savory flavor, the smoke-cold and dash-friendly method makes it easy to prepare.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Dry White Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "Drain the noodles and set them aside.",
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the smoked paprika, salt, and black pepper to the skillet and stir for 1 minute.",
+    "Add the dry white wine to the skillet and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 5 minutes.",
+    "Add the soy sauce, oyster sauce, and sugar to the skillet and stir for 1 minute.",
+    "Add the cooked noodles to the skillet and stir to combine with the sauce.",
+    "Transfer the noodles to a serving platter and top with chopped scallions and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "easy-meals",
+    "hangover-cures",
+    "noodle-recipes",
+    "smoky-flavors",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-crunchy-chinese-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-chinese-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:54:11Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "smoke-cold",
+    "primaryIngredient": "dry white wine",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Xtra crunchy",
+    "dishForm": "Noodles"
+  }
+}

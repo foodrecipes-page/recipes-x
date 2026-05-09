@@ -5034,6 +5034,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crunchy-chinese-noodles",
+    "title": "Xtra Crunchy Chinese Noodles",
+    "tags": [
+      "chinese-food",
+      "easy-meals",
+      "hangover-cures",
+      "noodle-recipes",
+      "smoky-flavors",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crunchy-croatian-pepper-skillet",
     "title": "Xtra Crunchy Croatian Pepper Skillet",
     "tags": [
