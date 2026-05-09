@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Tangy Turkish Egg Yolks Kebabs",
+  "description": "A tangy and festive Turkish dish featuring egg yolks, grilled to perfection in a wok, low in carbs and high in flavor",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg yolks",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "turkish pepper paste",
+      "amount": "2 tbsp",
+      "notes": "mild"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "coarse"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat a wok over medium-high heat, adding a small amount of olive oil to the pan",
+    "In a bowl, whisk together egg yolks, turkish pepper paste, lemon juice, salt, and black pepper until well combined",
+    "Add the minced garlic to the bowl and mix well",
+    "Using a spoon, drop small amounts of the egg yolk mixture onto the preheated wok, forming small kebabs",
+    "Cook the kebabs for 3-4 minutes on each side, or until they are cooked through and slightly charred",
+    "Garnish the kebabs with chopped parsley and serve immediately",
+    "Serve the kebabs with a side of low-carb vegetables or a salad for a well-rounded meal",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "low-carb",
+    "one-pan",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 16
+  },
+  "slug": "xtra-tangy-turkish-egg-yolks-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tangy-turkish-egg-yolks-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:47:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "egg yolks",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "egg yolks",
+    "descriptor": "Xtra tangy",
+    "dishForm": "Kebabs"
+  }
+}
