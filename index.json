@@ -1109,6 +1109,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-dense-syrian-ovoli-mushroom-tagine",
+    "title": "Xenial Dense Syrian Ovoli Mushroom Tagine",
+    "tags": [
+      "cold-weather",
+      "gluten-free",
+      "mushroom-based",
+      "one-pot",
+      "syrian-cuisine",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-dense-thai-almond-nam-prik",
     "title": "Xenial Dense Thai Almond Nam Prik",
     "tags": [
