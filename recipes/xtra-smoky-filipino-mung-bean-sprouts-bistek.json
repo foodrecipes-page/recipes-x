@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Smoky Filipino Mung Bean Sprouts Bistek",
+  "description": "A smoky and savory Filipino dish featuring mung bean sprouts, perfect for a lazy Sunday, this keto-friendly bistek is both flavorful and nutritious. It combines the natural sweetness of mung bean sprouts with the depth of smoky flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add diced smoked bacon and cook until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add sliced onion to the skillet and cook until it starts to caramelize.",
+    "Add minced garlic to the skillet and cook for 1 minute.",
+    "Add mung bean sprouts to the skillet and cook until they start to soften.",
+    "In a small bowl, mix together fish sauce, calamansi juice, salt, black pepper, and smoked paprika.",
+    "Pour the sauce mixture over the mung bean sprouts and stir to combine.",
+    "Return the cooked bacon to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes, until the flavors are fully incorporated."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bistek-recipes",
+    "filipino-food",
+    "keto-recipes",
+    "lazy-sunday",
+    "mung-bean-sprouts",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "xtra-smoky-filipino-mung-bean-sprouts-bistek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-filipino-mung-bean-sprouts-bistek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:36:29Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "smoke-hot",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Bistek"
+  }
+}

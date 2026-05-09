@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Sweet Spanish Olives Paella Valenciana",
+  "description": "A sweet and savory Spanish dish featuring olives and a molten, deep-fried agemono topping, served in a fondue pot.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "agemono mix",
+      "amount": "1 cup",
+      "notes": "deep fry mix"
+    },
+    {
+      "name": "monk fruit sweetener",
+      "amount": "2 tablespoons",
+      "notes": "low glycemic"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a fondue pot over medium heat.",
+    "Add the diced onions and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the green olives, chicken broth, saffron threads, and smoked paprika.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "While the paella is cooking, prepare the agemono topping by following the package instructions.",
+    "Deep fry the agemono mix until it is golden brown and crispy.",
+    "Stir in the monk fruit sweetener and cook for an additional minute.",
+    "To serve, place the paella in the fondue pot and top with the deep fried agemono."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "deep-fried",
+    "fondue-pot",
+    "low-glycemic",
+    "one-pot",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-sweet-spanish-olives-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sweet-spanish-olives-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:36:09Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "olives",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "olives",
+    "descriptor": "Xtra Sweet",
+    "dishForm": "Paella Valenciana"
+  }
+}

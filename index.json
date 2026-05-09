@@ -7419,6 +7419,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-smoky-filipino-mung-bean-sprouts-bistek",
+    "title": "Xtra Smoky Filipino Mung Bean Sprouts Bistek",
+    "tags": [
+      "bistek-recipes",
+      "filipino-food",
+      "keto-recipes",
+      "lazy-sunday",
+      "mung-bean-sprouts",
+      "smoky-flavors"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-smoky-filipino-naan-bread-menudo",
     "title": "Xtra Smoky Filipino Naan Bread Menudo",
     "tags": [
@@ -8109,6 +8124,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 130,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-sweet-spanish-olives-paella-valenciana",
+    "title": "Xtra Sweet Spanish Olives Paella Valenciana",
+    "tags": [
+      "brunch-ideas",
+      "deep-fried",
+      "fondue-pot",
+      "low-glycemic",
+      "one-pot",
+      "spanish-food"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
