@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Garlicky Middle Eastern Purple Sprouting Broccoli Skewers",
+  "description": "A flavorful and healthy vegetarian dish featuring purple sprouting broccoli, perfect for a lazy Sunday, with a strong garlic taste and a Middle Eastern twist.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": "trimmed"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, sumac, salt, and black pepper.",
+    "Add the minced garlic to the bowl and mix well.",
+    "Add the trimmed purple sprouting broccoli to the bowl and toss to coat with the garlic mixture.",
+    "Thread the broccoli onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 3-4 minutes per side, or until tender and slightly charred.",
+    "Serve the skewers hot, with pita bread on the side if desired.",
+    "Garnish with additional sumac and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "grilled",
+    "healthy",
+    "lazy-sunday",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "xtra-garlicky-middle-eastern-purple-sprouting-broccoli-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-garlicky-middle-eastern-purple-sprouting-broccoli-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:13:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "purple sprouting broccoli",
+    "descriptor": "Xtra Garlicky",
+    "dishForm": "Skewers"
+  }
+}
