@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Crisp American Lasagne Sheets Lasagna",
+  "description": "A malty, crisp, post-workout American dish featuring lasagne sheets, this lacto-vegetarian-friendly lasagna is perfect for a satisfying dinner, served in a tagliere vessel.",
+  "cuisine": "American",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagne sheets",
+      "amount": "12 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Bring a large pot of salted water to a boil and blanch the lasagne sheets for 30 seconds.",
+    "In a large bowl, combine the ricotta cheese, malted milk powder, and a pinch of salt.",
+    "Spread a layer of marinara sauce in the bottom of a tagliere vessel.",
+    "Arrange 4 lasagne sheets on top of the sauce.",
+    "Spread half of the ricotta mixture over the lasagne sheets.",
+    "Sprinkle with half of the mozzarella cheese and half of the parmesan cheese.",
+    "Repeat the layers, starting with the marinara sauce, then the lasagne sheets, the remaining ricotta mixture, and finally the remaining mozzarella and parmesan cheese.",
+    "Drizzle the olive oil over the top layer of cheese.",
+    "Cover the tagliere with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and bake for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-italian",
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xtra-crisp-american-lasagne-sheets-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-american-lasagne-sheets-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:35:08Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "blanch",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lasagne sheets",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Lasagna"
+  }
+}
