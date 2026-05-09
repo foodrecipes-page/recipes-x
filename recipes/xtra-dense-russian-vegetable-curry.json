@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Dense Russian Vegetable Curry",
+  "description": "A garlicky, dense, and crowd-pleasing Russian dish featuring Thai red curry paste, this recipe is a unique blend of flavors and textures, and is Jain-friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "candy",
+      "amount": "1 cup",
+      "notes": "such as gummies or sour candies, chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a donabe over medium heat.",
+    "Add the onions and cook until they are translucent.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the curry paste and cook for 1 minute.",
+    "Add the chopped candy and cook until it is melted and caramelized.",
+    "Add the carrots and potatoes, and stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "jain-friendly",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-dense-russian-vegetable-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-russian-vegetable-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:31:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "candy",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Curry"
+  }
+}
