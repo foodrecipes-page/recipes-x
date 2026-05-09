@@ -7047,6 +7047,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-indian-chicken-curry",
+    "title": "Xtra Spicy Indian Chicken Curry",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "indian-cuisine",
+      "one-pan",
+      "spicy",
+      "whole30"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-irish-beef-stew",
     "title": "Xtra Spicy Irish Beef Stew",
     "tags": [

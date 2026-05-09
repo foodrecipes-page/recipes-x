@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Spicy Indian Chicken Curry",
+  "description": "A quick and spicy Chettinad style curry made with almond essence and whole30 friendly ingredients, this dish is perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond essence",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14 ounces"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium high heat.",
+    "Add the chopped onion and cook until it starts to brown, about 5 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the chicken to the skillet and cook until it is browned on all sides, about 5-7 minutes.",
+    "Add the curry powder, almond essence, salt, and cayenne pepper to the skillet and stir to combine.",
+    "Cook for 1 minute, until the spices are fragrant.",
+    "Add the canned diced tomatoes to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook until the chicken is cooked through, about 10-12 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot over rice or with some naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "indian-cuisine",
+    "one-pan",
+    "spicy",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "xtra-spicy-indian-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-indian-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:31:40Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "almond essence",
+    "diet": "whole30",
+    "region": "chettinad",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra spicy",
+    "dishForm": "Curry"
+  }
+}
