@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Energizing Japanese Bryndza Cheese Takikomi Gohan",
+  "description": "A bitter and bouncy Japanese dish featuring bryndza cheese, steam, and anti-inflammatory friendly ingredients, originating from Okinawa. This dish is designed to provide an energizing meal option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "1 cup",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "Bryndza cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly and salty"
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "powdered"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese short grain rice thoroughly and soak it in water for 30 minutes.",
+    "In a large pot, combine the dashi broth, sesame oil, grated ginger, and powdered turmeric, and bring to a boil.",
+    "Add the soaked and drained rice to the pot, stirring gently to combine with the broth mixture.",
+    "Reduce the heat to low, cover the pot with a tight-fitting lid, and simmer for 15 minutes.",
+    "While the rice is cooking, crumble the bryndza cheese into small pieces and set aside.",
+    "After 15 minutes, fluff the cooked rice with a rice paddle or fork, then stir in the crumbled bryndza cheese.",
+    "Transfer the takikomi gohan to a serving platter, garnished with thinly sliced scallions and sesame seeds.",
+    "Serve immediately, while the cheese is still melted and the rice is steaming hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "bryndza-cheese",
+    "gluten-free",
+    "japanese-cuisine",
+    "okinawan-recipes",
+    "steam-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-energizing-japanese-bryndza-cheese-takikomi-gohan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-energizing-japanese-bryndza-cheese-takikomi-gohan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:01:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "steam",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "anti-inflammatory",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "Xtra Energizing",
+    "dishForm": "Takikomi Gohan"
+  }
+}
