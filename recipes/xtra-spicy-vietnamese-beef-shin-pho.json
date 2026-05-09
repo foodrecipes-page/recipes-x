@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Spicy Vietnamese Beef Shin Pho",
+  "description": "A spicy and light Vietnamese dish featuring beef shin, this recipe is perfect for those who like a little heat in their meal, it is also vegetarian friendly as the beef can be substituted with portobello mushrooms",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound",
+      "notes": "or portobello mushrooms for vegetarian option"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat a large terracotta dish over medium high heat",
+    "Add the beef shin and sear until browned on all sides",
+    "Remove the beef from the dish and set aside",
+    "Add the fish sauce, soy sauce, rice vinegar, sugar, cumin, coriander, cayenne pepper, and black pepper to the dish and stir to combine",
+    "Add the star anise to the dish and stir to combine",
+    "Add the beef broth to the dish and bring to a boil",
+    "Return the beef to the dish and reduce heat to low",
+    "Simmer the pho for 1 1/2 hours or until the beef is tender",
+    "Serve the pho hot in bowls and garnish with your choice of toppings"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "noodle-soup",
+    "one-pot",
+    "spicy",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "xtra-spicy-vietnamese-beef-shin-pho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-vietnamese-beef-shin-pho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:50:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "beef shin",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "beef shin",
+    "descriptor": "Xtra spicy bouncy",
+    "dishForm": "Pho"
+  }
+}

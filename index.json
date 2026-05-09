@@ -9292,6 +9292,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-vietnamese-beef-shin-pho",
+    "title": "Xtra Spicy Vietnamese Beef Shin Pho",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "noodle-soup",
+      "one-pot",
+      "spicy",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 110,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-springy-irish-brie-gratin",
     "title": "Xtra Springy Irish Brie Gratin",
     "tags": [
