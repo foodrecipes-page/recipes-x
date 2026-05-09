@@ -7760,6 +7760,23 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-peppery-saudi-arabian-lamb-stir-fry",
+    "title": "Xtra Peppery Saudi-Arabian Lamb Stir-Fry",
+    "tags": [
+      "date-night",
+      "halal",
+      "high-protein",
+      "lamb",
+      "meat-lovers",
+      "saudi-arabian",
+      "spicy",
+      "stir-fry"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-peppery-syrian-fish-poke",
     "title": "Xtra Peppery Syrian Fish Poke",
     "tags": [
@@ -10381,6 +10398,22 @@
       "stir-fry"
     ],
     "cuisine": "Croatian",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
+    "slug": "xxtra-crispy-vietnamese-bacon-bun-thit-nuong",
+    "title": "Xxtra Crispy Vietnamese Bacon Bun Thit Nuong",
+    "tags": [
+      "bacon",
+      "cheese",
+      "comfort-food",
+      "grilled",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
     "totalTimeMin": 55,
     "shard": "x"
   },

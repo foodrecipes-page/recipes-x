@@ -1,0 +1,173 @@
+{
+  "title": "Xtra Peppery Saudi-Arabian Lamb Stir-Fry",
+  "description": "A delicious and tender date-night dish featuring dried red chillies, perfect for a dash-friendly evening meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "lacto-ovo-vegetarian",
+    "pescetarian",
+    "vegan",
+    "gluten-free",
+    "paleo",
+    "dairy-free",
+    "halal",
+    "keto",
+    "low-carb",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Dried red chillies",
+      "amount": "4",
+      "notes": "Soaked in hot water for 30 minutes before use."
+    },
+    {
+      "name": "Onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "+extra to taste."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom ground",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin ground",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander ground",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric ground",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "+or to taste."
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "1/4 teaspoon",
+      "notes": "+or to taste."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb shoulder and cook for 2 minutes on each side.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the onions, garlic, and red bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the soaked dried red chillies, tomatoes, salt, black pepper, paprika, cardamom, cumin, coriander, turmeric, cayenne pepper, and garam masala to the skillet and cook for 1 minute, stirring constantly.",
+    "Return the lamb to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Stir in the yogurt, cilantro, and lemon juice.",
+    "Cook for an additional 2 minutes, until the sauce has thickened.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Adjust the seasoning as needed, adding more chilli powder if desired for extra heat.",
+    "Serve over rice or with naan bread for a delicious meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "halal",
+    "high-protein",
+    "lamb",
+    "meat-lovers",
+    "saudi-arabian",
+    "spicy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "xtra-peppery-saudi-arabian-lamb-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-peppery-saudi-arabian-lamb-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:59Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "dried red chillies",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "xtra peppery",
+    "dishForm": "stir-fry"
+  }
+}
