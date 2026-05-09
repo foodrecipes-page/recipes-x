@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Yeasty Japanese Chocolate Zenzai",
+  "description": "A yeasty, molten, quick-fix Japanese dessert featuring dark chocolate chips and toast, made gluten-free-friendly in the form of zenzai.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 60% cocoa"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "gluten-free bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, proof the yeast by mixing it with warm water and letting it sit for 5 minutes.",
+    "In a separate bowl, whisk together sugar, eggs, and vanilla extract.",
+    "Add the yeast mixture to the egg mixture and whisk until smooth.",
+    "Melt the chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Butter the gluten-free bread slices on both sides and toast until lightly browned.",
+    "To assemble the zenzai, place a toasted bread slice in a bowl, followed by a spoonful of the yeast mixture, and then a spoonful of melted chocolate.",
+    "Repeat the layers one more time, ending with a layer of chocolate on top.",
+    "Serve immediately and enjoy.",
+    "Be careful when eating as the chocolate will be hot and molten."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate-lovers",
+    "dessert-recipes",
+    "gluten-free",
+    "japanese-inspired",
+    "quick-fix",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "xtra-yeasty-japanese-chocolate-zenzai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-yeasty-japanese-chocolate-zenzai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:53:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chocolate",
+    "descriptor": "Xtra Yeasty",
+    "dishForm": "Zenzai"
+  }
+}
