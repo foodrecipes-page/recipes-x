@@ -1094,6 +1094,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-floral-italian-christmas-pudding-panettone",
+    "title": "Xenial Floral Italian Christmas Pudding Panettone",
+    "tags": [
+      "dairy-free",
+      "holiday-treats",
+      "italian-desserts",
+      "romantic-dishes",
+      "wok-hei"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 120,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-fluffy-middle-eastern-green-chilli-umm-ali",
     "title": "Xenial Fluffy Middle Eastern Green Chilli Umm Ali",
     "tags": [

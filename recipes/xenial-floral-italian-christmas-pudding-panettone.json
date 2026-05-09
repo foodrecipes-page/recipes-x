@@ -1,0 +1,94 @@
+{
+  "title": "Xenial Floral Italian Christmas Pudding Panettone",
+  "description": "A romantic Italian dessert featuring Christmas pudding, wok-hei, and floral flavors, made in a tajine-clay vessel and shaped like a panettone, this dish is perfect for the holiday season and can be enjoyed by those with dairy-free dietary needs.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably Italian '00' flour"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dairy-free milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted vegan butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Christmas pudding mix",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, yeast, and sugar.",
+    "In a separate bowl, whisk together dairy-free milk and melted vegan butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased tajine-clay vessel and let it rise for 1 hour.",
+    "Punch down the dough and add dried rose petals, orange zest, and Christmas pudding mix.",
+    "Shape the dough into a panettone shape and bake for 40 minutes.",
+    "Remove the panettone from the oven and let it cool for 10 minutes.",
+    "Use a kitchen torch to achieve a wok-hei effect on the surface of the panettone."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 120,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "holiday-treats",
+    "italian-desserts",
+    "romantic-dishes",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xenial-floral-italian-christmas-pudding-panettone",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-floral-italian-christmas-pudding-panettone",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:08:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "christmas pudding",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "christmas pudding",
+    "descriptor": "Xenial Floral",
+    "dishForm": "Panettone"
+  }
+}
