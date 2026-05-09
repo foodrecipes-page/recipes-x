@@ -622,6 +622,20 @@
     "shard": "x"
   },
   {
+    "slug": "xanthous-springy-algerian-lamb-tagine",
+    "title": "Xanthous Springy Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "lamb-recipes",
+      "no-onion-no-garlic",
+      "one-pot-meals",
+      "spring-recipes"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 120,
+    "shard": "x"
+  },
+  {
     "slug": "xanthous-springy-uruguayan-lentil-pilaf",
     "title": "Xanthous Springy Uruguayan Lentil Pilaf",
     "tags": [
@@ -5266,6 +5280,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 80,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-flaky-tunisian-lamb-tagine",
+    "title": "Xtra Flaky Tunisian Lamb Tagine",
+    "tags": [
+      "flaky-pastry",
+      "lamb-recipes",
+      "special-occasion",
+      "tomato-sauce",
+      "tunisian-cuisine",
+      "yuzu-recipes"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 70,
     "shard": "x"
   },
   {

@@ -1,0 +1,95 @@
+{
+  "title": "Xanthous Springy Algerian Lamb Tagine",
+  "description": "A traditional Algerian dish featuring lamb, mixture powder, and a blend of spices, cooked in a kadhai to perfection. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Algerian",
+  "diet": [
+    "no onion",
+    "no garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "mixture powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brine dry spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a kadhai over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the mixture powder, brine dry spice mix, salt, and black pepper, and stir to combine.",
+    "Add the lemon juice, dried apricots, and chicken broth, and bring to a boil.",
+    "Reduce the heat to low, cover the kadhai, and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "Remove the lid and simmer for an additional 10 minutes, or until the sauce has thickened.",
+    "Serve the tagine hot, garnished with fresh herbs if desired.",
+    "Let the tagine rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "lamb-recipes",
+    "no-onion-no-garlic",
+    "one-pot-meals",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xanthous-springy-algerian-lamb-tagine",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-springy-algerian-lamb-tagine",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:46:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "mixture powder",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "xanthous springy",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Flaky Tunisian Lamb Tagine",
+  "description": "A traditional Tunisian dish featuring tender lamb in a rich tomato sauce, with a unique yuzu cure and a flaky crust, perfect for special occasions.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees.",
+    "Heat olive oil in a large skillet over medium high heat.",
+    "Add lamb to the skillet and cook until browned on all sides.",
+    "Add onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add cumin, paprika, salt, and pepper to the skillet and cook for 1 minute.",
+    "Stir in tomato sauce and yuzu juice and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Roll out flaky pastry dough to a large rectangle.",
+    " Spoon lamb mixture onto one half of the pastry dough.",
+    "Fold the other half of the pastry dough over the lamb mixture and press edges to seal.",
+    "Place the tagine on a baking sheet and bake for 25 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "flaky-pastry",
+    "lamb-recipes",
+    "special-occasion",
+    "tomato-sauce",
+    "tunisian-cuisine",
+    "yuzu-recipes"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "xtra-flaky-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:46:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "tomato sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra flaky",
+    "dishForm": "Tagine"
+  }
+}
