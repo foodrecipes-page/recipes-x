@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Crispy Jamaican Yams Skewers",
+  "description": "A pungent and crispy Jamaican dish featuring molasses, this recipe is perfect for adventurous eaters, Jain-friendly and air-fried to perfection. The combination of spices and molasses creates a unique flavor profile.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yams",
+      "amount": "2 large",
+      "notes": "peeled and cut into 1 inch cubes"
+    },
+    {
+      "name": "molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together molasses, soy sauce, brown sugar, scotch bonnet peppers, garlic, thyme, salt, and black pepper.",
+    "Add the yam cubes to the bowl and toss to coat with the molasses mixture.",
+    "Thread the yam cubes onto skewers, leaving a small space between each cube.",
+    "Brush the olive oil onto the yam cubes.",
+    "Place the skewers in the air fryer basket, leaving some space between each skewer.",
+    "Cook the yam skewers for 12 minutes, shaking the basket halfway through.",
+    "Increase the air fryer temperature to 420 degrees Fahrenheit and cook for an additional 2 minutes, or until crispy.",
+    "Remove the skewers from the air fryer and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 14,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "jamaican-cuisine",
+    "spicy-food",
+    "street-food",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 4
+  },
+  "slug": "xtra-crispy-jamaican-yams-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-jamaican-yams-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:46:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "molasses",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "yams",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Skewers"
+  }
+}
