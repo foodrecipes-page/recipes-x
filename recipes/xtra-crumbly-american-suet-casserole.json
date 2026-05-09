@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Crumbly American Suet Casserole",
+  "description": "A savory, crumbly American dish featuring suet, perfect for meal prep, and made in a terracotta dish. This Jain-friendly recipe is a delicious option for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "1 cup",
+      "notes": "beef or vegetable suet"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "blanched and chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "blanched and chopped"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "blanched and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the suet, flour, baking powder, salt, and black pepper.",
+    "In a separate bowl, mix the blanched and chopped onion, carrot, and green beans.",
+    "Add the vegetable mixture to the suet mixture and stir until just combined.",
+    "Transfer the mixture to a terracotta dish and smooth the top.",
+    "Bake for 35 minutes, or until the casserole is golden brown and set.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "comfort-food",
+    "jain-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-crumbly-american-suet-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crumbly-american-suet-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:46:03Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "suet",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "suet",
+    "descriptor": "Xtra Crumbly",
+    "dishForm": "Casserole"
+  }
+}
