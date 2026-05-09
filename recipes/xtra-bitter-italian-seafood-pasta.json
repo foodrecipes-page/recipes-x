@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Bitter Italian Seafood Pasta",
+  "description": "A flexitarian friendly Italian dish featuring bitter and glassy jelly elements, perfect for midnight cravings. This recipe combines sea salt and dashi extract for a unique flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "1 sheet",
+      "notes": "dried"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "14.5 oz"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the dashi extract and sea salt to the skillet and stir to combine.",
+    "Add the kombu seaweed to the skillet and cook for 1 minute.",
+    "Add the canned tomatoes to the skillet and stir to combine.",
+    "Add the shrimp to the skillet and cook until pink and fully cooked.",
+    "Drain the spaghetti and add it to the skillet, tossing to combine with the sauce.",
+    "Serve the pasta hot, garnished with additional sea salt if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "flexitarian-friendly",
+    "italian-food",
+    "midnight-cravings",
+    "one-pan-meal",
+    "seafood-pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "xtra-bitter-italian-seafood-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-bitter-italian-seafood-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:43:28Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "sea salt",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "seafood",
+    "descriptor": "Xtra bitter",
+    "dishForm": "Pasta"
+  }
+}

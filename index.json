@@ -2928,6 +2928,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-bitter-italian-seafood-pasta",
+    "title": "Xtra Bitter Italian Seafood Pasta",
+    "tags": [
+      "bitter-flavors",
+      "flexitarian-friendly",
+      "italian-food",
+      "midnight-cravings",
+      "one-pan-meal",
+      "seafood-pasta"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-bitter-portuguese-plum-tomatoes-stew",
     "title": "Xtra Bitter Portuguese Plum Tomatoes Stew",
     "tags": [
