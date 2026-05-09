@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Crispy Slovakian Casabe Wrap",
+  "description": "A sweet and crispy Slovakian dish featuring casabe, perfect for curing hangovers, wrapped in a corn husk wrap and filled with coconut cream crack, dairy free friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "casabe",
+      "amount": "4 pieces",
+      "notes": "toasted"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn husk wraps",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Toast the casabe pieces for 5 minutes on each side.",
+    "Mix the coconut cream, coconut oil, maple syrup, and vanilla extract in a bowl.",
+    "Spread the coconut cream mixture on each toasted casabe piece.",
+    "Sprinkle shredded coconut and salt on top of the coconut cream mixture.",
+    "Wrap each casabe piece in a corn husk wrap.",
+    "Bake the wrapped casabe for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-idea",
+    "coconut-based",
+    "crispy-snack",
+    "dairy-free-option",
+    "hangover-cure",
+    "slovakian-cuisine",
+    "sweet-treat"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "xtra-crispy-slovakian-casabe-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-slovakian-casabe-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:26:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "casabe",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "casabe",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Wrap"
+  }
+}
