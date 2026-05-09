@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Fruity Russian Fruit Wrap",
+  "description": "A vegan-friendly Russian dish featuring dried fruit, wrapped in pandan leaves and cooked to perfection in a tandoor, resulting in a fatty and bouncy treat.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the chopped dried apricots, dried cranberries, maple syrup, and lemon juice.",
+    "Add the chopped almonds and shredded coconut to the bowl and stir until well combined.",
+    "Lay a pandan leaf flat on a surface and brush with coconut oil.",
+    "Place about 1/4 cup of the fruit mixture onto the center of the pandan leaf.",
+    "Fold the pandan leaf over the filling to form a triangle or a square shape, and press the edges together to seal.",
+    "Repeat with the remaining pandan leaves and fruit mixture.",
+    "Place the wraps in the preheated tandoor and cook for 10 minutes on each side.",
+    "Remove the wraps from the tandoor and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "fruit-based",
+    "pandan-leaf",
+    "russian-cuisine",
+    "snack-ideas",
+    "tandoor-cooking",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "xtra-fruity-russian-fruit-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fruity-russian-fruit-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:46:54Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "dried fruit",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "fruits",
+    "descriptor": "Xtra fruity",
+    "dishForm": "Wrap"
+  }
+}
