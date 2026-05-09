@@ -8668,6 +8668,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-snappy-peruvian-beef-lomo-saltado",
+    "title": "Xtra Snappy Peruvian Beef Lomo Saltado",
+    "tags": [
+      "beef",
+      "one-pan",
+      "peruvian",
+      "shojin",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-sour-ethiopian-sausages-stew",
     "title": "Xtra Sour Ethiopian Sausages Stew",
     "tags": [

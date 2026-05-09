@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Snappy Peruvian Beef Lomo Saltado",
+  "description": "A resinous and snappy weeknight Peruvian dish featuring marsala wine and pasta water emulsion, this shojin friendly lomo saltado is a twist on the classic recipe.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "marsala wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pasta water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the beef strips and cook until browned, about 3 minutes.",
+    "Add the sliced onion and cook until translucent, about 2 minutes.",
+    "Add the diced tomato and cook until softened, about 2 minutes.",
+    "Add the sliced aji amarillo pepper and cook for 1 minute.",
+    "Add the marsala wine and pasta water emulsion and stir to combine.",
+    "Add the soy sauce and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Serve the lomo saltado hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "one-pan",
+    "peruvian",
+    "shojin",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-snappy-peruvian-beef-lomo-saltado",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-snappy-peruvian-beef-lomo-saltado",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:41:26Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "marsala-wine",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Snappy",
+    "dishForm": "Lomo Saltado"
+  }
+}
