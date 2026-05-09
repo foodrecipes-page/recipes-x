@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Smoky British Lamb Kebabs",
+  "description": "A smoky and flavorful dish featuring lamb, peach juice, and a Mediterranean-inspired glaze, perfect for adventurous eaters looking for a taste of Northern Irish cuisine.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, aiming for an internal temperature of 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together peach juice, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade, covering the bowl with plastic wrap.",
+    "Refrigerate the lamb for at least 2 hours or overnight to allow the flavors to penetrate.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "While the kebabs are cooking, prepare the glaze by whisking together honey and lemon juice in a small bowl.",
+    "Brush the glaze onto the kebabs during the last 2 minutes of cooking.",
+    "Remove the kebabs from the grill and sprinkle with chopped rosemary.",
+    "Serve the kebabs hot, garnished with additional rosemary if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled-meat",
+    "lamb-recipes",
+    "mediterranean-inspired",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-smoky-british-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-british-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:06:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "peach juice",
+    "diet": "mediterranean",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Kebabs"
+  }
+}
