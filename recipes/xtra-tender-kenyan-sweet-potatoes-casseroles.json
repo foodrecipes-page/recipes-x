@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Tender Kenyan Sweet Potatoes Casseroles",
+  "description": "A nutty and tender Kenyan dish featuring coco sugar, perfect for nostalgic ovo-vegetarian-friendly meals. This casserole is a delicious and comforting side dish.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced sweet potatoes and brine, tossing to coat.",
+    "Let the sweet potatoes sit for 30 minutes to dry out slightly.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "In a separate bowl, whisk together the coco sugar, eggs, salt, and black pepper.",
+    "Add the sugar mixture to the skillet with the onion and garlic, stirring to combine.",
+    "Add the sweet potatoes to the skillet, tossing to coat with the sugar mixture.",
+    "Transfer the sweet potato mixture to a 9x13 inch baking dish.",
+    "Bake for 45 minutes, or until the sweet potatoes are tender and the top is lightly browned."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole-dishes",
+    "comfort-food",
+    "kenyan-cuisine",
+    "nutty-flavors",
+    "ovo-vegetarian",
+    "sweet-potato-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xtra-tender-kenyan-sweet-potatoes-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tender-kenyan-sweet-potatoes-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:57:56Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "brine-dry",
+    "primaryIngredient": "coco sugar",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "xtra tender",
+    "dishForm": "Casseroles"
+  }
+}
