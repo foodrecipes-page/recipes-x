@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Smoky Slovakian Hazelnut Skewers",
+  "description": "A fresh and energizing Slovakian dish featuring shelled hazelnuts, this recipe is perfect for a keto-friendly snack. The smoky flavor comes from the combination of smoked paprika and grilled hazelnuts.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "shelled"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the hazelnuts to the bowl and toss to coat with the spice mixture.",
+    "Thread the coated hazelnuts onto skewers, leaving a small space between each nut.",
+    "Brush the skewers with olive oil and grill for 5 minutes per side, or until the hazelnuts are lightly charred.",
+    "Remove the skewers from the grill and sprinkle with lemon juice.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve the skewers hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "keto-friendly",
+    "quick-snack",
+    "slovakian-cuisine",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 6,
+    "fat": 28
+  },
+  "slug": "xtra-smoky-slovakian-hazelnut-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-slovakian-hazelnut-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:17:28Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "smoke-hot",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Skewers"
+  }
+}
