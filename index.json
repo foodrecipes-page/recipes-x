@@ -4701,6 +4701,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-dense-portuguese-daikon-stew",
+    "title": "Xtra Dense Portuguese Daikon Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-dish",
+      "kosher-friendly",
+      "one-pot",
+      "portuguese-cuisine",
+      "winter-stew"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-dense-roasted-irish-duck-leg-roast",
     "title": "Xtra Dense Roasted Irish Duck Leg Roast",
     "tags": [

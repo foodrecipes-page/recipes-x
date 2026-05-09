@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Dense Portuguese Daikon Stew",
+  "description": "A hearty and comforting Portuguese stew featuring daikon, perfect for a sick day, made with score fat for added richness and kosher friendly ingredients.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "score fat",
+      "amount": "1/4 cup",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the score fat over medium heat until melted.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cubed daikon, potatoes, and carrots, and cook for 5 minutes, stirring occasionally.",
+    "Add the crushed thyme, dried bay leaves, and chicken broth, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes, or until the vegetables are tender.",
+    "Season with kosher salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-dish",
+    "kosher-friendly",
+    "one-pot",
+    "portuguese-cuisine",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-dense-portuguese-daikon-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-portuguese-daikon-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:28:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "score-fat",
+    "primaryIngredient": "daikon",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "daikon",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Stew"
+  }
+}
