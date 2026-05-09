@@ -1,0 +1,102 @@
+{
+  "title": "X-tra Smoky Peruvian Ceviche Tiradito",
+  "description": "A twist on traditional Peruvian ceviche, this recipe incorporates caraway seed and dashi-extract for added depth of flavor.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fresh Sea Bass Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dashi Extract",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Aji Amarillo Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the Sea Bass Fillets into thin slices.",
+    "Mix together Caraway Seeds and Dashi Extract in a small bowl.",
+    "In a large bowl, combine the Sea Bass slices, Lime Juice, Cilantro, Aji Amarillo Pepper, Red Onion, Salt, and Black Pepper.",
+    "Add the Caraway-Dashi mixture to the bowl and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in some chopped fresh Cilantro, if desired.",
+    "Serve the Tiradito cold, garnished with additional Cilantro and Caraway Seeds if desired.",
+    "Traditionally, this dish is served with crispy corn kernels called 'choclo' or toasted corn nuts, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-option",
+    "lacto-vegetarian",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "x-tra-smoky-peruvian-ceviche-tiradito",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-smoky-peruvian-ceviche-tiradito",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T07:20:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "dashi-extract",
+    "primaryIngredient": "caraway seed",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "ceviche",
+    "descriptor": "X-tra Smoky",
+    "dishForm": "Tiradito"
+  }
+}

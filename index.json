@@ -327,6 +327,20 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-smoky-peruvian-ceviche-tiradito",
+    "title": "X-tra Smoky Peruvian Ceviche Tiradito",
+    "tags": [
+      "breakfast-option",
+      "lacto-vegetarian",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-spicy-deep-fried-moroccan-lamb-briouat",
     "title": "x-tra spicy deep fried moroccan lamb briouat",
     "tags": [
