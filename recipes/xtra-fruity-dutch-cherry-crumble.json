@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Fruity Dutch Cherry Crumble",
+  "description": "A winey and shaggy Dutch dish featuring cherry, this crumble is an energizing Whole30-friendly dessert made with a bain-marie method.",
+  "cuisine": "Dutch",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh Cherries",
+      "amount": "2 cups",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Shredded Coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the almond flour, coconut sugar, shredded coconut, and salt.",
+    "In a separate bowl, whisk together the eggs and vanilla extract.",
+    "Add the egg mixture to the dry ingredients and stir until well combined.",
+    "Gently fold in the fresh cherries and lemon zest.",
+    "Transfer the mixture to a baking dish and set it in a larger dish filled with hot water to create a bain-marie.",
+    "Bake for 40 minutes or until the topping is golden brown and the fruit is tender.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve warm, garnished with additional fresh cherries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "dutch-dessert",
+    "fruit-crumble",
+    "gluten-free",
+    "healthy-dessert",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "xtra-fruity-dutch-cherry-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fruity-dutch-cherry-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:18:49Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "cherry",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cherry",
+    "descriptor": "Xtra fruity",
+    "dishForm": "Crumble"
+  }
+}
