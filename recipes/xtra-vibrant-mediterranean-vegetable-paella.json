@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Vibrant Mediterranean Vegetable Paella",
+  "description": "This show-stopping paella is a masterclass in Mediterranean flavors and textures, featuring a vibrant blue hue and a delicate floral note, all while being vegetarian-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "blue food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "infused olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the infused olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced red bell pepper and cook until tender, about 5 minutes.",
+    "Add the sliced zucchini and cook until tender, about 5 minutes.",
+    "Add the halved cherry tomatoes and cook until they start to release their juices, about 3 minutes.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the soaked saffron threads, blue food coloring, and vegetable broth to the pan, stirring to combine.",
+    "Bring the mixture to a boil, then add the uncooked Arborio rice and stir to combine.",
+    "Reduce the heat to low, cover, and simmer, covered, until the rice is tender and the liquid has been absorbed, about 20 minutes.",
+    "Stir in the artichoke hearts and cook until heated through, about 2 minutes.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "one-pan",
+    "show-stopping",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-vibrant-mediterranean-vegetable-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-vibrant-mediterranean-vegetable-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:06:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "infuse-oil",
+    "primaryIngredient": "blue food colouring",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xtra Vibrant",
+    "dishForm": "Paella"
+  }
+}
