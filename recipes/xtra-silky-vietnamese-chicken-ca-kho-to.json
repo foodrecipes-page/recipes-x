@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Silky Vietnamese Chicken Ca Kho To",
+  "description": "A comforting and earthy Vietnamese dish featuring chicken bouillon powder and flambe, perfect for a sick day, this satvik-friendly recipe is made in the traditional ca-kho-to form",
+  "cuisine": "vietnamese",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large clay pot or Dutch oven over medium heat",
+    "Add the sliced onions and cook until they are lightly browned and caramelized",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Add the chicken thighs and cook until they are browned on all sides",
+    "Add the chicken bouillon powder, fish sauce, soy sauce, and brown sugar, and stir to combine",
+    "Add the water and bring the mixture to a boil",
+    "Reduce the heat to low and simmer, covered, for 20 minutes",
+    "Use a kitchen torch to flambe the dish, or simmer over low heat for an additional 5 minutes",
+    "Serve the ca-kho-to hot, garnished with chopped scallions and a sprinkle of black pepper"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "satvik-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-silky-vietnamese-chicken-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-vietnamese-chicken-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:08:39Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "flambe",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Silky",
+    "dishForm": "Ca Kho To"
+  }
+}
