@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Roasted Middle Eastern Piccalilli Fattoush",
+  "description": "A roasted and pillowy Middle Eastern dish featuring piccalilli, perfect for a festive meal, this whole30-friendly recipe is formed into a delicious fattoush.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "piccalilli",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "romaine lettuce",
+      "amount": "4 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted pita bread",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "roasted eggplant",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the eggplant and red peppers with olive oil, salt, and black pepper, and roast in the oven for 30 minutes.",
+    "Allow the roasted vegetables to cool.",
+    "In a large bowl, combine the chopped romaine lettuce, crushed toasted pita bread, roasted eggplant, and roasted red peppers.",
+    "In a small bowl, whisk together the lemon juice and a pinch of salt.",
+    "Pour the lemon juice mixture over the lettuce mixture and toss to combine.",
+    "Stir in the piccalilli and sumac.",
+    "Season with additional salt and black pepper to taste.",
+    "Serve immediately, garnished with additional sumac if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fattoush",
+    "middle-eastern",
+    "paleo",
+    "piccalilli",
+    "roasted-vegetables",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "xtra-roasted-middle-eastern-piccalilli-fattoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-middle-eastern-piccalilli-fattoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:00:46Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "piccalilli",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "piccalilli",
+    "descriptor": "Xtra Roasted",
+    "dishForm": "Fattoush"
+  }
+}
