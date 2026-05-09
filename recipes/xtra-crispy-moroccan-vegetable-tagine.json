@@ -1,0 +1,109 @@
+{
+  "title": "Xtra Crispy Moroccan Vegetable Tagine",
+  "description": "A garlicky and crispy Moroccan dish featuring ground nut oil and a variety of vegetables, served with a festive touch",
+  "cuisine": "Moroccan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground nut oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the ground nut oil in a large skillet over medium-high heat",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning",
+    "Add the chopped carrots, zucchini, and bell peppers, and cook until they are tender but still crisp",
+    "Stir in the ground cumin, smoked paprika, salt, and black pepper",
+    "Reduce the heat to medium-low and simmer, covered, for 10 minutes, stirring occasionally",
+    "Increase the heat to medium-high and cook, uncovered, for an additional 5 minutes, stirring frequently, until the vegetables are crispy",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, on a lazy-susan-spinner for a festive touch"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "festive",
+    "garlicky",
+    "moroccan-cuisine",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-crispy-moroccan-vegetable-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-moroccan-vegetable-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:16:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "ground nut oil",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Tagine"
+  }
+}
