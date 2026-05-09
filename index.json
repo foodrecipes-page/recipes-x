@@ -7002,6 +7002,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-molten-croatian-cheese-lasagna",
+    "title": "Xtra Molten Croatian Cheese Lasagna",
+    "tags": [
+      "cheesy",
+      "croatian-cuisine",
+      "fodmap-friendly",
+      "gluten-free",
+      "lazy-sunday",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 75,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-nutty-algerian-white-beans-tagine",
     "title": "Xtra Nutty Algerian White Beans Tagine",
     "tags": [

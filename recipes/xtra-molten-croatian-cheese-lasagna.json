@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Molten Croatian Cheese Lasagna",
+  "description": "A tangy and molten Croatian dish featuring shredded Mexican cheese and a mother-sauce base, perfect for a lazy Sunday, and FODMAP friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Mexican cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the lasagna noodles according to the package instructions.",
+    "In a large bowl, combine the ricotta cheese, spinach, egg, salt, and pepper, and mix well.",
+    "In a separate bowl, combine the shredded Mexican cheese and mother sauce, and mix well.",
+    "In a 9x13 inch baking dish, create a thin layer of the mother sauce.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Sprinkle with half of the shredded Mexican cheese mixture.",
+    "Repeat the layers, starting with the noodles, then the remaining ricotta cheese mixture, and finally the remaining Mexican cheese mixture.",
+    "Top with the remaining mother sauce and sprinkle with additional cheese if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "croatian-cuisine",
+    "fodmap-friendly",
+    "gluten-free",
+    "lazy-sunday",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-molten-croatian-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-molten-croatian-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:33:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra Molten",
+    "dishForm": "Lasagna"
+  }
+}
