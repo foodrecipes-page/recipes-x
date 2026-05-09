@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Crisp Russian Chicken Skewers",
+  "description": "A quick-fix Russian dish featuring coconut cream and clay-pot cooking, this recipe is perfect for a weeknight dinner and is Buddhist-temple-friendly, charred and crisp on the outside and juicy on the inside, these skewers are a delight to eat.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot over medium-high heat.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together the coconut cream, olive oil, lemon juice, garlic powder, paprika, salt, and black pepper.",
+    "Brush the mixture onto the chicken skewers, making sure they are fully coated.",
+    "Place the skewers in the clay pot and cook for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Serve with your favorite sides, such as roasted vegetables or quinoa.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "xtra-crisp-russian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-russian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:28:50Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "coconut cream",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Skewers"
+  }
+}
