@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Crunchy Korean Blackberries Songpyeon",
+  "description": "A crunchy and earthy Korean dish featuring blackberries and lardons, perfect for a post-workout snack, made without onion or garlic.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "blackberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered until crispy"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Render the lardons in a pan over medium heat until crispy and golden brown.",
+    "In a large bowl, combine the rice flour, sesame oil, salt, and sugar.",
+    "Gradually add the water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a few blackberries in the center.",
+    "Fold the dough over the blackberries to form a half-moon shape and press the edges together to seal.",
+    "Pan-fry the songpyeon in a little sesame oil until they are golden brown and crispy.",
+    "Sprinkle the chopped pine nuts over the songpyeon and serve with the crispy lardons."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "gluten-free",
+    "korean-snack",
+    "no-onion-no-garlic",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "xtra-crunchy-korean-blackberries-songpyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-korean-blackberries-songpyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:11:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "blackberries",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "blackberries",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Songpyeon"
+  }
+}
