@@ -1,0 +1,100 @@
+{
+  "title": "Xtra Silky Korean Pork Ssam",
+  "description": "A winey, silky, and energizing Korean dish featuring clear honey and sous-vide cooking, perfect for a diabetic-friendly meal",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "clear honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "12 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit",
+    "In a blender, combine soy sauce, rice vinegar, garlic, ginger, and clear honey, and blend until smooth",
+    "Place the pork shoulder in a sous-vide bag and pour the blended marinade over it",
+    "Seal the bag and cook for 24 hours",
+    "Remove the pork from the bag and slice it into thin strips",
+    "In a small bowl, whisk together sesame oil and a pinch of salt",
+    "Brush the sesame oil mixture over the sliced pork",
+    "Assemble the ssam by placing a few slices of pork onto a lettuce leaf and garnishing with green onions",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1470,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "korean-cuisine",
+    "low-carb",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-silky-korean-pork-ssam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-korean-pork-ssam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:53:06Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "clear honey",
+    "diet": "diabetic-friendly",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Silky",
+    "dishForm": "Ssam"
+  }
+}
