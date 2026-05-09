@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Dense Korean Cherry Bao",
+  "description": "A tangy and dense Korean dish featuring cherries and double-rise bread, perfect for curing hangovers, this recipe is inspired by the Chungcheong region and is raw-friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cherries",
+      "amount": "1 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar.",
+    "Gradually add warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and knead it for another 5 minutes.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk and place a few chopped cherries in the center of each disk.",
+    "Fold the dough over the cherries and seal the edges by pressing them together with a fork.",
+    "Brush the tops of the buns with sesame oil and sprinkle with chopped green onions.",
+    "Let the buns rise for another 30 minutes before baking them in a preheated oven at 375 degrees for 18 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 78,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "double-rise-bread",
+    "hangover-cure",
+    "korean-inspired",
+    "raw-friendly",
+    "tangy",
+    "vegetarian-breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "xtra-dense-korean-cherry-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-korean-cherry-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:32:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "cherries",
+    "diet": "raw",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cherries",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Bao"
+  }
+}

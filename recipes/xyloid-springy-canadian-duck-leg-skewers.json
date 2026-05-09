@@ -1,0 +1,92 @@
+{
+  "title": "Xyloid Springy Canadian Duck Leg Skewers",
+  "description": "Buttery and springy Canadian dish featuring duck legs, tadka, and macrobiotic-friendly ingredients, grilled to perfection on a robata-grill.",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4",
+      "notes": "bone-in, skin removed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together butter, tadka spice blend, lemon juice, and olive oil.",
+    "Add the duck legs to the bowl and toss to coat with the butter mixture.",
+    "Thread the duck legs onto skewers, leaving a small space between each leg.",
+    "Season the duck legs with sea salt and garlic.",
+    "Grill the skewers on the robata-grill for 20 minutes, turning occasionally.",
+    "Brush the duck legs with additional butter mixture during the last 5 minutes of grilling.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "xyloid-springy-canadian-duck-leg-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xyloid-springy-canadian-duck-leg-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:31:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "duck legs",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "duck legs",
+    "descriptor": "xyloid springy",
+    "dishForm": "Skewers"
+  }
+}

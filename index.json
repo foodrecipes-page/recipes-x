@@ -5604,6 +5604,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-dense-korean-cherry-bao",
+    "title": "Xtra Dense Korean Cherry Bao",
+    "tags": [
+      "dense",
+      "double-rise-bread",
+      "hangover-cure",
+      "korean-inspired",
+      "raw-friendly",
+      "tangy",
+      "vegetarian-breakfast"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 78,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-dense-mexican-sausages-carnitas",
     "title": "Xtra Dense Mexican Sausages Carnitas",
     "tags": [
@@ -10287,6 +10303,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
+    "slug": "xyloid-springy-canadian-duck-leg-skewers",
+    "title": "Xyloid Springy Canadian Duck Leg Skewers",
+    "tags": [
+      "canadian-cuisine",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
