@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Roasted Jamaican Frankfurter Bowl",
+  "description": "A roasted and fluffy meal prep Jamaican dish featuring frankfurter and ferment kimchi, diabetic friendly and served in a bento box.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic friendly",
+    "low carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "8",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Ferment Kimchi",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Roasted Vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tbsp",
+      "notes": "sugar free"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the frankfurter with Jamaican jerk seasoning, salt, and black pepper until well coated.",
+    "Place the coated frankfurter on a baking sheet lined with parchment paper and roast for 15 minutes.",
+    "In a separate bowl, toss the roasted vegetables with olive oil, salt, and black pepper until well coated.",
+    "Spread the vegetables on a baking sheet lined with parchment paper and roast for 20 minutes.",
+    "In a small bowl, mix the ferment kimchi with chopped scallions.",
+    "To assemble the bowls, divide the cooked brown rice into 4 bento boxes, then top with roasted frankfurter, roasted vegetables, and a spoonful of kimchi mixture.",
+    "Serve immediately and refrigerate or freeze for later meal prep.",
+    "Reheat the bowls in the microwave or oven until the ingredients are warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "diabetic-friendly",
+    "jamaican-cuisine",
+    "low-carb",
+    "meal-prep",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-roasted-jamaican-frankfurter-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-jamaican-frankfurter-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:59:48Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "frankfurter",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "frankfurter",
+    "descriptor": "Xtra Roasted",
+    "dishForm": "Bowl"
+  }
+}
