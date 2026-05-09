@@ -1,0 +1,90 @@
+{
+  "title": "Xenial Spring Croatian Honey Pudding",
+  "description": "This traditional Croatian dessert features clear honey and is cooked in a bain-marie to create a creamy and earthy treat, perfect for springtime and romantic occasions, and is also FODMAP-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "clear honey",
+      "amount": "1 cup",
+      "notes": "use a high-quality, pure honey"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, whisk together the heavy cream, whole milk, and clear honey.",
+    "Cook the mixture over medium heat, stirring occasionally, until the honey has dissolved and the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the egg yolks and vanilla extract.",
+    "Gradually add the hot cream mixture to the egg yolks, whisking constantly.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the lemon zest and cornstarch.",
+    "Pour the mixture into 6 small ramekins or cups and place them in a large baking dish.",
+    "Add hot water to the baking dish to come halfway up the sides of the ramekins.",
+    "Bake for 25 minutes, or until the puddings are set and the edges are lightly golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-desserts",
+    "fodmap-friendly",
+    "gluten-free",
+    "honey-based",
+    "romantic-dishes",
+    "springtime-treats"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "xenial-spring-croatian-honey-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-spring-croatian-honey-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:41:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "clear honey",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "honey",
+    "descriptor": "Xenial Spring",
+    "dishForm": "Pudding"
+  }
+}
