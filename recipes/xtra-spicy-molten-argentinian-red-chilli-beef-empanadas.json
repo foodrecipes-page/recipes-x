@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Spicy Molten Argentinian Red Chilli Beef Empanadas",
+  "description": "A flexitarian-friendly Argentinian dish featuring red chilli and beef in a molten empanada, served in a terracotta dish. This recipe combines umami flavors with a quick-fix approach.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the red chilli flakes, salt, black pepper, and paprika, and cook for 1 minute.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of the beef mixture onto the center of each dough circle.",
+    "Sprinkle shredded mozzarella cheese over the beef mixture.",
+    "Fold the dough in half over the filling, pressing the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with beaten eggs and place them in a terracotta dish.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "empanadas",
+    "flexitarian-friendly",
+    "molten-cheese",
+    "red-chilli",
+    "terracotta-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-spicy-molten-argentinian-red-chilli-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-molten-argentinian-red-chilli-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:06:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "red chilli",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "red chilli beef",
+    "descriptor": "Xtra spicy molten",
+    "dishForm": "Empanadas"
+  }
+}
