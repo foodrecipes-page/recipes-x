@@ -1,0 +1,113 @@
+{
+  "title": "Xenial Herbal Saudi Arabian Fish Fillet Tagine",
+  "description": "A herbal and pillowy Saudi Arabian dish featuring fish fillet, perfect for a sick day, Whole30 friendly and using shio-koji cure.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "4 fillets",
+      "notes": "Any white fish works"
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese fermented rice seasoning"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together shio-koji, cumin, coriander, turmeric, salt, and black pepper.",
+    "Rub the mixture all over the fish fillets, making sure they are evenly coated.",
+    "Heat olive oil in a large oven-safe skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the fish fillets to the skillet and cook for 2 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 12 minutes.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Serve the fish fillets hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-dish",
+    "gluten-free",
+    "herbal",
+    "one-pan",
+    "saudi-arabian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "xenial-herbal-saudi-arabian-fish-fillet-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-herbal-saudi-arabian-fish-fillet-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:32:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "fish fillet",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "fish fillet",
+    "descriptor": "Xenial Herbal",
+    "dishForm": "Tagine"
+  }
+}
