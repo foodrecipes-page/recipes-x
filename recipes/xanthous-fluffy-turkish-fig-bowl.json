@@ -1,0 +1,93 @@
+{
+  "title": "Xanthous Fluffy Turkish Fig Bowl",
+  "description": "A citrusy and energizing Turkish dish featuring figs and candy, served in an earthenware bowl, low in glycemic index for a healthy treat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried figs",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "candied orange peel",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the chopped dried figs and diced candied orange peel.",
+    "In a large earthenware bowl, combine the plain Greek yogurt, honey, lemon zest, and vanilla extract, stirring until well combined.",
+    "Fold in the fig and orange peel mixture into the yogurt mixture until fluffy and smooth.",
+    "Top the mixture with chopped pistachios and coconut flakes.",
+    "Refrigerate the bowl for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional lemon zest if desired.",
+    "Serve the Xanthous Fluffy Turkish Fig Bowl chilled, straight from the earthenware bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "easy-desserts",
+    "healthy-snacks",
+    "low-glycemic",
+    "turkish-delicacies",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xanthous-fluffy-turkish-fig-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-fluffy-turkish-fig-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:36:09Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "figs",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "figs",
+    "descriptor": "Xanthous fluffy",
+    "dishForm": "Bowl"
+  }
+}
