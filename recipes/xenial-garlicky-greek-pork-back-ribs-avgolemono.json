@@ -1,0 +1,91 @@
+{
+  "title": "Xenial Garlicky Greek Pork Back Ribs Avgolemono",
+  "description": "A garlicky and pillowy Greek dish featuring pork back ribs, this avgolemono is perfect for a weeknight dinner. It is halal-friendly and features a bonito shave for added flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 pounds",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "for shaving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, chicken broth, olive oil, and dried oregano.",
+    "Add the pork back ribs to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with aluminum foil and arrange the ribs on it.",
+    "Bake the ribs in the preheated oven for 30 minutes.",
+    "While the ribs are baking, mince the garlic and mix it with a little water to make a paste.",
+    "After the ribs have baked for 30 minutes, brush the garlic paste all over them.",
+    "Return the ribs to the oven and bake for an additional 20 minutes.",
+    "Remove the ribs from the oven and let them rest for a few minutes.",
+    "Shave the bonito flakes over the ribs and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avgolemono",
+    "bone-in",
+    "garlicky",
+    "greek-food",
+    "halal-friendly",
+    "pork-ribs",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "xenial-garlicky-greek-pork-back-ribs-avgolemono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-garlicky-greek-pork-back-ribs-avgolemono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:26:13Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "bonito-shave",
+    "primaryIngredient": "pork back ribs",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Xenial Garlicky",
+    "dishForm": "Avgolemono"
+  }
+}

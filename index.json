@@ -1195,6 +1195,22 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-garlicky-greek-pork-back-ribs-avgolemono",
+    "title": "Xenial Garlicky Greek Pork Back Ribs Avgolemono",
+    "tags": [
+      "avgolemono",
+      "bone-in",
+      "garlicky",
+      "greek-food",
+      "halal-friendly",
+      "pork-ribs",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-garlicky-norwegian-lamb-stew",
     "title": "Xenial Garlicky Norwegian Lamb Stew",
     "tags": [
