@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Crunchy Ethiopian Lentil Casserole",
+  "description": "A herbal and crunchy Ethiopian dish featuring pancetta and en-croute, perfect for a low-calorie friendly meal during the monsoon season.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "pancetta",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pot, bring 2 cups of water to a boil and add the lentils, cooking until they are tender.",
+    "In a large skillet, cook the pancetta over medium heat until crispy, then set aside.",
+    "In the same skillet, add the onion, garlic, carrots, and zucchini, cooking until the vegetables are tender.",
+    "Stir in the tomato paste, berbere spice, and cooked lentils, cooking for 2 minutes.",
+    "Roll out the puff pastry and place the lentil mixture in the center, leaving a 1 inch border around the edges.",
+    "Brush the edges of the pastry with olive oil and fold the pastry over the filling, pressing the edges to seal.",
+    "Place the casserole on a baking sheet and bake for 25 minutes, or until the pastry is golden brown.",
+    "Remove the casserole from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "ethiopian",
+    "gluten-free",
+    "lentil",
+    "low-calorie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "xtra-crunchy-ethiopian-lentil-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-ethiopian-lentil-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:04:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "en-croute",
+    "primaryIngredient": "pancetta",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Xtra crunchy",
+    "dishForm": "Casserole"
+  }
+}
