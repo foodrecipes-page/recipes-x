@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Crispy Japanese Baby New Potatoes Mochi",
+  "description": "A crispy and savory Japanese dish featuring baby new potatoes in a mochi form, perfect for a solo dinner, with a grassy and high-protein-friendly flavor profile, served in a stone bowl dolsot.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "12",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "mochi flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the stone bowl dolsot over medium heat.",
+    "In a large bowl, combine mochi flour and water, and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 12 equal pieces and shape each piece into a small ball.",
+    "Flatten each ball into a disk shape and place a halved baby new potato in the center of each disk.",
+    "Fold the dough over the potato to form a triangle or a square shape, and press the edges to seal.",
+    "Brush the tops of the mochi with sesame oil and cook in the preheated stone bowl dolsot for 5 minutes on each side, until crispy and golden brown.",
+    "Serve the crispy mochi with grated daikon, green onions, and a drizzle of soy sauce.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-mochi",
+    "dinner-ideas",
+    "gluten-free",
+    "high-protein",
+    "japanese-cuisine",
+    "stone-bowl-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-crispy-japanese-baby-new-potatoes-mochi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-japanese-baby-new-potatoes-mochi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:33:45Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "high-protein",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "baby new potatoes",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Mochi"
+  }
+}
