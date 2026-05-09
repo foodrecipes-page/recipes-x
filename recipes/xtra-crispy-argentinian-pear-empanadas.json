@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Crispy Argentinian Pear Empanadas",
+  "description": "Aerated Argentinian empanadas filled with pears and bonito shave, cooked to a crispy perfection in a kadhai, this dish is a low fat friendly meal prep option. It features a cultured twist on traditional empanadas.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pear",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "bonito shave",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the kadhai over medium heat with olive oil.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of pear and bonito shave mixture in the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with beaten egg for a golden glaze.",
+    "Cook the empanadas in the kadhai for 2-3 minutes on each side, until crispy and golden.",
+    "Serve the empanadas warm, sprinkled with sugar and salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "low-fat",
+    "meal-prep",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "xtra-crispy-argentinian-pear-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-argentinian-pear-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:02:23Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "bonito-shave",
+    "primaryIngredient": "pears",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "pear",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Empanadas"
+  }
+}
