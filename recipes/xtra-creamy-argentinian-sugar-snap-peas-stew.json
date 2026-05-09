@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Creamy Argentinian Sugar Snap Peas Stew",
+  "description": "A creamy and bitter Argentinian stew featuring sugar snap peas, perfect for curing hangovers, with a mirepoix base and kosher-friendly ingredients. This dish is a hearty and comforting meal option.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sugar snap peas",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sugar snap peas, chicken broth, dried thyme, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer for 15 minutes.",
+    "Use an immersion blender to puree the stew until it is partially smooth.",
+    "Stir in the heavy cream and continue to simmer for 5 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "comfort-food",
+    "hangover-cure",
+    "kosher-friendly",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-creamy-argentinian-sugar-snap-peas-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-argentinian-sugar-snap-peas-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:19:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sugar snap peas",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sugar snap peas",
+    "descriptor": "Xtra Creamy",
+    "dishForm": "Stew"
+  }
+}
