@@ -7476,6 +7476,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-malty-turkish-noodles-pide",
+    "title": "Xtra Malty Turkish Noodles Pide",
+    "tags": [
+      "light-snack",
+      "malty-flavor",
+      "midnight-craving",
+      "no-onion-no-garlic",
+      "turkish-dish",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-mild-turkish-vegetable-dumplings",
     "title": "Xtra Mild Turkish Vegetable Dumplings",
     "tags": [

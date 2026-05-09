@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Malty Turkish Noodles Pide",
+  "description": "A light and malty Turkish dish featuring rice stick noodles, perfect for midnight cravings, made without onion or garlic. This pide is a delicious and satisfying snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice stick noodles",
+      "amount": "8 oz",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "turkish cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a mortar, pound the cooked noodles with a pestle until they are slightly crushed.",
+    "In a large bowl, whisk together the malt syrup, olive oil, salt, and black pepper.",
+    "Add the crushed noodles, turkish cheese, and eggs to the bowl and mix until well combined.",
+    "Transfer the mixture to a pide dish or a small baking sheet lined with parchment paper.",
+    "Shape the mixture into a pide shape, making a small indentation in the center.",
+    "Bake the pide in the preheated oven for 20 minutes, or until it is golden brown.",
+    "Remove the pide from the oven and sprinkle with chopped parsley.",
+    "Let the pide cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "light-snack",
+    "malty-flavor",
+    "midnight-craving",
+    "no-onion-no-garlic",
+    "turkish-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "xtra-malty-turkish-noodles-pide",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-malty-turkish-noodles-pide",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:19:05Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "noodles",
+    "descriptor": "Xtra Malty",
+    "dishForm": "Pide"
+  }
+}
