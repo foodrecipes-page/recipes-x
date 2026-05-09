@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Fluffy Slovakian Potato Dumplings",
+  "description": "A traditional Slovakian dish featuring light and airy potato dumplings, perfect for a brunch mood, made with bicarbonate of soda for an extra fluffy texture and shaped like nigiri for a fun twist, high in protein to keep you full",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": "high starch potatoes like russet work best"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "for extra protein and binding"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": "like cheddar or feta for extra flavor"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until they are tender, then drain and let cool.",
+    "Mash the cooled potatoes in a large bowl with a fork until they are mostly smooth.",
+    "In a separate bowl, whisk together the flour, bicarbonate of soda, and salt.",
+    "Add the flour mixture to the mashed potatoes and stir until just combined.",
+    "Beat in the egg until the mixture is smooth and sticky.",
+    "Knead the mixture on a floured surface for about 5 minutes until it comes together in a ball.",
+    "Divide the dough into small pieces and shape each one into a small ball, then flatten slightly into a disk shape, like nigiri.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings, cooking for about 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and top each one with a pat of melted butter, some grated cheese, and a sprinkle of chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "xtra-fluffy-slovakian-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-slovakian-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:36:27Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potato",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Dumplings"
+  }
+}
