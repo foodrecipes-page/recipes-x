@@ -1,0 +1,115 @@
+{
+  "title": "Xtra Dense Irish Lamb Casseroles",
+  "description": "A garlicky and dense Irish dish featuring grape leaves and agemono-deep-fry, suitable for solo dinner and diabetic-friendly diets.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "12 leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low-sugar"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, combine lamb, garlic, onion, carrots, celery, salt, and black pepper, and mix well.",
+    "In a large skillet, heat olive oil over medium-high heat and deep-fry the grape leaves until crispy, about 2-3 minutes per side.",
+    "In a separate pot, combine tomato paste and chicken broth, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer the tomato paste mixture for 10 minutes, stirring occasionally.",
+    "In a large casserole dish, create a layer of the lamb mixture, followed by a layer of the grape leaves, and then a layer of the tomato paste mixture, repeating this process until all ingredients are used, ending with a layer of the tomato paste mixture on top.",
+    "Cover the casserole dish with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the top is browned and the casserole is hot and bubbly.",
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "irish-food",
+    "lamb-recipes",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "xtra-dense-irish-lamb-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-irish-lamb-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:28:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "grape leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Casseroles"
+  }
+}
