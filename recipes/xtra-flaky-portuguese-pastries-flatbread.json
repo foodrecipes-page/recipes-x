@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Flaky Portuguese Pastries Flatbread",
+  "description": "A traditional Portuguese flatbread featuring orange blossom water and beurre-monte, perfect for a midnight craving. This satvik-friendly dish is both fatty and flaky.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "chilled and cubed"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, sugar, and salt.",
+    "Add cubed butter to the dry ingredients and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together orange blossom water, beurre-monte, and yeast.",
+    "Add the wet ingredients to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough on a floured surface for 10 minutes, until it becomes smooth and elastic.",
+    "Roll out the dough into a large rectangle, about 1/4 inch thick.",
+    "Fold the dough in half lengthwise, like a letter, and then fold it in half again, rotating the dough 90 degrees after each fold.",
+    "Roll out the dough to its original size and cut it into 8 equal pieces.",
+    "Heat a non-stick skillet over medium heat and cook the flatbreads for 2-3 minutes on each side, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread-recipe",
+    "midnight-cravings",
+    "portuguese-cuisine",
+    "satvik-friendly",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "xtra-flaky-portuguese-pastries-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-portuguese-pastries-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:39:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "beurre-monte",
+    "primaryIngredient": "orange blossom water",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pastries",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Flatbread"
+  }
+}
