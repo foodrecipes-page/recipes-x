@@ -1094,6 +1094,22 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-earthy-french-ginger-clafoutis",
+    "title": "Xenial Earthy French Ginger Clafoutis",
+    "tags": [
+      "baked",
+      "clafoutis",
+      "french-dessert",
+      "ginger",
+      "gluten-free",
+      "low-carb",
+      "raspberry"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-earthy-irish-callaloo-stew",
     "title": "Xenial Earthy Irish Callaloo Stew",
     "tags": [

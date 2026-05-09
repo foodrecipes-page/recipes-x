@@ -1,0 +1,95 @@
+{
+  "title": "Xenial Earthy French Ginger Clafoutis",
+  "description": "A low-carb-friendly, earthy French dish featuring ground ginger and a molten center, perfect for a nostalgic dessert or snack. This clafoutis is made with a stir-fry of fresh ingredients and baked to perfection.",
+  "cuisine": "French",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground ginger",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh raspberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, granulated sweetener, and ground ginger.",
+    "In a separate bowl, whisk together the eggs, heavy cream, and vanilla extract.",
+    "Add the melted butter to the egg mixture and whisk until smooth.",
+    "Add the egg mixture to the dry ingredients and stir until well combined.",
+    "Gently fold in the fresh raspberries.",
+    "Pour the mixture into a 9-inch baking dish and smooth the top.",
+    "Bake for 35-40 minutes or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "clafoutis",
+    "french-dessert",
+    "ginger",
+    "gluten-free",
+    "low-carb",
+    "raspberry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "xenial-earthy-french-ginger-clafoutis",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-earthy-french-ginger-clafoutis",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T21:10:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "ground ginger",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "ginger",
+    "descriptor": "Xenial Earthy",
+    "dishForm": "Clafoutis"
+  }
+}
