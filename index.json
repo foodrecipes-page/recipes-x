@@ -5782,6 +5782,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-flaky-korean-fish-noodles",
+    "title": "Xtra Flaky Korean Fish Noodles",
+    "tags": [
+      "korean-food",
+      "low-fat",
+      "noodle-dish",
+      "one-pot",
+      "seafood"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-flaky-mexican-tortilla-quesadilla",
     "title": "Xtra Flaky Mexican Tortilla Quesadilla",
     "tags": [

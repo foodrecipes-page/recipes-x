@@ -1,0 +1,91 @@
+{
+  "title": "Xtra Flaky Korean Fish Noodles",
+  "description": "A jammy and flaky Korean dish from Busan, featuring fish noodles in a savory broth, this recipe is low in fat and can be prepared in a Dutch oven.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "anchovy paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large Dutch oven.",
+    "Add the kombu sheets to the boiling water and remove from heat.",
+    "Let the kombu steep for 5 minutes, then remove and discard.",
+    "Add the anchovy paste, gochujang, and soy sauce to the pot and stir to combine.",
+    "Add the fish noodles to the pot and cook for 5 minutes, or until they are slightly tender.",
+    "Fold the noodles over several times to distribute the sauce and create a flaky texture.",
+    "Stir in the chopped green onions and toasted sesame seeds.",
+    "Serve the noodles hot, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-food",
+    "low-fat",
+    "noodle-dish",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "xtra-flaky-korean-fish-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-korean-fish-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:21:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "fold",
+    "primaryIngredient": "boiling water",
+    "diet": "low-fat",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "xtra flaky",
+    "dishForm": "Noodles"
+  }
+}
