@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Fresh Jamaican Deodeok Root Skewers",
+  "description": "A fresh and light Jamaican dish featuring deodeok root, perfect for a weeknight dinner, with a brine-wet and no-onion-no-garlic friendly flavor profile.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "deodeok root",
+      "amount": "1 pound",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "allspice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, lime juice, allspice, thyme, salt, and black pepper.",
+    "Add the deodeok root pieces to the bowl and toss to coat with the marinade.",
+    "Let the deodeok root marinate for at least 30 minutes.",
+    "Thread the marinated deodeok root pieces onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the deodeok root is tender and lightly charred.",
+    "Remove the skewers from the grill and sprinkle with chopped scotch bonnet peppers.",
+    "Serve the skewers hot, garnished with fresh thyme and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brine-wet",
+    "grilled-vegetables",
+    "jamaican-cuisine",
+    "no-onion-no-garlic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-fresh-jamaican-deodeok-root-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fresh-jamaican-deodeok-root-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:41:03Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "brine-wet",
+    "primaryIngredient": "deodeok-root",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "deodeok root",
+    "descriptor": "Xtra fresh",
+    "dishForm": "Skewers"
+  }
+}
