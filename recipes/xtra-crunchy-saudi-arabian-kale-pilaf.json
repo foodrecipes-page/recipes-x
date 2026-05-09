@@ -1,0 +1,105 @@
+{
+  "title": "Xtra Crunchy Saudi Arabian Kale Pilaf",
+  "description": "A savory and energizing Saudi Arabian dish featuring kale, this pilaf is perfect for a flexitarian meal, served on a lazy-susan-spinner for easy sharing.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "curly or lacinato work well"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pita bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "for crunch"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the kale and remove the stems, then chop it into small pieces.",
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the basmati rice and cook for 2 minutes, stirring frequently.",
+    "Add the water, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "While the rice is cooking, toast the pita bread crumbs in a dry skillet over medium heat until crispy.",
+    "Fluff the cooked rice with a fork and stir in the chopped kale, toasted pita bread crumbs, and lemon juice.",
+    "Serve the pilaf hot, garnished with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "healthy-lunch",
+    "kale-recipes",
+    "one-pot",
+    "saudi-arabian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-crunchy-saudi-arabian-kale-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-saudi-arabian-kale-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:35:30Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "brine-dry",
+    "primaryIngredient": "kale",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "kale",
+    "descriptor": "Xtra crunchy",
+    "dishForm": "Pilaf"
+  }
+}
