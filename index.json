@@ -1495,6 +1495,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-mediterranean-onion-frittata",
+    "title": "Xenial Mediterranean Onion Frittata",
+    "tags": [
+      "brunch-ideas",
+      "gluten-free",
+      "mediterranean-inspired",
+      "ramekin-recipes",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-molten-chinese-lentils-char-siu-bao",
     "title": "Xenial Molten Chinese Lentils Char Siu Bao",
     "tags": [
