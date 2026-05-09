@@ -7276,6 +7276,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-lazy-irish-beef-brisket-stew",
+    "title": "Xtra Lazy Irish Beef Brisket Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "irish-cuisine",
+      "lazy-sunday",
+      "one-pot",
+      "pescatarian-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 210,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-lazy-jamaican-hind-shank-stew",
     "title": "Xtra Lazy Jamaican Hind Shank Stew",
     "tags": [

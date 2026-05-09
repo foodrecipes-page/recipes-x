@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Lazy Irish Beef Brisket Stew",
+  "description": "A hearty, resinous Irish stew featuring tender beef brisket, perfect for a lazy Sunday. This pescatarian-friendly dish is made with a rich, glassy-jelly broth.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, whisk together the beef broth, tomato paste, thyme, salt, and pepper.",
+    "Add the chopped onion, carrots, potatoes, and celery to the pot.",
+    "Add the beef brisket chunks to the pot, making sure they are covered with the broth mixture.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the stew for 3 hours, or until the beef is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "irish-cuisine",
+    "lazy-sunday",
+    "one-pot",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "xtra-lazy-irish-beef-brisket-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-lazy-irish-beef-brisket-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:10:27Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "beef brisket",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef brisket",
+    "descriptor": "Xtra lazy",
+    "dishForm": "Stew"
+  }
+}
