@@ -1,0 +1,115 @@
+{
+  "title": "xeriscape-style moroccan tomato tagine",
+  "description": "a keto-friendly, crowd-pleasing moroccan dish featuring tomato ketchup and a flavorful blend of spices.",
+  "cuisine": "moroccan",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt block",
+      "amount": "1",
+      "notes": "for cooking and serving"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "1/2 cup",
+      "notes": "replaces traditional tomato paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for coating the salt block"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium size"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "add to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in the salt block over medium heat.",
+    "add the onion and cook until softened, about 5 minutes.",
+    "add the garlic, ginger, cumin, coriander, and cayenne pepper (if using).",
+    "cook for 1 minute, stirring constantly.",
+    "add the tomato ketchup and stir to combine.",
+    "bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "brush the salt block with water to prevent sticking.",
+    "wrap the salt block in a clean towel and place it in a large steamer basket.",
+    "steam the mixture over boiling water for 10-12 minutes, or until the flavors have melded together and the sauce has thickened.",
+    "garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "xeriscape-style-moroccan-tomato-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-style-moroccan-tomato-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:20:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Xeriscape-Style",
+    "dishForm": "Tagine"
+  }
+}
