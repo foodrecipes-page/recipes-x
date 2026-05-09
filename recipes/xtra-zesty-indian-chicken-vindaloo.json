@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Zesty Indian Chicken Vindaloo",
+  "description": "A citrusy and snappy Indian dish featuring orange and fermented flavors, perfect for a weeknight dinner",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken in a mixture of orange juice, apple cider vinegar, garam masala, cayenne pepper, salt, and black pepper for at least 30 minutes",
+    "Heat the ghee in a large skillet over medium-high heat",
+    "Add the chopped onion to the skillet and cook until it is lightly browned",
+    "Add the minced garlic to the skillet and cook for an additional minute",
+    "Add the marinated chicken to the skillet and cook until it is browned on all sides and cooked through",
+    "Reduce the heat to medium-low and simmer the vindaloo for 10 minutes",
+    "Serve the vindaloo hot over basmati rice or with naan bread",
+    "Refrigerate or freeze the vindaloo for up to 3 days for meal prep"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "indian-cuisine",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-zesty-indian-chicken-vindaloo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-zesty-indian-chicken-vindaloo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:59:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "orange",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Zesty",
+    "dishForm": "Vindaloo"
+  }
+}
