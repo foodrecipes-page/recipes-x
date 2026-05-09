@@ -5209,6 +5209,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-fluffy-algerian-almond-tagine",
+    "title": "Xtra Fluffy Algerian Almond Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "fluffy",
+      "jain-friendly",
+      "jammy",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fluffy-algerian-beans-tagine",
     "title": "Xtra Fluffy Algerian Beans Tagine",
     "tags": [

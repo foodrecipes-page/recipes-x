@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Fluffy Algerian Almond Tagine",
+  "description": "A jammy and fluffy solo dinner dish from Algeria featuring flaked almonds, cooked in a ttukbaegi earthenware pot, suitable for Jain friendly diet.",
+  "cuisine": "Algerian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaked Almonds",
+      "amount": "1 cup",
+      "notes": "freshly flaked"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the ttukbaegi earthenware pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cumin powder, coriander powder, and salt, and cook for 1 minute.",
+    "Add the flaked almonds and cook for 2 minutes, stirring constantly.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir the tagine and cook for an additional 5 minutes, or until the liquid has thickened and the almonds are fluffy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "fluffy",
+    "jain-friendly",
+    "jammy",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-fluffy-algerian-almond-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-algerian-almond-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:01:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "flaked almonds",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "almonds",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Tagine"
+  }
+}
