@@ -1,0 +1,88 @@
+{
+  "title": "xtra-Energizing German Soybean-Sprout-Kongnamul Pilaf",
+  "description": "A diabetic-friendly, high-protein German dish featuring soybean sprouts, kongnamul, and shio-cure, perfect for breakfast or lunch.",
+  "cuisine": "german",
+  "diet": [
+    "diabetic",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sushi-grade shio-cured salmon fillet",
+      "amount": "120g"
+    },
+    {
+      "name": "soybean sprouts",
+      "amount": "200g"
+    },
+    {
+      "name": "kongnamul (korean mung bean sprouts)",
+      "amount": "150g"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "finely chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, melt the unsalted butter over medium heat.",
+    "Add the chopped scallions and cook until softened, about 3 minutes.",
+    "Add the soybean sprouts and kongnamul; cook for 4 minutes, stirring occasionally.",
+    "Stir in the quinoa and cook for 1 minute.",
+    "Add the shio-cured salmon fillet, breaking it up with a spoon as it cooks.",
+    "Pour in the unsweetened almond milk and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 15 minutes or until the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "diabetic-friendly",
+    "energizing",
+    "german",
+    "high-protein",
+    "lunch",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-energizing-german-soybean-sprout-kongnamul-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-energizing-german-soybean-sprout-kongnamul-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:43:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "shio-cure",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "soybean-sprout-kongnamul",
+    "descriptor": "xtra-Energizing",
+    "dishForm": "Pilaf"
+  }
+}
