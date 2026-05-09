@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Spicy Ukrainian Chicken Kebabs",
+  "description": "A spicy and juicy Ukrainian dish featuring sweet smoked paprika and yuzu-cure, perfect for a light and flavorful meal. This halal-friendly recipe is great for anyone looking for a taste of Eastern European cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sweet smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the chicken pieces onto skewers, leaving a little space between each piece.",
+    "In a large bowl, whisk together the sweet smoked paprika, yuzu juice, garlic, olive oil, salt, black pepper, and cayenne pepper.",
+    "Add the chicken skewers to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Grill the chicken skewers for 8-10 minutes, turning occasionally, until they are cooked through and slightly charred.",
+    "Let the chicken rest for a few minutes before serving.",
+    "Serve the chicken skewers hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "flavorful-meal",
+    "grilled-chicken",
+    "halal-recipes",
+    "spicy-food",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "xtra-spicy-ukrainian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-ukrainian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:22:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Kebabs"
+  }
+}
