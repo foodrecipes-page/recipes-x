@@ -7930,6 +7930,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-rich-turkish-lamb-stew",
+    "title": "Xtra Rich Turkish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 110,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-roasted-algerian-chicken-tagine",
     "title": "Xtra Roasted Algerian Chicken Tagine",
     "tags": [

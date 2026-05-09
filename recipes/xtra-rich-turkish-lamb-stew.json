@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Rich Turkish Lamb Stew",
+  "description": "A rich and juicy Turkish stew featuring lamb, semi-skimmed milk, and a blend of spices, perfect for a hangover cure. This macrobiotic-friendly dish is made with brine-dry ingredients for added flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "semi-skimmed milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is softened and translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb cubes and cook until they are browned on all sides.",
+    "Add the paprika, salt, black pepper, and dried thyme, and stir to combine.",
+    "Pour in the semi-skimmed milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew cook, covered, for 1 1/2 hours.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "xtra-rich-turkish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-turkish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:24:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Rich",
+    "dishForm": "Stew"
+  }
+}
