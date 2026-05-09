@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Flaky Syrian Lamb Flatbread",
+  "description": "A classic Syrian flatbread filled with lamb, topped with a sweet and tangy rasberry jam, all wrapped up in a crispy and flaky pastry. Perfect for a lazy Sunday meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups",
+      "notes": "For the pastry dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Raspberry Jam",
+      "amount": "1/4 cup",
+      "notes": "For topping"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing pastry"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For pastry dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine lamb, salt, and black pepper. Mix well.",
+    "Roll out the pastry dough on a floured surface to a thickness of 1/8 inch.",
+    "Place the lamb mixture onto one half of the pastry dough, leaving a 1/2 inch border.",
+    "Brush the edges of the pastry with coconut oil.",
+    "Fold the other half of the pastry dough over the lamb mixture, pressing the edges to seal.",
+    "Place the flatbread on a baking sheet lined with parchment paper.",
+    "Brush the top of the flatbread with coconut oil.",
+    "Bake for 25 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Spread the raspberry jam on top of the flatbread.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "flatbread",
+    "high-protein",
+    "lamb-lovers",
+    "one-pan",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "xtra-flaky-syrian-lamb-flatbread",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-syrian-lamb-flatbread",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:48:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "raspberry jam",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Flatbread"
+  }
+}
