@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Tender Tuscan Pork Skillet",
+  "description": "Savory and tender Italian dish featuring pork, vegetables, and a hint of sweetness, all cooked in one pot. This Whole30-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pork pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and zucchini to the skillet and cook until they start to soften, about 4 minutes.",
+    "Add the tomato paste, powdered sugar, salt, and black pepper to the skillet and stir to combine.",
+    "Return the pork to the skillet and stir to coat with the sauce.",
+    "Reduce heat to medium-low and simmer, covered, until the pork is tender and the sauce has thickened, about 15 minutes.",
+    "Use a spoon to shape the pork and vegetables into nigiri-like shapes and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian-cuisine",
+    "one-pot",
+    "pork-recipes",
+    "weeknight-dinner",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-tender-tuscan-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tender-tuscan-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:14:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "powdered sugar",
+    "diet": "whole30",
+    "region": "tuscan",
+    "cuisineAdjective": "Tuscan",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra tender",
+    "dishForm": "Skillet"
+  }
+}
