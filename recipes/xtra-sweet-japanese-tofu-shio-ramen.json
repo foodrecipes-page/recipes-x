@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Sweet Japanese Tofu Shio Ramen",
+  "description": "A sweet and savory Japanese ramen dish featuring marinated tofu and a rich shio broth, perfect for a solo dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "shio broth mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 package",
+      "notes": "ramen noodles"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the shio broth mix and water to the pot, whisking to combine.",
+    "Bring the broth to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "While the broth is simmering, cook the ramen noodles according to the package instructions.",
+    "In a small bowl, whisk together the marinade ingredients and add the cubed tofu, letting it marinate for at least 5 minutes.",
+    "Add the marinated tofu to the broth and cook for an additional 2 minutes.",
+    "To serve, place some noodles in a bowl, ladle the hot broth and tofu over the top, and garnish with green onions and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "noodle-soup",
+    "one-pot",
+    "vegetarian-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-sweet-japanese-tofu-shio-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sweet-japanese-tofu-shio-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:28:02Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "tadka",
+    "primaryIngredient": "marinated tofu",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Xtra Sweet",
+    "dishForm": "Shio Ramen"
+  }
+}

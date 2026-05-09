@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Crispy Malaysian Vegetable Noodles",
+  "description": "A crispy and savory Malaysian dish featuring a variety of vegetables and noodles, perfect for a weeknight dinner. This shojin-friendly recipe uses fast action yeast and a brine-dry method to create a deliciously crispy texture.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brine solution",
+      "amount": "1 cup",
+      "notes": "1/4 cup salt, 1/4 cup sugar, 1 cup water"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the thinly sliced onion and cook until it is lightly browned and crispy.",
+    "Add the grated carrots and shredded cabbage to the skillet and cook until they are tender.",
+    "In a small bowl, mix the fast action yeast with the brine solution and let it sit for 5 minutes.",
+    "Add the yeast mixture to the skillet and stir to combine.",
+    "Add the cooked rice noodles to the skillet and stir to combine with the vegetables and yeast mixture.",
+    "Season the noodles with soy sauce and stir to combine.",
+    "Transfer the noodles to a serving platter and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "malaysian",
+    "noodles",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "xtra-crispy-malaysian-vegetable-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-malaysian-vegetable-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:27:56Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "fast action yeast",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Noodles"
+  }
+}

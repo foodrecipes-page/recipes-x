@@ -4276,6 +4276,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-malaysian-vegetable-noodles",
+    "title": "Xtra Crispy Malaysian Vegetable Noodles",
+    "tags": [
+      "crispy",
+      "malaysian",
+      "noodles",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-mediterranean-fish-fillet-skewers",
     "title": "Xtra Crispy Mediterranean Fish Fillet Skewers",
     "tags": [
@@ -8359,6 +8374,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 75,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-sweet-japanese-tofu-shio-ramen",
+    "title": "Xtra Sweet Japanese Tofu Shio Ramen",
+    "tags": [
+      "japanese-cuisine",
+      "noodle-soup",
+      "one-pot",
+      "vegetarian-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
