@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Gooey Dutch Coconut Bake",
+  "description": "A traditional Dutch dessert featuring desiccated coconut and a gooey center, perfect for a sick day, baked to perfection in a wood-fired oven. This dish is free from onions and garlic, making it suitable for those with sensitivities.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "desiccated coconut",
+      "amount": "1 1/2 cups",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, brown sugar, and salt.",
+    "Add the melted butter, eggs, milk, and vanilla extract to the bowl and mix until a smooth batter forms.",
+    "Stir in the desiccated coconut.",
+    "Pour the batter into a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are set and the center is still slightly gooey.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm, topped with additional desiccated coconut if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-bake",
+    "dutch-dessert",
+    "gooey-center",
+    "no-onion-no-garlic",
+    "sick-day-treat",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "xtra-gooey-dutch-coconut-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-gooey-dutch-coconut-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:45:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "coconut",
+    "descriptor": "Xtra Gooey",
+    "dishForm": "Bake"
+  }
+}
