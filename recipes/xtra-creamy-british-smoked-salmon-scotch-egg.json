@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Creamy British Smoked Salmon Scotch Egg",
+  "description": "A rich and creamy twist on the classic Scotch egg, featuring smoked salmon and a satvik-friendly reduction, perfect for a midnight craving. This dish is a fatty and indulgent treat from Yorkshire.",
+  "cuisine": "British",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "120g",
+      "notes": "flaked"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "hard-boiled and peeled"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "80g",
+      "notes": "softened"
+    },
+    {
+      "name": "chives",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "Mix the cream cheese, chives, lemon juice, salt, and black pepper in a bowl until well combined.",
+    "Wrap each hard-boiled egg in a layer of the cream cheese mixture, then a layer of flaked smoked salmon.",
+    "Place the wrapped eggs on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the eggs.",
+    "Bake the eggs in the preheated oven for 12 minutes.",
+    "Remove the eggs from the oven and let them cool for 5 minutes.",
+    "Serve the Xtra Creamy British Smoked Salmon Scotch Eggs warm.",
+    "Garnish with additional chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classic",
+    "high-protein",
+    "indulgent",
+    "midnight-craving",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-creamy-british-smoked-salmon-scotch-egg",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-british-smoked-salmon-scotch-egg",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:01:20Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "smoked salmon",
+    "diet": "satvik",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "Xtra Creamy",
+    "dishForm": "Scotch Egg"
+  }
+}
