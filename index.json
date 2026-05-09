@@ -8728,6 +8728,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-british-fish-skewers",
+    "title": "Xtra Spicy British Fish Skewers",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "romantic",
+      "seafood",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 32,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-french-tofu-curry",
     "title": "Xtra Spicy French Tofu Curry",
     "tags": [

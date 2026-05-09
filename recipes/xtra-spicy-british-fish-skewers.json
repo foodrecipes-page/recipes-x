@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Spicy British Fish Skewers",
+  "description": "A pungent and romantic Cornish dish featuring chilli powder, perfect for a special occasion, made with dehydrated ingredients and no onion or garlic",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "500g",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dehydrated parsley",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius",
+    "In a large bowl, mix together chilli powder, lemon juice, olive oil, salt, black pepper, and paprika",
+    "Add the cod pieces to the bowl and toss to coat with the marinade",
+    "Thread the marinated cod pieces onto skewers",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Bake the skewers in the preheated oven for 12 minutes",
+    "Sprinkle the dehydrated parsley over the skewers",
+    "Serve the skewers in a bento box",
+    "Garnish with lemon wedges"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "xtra-spicy-british-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-british-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:18:46Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "dehydrate",
+    "primaryIngredient": "chilli powder",
+    "diet": "no-onion-no-garlic",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra spicy",
+    "dishForm": "Skewers"
+  }
+}
