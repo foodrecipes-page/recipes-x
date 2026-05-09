@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Sour Tunisian Lamb Tagine",
+  "description": "A sour and savory Tunisian dish featuring lamb, whipping cream, and a blend of spices, perfect for a weeknight dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "whipping cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a small bowl, whisk together the whipping cream, lemon juice, paprika, cumin, cayenne pepper, salt, and black pepper.",
+    "Pour the cream mixture over the lamb and onion mixture, and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the lamb is tender, about 1 1/2 hours.",
+    "Use an immersion blender to emulsify the sauce, or allow it to cool and emulsify in a blender.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "lamb-based",
+    "north-african",
+    "one-pot",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-sour-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sour-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:25:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "emulsify",
+    "primaryIngredient": "whipping cream",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Sour",
+    "dishForm": "Tagine"
+  }
+}
