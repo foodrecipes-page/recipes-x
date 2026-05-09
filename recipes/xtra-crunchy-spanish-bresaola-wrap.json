@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Crunchy Spanish Bresaola Wrap",
+  "description": "A nutty and crumbly Spanish dish featuring bresaola, perfect for a sick day, wrapped in a ti leaf for a low fat friendly meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "8 slices",
+      "notes": "air dried beef"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Toast the almonds and pistachios in the oven for 5 minutes.",
+    "Let the nuts cool completely before chopping them into smaller pieces.",
+    "Lay a ti leaf flat on a cutting board and arrange 2 slices of bresaola in the center.",
+    "Sprinkle a quarter of the chopped nuts, a quarter of the crumbly manchego cheese, and a pinch of smoked paprika on top of the bresaola.",
+    "Drizzle a tablespoon of olive oil over the filling and season with salt.",
+    "Fold the ti leaf over the filling to create a wrap and repeat with the remaining ingredients.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "easy-lunch",
+    "gluten-free",
+    "low-fat",
+    "nutty",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-crunchy-spanish-bresaola-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-spanish-bresaola-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:19:30Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "smoke-cold",
+    "primaryIngredient": "bresaola",
+    "diet": "low-fat",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "bresaola",
+    "descriptor": "xtra crunchy",
+    "dishForm": "Wrap"
+  }
+}
