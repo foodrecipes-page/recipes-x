@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Citrusy Japanese Matcha Onigiri",
+  "description": "A citrusy and aerated solo dinner Japanese dish featuring matcha, with a shio-koji cure and egg-free friendly ingredients, formed into onigiri.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "2 cups",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "noru sheets",
+      "amount": "4-6 sheets"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese short grain rice thoroughly and cook according to the package instructions.",
+    "In a small bowl, whisk together the matcha powder, shio-koji, yuzu juice, salt, and sugar until well combined.",
+    "Once the rice is cooked, allow it to cool down to room temperature.",
+    "Mix the matcha mixture into the cooled rice and stir until the rice is evenly coated.",
+    "Prepare a small bowl of water for dampening your hands.",
+    "Dampen your hands with water and shape the rice mixture into small triangular onigiri shapes.",
+    "Wrap each onigiri with a noru sheet, if desired.",
+    "Serve the Xtra Citrusy Japanese Matcha Onigiri at room temperature.",
+    "Store any leftovers in an airtight container in the refrigerator for up to a day."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy-flavors",
+    "egg-free",
+    "japanese-cuisine",
+    "matcha-lover",
+    "onigiri-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 2
+  },
+  "slug": "xtra-citrusy-japanese-matcha-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-citrusy-japanese-matcha-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:06:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "matcha",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "matcha",
+    "descriptor": "Xtra Citrusy",
+    "dishForm": "Onigiri"
+  }
+}
