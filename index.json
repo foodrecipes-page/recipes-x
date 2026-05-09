@@ -1139,6 +1139,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-hearty-portuguese-beef-stew",
+    "title": "Xenial Hearty Portuguese Beef Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-stew",
+      "one-pot",
+      "portuguese-cuisine"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-hearty-russian-mushroom-pilaf",
     "title": "Xenial Hearty Russian Mushroom Pilaf",
     "tags": [
