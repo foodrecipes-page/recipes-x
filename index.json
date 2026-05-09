@@ -1390,6 +1390,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-light-turkish-lamb-pide",
+    "title": "Xenial Light Turkish Lamb Pide",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "lamb-recipes",
+      "pide-bread",
+      "red-curry-paste",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-malaysian-beef-stew",
     "title": "Xenial Malaysian Beef Stew",
     "tags": [

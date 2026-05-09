@@ -1,0 +1,97 @@
+{
+  "title": "Xenial Light Turkish Lamb Pide",
+  "description": "A peppery and light Turkish dish featuring red curry paste and nimono simmer, perfect for a nostalgic meal, this diabetic-friendly pide is a must try.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pide bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground lamb and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Stir in the red curry paste and cook for 1 minute.",
+    "Season the lamb mixture with black pepper.",
+    "Place the pide bread on a baking sheet and top each piece with the lamb mixture and crumbled feta cheese.",
+    "Bake the pides in the preheated oven for 15 minutes, or until the bread is crispy and the cheese is melted.",
+    "Remove the pides from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "lamb-recipes",
+    "pide-bread",
+    "red-curry-paste",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xenial-light-turkish-lamb-pide",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-light-turkish-lamb-pide",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:18:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "nostalgic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Xenial Light",
+    "dishForm": "Pide"
+  }
+}
