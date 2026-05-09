@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Spicy Jamaican Chicken Wrap",
+  "description": "A pungent and snappy post-workout Jamaican dish featuring pecorino and ssam-wrap style, friendly to Buddhist temple dietary preferences",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "pecorino cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces",
+      "notes": "large"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2 peppers",
+      "notes": " seeded and chopped"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat",
+    "In a bowl, whisk together jerk seasoning, olive oil, lime juice, salt, and black pepper",
+    "Add the chicken to the bowl and toss to coat with the jerk marinade",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20 seconds",
+    "Assemble the wraps by slicing the grilled chicken and placing it onto a ssam wrap",
+    "Top the chicken with crumbled pecorino cheese, chopped scotch bonnet peppers, and any additional jerk seasoning",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "post-workout",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "xtra-spicy-jamaican-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-jamaican-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:44:16Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "pecorino",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra spicy",
+    "dishForm": "Wrap"
+  }
+}
