@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Special British Monkfish Yorkshire Pudding",
+  "description": "A salty, springy, and cozy British dish featuring monkfish, this recipe is a twist on the classic Yorkshire pudding, with a diabetic-friendly spin.",
+  "cuisine": "British",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, eggs, milk, salt, and pepper.",
+    "Add the monkfish pieces to the bowl and stir to coat with the batter.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the namul to the skillet and cook for 2-3 minutes, until lightly browned.",
+    "Pour the batter into a greased 12-cup Yorkshire pudding pan.",
+    "Add the cooked namul and monkfish to the batter and stir gently.",
+    "Bake the Yorkshire pudding for 20-25 minutes, until puffed and golden brown.",
+    "Remove the pudding from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "diabetic-friendly",
+    "low-carb",
+    "seafood-lovers",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "xtra-special-british-monkfish-yorkshire-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-special-british-monkfish-yorkshire-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:42:05Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "monkfish",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "monkfish",
+    "descriptor": "Xtra Special",
+    "dishForm": "Yorkshire Pudding"
+  }
+}

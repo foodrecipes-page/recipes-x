@@ -3729,6 +3729,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crisp-korean-mulukhiyah-jeon",
+    "title": "Xtra Crisp Korean Mulukhiyah Jeon",
+    "tags": [
+      "clay-pot",
+      "crispy",
+      "gluten-free",
+      "jeon",
+      "korean-food",
+      "mulukhiyah"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crisp-mexican-ground-beef-fajitas",
     "title": "Xtra Crisp Mexican Ground Beef Fajitas",
     "tags": [
@@ -7466,6 +7481,21 @@
       "weeknight"
     ],
     "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-special-british-monkfish-yorkshire-pudding",
+    "title": "Xtra Special British Monkfish Yorkshire Pudding",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "diabetic-friendly",
+      "low-carb",
+      "seafood-lovers",
+      "special-occasion"
+    ],
+    "cuisine": "British",
     "totalTimeMin": 45,
     "shard": "x"
   },

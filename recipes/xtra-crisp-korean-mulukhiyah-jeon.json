@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Crisp Korean Mulukhiyah Jeon",
+  "description": "A traditional Korean dish from the Chungcheong region, Mulukhiyah Jeon is a crispy and cozy jeon featuring mulukhiyah, cooked to perfection in a clay pot, this gluten-free friendly recipe is sure to delight. It has a distinct bitter flavor balanced by the crunch of the jeon.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mulukhiyah leaves",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice flour, cornstarch, salt, and black pepper.",
+    "Add the eggs to the bowl and mix until a smooth batter forms.",
+    "Stir in the minced garlic and sesame oil.",
+    "Gradually add the mulukhiyah leaves to the batter and mix until they are evenly coated.",
+    "Heat the vegetable oil in a clay pot over medium heat.",
+    "Using a spoon, drop small amounts of the mulukhiyah batter into the oil and flatten them slightly.",
+    "Cook the jeon for 3-4 minutes on each side, until they are crispy and golden brown.",
+    "Remove the jeon from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the Xtra Crisp Korean Mulukhiyah Jeon hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "crispy",
+    "gluten-free",
+    "jeon",
+    "korean-food",
+    "mulukhiyah"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "xtra-crisp-korean-mulukhiyah-jeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-korean-mulukhiyah-jeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:42:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "gluten-free",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Jeon"
+  }
+}
