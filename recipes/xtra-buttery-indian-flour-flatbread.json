@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Buttery Indian Flour Flatbread",
+  "description": "A buttery and snappy Indian flatbread made with strong white flour, perfect for crowds, this dish is ayurvedic-rajasic-friendly and delicious, featuring a rich and savory flavor profile.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Strong white flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ghee or unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Luke warm water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, sugar, and yeast.",
+    "Gradually add the melted ghee or butter and lukewarm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or tava over medium heat.",
+    "Divide the dough into 6-8 equal portions and roll each portion into a ball.",
+    "Roll out each ball into a thin circle, about 6-7 inches in diameter.",
+    "Place a flatbread in the skillet and cook for 1-2 minutes, until it starts to puff up and the edges start to curl.",
+    "Brush the flatbread with butter and flip it over, cooking for another 1-2 minutes, until it is golden brown and crispy.",
+    "Repeat the process with the remaining dough portions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "crowd-pleaser",
+    "flatbread",
+    "homemade",
+    "indian-food",
+    "snappy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "xtra-buttery-indian-flour-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-indian-flour-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:14:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "strong white flour",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "flour",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Flatbread"
+  }
+}

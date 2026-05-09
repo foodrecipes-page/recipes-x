@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Smoky Greek Cabbage Dolmades",
+  "description": "A smoky and savory Greek dish featuring cabbage leaves stuffed with a mix of cheese, spices, and smoked ingredients, perfect for a date night, and halal-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage leaves",
+      "amount": "20",
+      "notes": "fresh"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and blanch the cabbage leaves for 30 seconds to make them pliable.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "In a large bowl, combine the cooked onion and garlic, feta cheese, smoked paprika, salt, black pepper, and dried dill weed, and mix well.",
+    "To assemble the dolmades, lay a cabbage leaf flat and place a tablespoon of the cheese mixture in the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining cabbage leaves and filling.",
+    "In a large saucepan, combine the dolmades, seam-side down, in a single layer, and add enough water to cover them.",
+    "Bring the water to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve the dolmades hot, with a squeeze of lemon juice and a sprinkle of smoked paprika."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "cheesy",
+    "date-night",
+    "greek",
+    "halal",
+    "smoked",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "xtra-smoky-greek-cabbage-dolmades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-greek-cabbage-dolmades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:13:52Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "smoke",
+    "primaryIngredient": "cabbage",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cabbage",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Dolmades"
+  }
+}

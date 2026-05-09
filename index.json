@@ -2928,6 +2928,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-buttery-indian-flour-flatbread",
+    "title": "Xtra Buttery Indian Flour Flatbread",
+    "tags": [
+      "buttery",
+      "crowd-pleaser",
+      "flatbread",
+      "homemade",
+      "indian-food",
+      "snappy",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-buttery-indian-sesame-naan",
     "title": "Xtra Buttery Indian Sesame Naan",
     "tags": [
@@ -7520,6 +7536,22 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-smoky-greek-cabbage-dolmades",
+    "title": "Xtra Smoky Greek Cabbage Dolmades",
+    "tags": [
+      "cabbage",
+      "cheesy",
+      "date-night",
+      "greek",
+      "halal",
+      "smoked",
+      "smoky"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 70,
     "shard": "x"
   },
   {
