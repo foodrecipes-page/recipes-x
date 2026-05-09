@@ -7351,6 +7351,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-australian-beef-casserole",
+    "title": "Xtra Spicy Australian Beef Casserole",
+    "tags": [
+      "australian-cuisine",
+      "beef-recipes",
+      "casserole-dishes",
+      "gluten-free",
+      "keto-friendly",
+      "spicy-food"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-french-tofu-curry",
     "title": "Xtra Spicy French Tofu Curry",
     "tags": [

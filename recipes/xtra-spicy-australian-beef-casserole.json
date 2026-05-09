@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Spicy Australian Beef Casserole",
+  "description": "A spicy and aerated Australian dish featuring grana-padano, perfect for a keto-friendly dinner, this slow-cook casserole is kid-friendly and packed with flavor. It combines the richness of beef with the tang of cheese and the heat of spices.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grana-padano cheese",
+      "amount": "1 cup shredded",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large diced"
+    },
+    {
+      "name": "Jalapeno pepper",
+      "amount": "2 medium diced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 can 14.5 oz"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spicy beef seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "Shredded mozzarella",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it into small pieces as it cooks.",
+    "Add the diced onion, bell pepper, and jalapeno to the skillet and cook until the vegetables are tender.",
+    "Stir in the tomato sauce, beef broth, and spicy beef seasoning, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook while preparing the cheese mixture.",
+    "In a large bowl, whisk together the shredded grana-padano cheese and eggs until well combined.",
+    "Add the cooked beef mixture to the cheese mixture and stir until the cheese is well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with shredded mozzarella cheese.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "beef-recipes",
+    "casserole-dishes",
+    "gluten-free",
+    "keto-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "xtra-spicy-australian-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-australian-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:59:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "slow-cook",
+    "primaryIngredient": "grana-padano",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Casserole"
+  }
+}
