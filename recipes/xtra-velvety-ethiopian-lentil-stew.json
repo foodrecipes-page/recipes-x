@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Velvety Ethiopian Lentil Stew",
+  "description": "A hearty and earthy Ethiopian lentil stew with a velvety texture, featuring cornstarch and al-dente finish, perfect for a crowd, this macrobiotic-friendly dish is sure to please. It is made with red lentils and a blend of aromatic spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, saute the onion, garlic, and ginger in a little water until the onion is translucent.",
+    "Add the lentils, vegetable broth, berbere spice, and salt to the pot.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 20 minutes.",
+    "Stir in the cornstarch to thicken the stew.",
+    "Continue to simmer for another 10 minutes, or until the lentils are al-dente.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Let the stew cool, then refrigerate or freeze for later use.",
+    "Reheat the stew gently, whisking constantly, until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "lentil-stew",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-velvety-ethiopian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-velvety-ethiopian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:52:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cornstarch",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Xtra Velvety",
+    "dishForm": "Stew"
+  }
+}
