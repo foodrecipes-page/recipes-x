@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Shaggy Mexican Poppy Horchata",
+  "description": "A unique, briny twist on traditional horchata featuring ground poppy seeds and a wood-fired bake. Perfect for a quick weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground poppy seeds",
+      "amount": "",
+      "notes": "1 cup"
+    },
+    {
+      "name": "Canned evaporated milk",
+      "amount": "",
+      "notes": "1 can (12 fl oz)"
+    },
+    {
+      "name": "Water",
+      "amount": "",
+      "notes": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "",
+      "notes": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": "1/4 cup chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "",
+      "notes": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 400°F (200°C).",
+    "In a blender, combine the ground poppy seeds, evaporated milk, water, salt, smoked paprika, and garlic powder. Blend until smooth.",
+    "Strain the mixture into a large bowl to remove any pulp or sediment.",
+    "Add the chopped cilantro and lime juice to the bowl and stir to combine.",
+    "Pour the mixture into 4-6 small baking dishes or ramekins.",
+    "Bake in the wood-fired oven for 25-30 minutes, or until the tops are lightly browned and set.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve warm, garnished with additional cilantro if desired.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "To serve, stir the horchata well and pour into glasses or cups."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "horchata",
+    "mexican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-shaggy-mexican-poppy-horchata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-shaggy-mexican-poppy-horchata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:15:33Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poppy",
+    "descriptor": "Xtra Shaggy",
+    "dishForm": "Horchata"
+  }
+}
