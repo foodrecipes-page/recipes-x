@@ -4717,6 +4717,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-flaky-british-broad-beans-pie",
+    "title": "Xtra Flaky British Broad Beans Pie",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "flaky-pastry",
+      "high-protein",
+      "paleo-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-flaky-british-lentil-pasties",
     "title": "Xtra Flaky British Lentil Pasties",
     "tags": [

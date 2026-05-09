@@ -1,0 +1,89 @@
+{
+  "title": "Xtra Flaky British Broad Beans Pie",
+  "description": "A traditional British dish featuring broad beans in a flaky pastry crust, perfect for a paleo-friendly meal. This pie is made with fatty and energizing ingredients to keep you satisfied.",
+  "cuisine": "British",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lard",
+      "amount": "1/2 cup",
+      "notes": "or other paleo-friendly fat"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, mix together the broad beans, salt, and black pepper.",
+    "In a separate bowl, whisk together the eggs and lard.",
+    "Add the almond flour to the egg mixture and stir until a dough forms.",
+    "Roll out the dough and place it in a pie dish.",
+    "Fill the pie crust with the broad bean mixture.",
+    "Roll out the remaining dough and use it to cover the pie.",
+    "Crimp the edges to seal the pie.",
+    "Cut a few slits in the top of the pie to allow steam to escape.",
+    "Bake the pie for 40 minutes or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "flaky-pastry",
+    "high-protein",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "xtra-flaky-british-broad-beans-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-british-broad-beans-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:25:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "brine-dry",
+    "primaryIngredient": "broad beans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "broad beans",
+    "descriptor": "Xtra flaky",
+    "dishForm": "Pie"
+  }
+}
