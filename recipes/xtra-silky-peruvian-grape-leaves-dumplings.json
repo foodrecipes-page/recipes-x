@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Silky Peruvian Grape Leaves Dumplings",
+  "description": "A winey, silky, and savory Peruvian dish featuring grape leaves, perfect for midnight cravings, made diabetic-friendly with careful ingredient selection. This recipe is a unique twist on traditional Peruvian cuisine.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grape leaves",
+      "amount": "20 large leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Rinse the grape leaves and remove the stems, then set them aside.",
+    "In a large mortar, pound the chopped onion and minced garlic until well combined.",
+    "Add the ground beef to the mortar and pound until just combined, being careful not to overwork the meat.",
+    "Stir in the white wine, olive oil, salt, black pepper, and tomato paste.",
+    "Lay a grape leaf flat on a work surface, with the stem end facing you, and place about 1 tablespoon of the meat mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package, repeating with the remaining leaves and filling.",
+    "In a large pot, combine the chicken broth and the rolled grape leaves, then bring to a boil over high heat.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the grape leaves are tender and the filling is cooked through.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "dumplings",
+    "gluten-free",
+    "peruvian-cuisine",
+    "snack-ideas",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "xtra-silky-peruvian-grape-leaves-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-peruvian-grape-leaves-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:35:20Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "grape leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "grape leaves",
+    "descriptor": "Xtra silky",
+    "dishForm": "Dumplings"
+  }
+}
