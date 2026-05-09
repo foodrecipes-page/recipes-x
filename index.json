@@ -4826,6 +4826,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crunchy-algerian-lamb-kebabs",
+    "title": "Xtra Crunchy Algerian Lamb Kebabs",
+    "tags": [
+      "algerian-cuisine",
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crunchy-australian-fish-skewers",
     "title": "Xtra Crunchy Australian Fish Skewers",
     "tags": [
