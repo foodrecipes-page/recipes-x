@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Peppery Syrian Fish Poke",
+  "description": "A peppery and aerated Syrian dish featuring sashimi-cut fish, perfect for a hangover cure, with a twist of rice krispies for added crunch, this dish is gluten-free friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sashimi grade fish",
+      "amount": "1 pound",
+      "notes": "Cut into small cubes"
+    },
+    {
+      "name": "Rice Krispies",
+      "amount": "1 cup",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Syrian pepper paste",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the sashimi grade fish by cutting it into small cubes and placing it in a large bowl.",
+    "In a small bowl, mix together the olive oil, lemon juice, salt, garlic, and Syrian pepper paste.",
+    "Pour the mixture over the fish and toss to coat.",
+    "Sprinkle the black pepper over the fish and toss again to combine.",
+    "In a separate bowl, crush the Rice Krispies into smaller pieces.",
+    "Add the crushed Rice Krispies to the fish mixture and toss gently to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the mixture a good stir and adjust the seasoning if needed.",
+    "Serve the Xtra Peppery Syrian Fish Poke chilled, garnished with additional black pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "no-cook",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "xtra-peppery-syrian-fish-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-peppery-syrian-fish-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:20:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "rice krispies",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra peppery",
+    "dishForm": "Poke"
+  }
+}
