@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Dense Ukrainian Beef Pilaf",
+  "description": "A buttery and dense Ukrainian dish featuring Thai red curry paste, perfect for meal prep. This nut-free-friendly recipe is cooked on a cedar plank.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees.",
+    "In a large bowl, mix together beef, curry paste, and butter until well combined.",
+    "Add onion and garlic to the bowl and mix until the onion is translucent.",
+    "Add rice, beef broth, salt, and pepper to the bowl and mix until the rice is well coated.",
+    "Transfer the mixture to a cedar plank and shape into a rectangular pilaf.",
+    "Bake the pilaf in the preheated oven for 45 minutes.",
+    "Remove the pilaf from the oven and let it rest for 10 minutes.",
+    "Slice the pilaf into individual portions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "xtra-dense-ukrainian-beef-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-dense-ukrainian-beef-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:23:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "boil",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Dense",
+    "dishForm": "Pilaf"
+  }
+}
