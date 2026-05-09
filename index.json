@@ -4248,6 +4248,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-german-pork-dumplings",
+    "title": "Xtra Crispy German Pork Dumplings",
+    "tags": [
+      "comfort-food",
+      "deep-fried",
+      "german-cuisine",
+      "gluten-free",
+      "pork-dishes"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-irish-potato-bake",
     "title": "Xtra Crispy Irish Potato Bake",
     "tags": [

@@ -1,0 +1,97 @@
+{
+  "title": "Xtra Crispy German Pork Dumplings",
+  "description": "A traditional German dish featuring charred and chewy pork dumplings, deep-fried to a crispy perfection, served as a hangover cure.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content"
+    },
+    {
+      "name": "Whole Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Gluten-Free All-Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "Combine ground pork, whole milk, chopped onion, minced garlic, gluten-free flour, egg, salt, and black pepper in a large mixing bowl.",
+    "Mix all the ingredients together until just combined, being careful not to overmix.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using wet hands, shape the pork mixture into small dumplings, about 1 1/2 inches in diameter.",
+    "Carefully add the dumplings to the hot oil and fry until they are golden brown and crispy, about 5 minutes on each side.",
+    "Remove the dumplings from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "deep-fried",
+    "german-cuisine",
+    "gluten-free",
+    "pork-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "xtra-crispy-german-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-german-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:51:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "whole milk",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Dumplings"
+  }
+}
