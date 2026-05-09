@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Roasted Algerian Chicken Tagine",
+  "description": "A romantic Algerian dish featuring roasted chicken, coconut flakes, and coconut cream, with anti-inflammatory friendly ingredients. This dish is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh, grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Rinse the chicken thighs and pat them dry with paper towels.",
+    "In a large bowl, mix together the coconut flakes, ginger, turmeric, cumin, cayenne pepper, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the chicken thighs to the skillet and sear for 5 minutes on each side.",
+    "Transfer the skillet to the preheated oven and roast for 30 minutes.",
+    "Remove the skillet from the oven and stir in the coconut cream.",
+    "Return the skillet to the oven and roast for an additional 10 minutes.",
+    "Remove the skillet from the oven and let the chicken rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "coconut-cream",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "roasted-chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-roasted-algerian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-roasted-algerian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:02:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "coconut flakes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Roasted",
+    "dishForm": "Tagine"
+  }
+}

@@ -6573,6 +6573,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-roasted-algerian-chicken-tagine",
+    "title": "Xtra Roasted Algerian Chicken Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "coconut-cream",
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "roasted-chicken"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-roasted-canadian-lentil-casserole",
     "title": "Xtra Roasted Canadian Lentil Casserole",
     "tags": [
