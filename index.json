@@ -100,6 +100,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-creamy-canadian-smoked-salmon-hash",
+    "title": "x-tra creamy canadian smoked salmon hash",
+    "tags": [
+      "breakfast",
+      "canadian",
+      "iron-teppan",
+      "one-pan",
+      "pescatarian",
+      "smoked-salmon"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-creamy-korean-chicken-pajeon-banchan",
     "title": "X-tra Creamy Korean Chicken Pajeon Banchan",
     "tags": [

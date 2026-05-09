@@ -1,0 +1,114 @@
+{
+  "title": "x-tra creamy canadian smoked salmon hash",
+  "description": "A delicious, spicy, and creamy lazy sunday dish featuring smoked salmon, miso-marinate, and iron teppan cooking.",
+  "cuisine": "canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "iron teppan",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "yukon gold potatoes",
+      "amount": "2 medium",
+      "notes": "peeled"
+    }
+  ],
+  "instructions": [
+    "Prepare the miso marinade by mixing together miso paste, brown sugar, soy sauce, ginger, and garlic in a small bowl.",
+    "Add the marinade to the pan over medium heat and cook for 2 minutes.",
+    "Add the smoked salmon to the pan and cook for 2 minutes on each side, or until it flakes easily with a fork.",
+    "Meanwhile, peel and dice the yukon gold potatoes and pan-fry them in a separate pan until golden brown.",
+    "Add the pan-fried potatoes to the teppan and mix with the smoked salmon and marinade.",
+    "Add the cream and sesame oil to the pan and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the hash to a serving plate and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "iron-teppan",
+    "one-pan",
+    "pescatarian",
+    "smoked-salmon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "x-tra-creamy-canadian-smoked-salmon-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-creamy-canadian-smoked-salmon-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "miso-marinate",
+    "primaryIngredient": "smoked salmon",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "x-tra Creamy",
+    "dishForm": "hash"
+  }
+}
