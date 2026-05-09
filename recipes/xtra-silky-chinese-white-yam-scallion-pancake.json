@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Silky Chinese White Yam Scallion Pancake",
+  "description": "A traditional Yunnan dish featuring white yam and scallions in a silky pancake, made with a deglaze-fond and served on a wooden board.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white yam",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated white yam, sliced scallions, flour, cornstarch, salt, and black pepper.",
+    "Gradually add in the vegetable oil and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin pancake.",
+    "Heat a non-stick pan over medium heat and add 1 tablespoon of vegetable oil.",
+    "Place a pancake in the pan and cook for 2 minutes on each side, until golden brown.",
+    "Repeat with the remaining dough.",
+    "To make the deglaze-fond, add 1 tablespoon of mustard to the pan and stir to combine with the remaining oil and browned bits.",
+    "Serve the pancakes on a wooden board, brushed with the deglaze-fond."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "silky-texture",
+    "snack-time",
+    "vegetarian",
+    "wooden-board",
+    "yunnan-specialty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "xtra-silky-chinese-white-yam-scallion-pancake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-chinese-white-yam-scallion-pancake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:38:40Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "white yam",
+    "diet": "kosher",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "white yam",
+    "descriptor": "Xtra Silky",
+    "dishForm": "Scallion Pancake"
+  }
+}
