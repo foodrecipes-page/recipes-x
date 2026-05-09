@@ -6255,6 +6255,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-juicy-jamaican-pork-pasta",
+    "title": "Xtra Juicy Jamaican Pork Pasta",
+    "tags": [
+      "jamaican-cuisine",
+      "kid-friendly",
+      "one-pan",
+      "pasta-dish",
+      "weeknight-meal"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-juicy-jamaican-pork-skewers",
     "title": "Xtra Juicy Jamaican Pork Skewers",
     "tags": [

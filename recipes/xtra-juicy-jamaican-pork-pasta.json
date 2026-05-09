@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Juicy Jamaican Pork Pasta",
+  "description": "A kid-friendly Jamaican dish featuring pappardelle pasta and score-fat pork, with a nutty and juicy flavor profile.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "wide flat noodles"
+    },
+    {
+      "name": "score-fat pork",
+      "amount": "1 lb",
+      "notes": "pork shoulder with fat layer"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat and sear the score-fat pork until browned on all sides.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the jamaican jerk seasoning, chicken broth, and brown sugar to the skillet and stir to combine.",
+    "Reduce heat to low and simmer the sauce for 10 minutes, stirring occasionally.",
+    "Add the cooked pappardelle pasta to the skillet and toss to coat with the sauce.",
+    "Serve the pasta hot, garnished with chopped fresh herbs if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-cuisine",
+    "kid-friendly",
+    "one-pan",
+    "pasta-dish",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xtra-juicy-jamaican-pork-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-jamaican-pork-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:18:03Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "score-fat",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Juicy",
+    "dishForm": "Pasta"
+  }
+}
