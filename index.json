@@ -3151,6 +3151,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-buttery-italian-scotch-bonnet-frittata",
+    "title": "Xtra Buttery Italian Scotch Bonnet Frittata",
+    "tags": [
+      "brunch-ideas",
+      "italian-cuisine",
+      "one-pan-meal",
+      "spicy-food",
+      "vegetarian-breakfast"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-buttery-peruvian-fish-fillet-lomo-saltado",
     "title": "Xtra Buttery Peruvian Fish Fillet Lomo Saltado",
     "tags": [
@@ -6867,6 +6881,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-light-argentinian-rice-casserole",
+    "title": "Xtra Light Argentinian Rice Casserole",
+    "tags": [
+      "buddhist-friendly",
+      "comfort-food",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {

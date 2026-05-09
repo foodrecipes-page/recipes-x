@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Buttery Italian Scotch Bonnet Frittata",
+  "description": "A rich and spicy Italian frittata featuring scotch bonnet peppers, perfect for a brunch mood, with a buttery and crumbly texture from the tadka and dash-friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the chopped scotch bonnet peppers and cook for 2 minutes, until fragrant.",
+    "In a large bowl, whisk together the eggs, grana padano cheese, italian seasoning, salt, and black pepper.",
+    "Pour the egg mixture over the cooked peppers in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes, until the edges are set.",
+    "Remove the skillet from the oven and top with cherry tomatoes.",
+    "Return the skillet to the oven and bake for an additional 5 minutes, until the tomatoes are tender.",
+    "Remove the skillet from the oven and let cool for 2 minutes.",
+    "Slice the frittata into wedges and serve hot, garnished with additional grana padano cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "italian-cuisine",
+    "one-pan-meal",
+    "spicy-food",
+    "vegetarian-breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "xtra-buttery-italian-scotch-bonnet-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-italian-scotch-bonnet-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:06:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "scotch bonnet peppers",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Frittata"
+  }
+}

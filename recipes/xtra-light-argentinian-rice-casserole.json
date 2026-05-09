@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Light Argentinian Rice Casserole",
+  "description": "A rich and light Argentinian dish featuring rice and crunchy elements, perfect for a hangover cure, and friendly to Buddhist temple dietary preferences. This casserole is encrouted with a crispy crust and features Rice Krispies for added crunch.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "3 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "argentinian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large skillet, heat the olive oil and saute the onion and garlic until softened.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "In a large bowl, combine the cooked rice, crushed Rice Krispies, and shredded cheese.",
+    "Add the cooked mushroom mixture to the bowl and stir to combine.",
+    "Roll out the puff pastry on a floured surface to a large rectangle.",
+    "Spoon the rice mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Brush the pastry with a little bit of water and cut a few slits in the top to allow steam to escape.",
+    "Place the casserole on a baking sheet and bake for 25-30 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "comfort-food",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-light-argentinian-rice-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-argentinian-rice-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:06:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "en-croute",
+    "primaryIngredient": "rice krispies",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "rice",
+    "descriptor": "Xtra Light",
+    "dishForm": "Casserole"
+  }
+}
