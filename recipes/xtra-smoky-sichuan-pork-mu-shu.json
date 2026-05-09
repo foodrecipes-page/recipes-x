@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Smoky Sichuan Pork Mu Shu",
+  "description": "A smoky, dense, one-pot Chinese Sichuan dish featuring shoyu-koji, marinate, and low-fat-friendly ingredients, served in mu-shu form.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mu-shu pancakes",
+      "amount": "8-10 pancakes"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the pork shoulder and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the toasted Sichuan peppercorns, smoked paprika, shoyu-koji, soy sauce, and rice vinegar, and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 10 minutes, stirring occasionally.",
+    "Stir in the chopped scallions and cook for an additional 2 minutes.",
+    "Warm the mu-shu pancakes by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the mu-shu by spooning the pork mixture onto a pancake and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "low-fat",
+    "mu-shu",
+    "one-pot",
+    "pork",
+    "sichuan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-smoky-sichuan-pork-mu-shu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-sichuan-pork-mu-shu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:41:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "marinate",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "low-fat",
+    "region": "sichuan",
+    "cuisineAdjective": "Sichuan",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Mu Shu"
+  }
+}
