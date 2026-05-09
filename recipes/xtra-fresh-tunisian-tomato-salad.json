@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Fresh Tunisian Tomato Salad",
+  "description": "A sour and bouncy Tunisian dish featuring fresh tomatoes, this salad is perfect for a light lunch, and is pescatarian friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "4 large",
+      "notes": "heirloom or beefsteak work well"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Tunisian Harissa",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and prepare an ice bath.",
+    "Cut an X in the bottom of each tomato and blanch them in the boiling water for 10 seconds.",
+    "Immediately transfer the tomatoes to the ice bath to stop the cooking process.",
+    "Once the tomatoes have cooled, peel and chop them into 1 inch pieces.",
+    "In a large bowl, combine the chopped tomatoes, sliced red onion, chopped capers, and chopped parsley.",
+    "In a small bowl, whisk together the lemon juice, olive oil, salt, and black pepper.",
+    "Pour the dressing over the tomato mixture and toss to combine.",
+    "If using harissa, stir it in just before serving.",
+    "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad cold, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "fresh",
+    "lunch",
+    "pescatarian",
+    "salad",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "xtra-fresh-tunisian-tomato-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fresh-tunisian-tomato-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:51:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "tomato",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tomato",
+    "descriptor": "xtra fresh",
+    "dishForm": "Salad"
+  }
+}

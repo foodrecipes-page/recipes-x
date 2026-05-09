@@ -6050,6 +6050,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-fresh-tunisian-tomato-salad",
+    "title": "Xtra Fresh Tunisian Tomato Salad",
+    "tags": [
+      "easy",
+      "fresh",
+      "lunch",
+      "pescatarian",
+      "salad",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-fresh-ukrainian-eggs-frittata",
     "title": "Xtra Fresh Ukrainian Eggs Frittata",
     "tags": [
