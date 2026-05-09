@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Crunchy Peruvian Potatoes Papa Rellena",
+  "description": "A malty, crunchy, romantic Peruvian dish featuring ice cream and nuka-pickle, this low-glycemic-friendly papa rellena is a unique dessert, with a crunchy outside and a creamy inside, perfect for a special occasion, the combination of flavors and textures will make it a memorable experience",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "high starch variety"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ice cream",
+      "amount": "1 pint",
+      "notes": "any flavor"
+    },
+    {
+      "name": "malt powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": "low-lactose variety"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Wash and peel the potatoes, then cut them into large chunks.",
+    "Boil the potatoes in salted water until they are slightly tender.",
+    "Drain the potatoes and let them cool.",
+    "In a bowl, mix together the chopped nuka-pickle, malt powder, and a pinch of salt and pepper.",
+    "Add the cooled potatoes to the bowl and mix until they are well coated with the nuka-pickle mixture.",
+    "Divide the potato mixture into 4 equal parts and shape each part into a ball.",
+    "Flatten each ball into a disk shape and make a hole in the center of each disk.",
+    "Fill each hole with a scoop of ice cream and top with a sprinkle of grated cheese.",
+    "Fold the potato disk over the filling to form a half-moon shape and press the edges together to seal.",
+    "Brush the tops of the papa rellena with coconut oil and bake for 20 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "dessert",
+    "gluten-free",
+    "low-glycemic",
+    "malty",
+    "peruvian-dish",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "xtra-crunchy-peruvian-potatoes-papa-rellena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-peruvian-potatoes-papa-rellena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:08:46Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "ice cream",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Papa Rellena"
+  }
+}
