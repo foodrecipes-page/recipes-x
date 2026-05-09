@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Silky Syrian Tomato Skillet",
+  "description": "A charred, silky, and flavorful Syrian dish featuring confit tomato and dashi, perfect for a keto-friendly brunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4 large",
+      "notes": "preferably heirloom"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the tomatoes and cook for 5 minutes until they start to char.",
+    "Add the dashi powder and cook for 1 minute until fragrant.",
+    "Create 4 wells in the skillet and crack an egg into each well.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the skillet to the preheated oven and bake for 12 minutes until the eggs are set.",
+    "Remove from the oven and top with crumbled feta cheese.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "keto-friendly",
+    "one-pan",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "xtra-silky-syrian-tomato-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-syrian-tomato-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:23:07Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "dashi",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "tomato",
+    "descriptor": "Xtra silky",
+    "dishForm": "Skillet"
+  }
+}

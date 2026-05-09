@@ -5456,6 +5456,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-gooey-mediterranean-shrimp-toast",
+    "title": "Xtra Gooey Mediterranean Shrimp Toast",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 22,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-gooey-turkish-taleggio-lahmacun",
     "title": "Xtra Gooey Turkish Taleggio Lahmacun",
     "tags": [
@@ -6864,6 +6879,20 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-syrian-tomato-skillet",
+    "title": "Xtra Silky Syrian Tomato Skillet",
+    "tags": [
+      "brunch-ideas",
+      "gluten-free",
+      "keto-friendly",
+      "one-pan",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
