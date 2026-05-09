@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Crispy Kenyan Challots Skewers",
+  "description": "A crispy and energizing Kenyan dish featuring challots, with an earthy flavor and a mother-sauce base, suitable for an ayurvedic rajasic diet",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "challots",
+      "amount": "1 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "including cumin and coriander"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1/2 cup",
+      "notes": "based on tomato puree"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the flour, cornstarch, and spices.",
+    "Add the chopped challots to the bowl and toss to coat with the flour mixture.",
+    "In a separate bowl, whisk together the mother sauce, olive oil, salt, black pepper, and lemon juice.",
+    "Add the sauce mixture to the bowl with the challots and toss to coat.",
+    "Thread the coated challots onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Increase the oven temperature to 425 degrees Fahrenheit and continue baking for an additional 10 minutes, or until crispy.",
+    "Remove the skewers from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "xtra-crispy-kenyan-challots-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-kenyan-challots-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:49:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "challots",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "challots",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Skewers"
+  }
+}
