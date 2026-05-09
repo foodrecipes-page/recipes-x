@@ -1,0 +1,92 @@
+{
+  "title": "Xtra Silky Korean Renkon Lotus Root Gimbap",
+  "description": "A solo dinner featuring renkon lotus root and dashi extract, this vegetarian friendly dish is a unique twist on traditional Korean gimbap.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Renkon lotus root",
+      "amount": "1 large",
+      "notes": "peeled and sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "1 cup",
+      "notes": "cooked and seasoned with salt and sugar"
+    },
+    {
+      "name": "Noru seaweed sheets",
+      "amount": "1 package"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the renkon lotus root by soaking the sliced rounds in cold water for 30 minutes to remove excess starch.",
+    "Drain and rinse the lotus root slices, then blanch them in boiling water for 5 minutes to tenderize.",
+    "In a small saucepan, combine the dashi extract, sesame oil, salt, sugar, and rice vinegar, and bring to a simmer over medium heat.",
+    "Reduce the dashi mixture by half, stirring constantly, then remove from heat and let cool.",
+    "Lay a noru seaweed sheet flat on a cutting board, with the shiny side facing down.",
+    "Spread a thin layer of sushi rice onto the seaweed, leaving a 1 inch border at the top.",
+    "Arrange the blanched lotus root slices horizontally across the center of the rice.",
+    "Drizzle the cooled dashi mixture over the lotus root, then roll the gimbap tightly using a bamboo sushi mat.",
+    "Slice the rolled gimbap into 8 equal pieces, then serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gimbap-recipes",
+    "korean-cuisine",
+    "lotus-root-recipes",
+    "solo-dinner",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "xtra-silky-korean-renkon-lotus-root-gimbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-korean-renkon-lotus-root-gimbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:32:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "dashi-extract",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "renkon lotus root",
+    "descriptor": "Xtra Silky",
+    "dishForm": "Gimbap"
+  }
+}
