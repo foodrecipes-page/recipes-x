@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Silky Moroccan Cacao Mrouzia",
+  "description": "A citrusy and indulgent Moroccan dish featuring cacao, made with sashimi-cut ingredients and ayurvedic-sattvic-friendly components, in the form of a traditional mrouzia.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "ayurvedic",
+    "sattvic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cacao powder",
+      "amount": "1 cup",
+      "notes": "high quality, Dutch-processed"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine cacao powder, orange blossom water, lemon juice, and vanilla powder in a blender and blend until smooth.",
+    "Add coconut cream and blend until well combined.",
+    "Add dates and blend until the mixture is silky and smooth.",
+    "Heat almond oil in a saucepan over low heat.",
+    "Add the cacao mixture to the saucepan and whisk constantly until the mixture is warm and silky.",
+    "Remove the saucepan from the heat and stir in sea salt.",
+    "Pour the mixture into individual serving cups.",
+    "Chill in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cacao-based",
+    "coconut-cream-based",
+    "indulgent-dessert",
+    "moroccan-inspired",
+    "orange-blossom-water",
+    "sattvic-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "xtra-silky-moroccan-cacao-mrouzia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-moroccan-cacao-mrouzia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:50:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "cacao",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "cacao",
+    "descriptor": "Xtra Silky",
+    "dishForm": "Mrouzia"
+  }
+}
