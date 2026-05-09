@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Flaky American Red Snapper Skillet",
+  "description": "A buttery and flaky one-pot American dish featuring red snapper, this recipe is perfect for a special occasion dinner. The ice-bath-shock step ensures the fish is cooked to perfection.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "4 fillets, 6 oz each",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the red snapper fillets under cold water, then pat them dry with paper towels.",
+    "Season the fillets with salt, black pepper, garlic powder, and paprika.",
+    "Melt 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the red snapper fillets to the skillet, skin side up, and cook for 3 minutes.",
+    "Flip the fillets over and cook for an additional 3 minutes.",
+    "Remove the fillets from the skillet and immediately submerge them in an ice bath to stop the cooking process.",
+    "Let the fillets sit in the ice bath for 5 minutes, then remove them and pat dry with paper towels.",
+    "Add the remaining 1 tablespoon of butter to the skillet and stir in the lemon juice.",
+    "Return the red snapper fillets to the skillet and cook for an additional 2 minutes, spooning the butter sauce over the top of the fish.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "slug": "xtra-flaky-american-red-snapper-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-american-red-snapper-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:23:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "red snapper",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "red snapper",
+    "descriptor": "Xtra Flaky",
+    "dishForm": "Skillet"
+  }
+}

@@ -5977,6 +5977,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-flaky-american-red-snapper-skillet",
+    "title": "Xtra Flaky American Red Snapper Skillet",
+    "tags": [
+      "american-cuisine",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-flaky-argentinian-taleggio-empanadas",
     "title": "Xtra Flaky Argentinian Taleggio Empanadas",
     "tags": [
