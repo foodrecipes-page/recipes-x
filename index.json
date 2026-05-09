@@ -8081,6 +8081,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-smoky-british-mentaiko-stir-fry",
+    "title": "Xtra Smoky British Mentaiko Stir fry",
+    "tags": [
+      "british-cuisine",
+      "meal-prep",
+      "one-pan",
+      "raw-friendly",
+      "smoky",
+      "stir-fry"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-smoky-british-salmon-skewers",
     "title": "Xtra Smoky British Salmon Skewers",
     "tags": [

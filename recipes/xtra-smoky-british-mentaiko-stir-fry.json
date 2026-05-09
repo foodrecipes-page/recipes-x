@@ -1,0 +1,98 @@
+{
+  "title": "Xtra Smoky British Mentaiko Stir fry",
+  "description": "A smoky and pillowy Yorkshire dish featuring mentaiko in a stir-fry, suitable for raw-friendly diets. This meal-prep recipe combines British flavors with Japanese mentaiko spice.",
+  "cuisine": "British",
+  "diet": [
+    "raw-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mentaiko",
+      "amount": "200g",
+      "notes": "spicy pollock roe"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "yorkshire pudding mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced smoked bacon and cook until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the sliced bell pepper to the skillet and cook until tender.",
+    "Add the mentaiko to the skillet and stir-fry for 2 minutes.",
+    "Add the cooked bacon back into the skillet and stir-fry for 1 minute.",
+    "Serve the stir-fry over cooked yorkshire pudding.",
+    "Drizzle with soy sauce to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "meal-prep",
+    "one-pan",
+    "raw-friendly",
+    "smoky",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-smoky-british-mentaiko-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-british-mentaiko-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:52:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "stir-fry",
+    "primaryIngredient": "mentaiko",
+    "diet": "raw",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "mentaiko",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Stir-fry"
+  }
+}
