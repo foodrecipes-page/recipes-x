@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Creamy British Plum Tomatoes Afternoon Tea Sandwich",
+  "description": "A creamy and bitter afternoon tea sandwich featuring plum tomatoes, perfect for a midnight craving, with a northern-irish twist and no onion or garlic",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "12",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "fry grind rice khao khuai",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "white bread",
+      "amount": "1 loaf",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Butter one side of each slice of bread.",
+    "In a large bowl, mix together the cream cheese, cooked rice, salt, and black pepper until well combined.",
+    "Add the sliced plum tomatoes to the bowl and mix gently.",
+    "Spread a layer of the cream cheese mixture onto the unbuttered side of each bread slice.",
+    "Top with a slice of buttered bread, butter side up.",
+    "Place the sandwiches on a baking sheet and bake for 10 minutes, or until the bread is lightly toasted.",
+    "Remove from the oven and sprinkle with chopped parsley and a squeeze of lemon juice.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "afternoon-tea",
+    "british-cuisine",
+    "cream-cheese",
+    "no-onion-no-garlic",
+    "plum-tomatoes",
+    "snack-time",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "xtra-creamy-british-plum-tomatoes-afternoon-tea-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-british-plum-tomatoes-afternoon-tea-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:52:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "no-onion-no-garlic",
+    "region": "northern-irish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "Xtra Creamy",
+    "dishForm": "Afternoon Tea Sandwich"
+  }
+}
