@@ -1,0 +1,101 @@
+{
+  "title": "Xtra Spicy Malaysian Shrimp Curry",
+  "description": "A spicy and nostalgic Malaysian dish featuring dried shrimp and char grilled ingredients, served in a kazan cauldron.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "goong haeng"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "large"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "Thai bird"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a kazan cauldron over medium heat.",
+    "Add the onion and cook until softened.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the curry paste and cook for 1 minute.",
+    "Add the dried shrimp and cook for 2 minutes.",
+    "Add the shrimp and cook until pink.",
+    "Add the coconut milk and bring to a simmer.",
+    "Reduce the heat to low and cook for 10 minutes.",
+    "Add the chili peppers and cook for 2 minutes.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-spicy-malaysian-shrimp-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-malaysian-shrimp-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:45:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Curry"
+  }
+}
