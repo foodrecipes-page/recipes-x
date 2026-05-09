@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Crispy Moroccan Eggplant Zaalouk",
+  "description": "A paleo-friendly Moroccan dish featuring crispy filo pastry and katsuramuki-cut eggplant in a mustardy zaalouk sauce, perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "filo pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the filo pastry and cut it into small squares.",
+    "Brush the filo pastry squares with olive oil and season with salt and black pepper.",
+    "Bake the filo pastry in the oven for 10 minutes or until crispy and golden brown.",
+    "In a large pan, heat the olive oil over medium heat and saute the garlic and ginger until fragrant.",
+    "Add the katsuramuki-cut eggplant to the pan and cook until it is tender and lightly browned.",
+    "In a small bowl, whisk together the mustard, paprika, salt, and black pepper.",
+    "Pour the mustard sauce over the eggplant and stir to combine.",
+    "To assemble the dish, place a few pieces of the crispy filo pastry on a plate and top with the eggplant zaalouk sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "filo-pastry",
+    "moroccan",
+    "mustardy",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-crispy-moroccan-eggplant-zaalouk",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-moroccan-eggplant-zaalouk",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:26:25Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "filo pastry",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "eggplant",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Zaalouk"
+  }
+}

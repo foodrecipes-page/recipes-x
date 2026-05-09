@@ -784,6 +784,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-buttery-norwegian-vegetable-casserole",
+    "title": "Xenial Buttery Norwegian Vegetable Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "norwegian",
+      "tandoor",
+      "vegetarian",
+      "winter"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-charred-malaysian-sweetcorn-fried-rice",
     "title": "Xenial Charred Malaysian Sweetcorn Fried-Rice",
     "tags": [
@@ -4068,6 +4083,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 75,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-moroccan-eggplant-zaalouk",
+    "title": "Xtra Crispy Moroccan Eggplant Zaalouk",
+    "tags": [
+      "eggplant",
+      "filo-pastry",
+      "moroccan",
+      "mustardy",
+      "paleo",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {

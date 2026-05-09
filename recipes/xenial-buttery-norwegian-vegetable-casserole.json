@@ -1,0 +1,97 @@
+{
+  "title": "Xenial Buttery Norwegian Vegetable Casserole",
+  "description": "A cozy and delicious Norwegian dish featuring a rich buttery sauce and tender vegetables, cooked to perfection in a tandoor, perfect for a cold winter night.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the carrots and brussels sprouts with 1/4 cup of melted butter until they are evenly coated.",
+    "Spread the vegetables in a single layer on a baking sheet and roast in the tandoor for 20 minutes.",
+    "In a medium saucepan, whisk together the flour and milk until smooth.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the sauce from the heat and stir in the shredded cheese until melted and smooth.",
+    "Season the sauce with salt and black pepper to taste.",
+    "In a large casserole dish, arrange the roasted vegetables in a single layer.",
+    "Pour the cheese sauce over the vegetables and smooth the top.",
+    "Dot the top of the casserole with the remaining 1/4 cup of melted butter.",
+    "Return the casserole to the tandoor and bake for an additional 15 minutes, or until the top is golden brown and the sauce is bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "norwegian",
+    "tandoor",
+    "vegetarian",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "xenial-buttery-norwegian-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-buttery-norwegian-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:26:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xenial Buttery",
+    "dishForm": "Casserole"
+  }
+}
