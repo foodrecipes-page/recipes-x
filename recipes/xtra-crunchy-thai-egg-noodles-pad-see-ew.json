@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Crunchy Thai Egg Noodles Pad See Ew",
+  "description": "A garlicky and crunchy Thai dish featuring egg noodles, perfect for a date night, made with namul-blanch-season method and low-glycemic-friendly ingredients. This pad see ew recipe is a flavorful and healthy option for dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "low-glycemic"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "blanched and seasoned"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the blanched and seasoned namul and cook for 2 minutes, until tender.",
+    "Add the cooked egg noodles and stir to combine with the namul and garlic.",
+    "Add the soy sauce, oyster sauce, and sesame oil, and stir to combine.",
+    "Cook for an additional 2 minutes, until the noodles are well coated with the sauce.",
+    "Stir in the chopped scallions and cook for 1 minute, until wilted.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "low-glycemic",
+    "noodle-dish",
+    "stir-fry",
+    "thai-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xtra-crunchy-thai-egg-noodles-pad-see-ew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-thai-egg-noodles-pad-see-ew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:40:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "egg noodles",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "egg noodles",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Pad See Ew"
+  }
+}
