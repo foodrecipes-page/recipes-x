@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Crispy Uruguayan Meat Skillet",
+  "description": "A resinous, flaky, light Uruguayan dish featuring Thai green curry paste, char-grill-yang, and gluten-free-friendly ingredients, cooked to perfection in a cazuela vessel.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Thai green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "char-grill-yang seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "gluten-free soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat 1 tablespoon of coconut oil in a large cazuela over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the diced bell pepper and cook for an additional 2 minutes.",
+    "Add the ground beef, breaking it up with a spoon as it cooks, until it is no longer pink, about 5-7 minutes.",
+    "Stir in the Thai green curry paste, char-grill-yang seasoning, gluten-free soy sauce, salt, and black pepper, and cook for 1 minute.",
+    "Transfer the cazuela to the preheated oven and bake for 15 minutes.",
+    "Remove the cazuela from the oven and stir in the chopped scallions.",
+    "Return the cazuela to the oven and bake for an additional 5 minutes, or until the top is crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "xtra-crispy-uruguayan-meat-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-uruguayan-meat-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:25:09Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "meat",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Skillet"
+  }
+}

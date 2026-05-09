@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Earthy Italian Turkish Delight Lasagna",
+  "description": "This dish combines the earthy flavors of Italy with the sweetness of Turkish Delight, making for a unique and delicious meal. It is an ayurvedic-sattvic-friendly recipe, featuring reduced ingredients and monsoon Italian flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "turkish delight",
+      "amount": "1 cup",
+      "notes": "rosewater flavor"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "In a pan, heat the olive oil and saute the mushrooms until they are tender.",
+    "Add the spinach to the pan and cook until it is wilted.",
+    "In a bowl, combine the ricotta cheese, tomato sauce, and chopped basil.",
+    "In a separate bowl, mix the Turkish Delight with a little water to create a paste.",
+    "Spread a layer of the tomato sauce in the bottom of a baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Sprinkle with half of the mozzarella cheese and half of the Turkish Delight paste.",
+    "Repeat the layers, starting with the noodles, then the ricotta cheese mixture, the mozzarella cheese, and finally the Turkish Delight paste.",
+    "Cover the dish with aluminum foil and bake for 30 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "earth-food",
+    "italian-food",
+    "layered-dishes",
+    "unique-dishes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xtra-earthy-italian-turkish-delight-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-earthy-italian-turkish-delight-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:25:25Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "turkish delight",
+    "diet": "ayurvedic-sattvic",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "turkish delight",
+    "descriptor": "Xtra Earthy",
+    "dishForm": "Lasagna"
+  }
+}

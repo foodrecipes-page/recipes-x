@@ -4944,6 +4944,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-uruguayan-meat-skillet",
+    "title": "Xtra Crispy Uruguayan Meat Skillet",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "uruguayan-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-vietnamese-tofu-noodles",
     "title": "Xtra Crispy Vietnamese Tofu Noodles",
     "tags": [
@@ -5704,6 +5718,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-earthy-italian-turkish-delight-lasagna",
+    "title": "Xtra Earthy Italian Turkish Delight Lasagna",
+    "tags": [
+      "ayurvedic",
+      "earth-food",
+      "italian-food",
+      "layered-dishes",
+      "unique-dishes",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 75,
     "shard": "x"
   },
   {
