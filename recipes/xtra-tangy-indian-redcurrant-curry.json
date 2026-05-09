@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Tangy Indian Redcurrant Curry",
+  "description": "A tangy and crunchy vegan curry featuring redcurrants, this dish is perfect for a solo dinner with a side of rice or roti.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fermented mustard paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onion and saute until it turns translucent.",
+    "Add grated ginger and minced garlic and saute for another minute.",
+    "Add curry powder and turmeric and stir well.",
+    "Add redcurrants and stir well to combine with the spice mixture.",
+    "Add fermented mustard paste and stir well.",
+    "Add coconut milk and bring the mixture to a simmer.",
+    "Reduce heat to low and let it cook for 10 minutes or until the sauce thickens.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with roti."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "indian-cuisine",
+    "one-pot",
+    "tangy",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-tangy-indian-redcurrant-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tangy-indian-redcurrant-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:53:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "redcurrants",
+    "diet": "vegan",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "redcurrants",
+    "descriptor": "Xtra tangy",
+    "dishForm": "Curry"
+  }
+}
