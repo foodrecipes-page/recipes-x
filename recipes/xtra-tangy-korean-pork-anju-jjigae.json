@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Tangy Korean Pork Anju Jjigae",
+  "description": "A tangy and creamy one-pot Korean dish featuring green curry paste and nuka pickle, perfect for a keto-friendly anju meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium-high heat.",
+    "Add the pork and cook until browned, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the green curry paste and cook for 1 minute, stirring constantly.",
+    "Add the nuka pickle, fish sauce, and coconut cream, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with scallions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anju",
+    "creamy",
+    "keto-friendly",
+    "korean-food",
+    "one-pot",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-tangy-korean-pork-anju-jjigae",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tangy-korean-pork-anju-jjigae",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:52:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "keto",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Tangy",
+    "dishForm": "Anju Jjigae"
+  }
+}
