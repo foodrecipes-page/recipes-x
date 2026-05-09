@@ -1,0 +1,94 @@
+{
+  "title": "Xanthy Roasted Ukrainian Beets Roast",
+  "description": "A cozy Ukrainian dish featuring roasted beets with a hint of dark brown soft sugar, perfect for a light and comforting meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, dark brown soft sugar, garlic, salt, and black pepper.",
+    "Add the chopped beets to the bowl and toss to coat with the sugar and spice mixture.",
+    "Spread the beets out in a single layer on a baking sheet lined with parchment paper.",
+    "Roast the beets in the preheated oven for 45 minutes, or until they are tender and caramelized.",
+    "Remove the beets from the oven and sprinkle with chopped fresh dill.",
+    "Drizzle the beets with lemon juice and toss to coat.",
+    "Serve the beets hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "healthy-dinner",
+    "roasted-vegetables",
+    "ukrainian-cuisine",
+    "vegan-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "xanthy-roasted-ukrainian-beets-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthy-roasted-ukrainian-beets-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:11:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "roast",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beets",
+    "descriptor": "Xanthy Roasted",
+    "dishForm": "Roast"
+  }
+}

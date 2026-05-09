@@ -1,0 +1,95 @@
+{
+  "title": "Xenial Bitter German Morbier Casserole",
+  "description": "A bitter and savory German dish featuring Morbier cheese, perfect for a date night, made in a kadhai with paleo-friendly ingredients and a fermenting process.",
+  "cuisine": "German",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "1 block",
+      "notes": "sliced"
+    },
+    {
+      "name": "paleo sausage",
+      "amount": "4 links",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large kadhai, heat the coconut oil over medium heat.",
+    "Add the chopped onion and cook until caramelized.",
+    "Add the sliced paleo sausage and cook until browned.",
+    "Add the fermented sauerkraut, apple cider vinegar, salt, and black pepper, and stir to combine.",
+    "Arrange the sliced Morbier cheese on top of the sausage mixture.",
+    "Transfer the kadhai to the preheated oven and bake for 20 minutes.",
+    "Remove the kadhai from the oven and let it cool for a few minutes.",
+    "Serve the casserole hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-dishes",
+    "cheese-pull",
+    "date-night",
+    "german-cuisine",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "xenial-bitter-german-morbier-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-bitter-german-morbier-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:11:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "morbier",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Morbier",
+    "descriptor": "Xenial Bitter",
+    "dishForm": "Casserole"
+  }
+}

@@ -682,6 +682,21 @@
     "shard": "x"
   },
   {
+    "slug": "xanthy-roasted-ukrainian-beets-roast",
+    "title": "Xanthy Roasted Ukrainian Beets Roast",
+    "tags": [
+      "comfort-food",
+      "healthy-dinner",
+      "roasted-vegetables",
+      "ukrainian-cuisine",
+      "vegan-friendly",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 65,
+    "shard": "x"
+  },
+  {
     "slug": "xbittersweet-goozy-new-potatoes-pudding",
     "title": "Xbittersweet Goozy New Potatoes Pudding",
     "tags": [
@@ -795,6 +810,21 @@
     ],
     "cuisine": "Basque",
     "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-bitter-german-morbier-casserole",
+    "title": "Xenial Bitter German Morbier Casserole",
+    "tags": [
+      "bitter-dishes",
+      "cheese-pull",
+      "date-night",
+      "german-cuisine",
+      "one-pan",
+      "paleo-friendly"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
