@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Fluffy Ukrainian Cassaba Dumplings",
+  "description": "A hearty and comforting Ukrainian dish featuring cassaba, perfect for a cold winter's night, this flexitarian-friendly recipe is a twist on traditional Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassaba",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fried onions",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated cassaba, flour, warm water, yeast, sugar, and salt, and mix until a smooth dough forms.",
+    "Knead the dough for 10 minutes until it becomes elastic and shiny.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Once the oil is hot, use a spoon to drop small balls of the dough into the oil, being careful not to overcrowd the pan.",
+    "Fry the dumplings until they are golden brown and puffed up, about 5 minutes on each side.",
+    "Remove the dumplings from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot, topped with fried onions if desired.",
+    "Let the dumplings cool completely on a wire rack before storing them in an airtight container in the refrigerator.",
+    "Reheat the dumplings in the oven or microwave before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "eastern-european",
+    "flexitarian",
+    "homemade",
+    "traditional",
+    "ukrainian",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "xtra-fluffy-ukrainian-cassaba-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-ukrainian-cassaba-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:16:24Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "cassaba",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cassaba",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Dumplings"
+  }
+}
