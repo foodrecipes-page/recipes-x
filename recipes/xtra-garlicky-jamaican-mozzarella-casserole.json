@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Garlicky Jamaican Mozzarella Casserole",
+  "description": "A garlicky, crumbly, comforting Jamaican dish featuring mozzarella balls, served en-croute in a dolsot-stone-bowl, perfect for a low-fat friendly meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mozzarella balls",
+      "amount": "12",
+      "notes": "low-fat"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a bowl, mix together the jerk seasoning, garlic, salt, and black pepper.",
+    "Add the mozzarella balls to the bowl and toss to coat with the seasoning mixture.",
+    "In a separate bowl, mix together the whole wheat breadcrumbs and olive oil.",
+    "Add the breadcrumb mixture to the top of the mozzarella balls in the bowl.",
+    "Transfer the mozzarella ball mixture to a dolsot-stone-bowl.",
+    "Sprinkle the chopped scallions on top of the mozzarella balls.",
+    "Bake the casserole in the preheated oven for 20 minutes.",
+    "Remove the casserole from the oven and let it cool for 5 minutes.",
+    "Serve the casserole hot, straight from the dolsot-stone-bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "garlic-lovers",
+    "jamaican-cuisine",
+    "low-fat",
+    "one-pot",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "xtra-garlicky-jamaican-mozzarella-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-garlicky-jamaican-mozzarella-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:15:30Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Xtra Garlicky",
+    "dishForm": "Casserole"
+  }
+}
