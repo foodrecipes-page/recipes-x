@@ -8294,6 +8294,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-rich-russian-beef-stew",
+    "title": "Xtra Rich Russian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "gluten-free",
+      "one-pot",
+      "pandan-leaves",
+      "russian-cuisine",
+      "sous-vide"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 1470,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-rich-spanish-foie-gras-gambas-al-ajillo",
     "title": "Xtra Rich Spanish Foie Gras Gambas Al Ajillo",
     "tags": [

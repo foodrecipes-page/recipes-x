@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Rich Russian Beef Stew",
+  "description": "A rich and chewy one-pot Russian dish featuring tomatoes, cooked to perfection using the sous-vide method and wrapped in pandan leaves for added flavor, this stew is gluten-free friendly and perfect for a cold winter night.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "bone-in, cut into 2-inch pieces"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "canned, crushed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button, sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "Season the beef short ribs with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat and brown the beef short ribs on all sides.",
+    "Add the chopped onions to the skillet and cook until they are translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the sliced mushrooms to the skillet and cook until they are tender.",
+    "Add the crushed tomatoes, beef broth, and browned beef short ribs to the skillet and stir to combine.",
+    "Wrap the mixture in the pandan leaves, making sure to seal the edges tightly.",
+    "Place the wrapped stew in the sous-vide machine and cook for 24 hours.",
+    "Remove the stew from the sous-vide machine and let it cool to room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1470,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef-stew",
+    "gluten-free",
+    "one-pot",
+    "pandan-leaves",
+    "russian-cuisine",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "xtra-rich-russian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-rich-russian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:19:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "sous-vide",
+    "primaryIngredient": "tomatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Rich",
+    "dishForm": "Stew"
+  }
+}
