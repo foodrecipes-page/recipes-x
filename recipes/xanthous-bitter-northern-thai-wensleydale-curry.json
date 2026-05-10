@@ -1,0 +1,101 @@
+{
+  "title": "Xanthous Bitter Northern Thai Wensleydale Curry",
+  "description": "A bitter and tender curry featuring Wensleydale cheese, shio-koji cure, and ayurvedic-rajasic friendly ingredients, inspired by the flavors of Northern Thailand",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "1 cup crumbled",
+      "notes": "preferably aged"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together shio-koji, coconut milk, and Thai red curry paste to create the curry base.",
+    "In a large pan, heat the curry base over medium heat, stirring constantly, until the mixture is fragrant and slightly thickened.",
+    "Add the kaffir lime leaves, lemon juice, fish sauce, brown sugar, and turmeric to the pan, stirring to combine.",
+    "Reduce heat to low and simmer the curry for 10 minutes, stirring occasionally, until the flavors have melded together and the sauce has thickened.",
+    "Stir in the crumbled Wensleydale cheese until melted and smooth.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped basil and serve over rice or noodles.",
+    "Serve immediately, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "one-pot",
+    "rajasic-diet",
+    "thai-curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "xanthous-bitter-northern-thai-wensleydale-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-bitter-northern-thai-wensleydale-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:24:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "wensleydale",
+    "diet": "ayurvedic-rajasic",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Xanthous Bitter",
+    "dishForm": "Curry"
+  }
+}
