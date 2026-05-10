@@ -1,0 +1,109 @@
+{
+  "title": "Xtra Crunchy Indian Chickpeas Chaat",
+  "description": "A macrobiotic-friendly Indian chaat dish featuring smoky paprika and dehydrated chickpeas, perfect for a snack or light meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "amchur powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped tomato",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Drain and rinse the chickpeas, then spread them on a baking sheet.",
+    "Dehydrate the chickpeas in the oven for 30 minutes, or until crispy.",
+    "In a large bowl, mix together the smoky paprika, garam masala, cumin powder, coriander powder, amchur powder, and salt.",
+    "Add the dehydrated chickpeas to the bowl and toss to coat with the spice mixture.",
+    "In a small bowl, mix together the lemon juice and chopped cilantro.",
+    "Add the lemon juice mixture to the bowl with the chickpeas and toss to coat.",
+    "Stir in the chopped onion and tomato.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Xtra Crunchy Indian Chickpeas Chaat immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chaat-recipes",
+    "gluten-free",
+    "high-protein",
+    "indian-food",
+    "snack-recipes",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "xtra-crunchy-indian-chickpeas-chaat",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crunchy-indian-chickpeas-chaat",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:12:48Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "dehydrate",
+    "primaryIngredient": "smoky paprika",
+    "diet": "macrobiotic",
+    "region": "south",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Xtra Crunchy",
+    "dishForm": "Chaat"
+  }
+}

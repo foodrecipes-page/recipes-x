@@ -5405,6 +5405,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crunchy-indian-chickpeas-chaat",
+    "title": "Xtra Crunchy Indian Chickpeas Chaat",
+    "tags": [
+      "chaat-recipes",
+      "gluten-free",
+      "high-protein",
+      "indian-food",
+      "snack-recipes",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crunchy-kerala-vegetables-gulab-jamun",
     "title": "Xtra Crunchy Kerala Vegetables Gulab Jamun",
     "tags": [
