@@ -4958,6 +4958,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-malaysian-egg-frittata",
+    "title": "Xtra Crispy Malaysian Egg Frittata",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "malaysian-cuisine",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 18,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-malaysian-vegetable-noodles",
     "title": "Xtra Crispy Malaysian Vegetable Noodles",
     "tags": [
@@ -10965,6 +10980,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
+    "slug": "xyloid-silky-korean-tofu-skewers",
+    "title": "Xyloid Silky Korean Tofu Skewers",
+    "tags": [
+      "gluten-free",
+      "korean-food",
+      "macrobiotic-friendly",
+      "tofu-recipes",
+      "vegetarian-dinner"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {

@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Crispy Malaysian Egg Frittata",
+  "description": "A sweet and crispy Malaysian dish featuring eggs and ferment-kimchi, cooked to perfection in a binchotan-grill",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-grill to medium-high heat",
+    "In a large bowl, whisk together the eggs, salt, and black pepper",
+    "Add the chopped ferment-kimchi, diced onions, minced garlic, and grated ginger to the bowl and stir to combine",
+    "Heat the coconut oil in the preheated binchotan-grill",
+    "Pour the egg mixture into the grill and cook for 2 minutes",
+    "Use a spatula to gently lift and fold the edges of the frittata towards the center",
+    "Continue cooking for an additional 4 minutes, or until the eggs are almost set",
+    "Sprinkle the ground turmeric over the top of the frittata and cook for a final minute",
+    "Remove the frittata from the grill and let it cool for a minute before slicing and serving"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "malaysian-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "xtra-crispy-malaysian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-malaysian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:59:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "eggs",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "eggs",
+    "descriptor": "Xtra Crispy",
+    "dishForm": "Frittata"
+  }
+}

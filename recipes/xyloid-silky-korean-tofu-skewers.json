@@ -1,0 +1,94 @@
+{
+  "title": "Xyloid Silky Korean Tofu Skewers",
+  "description": "A floral and adventurous Korean dish featuring silky tofu, praline-french glaze, and macrobiotic-friendly ingredients, perfect for a unique dinner experience.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "praline paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the silken tofu into 1-inch cubes and set aside.",
+    "In a small bowl, whisk together soy sauce, maple syrup, and praline paste to make the glaze.",
+    "Add the minced garlic and grated ginger to the glaze and stir well.",
+    "Thread the tofu cubes onto the bamboo skewers, leaving a small space between each cube.",
+    "Brush the glaze onto the tofu cubes, making sure they are fully coated.",
+    "Place the skewers on a baking sheet lined with parchment paper and drizzle with sesame oil.",
+    "Bake the skewers in the preheated oven for 15 minutes, or until the tofu is lightly browned and crispy on the outside.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-food",
+    "macrobiotic-friendly",
+    "tofu-recipes",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "xyloid-silky-korean-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xyloid-silky-korean-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:59:42Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "praline-french",
+    "diet": "macrobiotic",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "xyloid silky",
+    "dishForm": "Skewers"
+  }
+}
