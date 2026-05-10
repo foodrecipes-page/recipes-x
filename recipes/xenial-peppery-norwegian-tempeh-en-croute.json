@@ -1,0 +1,95 @@
+{
+  "title": "Xenial Peppery Norwegian Tempeh En Croute",
+  "description": "A peppery and romantic Norwegian dish featuring tempeh en croute, served on a wooden board, perfect for a Buddhist temple gathering.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "marinated in a mixture of soy sauce and maple syrup"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1/2 cup",
+      "notes": "such as gudbrandsdalsost or ostehoeve"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a lightly floured surface to a large rectangle.",
+    "Place the marinated tempeh in the center of the pastry rectangle, leaving a 1 inch border around it.",
+    "Sprinkle the norwegian cheese, black pepper, thyme, salt, and garlic powder over the tempeh.",
+    "Brush the edges of the pastry with olive oil.",
+    "Fold the pastry over the tempeh, pressing the edges to seal.",
+    "Place the tempeh en croute on a wooden board and brush the top with olive oil.",
+    "Bake the tempeh en croute in the preheated oven for 25 minutes, or until the pastry is golden brown.",
+    "Remove the tempeh en croute from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "norwegian-cuisine",
+    "tempeh-recipes",
+    "vegetarian-dinner",
+    "wooden-board-presentation"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xenial-peppery-norwegian-tempeh-en-croute",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-peppery-norwegian-tempeh-en-croute",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:50:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "en-croute",
+    "primaryIngredient": "tempeh",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tempeh",
+    "descriptor": "xenial peppery",
+    "dishForm": "en-croute"
+  }
+}

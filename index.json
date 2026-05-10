@@ -1762,6 +1762,20 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-peppery-norwegian-tempeh-en-croute",
+    "title": "Xenial Peppery Norwegian Tempeh En Croute",
+    "tags": [
+      "buddhist-temple-friendly",
+      "norwegian-cuisine",
+      "tempeh-recipes",
+      "vegetarian-dinner",
+      "wooden-board-presentation"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-peppery-russian-beef-stew",
     "title": "Xenial Peppery Russian Beef Stew",
     "tags": [
