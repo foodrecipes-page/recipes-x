@@ -1004,6 +1004,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-comforting-algerian-vegetable-tagine",
+    "title": "Xenial Comforting Algerian Vegetable Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "comfort-food",
+      "fodmap-friendly",
+      "gluten-free",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-comforting-filipino-rice-pilaf",
     "title": "Xenial Comforting Filipino Rice Pilaf",
     "tags": [
