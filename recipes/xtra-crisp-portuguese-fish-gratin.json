@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Crisp Portuguese Fish Gratin",
+  "description": "Rich and crispy Portuguese fish gratin featuring orange blossom water, perfect for a post-workout meal, served in a ramekin.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish",
+      "amount": "12 oz",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "temper",
+      "amount": "1 tsp",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fish with salt, black pepper, and temper.",
+    "In a bowl, mix together orange blossom water, olive oil, garlic, and lemon juice.",
+    "Place the cod fish in a ramekin and brush the orange blossom mixture on top.",
+    "Sprinkle breadcrumbs and parmesan cheese over the fish.",
+    "Bake the gratin in the preheated oven for 20 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 2 minutes.",
+    "Remove the gratin from the oven and let it cool for a few minutes.",
+    "Serve the Xtra Crisp Portuguese Fish Gratin hot in the ramekin."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "high-protein",
+    "one-pan",
+    "portuguese-cuisine",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-crisp-portuguese-fish-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-portuguese-fish-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:12:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "orange blossom water",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Gratin"
+  }
+}
