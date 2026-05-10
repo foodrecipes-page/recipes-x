@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Buttery American Lamb Flatbread",
+  "description": "A buttery and molten American dish featuring lamb shanks, long-fermentation-dough, and kosher-friendly ingredients, served on a hot stone plate.",
+  "cuisine": "American",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Gradually add warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and roll it out into a large rectangle.",
+    "Place the lamb shanks in the center of the dough, leaving a 1 inch border around them.",
+    "Brush the melted butter over the lamb and dough, and sprinkle with garlic powder.",
+    "Fold the dough over the lamb, pressing the edges to seal.",
+    "Place the flatbread on a hot stone plate and bake for 25 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "buttery-dishes",
+    "hot-stone-plate",
+    "kosher-friendly",
+    "lamb-based"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xtra-buttery-american-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-american-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:14:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "lamb shanks",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lamb",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Flatbread"
+  }
+}
