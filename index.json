@@ -931,6 +931,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-buttery-greek-lamb-gyro",
+    "title": "Xenial Buttery Greek Lamb Gyro",
+    "tags": [
+      "comfort-food",
+      "easy-dinner",
+      "greek-food",
+      "grilled-meats",
+      "lamb-recipes",
+      "mediterranean-diet"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-buttery-middle-eastern-scamorza-flatbread",
     "title": "Xenial Buttery Middle Eastern Scamorza Flatbread",
     "tags": [
