@@ -1,0 +1,110 @@
+{
+  "title": "Xtra Spicy British Beef Casserole",
+  "description": "A spicy and aerated British dish featuring red wine and spherified elements, perfect for a low-calorie dinner",
+  "cuisine": "British",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "500g",
+      "notes": "lean cut"
+    },
+    {
+      "name": "red wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "10g"
+    },
+    {
+      "name": "water",
+      "amount": "1L"
+    },
+    {
+      "name": "spicy tomato sauce",
+      "amount": "200g"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "200g",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "50g",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius",
+    "In a large bowl, mix together the beef strips, spicy tomato sauce, and olive oil",
+    "In a separate bowl, mix together the sodium alginate and water to create a spherification bath",
+    "Add the sliced mushrooms and chopped onions to the beef mixture and stir well",
+    "Using a syringe, drop small amounts of the beef mixture into the spherification bath to create spherified elements",
+    "In a large casserole dish, arrange a layer of the spherified beef elements",
+    "Add a layer of the spicy tomato sauce on top of the beef layer",
+    "Repeat steps 6 and 7 until all ingredients are used, finishing with a layer of sauce on top",
+    "Season with salt and black pepper to taste",
+    "Bake in the preheated oven for 30 minutes",
+    "Remove from the oven and let rest for 10 minutes before serving"
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 30,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "casserole",
+    "gluten-free",
+    "low-calorie",
+    "meal-prep",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "xtra-spicy-british-beef-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-british-beef-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:46:40Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "spherify",
+    "primaryIngredient": "red wine",
+    "diet": "low-calorie",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Spicy",
+    "dishForm": "Casserole"
+  }
+}

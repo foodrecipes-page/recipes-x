@@ -9789,6 +9789,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-british-beef-casserole",
+    "title": "Xtra Spicy British Beef Casserole",
+    "tags": [
+      "british-cuisine",
+      "casserole",
+      "gluten-free",
+      "low-calorie",
+      "meal-prep",
+      "spicy-food"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-british-fish-skewers",
     "title": "Xtra Spicy British Fish Skewers",
     "tags": [
