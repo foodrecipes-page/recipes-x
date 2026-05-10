@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Cozy Norwegian Cheese Casserole",
+  "description": "A yeasty, pillowy, and cozy Norwegian dish featuring shredded Monterey Jack cheese, perfect for a cold winter night. This low-fat friendly casserole is baked in a ramekin for a delightful individual serving.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup shredded",
+      "notes": "low-fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, combine the yeast, sugar, and warm milk, stirring to dissolve the yeast.",
+    "Let the yeast mixture sit for 5 minutes, or until it becomes frothy.",
+    "In a large bowl, whisk together the flour, salt, and shredded cheese.",
+    "Add the egg, melted butter, and yeast mixture to the dry ingredients, stirring until a smooth batter forms.",
+    "Pour the batter into a ramekin, filling it to the top.",
+    "Bake the casserole for 25 minutes, or until it is puffed and golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "individual-serving",
+    "low-fat",
+    "norwegian",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "xtra-cozy-norwegian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-cozy-norwegian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:06:19Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "cozy",
+    "technique": "ferment",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra cozy",
+    "dishForm": "Casserole"
+  }
+}

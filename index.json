@@ -3772,6 +3772,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-cozy-norwegian-cheese-casserole",
+    "title": "Xtra Cozy Norwegian Cheese Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "individual-serving",
+      "low-fat",
+      "norwegian",
+      "winter"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-american-suet-casserole",
     "title": "Xtra Creamy American Suet Casserole",
     "tags": [
