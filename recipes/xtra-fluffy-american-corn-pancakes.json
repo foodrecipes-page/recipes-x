@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Fluffy American Corn Pancakes",
+  "description": "These vegan-friendly pancakes are made with corn flour and are perfect for a brunch mood, featuring a fatty and bouncy texture.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a large bowl, whisk together corn flour, all-purpose flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together non-dairy milk, canola oil, and apple cider vinegar.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, the batter should still be slightly lumpy.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the preheated skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings.",
+    "Repeat the process with the remaining batter.",
+    "Let the pancakes cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "breakfast-ideas",
+    "brunch-recipe",
+    "corn-based",
+    "fluffy-pancakes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xtra-fluffy-american-corn-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-fluffy-american-corn-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:39:36Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "dehydrate",
+    "primaryIngredient": "corn flour",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "corn",
+    "descriptor": "Xtra fluffy",
+    "dishForm": "Pancakes"
+  }
+}
