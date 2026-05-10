@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Pungent Syrian Nduja Skewers",
+  "description": "A light and festive Syrian dish featuring nduja, pickle, and macrobiotic-friendly ingredients, served on a talavera plate.",
+  "cuisine": "Syrian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "1 cup",
+      "notes": "spicy fermented sausage"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 package",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the pita bread, nduja, pickle, and garlic onto skewers.",
+    "Brush the skewers with olive oil and season with sumac.",
+    "Grill the skewers for 5 minutes per side.",
+    "Serve the skewers on a talavera plate with a side of lemon juice.",
+    "Garnish with chopped parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "xtra-pungent-syrian-nduja-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-pungent-syrian-nduja-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:25:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "pickle",
+    "primaryIngredient": "nduja",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "nduja",
+    "descriptor": "Xtra pungent",
+    "dishForm": "Skewers"
+  }
+}
