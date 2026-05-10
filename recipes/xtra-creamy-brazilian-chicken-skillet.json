@@ -1,0 +1,95 @@
+{
+  "title": "Xtra Creamy Brazilian Chicken Skillet",
+  "description": "A nutty and creamy Brazilian dish featuring cilantro and shio-koji-cure, made in an iron teppan skillet, this recipe is a show-off dish for any occasion, with a blend of flavors that will leave you wanting more.",
+  "cuisine": "brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan skillet over medium high heat and add the olive oil.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Add the shio-koji to the skillet and cook for 1 minute.",
+    "Add the coconut milk to the skillet and stir to combine with the shio-koji and garlic.",
+    "Add the chopped cilantro to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the sauce.",
+    "Season the chicken and sauce with salt and black pepper.",
+    "Serve the chicken and sauce hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-recipes",
+    "coconut-milk",
+    "gluten-free",
+    "one-pan",
+    "shio-koji"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "xtra-creamy-brazilian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-brazilian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:37:25Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "cilantro",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra Creamy",
+    "dishForm": "Skillet"
+  }
+}
