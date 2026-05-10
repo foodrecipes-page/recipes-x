@@ -1,0 +1,101 @@
+{
+  "title": "Xenial Molten British Mushroom Cottage Pie",
+  "description": "A vegetarian friendly British dish featuring umami flavors and Sichuan pepper, served in a wooden board vessel. This adventurous cottage pie combines molten goodness with earthy mushroom flavors.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "mixed varieties such as cremini and shiitake"
+    },
+    {
+      "name": "sichuan pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "vegetarian friendly substitute for bonito shave"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups",
+      "notes": "prepared with butter and milk"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onion and minced garlic until softened.",
+    "Add the mixed mushrooms and cook until they release their moisture and start to brown.",
+    "Stir in the ground Sichuan pepper and bonito flakes.",
+    "Add the low sodium vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 10 minutes.",
+    "Prepare the mashed potatoes according to package instructions.",
+    "In a separate bowl, combine the shredded cheddar cheese and cooked mushroom mixture.",
+    "Transfer the mushroom mixture to a wooden board vessel.",
+    "Top the mushroom mixture with the prepared mashed potatoes.",
+    "Bake the cottage pie in the preheated oven for 25 minutes, or until the potatoes are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "mushroom-based",
+    "umami-rich",
+    "vegetarian-friendly",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xenial-molten-british-mushroom-cottage-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-molten-british-mushroom-cottage-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:44:43Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Xenial Molten",
+    "dishForm": "Cottage Pie"
+  }
+}

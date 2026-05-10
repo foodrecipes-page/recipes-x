@@ -1599,6 +1599,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-molten-british-mushroom-cottage-pie",
+    "title": "Xenial Molten British Mushroom Cottage Pie",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "mushroom-based",
+      "umami-rich",
+      "vegetarian-friendly",
+      "wooden-board"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-molten-chinese-lentils-char-siu-bao",
     "title": "Xenial Molten Chinese Lentils Char Siu Bao",
     "tags": [
