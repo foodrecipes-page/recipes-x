@@ -2323,6 +2323,22 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-umami-saudi-arabian-natto-pasta",
+    "title": "Xenial Umami Saudi Arabian Natto Pasta",
+    "tags": [
+      "date-night",
+      "japanese-inspired",
+      "natto",
+      "pescatarian",
+      "saudi-arabian",
+      "seafood",
+      "umami"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-uruguayan-gruyere-flatbread",
     "title": "Xenial Uruguayan Gruyere Flatbread",
     "tags": [

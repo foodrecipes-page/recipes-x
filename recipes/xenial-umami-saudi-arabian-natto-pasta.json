@@ -1,0 +1,100 @@
+{
+  "title": "Xenial Umami Saudi Arabian Natto Pasta",
+  "description": "A pescatarian-friendly Saudi Arabian dish featuring natto, dashi extract, and a glassy-jelly texture, perfect for a date night.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "fermented Japanese soybeans"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grilled shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a small saucepan, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the dashi extract to the saucepan and stir to combine.",
+    "In a large bowl, combine the cooked pasta, natto, and garlic-dashi mixture, and toss to combine.",
+    "Add the grilled shrimp, dates, salt, and black pepper to the bowl, and toss to combine.",
+    "Serve the pasta hot, garnished with additional dates and a drizzle of olive oil if desired.",
+    "Let the dish rest for a few minutes to allow the flavors to meld together.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "japanese-inspired",
+    "natto",
+    "pescatarian",
+    "saudi-arabian",
+    "seafood",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "xenial-umami-saudi-arabian-natto-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-umami-saudi-arabian-natto-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:46:30Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "natto",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "natto",
+    "descriptor": "Xenial Umami",
+    "dishForm": "Pasta"
+  }
+}
