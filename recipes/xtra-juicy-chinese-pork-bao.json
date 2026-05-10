@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Juicy Chinese Pork Bao",
+  "description": "A briny and juicy Chinese dish featuring caramel sauce and long-fermentation-dough, perfect for showing off, with raw-friendly ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, salt, and sugar in a large mixing bowl.",
+    "Add chopped pork shoulder, scallions, soy sauce, sesame oil, and grated ginger to the bowl and mix well.",
+    "Knead the mixture for 10 minutes until a smooth dough forms.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment for 2 hours.",
+    "Preheat a steamer basket over boiling water.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk and place a tablespoon of caramel sauce in the center of each disk.",
+    "Fold the dough over the filling and seal the edges.",
+    "Place the buns in the steamer basket and steam for 15 minutes.",
+    "Serve the buns hot with additional caramel sauce for dipping."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 15,
+  "totalTimeMin": 135,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "asian-cuisine",
+    "caramel-sauce",
+    "chinese-food",
+    "comfort-food",
+    "pork-recipes",
+    "steamed-buns"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xtra-juicy-chinese-pork-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-chinese-pork-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:22:03Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "caramel sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Xtra Juicy",
+    "dishForm": "Bao"
+  }
+}
