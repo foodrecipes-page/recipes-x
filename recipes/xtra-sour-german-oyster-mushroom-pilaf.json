@@ -1,0 +1,104 @@
+{
+  "title": "Xtra Sour German Oyster Mushroom Pilaf",
+  "description": "A quick and sour German dish featuring oyster mushrooms and a pillowy texture, perfect for a weeknight dinner. This dish is nut-free and has an al-dente finish.",
+  "cuisine": "German",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the oyster mushrooms and pat them dry with a paper towel.",
+    "In a large skillet, melt the butter over medium heat and saute the diced onion until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the oyster mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the white vinegar, chicken broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the liquid has been absorbed and the mushrooms are tender, about 10 minutes.",
+    "If using white wine, stir it in during the last 2 minutes of cooking.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the pilaf hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "mushroom-lovers",
+    "one-pan",
+    "quick-fix",
+    "sour-dishes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "xtra-sour-german-oyster-mushroom-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-sour-german-oyster-mushroom-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:48:36Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "Xtra Sour",
+    "dishForm": "Pilaf"
+  }
+}
