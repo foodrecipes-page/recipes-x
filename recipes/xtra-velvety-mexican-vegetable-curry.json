@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Velvety Mexican Vegetable Curry",
+  "description": "A mustardy and velvety Mexican curry featuring Italian seasoning, this dish is perfect for a monsoon evening and is Jain-friendly. It is made with a variety of vegetables and spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add mustard seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chopped carrots, zucchini, and red bell pepper, and cook for 5 minutes.",
+    "Add the Italian seasoning and stir well.",
+    "Pour in the coconut milk and bring the mixture to a boil.",
+    "Reduce the heat to low and let it simmer for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over rice or with some naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "mexican-curry",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-velvety-mexican-vegetable-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-velvety-mexican-vegetable-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:49:31Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "italian seasoning",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "vegetables",
+    "descriptor": "xtra velvety",
+    "dishForm": "Curry"
+  }
+}
