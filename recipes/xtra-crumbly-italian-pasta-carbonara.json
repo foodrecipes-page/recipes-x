@@ -1,0 +1,93 @@
+{
+  "title": "Xtra Crumbly Italian Pasta Carbonara",
+  "description": "A fermented, crumbly, one-pot Italian dish featuring strong white flour, agemono-deep-fry, and raw-friendly ingredients in a carbonara form, this recipe is a unique twist on the classic pasta dish. It combines the richness of eggs and parmesan with the crunch of fried elements.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "strong white flour"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "raw"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": "cured pork jowl"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions until al dente.",
+    "While the pasta is cooking, whisk together the eggs, parmesan cheese, and a pinch of black pepper in a medium bowl.",
+    "In a large skillet, heat the olive oil over medium heat and fry the guanciale slices until crispy.",
+    "Remove the guanciale from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "Dredge the fried guanciale in the all-purpose flour, shaking off excess.",
+    "Add the cooked spaghetti to the bowl with the egg mixture and toss to combine.",
+    "Add the flour-dredged guanciale to the spaghetti and egg mixture, tossing to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "one-pot",
+    "pasta-dish",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xtra-crumbly-italian-pasta-carbonara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crumbly-italian-pasta-carbonara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:22:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "strong white flour",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Xtra Crumbly",
+    "dishForm": "Carbonara"
+  }
+}

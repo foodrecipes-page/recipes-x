@@ -5257,6 +5257,20 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crumbly-italian-pasta-carbonara",
+    "title": "Xtra Crumbly Italian Pasta Carbonara",
+    "tags": [
+      "high-protein",
+      "italian-food",
+      "one-pot",
+      "pasta-dish",
+      "weeknight-meal"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crumbly-japanese-bryndza-cheese-miso-ramen",
     "title": "Xtra Crumbly Japanese Bryndza Cheese Miso Ramen",
     "tags": [
