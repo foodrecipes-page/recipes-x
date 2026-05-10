@@ -1,0 +1,113 @@
+{
+  "title": "xerishe quick fix ethiopian taleggio bowl",
+  "description": "an earthy, tender, quick-fix ethiopian dish featuring taleggio, sashimi-cut",
+  "cuisine": "ethiopian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "taleggio cheese",
+      "amount": "6 oz (170g)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "peeled, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "chopped kale",
+      "amount": "2 cups",
+      "notes": "stemmed, chopped"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained, rinsed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "-",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "-",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion, ginger, and garlic and cook, stirring occasionally, until the onion is translucent, about 5 minutes.",
+    "Add the berbere spice mix and cook for 1 minute, stirring constantly.",
+    "Add the chickpeas and cook for 2 minutes, stirring occasionally.",
+    "Add the chopped kale and cook until wilted, about 2 minutes.",
+    "Crumble the taleggio cheese into the skillet and stir until melted and combined with the kale mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a bamboo tray or serving dish.",
+    "Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "veggie-packed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "xerishe-quick-fix-ethiopian-taleggio-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xerishe-quick-fix-ethiopian-taleggio-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:53:11Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "taleggio",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Taleggio",
+    "descriptor": "Xerishe Quick Fix",
+    "dishForm": "Bowl"
+  }
+}
