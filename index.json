@@ -4230,6 +4230,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-creamy-uruguayan-beef-stir-fry",
+    "title": "Xtra Creamy Uruguayan Beef Stir Fry",
+    "tags": [
+      "beef-recipes",
+      "creamy-sauce",
+      "gluten-free",
+      "one-pan",
+      "south-american",
+      "stir-fry"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-creamy-uruguayan-feta-bowl",
     "title": "Xtra Creamy Uruguayan Feta Bowl",
     "tags": [

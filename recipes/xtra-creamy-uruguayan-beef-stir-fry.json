@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Creamy Uruguayan Beef Stir Fry",
+  "description": "A savory and creamy Uruguayan dish featuring chilled butter and stir-fry, served in a terracotta dish, this recipe is a show-off dish that is gluten-free friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Chilled butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large terracotta dish over medium-high heat on the stovetop.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the dish and set aside.",
+    "Add the chilled butter to the dish and let it melt.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped red bell pepper and cook until tender, about 4-5 minutes.",
+    "Add the heavy cream, paprika, salt, and black pepper to the dish and stir to combine.",
+    "Return the beef to the dish and stir to coat with the creamy sauce.",
+    "Reduce heat to low and simmer for 2-3 minutes or until the sauce has thickened.",
+    "Stir in the chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "creamy-sauce",
+    "gluten-free",
+    "one-pan",
+    "south-american",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "xtra-creamy-uruguayan-beef-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-creamy-uruguayan-beef-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:58:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "chilled butter",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra creamy",
+    "dishForm": "Stir-fry"
+  }
+}
