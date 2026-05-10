@@ -9716,6 +9716,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-thai-papaya-som-tum",
+    "title": "Xtra Spicy Thai Papaya Som Tum",
+    "tags": [
+      "gluten-free",
+      "isaan-style",
+      "one-pan",
+      "spicy-food",
+      "street-food",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-tunisian-buckwheat-tagine",
     "title": "Xtra Spicy Tunisian Buckwheat Tagine",
     "tags": [

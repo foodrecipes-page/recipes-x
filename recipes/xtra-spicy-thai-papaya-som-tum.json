@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Spicy Thai Papaya Som Tum",
+  "description": "A winey, silky, monsoon Thai dish featuring bay leaves, this som tum is a classic Isaan recipe with a spicy kick, made gluten-free-friendly with careful ingredient selection.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green papaya",
+      "amount": "2 cups shredded",
+      "notes": "use fresh, firm papaya"
+    },
+    {
+      "name": "dried shrimp",
+      "amount": "1/4 cup",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "chilies",
+      "amount": "4-6 sliced",
+      "notes": "depending on desired spice level"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried, crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak dried shrimp in water for 30 minutes, then drain and chop finely.",
+    "Combine shredded green papaya, diced tomato, sliced chilies, chopped peanuts, fish sauce, lime juice, palm sugar, crushed bay leaves, and salt in a large mortar.",
+    "Pound the mixture with a pestle for about 5 minutes, until the flavors are well combined and the papaya starts to break down.",
+    "Taste and adjust the seasoning as needed, adding more chilies for extra spice or more fish sauce for added depth.",
+    "Transfer the som tum to a serving platter or individual plates.",
+    "Garnish with additional peanuts, chilies, and a sprinkle of palm sugar, if desired.",
+    "Serve immediately, as the flavors will meld together and the texture will become silky over time.",
+    "Offer sticky rice or crispy rice cakes on the side, if desired, to soak up the flavorful sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "isaan-style",
+    "one-pan",
+    "spicy-food",
+    "street-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-spicy-thai-papaya-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-thai-papaya-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:01:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "bay leaves",
+    "diet": "gluten-free",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "papaya",
+    "descriptor": "Xtra spicy",
+    "dishForm": "Som Tum"
+  }
+}
