@@ -6899,6 +6899,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-garlicky-irish-potato-casserole",
+    "title": "Xtra Garlicky Irish Potato Casserole",
+    "tags": [
+      "comfort-food",
+      "garlicky",
+      "high-protein",
+      "irish",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 65,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-garlicky-jamaican-mozzarella-casserole",
     "title": "Xtra Garlicky Jamaican Mozzarella Casserole",
     "tags": [

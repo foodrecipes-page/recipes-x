@@ -1,0 +1,96 @@
+{
+  "title": "Xtra Garlicky Irish Potato Casserole",
+  "description": "A hearty, garlicky Irish dish featuring stilton cheese, perfect for a post-workout meal. This ovo-vegetarian-friendly casserole is sure to satisfy your cravings.",
+  "cuisine": "Irish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, combine the sliced potatoes and minced garlic.",
+    "In a separate pan, saute the chopped onions in vegetable oil until they are softened.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Add a layer of sauteed onions on top of the potatoes.",
+    "Sprinkle a third of the crumbly stilton cheese over the onions.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "In a small bowl, whisk together the eggs and a pinch of salt and pepper.",
+    "Pour the egg mixture over the top layer of cheese.",
+    "Bake the casserole in the preheated oven for 45 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "garlicky",
+    "high-protein",
+    "irish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "xtra-garlicky-irish-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-garlicky-irish-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:47:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "dum",
+    "primaryIngredient": "stilton cheese",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Xtra garlicky",
+    "dishForm": "Casserole"
+  }
+}
