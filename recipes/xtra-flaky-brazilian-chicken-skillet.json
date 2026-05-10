@@ -1,0 +1,102 @@
+{
+  "title": "Xtra Flaky Brazilian Chicken Skillet",
+  "description": "A herbal and flaky Brazilian dish featuring worcestershire sauce, served in a stone bowl, perfect for a romantic dinner. This flexitarian friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large stone bowl or skillet over medium high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken to the skillet and cook until it is browned and cooked through.",
+    "In a small bowl, whisk together the worcestershire sauce, thyme, salt, and pepper.",
+    "Pour the sauce over the chicken and onions, and stir to combine.",
+    "In a separate bowl, whisk together the flour and eggs to make a flaky crust mixture.",
+    "Pour the crust mixture over the chicken and sauce, and cook for 2-3 minutes, until the crust is golden brown.",
+    "Reduce the heat to low and simmer the skillet for 5 minutes, until the crust is crispy and the sauce is bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "flaky-crust",
+    "flexitarian",
+    "one-pan",
+    "romantic-dinner",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "xtra-flaky-brazilian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-brazilian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:15:41Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Xtra flaky",
+    "dishForm": "Skillet"
+  }
+}
