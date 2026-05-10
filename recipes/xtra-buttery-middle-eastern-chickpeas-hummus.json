@@ -1,0 +1,112 @@
+{
+  "title": "Xtra Buttery Middle Eastern Chickpeas Hummus",
+  "description": "A rich and comforting Middle Eastern dish featuring buttery chickpeas in a molten hummus, perfect for a diabetic-friendly snack or appetizer. This recipe uses an egg wash and braise for added depth of flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup",
+      "notes": " creamy"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "as needed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender or food processor, combine chickpeas, lemon juice, tahini, garlic, and smoked paprika, and blend until smooth.",
+    "Transfer the chickpea mixture to a baking dish and brush the top with the beaten egg for a golden glaze.",
+    "Dot the top of the chickpea mixture with the unsalted butter.",
+    "Cover the dish with aluminum foil and braise for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is golden brown.",
+    "Remove the dish from the oven and let it cool slightly.",
+    "Stir in the salt and water as needed to achieve the desired consistency.",
+    "Serve the hummus warm, drizzled with olive oil and garnished with paprika."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "chickpeas",
+    "diabetic-friendly",
+    "gluten-free",
+    "hummus",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "xtra-buttery-middle-eastern-chickpeas-hummus",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-buttery-middle-eastern-chickpeas-hummus",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:16:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "braise",
+    "primaryIngredient": "egg wash",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Xtra Buttery",
+    "dishForm": "Hummus"
+  }
+}
