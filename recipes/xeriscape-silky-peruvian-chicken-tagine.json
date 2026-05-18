@@ -1,0 +1,115 @@
+{
+  "title": "xeriscape silky peruvian chicken tagine",
+  "description": "a rich and silky one-pot peruvian chicken dish infused with basil and spices, cooked in a clay tajine vessel.",
+  "cuisine": "peruvian",
+  "diet": [
+    "ayurvedic",
+    "tamasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1.5 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in the clay tajine over medium heat.",
+    "add the chopped onion and sauté until translucent.",
+    "add the minced garlic and sauté for 1 minute.",
+    "add the bone-in chicken thighs and cook until browned on all sides.",
+    "add the chopped basil, ground cumin, ground coriander, paprika, salt, and black pepper.",
+    "mix well to combine.",
+    "add the chicken broth and white wine.",
+    "bring the mixture to a boil, then cover the tajine with its lid.",
+    "transfer the tajine to the oven and bake at 375°f for 45 minutes.",
+    "remove the tajine from the oven and let it rest for 10 minutes before serving.",
+    "serve the chicken and sauce hot, garnished with additional chopped basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "high-protein",
+    "one-pot",
+    "paprika",
+    "silky",
+    "tamasic-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "xeriscape-silky-peruvian-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-silky-peruvian-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:05:48Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "papillote",
+    "primaryIngredient": "basil",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "xeriscape silky",
+    "dishForm": "Tagine"
+  }
+}
