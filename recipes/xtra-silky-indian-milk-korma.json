@@ -1,0 +1,108 @@
+{
+  "title": "Xtra Silky Indian Milk Korma",
+  "description": "A rich and creamy Rajasthani dish featuring semi-skimmed milk, this vegan-friendly korma is a perfect comfort food option. It is made with a variety of spices and poached to perfection.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semi-skimmed milk",
+      "amount": "2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the coriander powder, turmeric powder, red chili powder, and salt, and cook for 1 minute.",
+    "Pour in the chilled semi-skimmed milk and stir well.",
+    "Bring the mixture to a simmer and let it cook for 10 minutes or until it thickens.",
+    "Add the nutmeg powder and stir well.",
+    "Reduce the heat to low and let it poach for 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "indian-cuisine",
+    "one-pot",
+    "spicy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "xtra-silky-indian-milk-korma",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-silky-indian-milk-korma",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-18T08:11:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "poach",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "vegan",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "milk",
+    "descriptor": "Xtra Silky",
+    "dishForm": "Korma"
+  }
+}
