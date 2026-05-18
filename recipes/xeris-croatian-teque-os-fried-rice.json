@@ -1,0 +1,104 @@
+{
+  "title": "Xeris Croatian Teque os Fried-Rice",
+  "description": "A dense and energizing Croatian dish featuring pre-fried teque os, deep-fry-tod, and a variety of savory ingredients.",
+  "cuisine": "croatian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "teque os",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pre-fried teque os",
+      "amount": "2 cups"
+    },
+    {
+      "name": "deep-fry-tod",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sour plums",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the pre-fried teque os and cook for 2 minutes.",
+    "Add the deep-fry-tod and cook for 1 minute.",
+    "Add the onion and garlic and cook until softened, about 3 minutes.",
+    "Add the caraway seeds, sour cream, black pepper, and salt. Stir well.",
+    "Add the sour plums and chopped parsley. Stir well.",
+    "Add the cooked teque os and stir well.",
+    "Transfer the mixture to a serving platter and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "croatian-cuisine",
+    "one-pan",
+    "sour-savory",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "xeris-croatian-teque-os-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeris-croatian-teque-os-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:40:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Teque os",
+    "descriptor": "Xeris",
+    "dishForm": "Fried-Rice"
+  }
+}

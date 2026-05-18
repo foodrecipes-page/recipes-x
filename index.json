@@ -2642,6 +2642,20 @@
     "shard": "x"
   },
   {
+    "slug": "xeris-croatian-teque-os-fried-rice",
+    "title": "Xeris Croatian Teque os Fried-Rice",
+    "tags": [
+      "breakfast",
+      "croatian-cuisine",
+      "one-pan",
+      "sour-savory",
+      "weeknight-meal"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xeris-smooth-peruvian-porridge-oats-porridge",
     "title": "Xeris Smooth Peruvian Porridge",
     "tags": [
