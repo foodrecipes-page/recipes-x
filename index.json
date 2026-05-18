@@ -414,6 +414,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-sweet-peruvian-sweet-potato-picarones",
+    "title": "X-tra Sweet Peruvian Sweet Potato Picarones",
+    "tags": [
+      "deep-fried",
+      "dessert",
+      "doughnuts",
+      "marsala",
+      "peruvian",
+      "sweet-potatoes"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-velvety-italian-lettuce-trofie-pasta",
     "title": "X-tra Velvety Italian Lettuce Trofie Pasta",
     "tags": [

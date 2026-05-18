@@ -1,0 +1,97 @@
+{
+  "title": "X-tra Sweet Peruvian Sweet Potato Picarones",
+  "description": "A traditional Peruvian dessert featuring sweet potato doughnuts, deep-fried to perfection and drizzled with a Marsala wine glaze.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large",
+      "notes": "baked until tender"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": "white"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "fine"
+    },
+    {
+      "name": "Marsala wine",
+      "amount": "1/4 cup",
+      "notes": "high-quality"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "Peel and mash the sweet potatoes in a large mixing bowl.",
+    "Whisk together the flour, sugar, cinnamon, and salt in a separate bowl.",
+    "Add the dry ingredients to the sweet potato mixture and mix until a smooth dough forms.",
+    "Knead the dough on a floured surface for 5-7 minutes, until it becomes elastic.",
+    "Divide the dough into 8-10 equal pieces, and shape each piece into a ball.",
+    "Use a fork to create a pattern on each ball of dough, then use your thumbs to create a hole in the center.",
+    "Stretch and thin each piece of dough into a doughnut shape, about 1/4 inch thick.",
+    "Fry the doughnuts in batches for 2-3 minutes on each side, until golden brown.",
+    "Drain the doughnuts on paper towels and let cool for a few minutes.",
+    "Whisk together the Marsala wine and 1 tablespoon of sugar in a small bowl, until well combined.",
+    "Dip the top of each doughnut in the Marsala glaze, and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "dessert",
+    "doughnuts",
+    "marsala",
+    "peruvian",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 32,
+    "fat": 10
+  },
+  "slug": "x-tra-sweet-peruvian-sweet-potato-picarones",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-sweet-peruvian-sweet-potato-picarones",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:18:48Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "brine-wet",
+    "primaryIngredient": "marsala-wine",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Sweet Potatoes",
+    "descriptor": "X-tra Sweet",
+    "dishForm": null
+  }
+}
