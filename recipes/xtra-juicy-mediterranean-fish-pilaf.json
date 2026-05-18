@@ -1,0 +1,107 @@
+{
+  "title": "Xtra Juicy Mediterranean Fish Pilaf",
+  "description": "A comforting Mediterranean dish packed with flavors and textures, featuring juicy fish and a tangy rice vinegar dressing.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets (such as cod or tilapia)",
+      "amount": "4",
+      "notes": "6 ounces each"
+    },
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pickled cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the chopped parsley and dill and cook for 1 minute.",
+    "Add the pickled cucumber and cook for 1 minute.",
+    "Add the uncooked rice to the saucepan and cook for 1-2 minutes, stirring constantly.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes or until the rice is cooked.",
+    "While the rice cooks, prepare the fish fillets by seasoning with salt and black pepper.",
+    "Heat a non-stick skillet over medium-high heat and sear the fish fillets for 2-3 minutes on each side, or until cooked through.",
+    "Flake the cooked fish into large pieces and add to the cooked rice mixture.",
+    "Stir in the white wine vinegar and serve hot.",
+    "Garnish with additional parsley and dill, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "fish",
+    "mediterranean",
+    "one-pan",
+    "pilaf",
+    "rice",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-juicy-mediterranean-fish-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-juicy-mediterranean-fish-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:22:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "pickle",
+    "primaryIngredient": "rice vinegar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fish",
+    "descriptor": "xtra juicy",
+    "dishForm": "Pilaf"
+  }
+}

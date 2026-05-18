@@ -7665,6 +7665,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-juicy-mediterranean-fish-pilaf",
+    "title": "Xtra Juicy Mediterranean Fish Pilaf",
+    "tags": [
+      "easy-dinner",
+      "fish",
+      "mediterranean",
+      "one-pan",
+      "pilaf",
+      "rice",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-juicy-mexican-blueberry-tacos",
     "title": "Xtra Juicy Mexican Blueberry Tacos",
     "tags": [
