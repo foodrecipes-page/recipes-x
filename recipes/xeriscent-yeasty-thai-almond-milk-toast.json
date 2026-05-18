@@ -1,0 +1,107 @@
+{
+  "title": "Xeriscent Yeasty Thai Almond Milk Toast",
+  "description": "A light and airy Thai-inspired toast dish featuring almond milk and a hint of yeast.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond milk",
+      "amount": "1 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Whole wheat bread",
+      "amount": "4 slices",
+      "notes": "day-old"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "rapid rise"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy"
+    },
+    {
+      "name": "Thai red chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine almond milk, yeast, and 1 tablespoon of honey. Let it sit for 5-7 minutes, or until the yeast becomes frothy.",
+    "Preheat a toaster or toaster oven to 350°F (175°C).",
+    "Toast the bread slices until they're lightly browned, about 2-3 minutes per side.",
+    "In a blender or food processor, combine the remaining 1 tablespoon of honey, coconut oil, salt, basil leaves, almond butter, and Thai red chili flakes. Blend until smooth.",
+    "Brush the toasted bread slices with the blended mixture. Top with a dollop of almond butter and a sprinkle of salt.",
+    "Drizzle the yeasty almond milk mixture over the toast and garnish with a sprinkle of basil leaves.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond-milk",
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xeriscent-yeasty-thai-almond-milk-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscent-yeasty-thai-almond-milk-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:55:28Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "almond milk",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "almond milk",
+    "descriptor": "xeriscent yeasty",
+    "dishForm": "Toast"
+  }
+}
