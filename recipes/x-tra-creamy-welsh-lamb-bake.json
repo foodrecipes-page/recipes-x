@@ -1,0 +1,115 @@
+{
+  "title": "x-tra creamy welsh lamb bake",
+  "description": "a rich, comforting welsh dish featuring lamb, kaffir lime leaf, and a touch of char-grilled yam. perfect for a cozy autumn evening.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 lbs lamb shoulder, bone-in",
+      "amount": "2",
+      "notes": "ask your butcher to leave the bone intact for added flavor"
+    },
+    {
+      "name": "2 medium yams",
+      "amount": "2",
+      "notes": "char-grilled yams add a sweet, caramelized flavor to the dish"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": "caramelize the onion slowly to bring out its natural sweetness"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": "mince the garlic and sauté it with the onion for added depth"
+    },
+    {
+      "name": "1 cup lamb or beef broth",
+      "amount": "1",
+      "notes": "use a rich, flavorful broth to enhance the dish's overall flavor"
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "1",
+      "notes": "the heavy cream adds a luxurious, creamy texture to the dish"
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1",
+      "notes": "thyme pairs perfectly with lamb and adds a savory, herbal flavor"
+    },
+    {
+      "name": "1 tsp dried rosemary",
+      "amount": "1",
+      "notes": "rosemary complements thyme nicely and adds a piney flavor"
+    },
+    {
+      "name": "1/4 cup chopped fresh kaffir lime leaf",
+      "amount": "1",
+      "notes": "kaffir lime leaf adds a unique, citrusy flavor to the dish"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1",
+      "notes": "season the lamb with salt for added flavor"
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "1",
+      "notes": "black pepper enhances the flavors of the other ingredients"
+    }
+  ],
+  "instructions": [
+    "preheat your oven to 300°f (150°c).",
+    "season the lamb with salt and black pepper. set aside.",
+    "char-grill the yams over medium-high heat until they're caramelized and slightly charred.",
+    "heat 2 tbsp of oil in a large Dutch oven over medium heat. add the onion and cook slowly until it's caramelized and golden brown.",
+    "add the garlic to the pot and sauté for 1 minute, until fragrant.",
+    "add the lamb to the pot and brown it on all sides. remove the lamb from the pot and set it aside.",
+    "add the broth, heavy cream, thyme, and rosemary to the pot. stir to combine.",
+    "return the lamb to the pot and bring the mixture to a simmer.",
+    "cover the pot with a lid and transfer it to the preheated oven. bake for 2 hours, or until the lamb is tender and falls off the bone.",
+    "remove the pot from the oven and stir in the chopped kaffir lime leaf. season with salt and black pepper to taste.",
+    "serve the lamb hot, garnished with additional kaffir lime leaf if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "weeknight",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "x-tra-creamy-welsh-lamb-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-creamy-welsh-lamb-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:59:37Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "dash",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Lamb",
+    "descriptor": "X-tra Creamy",
+    "dishForm": "Bake"
+  }
+}
