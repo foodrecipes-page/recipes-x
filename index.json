@@ -8310,6 +8310,23 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-peppery-russian-egg-yolks-tagine",
+    "title": "xtra peppery russian egg yolks tagine",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "egg-yolk",
+      "lunch",
+      "ovo-vegetarian",
+      "russian",
+      "snack",
+      "tagine"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-peppery-saudi-arabian-lamb-stir-fry",
     "title": "Xtra Peppery Saudi-Arabian Lamb Stir-Fry",
     "tags": [

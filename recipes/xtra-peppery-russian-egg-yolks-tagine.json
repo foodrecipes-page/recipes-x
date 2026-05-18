@@ -1,0 +1,106 @@
+{
+  "title": "xtra peppery russian egg yolks tagine",
+  "description": "A vibrant, peppery, and festive Russian-inspired egg yolk dish, cooked to perfection in a traditional tagine.",
+  "cuisine": "russian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg yolks",
+      "amount": "6",
+      "notes": "large eggs"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "pink peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "flaky sea salt"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground cumin and coriander, and cook for 1 minute, stirring constantly.",
+    "Add the freshly ground black and pink peppercorns, and cook for 1 minute.",
+    "Carefully add the egg yolks to the tagine, stirring constantly to prevent scrambling.",
+    "Cook for 2-3 minutes, until the egg yolks are cooked to your desired doneness.",
+    "Season with flaky sea salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "egg-yolk",
+    "lunch",
+    "ovo-vegetarian",
+    "russian",
+    "snack",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "xtra-peppery-russian-egg-yolks-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-peppery-russian-egg-yolks-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:56:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "tagine-cook",
+    "primaryIngredient": "egg yolks",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "egg yolks",
+    "descriptor": "xtra peppery",
+    "dishForm": "Tagine"
+  }
+}
