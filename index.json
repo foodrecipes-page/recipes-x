@@ -9989,6 +9989,22 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-spicy-irish-bacon-hash",
+    "title": "Xtra Spicy Irish Bacon Hash",
+    "tags": [
+      "brunch",
+      "hangover-cure",
+      "irish-dish",
+      "low-sodium",
+      "one-pan",
+      "spicy-food",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-spicy-irish-beef-stew",
     "title": "Xtra Spicy Irish Beef Stew",
     "tags": [

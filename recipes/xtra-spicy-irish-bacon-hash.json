@@ -1,0 +1,106 @@
+{
+  "title": "Xtra Spicy Irish Bacon Hash",
+  "description": "A crumbly, spicy, and savory Irish dish featuring Castelvetrano olives and low-sodium-friendly ingredients to cure hangover symptoms.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish bacon",
+      "amount": "12 slices"
+    },
+    {
+      "name": "Castelvetrano olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Russet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and set them aside in a bowl.",
+    "Dice the onion and bell pepper, and set them aside in another bowl.",
+    "Cut the Irish bacon into small pieces and cook them in a pan over medium heat until crispy.",
+    "Remove the cooked bacon from the pan and set it aside.",
+    "Add the diced onion and bell pepper to the same pan and cook until softened.",
+    "Add the grated potatoes, flour, egg, paprika, cayenne pepper, salt, and black pepper to the pan and mix well.",
+    "Return the cooked bacon to the pan and stir to combine.",
+    "Using a spatula, break up any large clumps of the potato mixture and press it down into the pan to form a thick layer.",
+    "Continue cooking for an additional 5 minutes, stirring occasionally, until the potatoes are crispy and golden brown.",
+    "Using a spatula, break up any large clumps of the potato mixture and press it down into the pan to form a thick layer.",
+    "Serve the Xtra Spicy Irish Bacon Hash hot, garnished with Castelvetrano olives and additional ingredients of your choice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "hangover-cure",
+    "irish-dish",
+    "low-sodium",
+    "one-pan",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 46,
+    "fat": 33
+  },
+  "slug": "xtra-spicy-irish-bacon-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-spicy-irish-bacon-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:23:11Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "bacon",
+    "descriptor": "xtra Spicy",
+    "dishForm": "Hash"
+  }
+}
