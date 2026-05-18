@@ -1,0 +1,105 @@
+{
+  "title": "X-tra Crisp Fried German Long-bean Fried-Rice",
+  "description": "A twist on traditional fried rice, featuring German long-beans and kombu-cold-extract, perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "german long-beans",
+      "amount": "1 cup",
+      "notes": " trimmed and chopped"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons",
+      "notes": "dissolved in 2 cups of water"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "kosher-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the canola oil in a comal or large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped German long-beans and cook until tender, about 4 minutes.",
+    "Add the cooked rice to the comal or skillet and stir-fry for 2-3 minutes.",
+    "Add the dissolved kombu-cold-extract, soy sauce, salt, and pepper to the rice mixture.",
+    "Stir-fry the rice mixture for another 2-3 minutes, until the rice is coated in the liquid and starting to crisp.",
+    "Transfer the fried rice to a serving platter or individual plates.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with chopped green onions or grated carrot for added color and freshness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-extract",
+    "fried-rice",
+    "german",
+    "kombu",
+    "kosher-friendly",
+    "long-beans",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "x-tra-crisp-fried-german-long-bean-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-crisp-fried-german-long-bean-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:11:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "long-bean",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "long-bean",
+    "descriptor": "X-tra Crisp Fried",
+    "dishForm": "Fried-Rice"
+  }
+}

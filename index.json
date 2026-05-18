@@ -145,6 +145,23 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-crisp-fried-german-long-bean-fried-rice",
+    "title": "X-tra Crisp Fried German Long-bean Fried-Rice",
+    "tags": [
+      "cold-extract",
+      "fried-rice",
+      "german",
+      "kombu",
+      "kosher-friendly",
+      "long-beans",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-crispy-australian-vegetables-flatbread",
     "title": "X-tra Crispy Australian Vegetables Flatbread",
     "tags": [
