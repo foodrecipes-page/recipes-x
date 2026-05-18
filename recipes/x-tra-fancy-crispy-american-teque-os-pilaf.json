@@ -1,0 +1,96 @@
+{
+  "title": "x-tra fancy crispy american teque os pilaf",
+  "description": "a pescatarian-friendly pilaf dish featuring pre-fried teque os, topped with shio-cure and crispy shallots",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "teque os",
+      "amount": "12 ounces",
+      "notes": "pre-fried"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped shallots",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the butter in a mini cocotte over medium heat until melted",
+    "add the chopped shallots to the cocotte and cook until crispy",
+    "add the cooked white rice to the cocotte and stir to combine",
+    "add the pre-fried teque os to the cocotte and stir to combine",
+    "add the chopped fresh chives to the cocotte and stir to combine",
+    "season with kosher salt and black pepper to taste",
+    "top with shio-cure and crispy shallots",
+    "serve immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "american-cuisine",
+    "fancy",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "x-tra-fancy-crispy-american-teque-os-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-fancy-crispy-american-teque-os-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:43:38Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "shio-cure",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Teque Os",
+    "descriptor": "X-tra Fancy Crispy",
+    "dishForm": "Pilaf"
+  }
+}

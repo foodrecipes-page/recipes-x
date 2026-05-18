@@ -239,6 +239,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-fancy-crispy-american-teque-os-pilaf",
+    "title": "x-tra fancy crispy american teque os pilaf",
+    "tags": [
+      "american-cuisine",
+      "fancy",
+      "high-protein",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-flaky-french-pastry-tart",
     "title": "X-tra Flaky French Pastry Tart",
     "tags": [
