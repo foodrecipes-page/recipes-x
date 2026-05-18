@@ -1,0 +1,102 @@
+{
+  "title": "x-tra springy norwegian salmon wrap",
+  "description": "a crispy norwegian-inspired salmon dish featuring a delicate dashi extract and wrapped in a crispy lotus leaf wrap for a keto-friendly brunch option.",
+  "cuisine": "norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "atlantic salmon fillet",
+      "amount": "1"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "chopped, to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped fresh chives",
+      "amount": "for garnish"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "for brushing"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f.",
+    "pat salmon dry with paper towels and season with kosher salt and black pepper.",
+    "heat a skillet over medium heat and add unsalted butter.",
+    "add the salmon skin side up to the skillet and sear for 2-3 minutes.",
+    "flip the salmon over and cook for an additional 2-3 minutes or until cooked through.",
+    "meanwhile, warm the dashi extract in a small saucepan over low heat.",
+    "brush the lotus leaf wraps with avocado oil and place on a baking sheet.",
+    "bake the wraps in the oven for 2-3 minutes or until crispy.",
+    "to assemble the wrap, place a cooked salmon fillet on the bottom half of the wrap.",
+    "brush the top half of the wrap with the warmed dashi extract and place on top of the salmon.",
+    "garnish with chopped fresh chives and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-option",
+    "dairy-free",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "spring-recipe",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 40
+  },
+  "slug": "x-tra-springy-norwegian-salmon-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-springy-norwegian-salmon-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T22:57:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "dashi-extract",
+    "primaryIngredient": "salmon",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "X-tra Springy",
+    "dishForm": "Wrap"
+  }
+}
