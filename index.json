@@ -462,6 +462,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-spicy-wok-seared-american-chicken-stir-fry",
+    "title": "X-tra Spicy Wok-Seared American Chicken Stir-fry",
+    "tags": [
+      "dairy-free",
+      "high-protein",
+      "one-pan",
+      "quick",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "American-Chinese fusion",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-sweet-peruvian-sweet-potato-picarones",
     "title": "X-tra Sweet Peruvian Sweet Potato Picarones",
     "tags": [

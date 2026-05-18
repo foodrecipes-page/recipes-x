@@ -1,0 +1,118 @@
+{
+  "title": "X-tra Spicy Wok-Seared American Chicken Stir-fry",
+  "description": "A spicy and flavorful dish featuring American chicken, wok-seared in a tandoor clay pot with a medley of vegetables and a hint of tahini.",
+  "cuisine": "American-Chinese fusion",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's dairy-free"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "use a low-sodium version"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tablespoon",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for wok-searing"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tablespoon",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor clay pot over high heat until it reaches 450°F.",
+    "Add 1 tablespoon of sesame oil to the pot and swirl it around to coat the bottom.",
+    "Add the chicken to the pot and cook for 5 minutes, or until browned on all sides.",
+    "Add the garlic, ginger, and onion to the pot and cook for 2 minutes, or until the onion is translucent.",
+    "Add the bell peppers, snow peas, and soy sauce to the pot and cook for 3 minutes, or until the vegetables are tender-crisp.",
+    "Stir in the tahini, Gochujang, and rice vinegar. Cook for 1 minute, or until the sauce has thickened.",
+    "Season the stir-fry with salt and pepper to taste.",
+    "Serve the X-tra Spicy Wok-Seared American Chicken Stir-fry hot, garnished with sliced green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "quick",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "x-tra-spicy-wok-seared-american-chicken-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-spicy-wok-seared-american-chicken-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:09:51Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "wok-hei",
+    "primaryIngredient": "tahini",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "X-tra Spicy Wok-Seared",
+    "dishForm": "Stir-fry"
+  }
+}
