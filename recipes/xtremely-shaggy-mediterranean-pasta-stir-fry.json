@@ -1,0 +1,95 @@
+{
+  "title": "Xtremely Shaggy Mediterranean Pasta Stir-fry",
+  "description": "A one-pot mediterranean pasta dish featuring fermented flavours, perfect for a quick dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten-free pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "bhuna curry paste",
+      "amount": "2tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "200g",
+      "notes": "canned"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add onion and garlic and cook until softened, about 3 minutes.",
+    "Add gluten-free pasta, bhuna curry paste, and tomatoes. Stir to combine.",
+    "Bring to a simmer, then reduce heat to low and cook for 15 minutes.",
+    "Stir in feta cheese until melted and combined.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot.",
+    "If desired, add some chopped fresh herbs like parsley or oregano on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "mediterranean",
+    "one-pot",
+    "quick",
+    "veggie-rich"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtremely-shaggy-mediterranean-pasta-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtremely-shaggy-mediterranean-pasta-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T12:50:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "parsley",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "pasta",
+    "descriptor": "Xtremely shaggy",
+    "dishForm": "Stir-fry"
+  }
+}
