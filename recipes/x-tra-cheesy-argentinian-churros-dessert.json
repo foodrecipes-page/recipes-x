@@ -1,0 +1,108 @@
+{
+  "title": "X-tra Cheesy Argentinian Churros Dessert",
+  "description": "Moist and cheesy churros served with a creamy Argentinean dulce de leche and rich low-fat chocolate sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1 cup"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "semisweet chocolate chips",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, baking powder, sugar, and salt.",
+    "In a separate mixing bowl, whisk together milk, egg, and melted butter.",
+    "Slowly pour the wet ingredients into the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes elastic.",
+    "Heat the canola oil in a deep frying pan over medium-high heat.",
+    "Fry the dough in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the churros on paper towels and let cool.",
+    "In a separate saucepan, heat the dulce de leche over low heat.",
+    "In a separate bowl, melt the chocolate chips in the microwave or over a double boiler.",
+    "Dip the cooled churros into the melted chocolate and then into the dulce de leche.",
+    "Place the coated churros on a serving platter and refrigerate for at least 30 minutes.",
+    "Serve the X-tra Cheesy Argentinian Churros Dessert chilled and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "cheesy",
+    "chocolate",
+    "dessert",
+    "dulce-de-leche",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "x-tra-cheesy-argentinian-churros-dessert",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-cheesy-argentinian-churros-dessert",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T09:22:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "custard",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "churros",
+    "descriptor": "X-tra Cheesy",
+    "dishForm": "Dessert"
+  }
+}

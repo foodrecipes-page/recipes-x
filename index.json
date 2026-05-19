@@ -71,6 +71,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-cheesy-argentinian-churros-dessert",
+    "title": "X-tra Cheesy Argentinian Churros Dessert",
+    "tags": [
+      "argentinian",
+      "cheesy",
+      "chocolate",
+      "dessert",
+      "dulce-de-leche",
+      "low-fat"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-citrusy-airy-portuguese-doenjang-wrap",
     "title": "x-tra citrusy airy portuguese doenjang wrap",
     "tags": [
