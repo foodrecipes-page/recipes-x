@@ -1,0 +1,96 @@
+{
+  "title": "Xerific Creamy Portuguese Cornstarch Bake",
+  "description": "A post-workout Portuguese dish featuring a cultured, glassy-jelly texture made with cornstarch, perfect for a muscle recovery snack.",
+  "cuisine": "portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornstarch",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg replacers",
+      "amount": "3",
+      "notes": "flaxseed or chia eggs mix with water"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the cornstarch and sugar.",
+    "Gradually add in the almond milk, whisking constantly to avoid lumps.",
+    "Add in the flaxseed or chia eggs, coconut oil, vanilla extract, lemon zest, and lemon juice. Whisk until smooth.",
+    "Pour the mixture into a greased 9-inch (23cm) terracotta dish.",
+    "Place the dish in a large steamer basket and steam for 20 minutes.",
+    "Remove the dish from the steamer and transfer it to the preheated oven.",
+    "Bake for an additional 20-25 minutes, or until the top is golden brown and the mixture is set.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "easy-snack",
+    "gluten-free",
+    "high-protein",
+    "muscle-recovery",
+    "one-pan",
+    "post-workout",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "xerific-creamy-portuguese-cornstarch-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xerific-creamy-portuguese-cornstarch-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T00:50:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "cornstarch",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cornstarch",
+    "descriptor": "xerific creamy",
+    "dishForm": "Bake"
+  }
+}
