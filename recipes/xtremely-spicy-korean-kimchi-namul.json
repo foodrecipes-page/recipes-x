@@ -1,0 +1,99 @@
+{
+  "title": "Xtremely Spicy Korean Kimchi Namul",
+  "description": "A spicy, molten, and savory Korean dish made with green olives, perfect for a post-workout meal. This version is Jain-friendly, using no onions or garlic.",
+  "cuisine": "Korean",
+  "diet": [
+    "Jain",
+    "Vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "250g"
+    },
+    {
+      "name": "green olives",
+      "amount": "120g"
+    },
+    {
+      "name": "gochugaru (Korean chili flakes)",
+      "amount": "2tsp"
+    },
+    {
+      "name": "fish sauce (optional, omit for vegan)",
+      "amount": "1tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1tsp"
+    },
+    {
+      "name": "lacquer glaze (for serving)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the cabbage and remove any tough stems or leaves. Cut into 1-inch pieces and soak in cold water for 30 minutes.",
+    "Drain and rinse the cabbage, then set aside.",
+    "In a blender or food processor, combine the green olives, gochugaru, fish sauce (if using), rice vinegar, sugar, sesame oil, and soy sauce.",
+    "Blend until smooth, then set aside.",
+    "In a large bowl, combine the blended mixture and the cabbage.",
+    "Mix well to combine, then cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, heat a small non-stick pan over medium heat and add the lacquer glaze.",
+    "Cook for 1-2 minutes, stirring constantly, until the glaze is smooth and syrupy.",
+    "Serve the kimchi namul in individual portions, topped with the warm lacquer glaze.",
+    "Garnish with additional green olives, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 5,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "jain-friendly",
+    "korean",
+    "one-pan",
+    "post-workout",
+    "spicy",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtremely-spicy-korean-kimchi-namul",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtremely-spicy-korean-kimchi-namul",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T04:36:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "green olives",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Kimchi",
+    "descriptor": "Xtremely Spicy",
+    "dishForm": "Namul"
+  }
+}
