@@ -1,0 +1,114 @@
+{
+  "title": "Xeriscent Monsoon Croatian Chicken Liver Stew",
+  "description": "Funky, cheese-pull stew featuring chicken liver, simmered in a blend of Croatian spices and herbs, served in a terracotta dish.",
+  "cuisine": "Croatian",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken livers",
+      "amount": "1",
+      "notes": "1 pound, fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "provolone cheese",
+      "amount": "1 cup",
+      "notes": "shredded, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large terracotta dish over medium-high heat.",
+    "Add the onion and garlic and sauté until softened, about 5 minutes.",
+    "Add the chicken livers and cook until browned on all sides, about 5 minutes.",
+    "Add the chicken broth, Croatian paprika, dried thyme, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Preheat the broiler.",
+    "Stir the stew to combine, then top with shredded provolone cheese and broil until golden brown, about 2-3 minutes.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Let the stew rest for a few minutes before serving, as it will continue to thicken and the flavors will meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "liver-stew",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "xeriscent-monsoon-croatian-chicken-liver-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscent-monsoon-croatian-chicken-liver-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:03:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "chicken liver",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "xeriscent monsoon",
+    "dishForm": "stew"
+  }
+}
