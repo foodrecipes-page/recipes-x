@@ -1,0 +1,65 @@
+{
+  "title": "xtra savory spanish beef paella",
+  "description": "traditional valencian paella with beef stock concentrate, a winey, cheesy, and savory hangover cure",
+  "cuisine": "spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": "beef base, not bouillon"
+    }
+  ],
+  "instructions": [
+    "heat a large paella pan or skillet over medium-high heat",
+    "add 2 tablespoons of olive oil and saut\u00152 some onions until translucent",
+    "add 1 cup of sliced bell peppers and cook until tender",
+    "add 1 cup of sliced mushrooms and cook until they release their liquid and start to brown",
+    "add 1 cup of uncooked Arborio rice and cook for 1-2 minutes, stirring constantly",
+    "add 4 cups of beef broth, 2 cups of water, and 2 tablespoons of beef stock concentrate; bring to a boil",
+    "reduce heat to low, cover, and simmer for 20-25 minutes or until the liquid has been absorbed and the rice is tender",
+    "add 1 cup of grated manchego cheese and stir until melted",
+    "serve hot, garnished with lemon wedges"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cure",
+    "easy-clean",
+    "hangover",
+    "one-pan",
+    "paella",
+    "spanish",
+    "valencian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "xtra-savory-spanish-beef-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-savory-spanish-beef-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:09:21Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "diabetic-friendly",
+    "region": "valencian",
+    "cuisineAdjective": "spanish",
+    "mainIngredient": "beef",
+    "descriptor": "xtra savory",
+    "dishForm": "paella"
+  }
+}
