@@ -1,0 +1,96 @@
+{
+  "title": "x-tra chocolatey jamaican oats bake",
+  "description": "a moist and aerated jamaican-inspired oat bake featuring caramelized chocolate and crunchy coconut flakes.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c).",
+    "grease an 8-inch square baking dish with coconut oil and set aside.",
+    "in a large mixing bowl, combine the oats, almond milk, cocoa powder, sugar, and melted coconut oil. Mix well until the oats are evenly coated.",
+    "add the eggs, yogurt, and vanilla extract to the bowl and mix until the batter is smooth.",
+    "stir in the unsweetened shredded coconut and caramelized chocolate chips.",
+    "pour the batter into the prepared baking dish and smooth the top.",
+    "bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+    "remove from the oven and let cool slightly before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolatey",
+    "dessert",
+    "easy-to-make",
+    "jamaican",
+    "oat-bake",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "x-tra-chocolatey-jamaican-oats-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-chocolatey-jamaican-oats-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:31:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "oats",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "oats",
+    "descriptor": "X-tra Chocolatey",
+    "dishForm": "Bake"
+  }
+}

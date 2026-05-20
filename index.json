@@ -102,6 +102,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-chocolatey-jamaican-oats-bake",
+    "title": "x-tra chocolatey jamaican oats bake",
+    "tags": [
+      "chocolatey",
+      "dessert",
+      "easy-to-make",
+      "jamaican",
+      "oat-bake",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-citrusy-airy-portuguese-doenjang-wrap",
     "title": "x-tra citrusy airy portuguese doenjang wrap",
     "tags": [
