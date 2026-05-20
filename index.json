@@ -57,6 +57,22 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-adventurous-american-burrata-tagine",
+    "title": "X-tra Adventurous American Burrata Tagine",
+    "tags": [
+      "adventurous-american",
+      "easy-gourmet",
+      "gluten-free",
+      "herb-infused",
+      "one-pan",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-aerated-vietnamese-chicken-vietnamese-chicken-pho",
     "title": "X-tra Aerated Vietnamese Chicken Pho",
     "tags": [

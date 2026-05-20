@@ -1,0 +1,121 @@
+{
+  "title": "X-tra Adventurous American Burrata Tagine",
+  "description": "A fusion of traditional American flavors with the exotic, aromatic spices of the Middle East, featuring creamy burrata cheese in a hearty, flavorful tagine.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Burrata cheese",
+      "amount": "1 ball",
+      "notes": "imported from Italy"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pitted dates",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for smokiness"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy-bottomed skillet or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chickpeas, dried apricots, pitted dates, cumin, coriander, smoked paprika, and salt.",
+    "Cook for 5-7 minutes, stirring occasionally, until the flavors have melded together and the apricots are slightly tender.",
+    "Add the burrata cheese to the skillet and stir gently to combine.",
+    "Continue cooking for an additional 2-3 minutes, until the cheese has melted and the mixture is heated through.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Serve with crusty bread or over couscous for a filling meal.",
+    "Adjust the seasoning as needed and serve hot.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-american",
+    "easy-gourmet",
+    "gluten-free",
+    "herb-infused",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "x-tra-adventurous-american-burrata-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-adventurous-american-burrata-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:31:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "tagine-cook",
+    "primaryIngredient": "burrata",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "burrata",
+    "descriptor": "X-tra Adventurous",
+    "dishForm": "Tagine"
+  }
+}
