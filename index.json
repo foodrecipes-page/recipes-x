@@ -8572,6 +8572,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-mozzarella-syrian-cheese-casserole",
+    "title": "xtra mozzarella syrian cheese casserole",
+    "tags": [
+      "cheese-pull",
+      "comfort-food",
+      "one-pan",
+      "syrian-cuisine",
+      "vegetarian-main-dish",
+      "weeknight-meal"
+    ],
+    "cuisine": "syrian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-nutty-algerian-white-beans-tagine",
     "title": "Xtra Nutty Algerian White Beans Tagine",
     "tags": [

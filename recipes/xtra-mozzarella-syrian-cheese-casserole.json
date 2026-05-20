@@ -1,0 +1,117 @@
+{
+  "title": "xtra mozzarella syrian cheese casserole",
+  "description": "A rich, cheese-pull, one-pot syrian dish featuring cocoa powder and lardons. Perfect for a comforting meal.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lardons",
+      "amount": "1 cup",
+      "notes": "pork belly or bacon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lardons in a large skillet over medium heat until browned.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the cocoa powder, flour, cumin, coriander, salt, and pepper. Cook for 1 minute.",
+    "Add the beaten eggs and milk to the skillet and stir until the mixture is smooth.",
+    "Stir in the ricotta cheese and mozzarella cheese until well combined.",
+    "Transfer the mixture to a large bento box or a 9x13 inch baking dish.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Serve the casserole hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "one-pan",
+    "syrian-cuisine",
+    "vegetarian-main-dish",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "xtra-mozzarella-syrian-cheese-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-mozzarella-syrian-cheese-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:45:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "one-pot",
+    "technique": "lardons-render",
+    "primaryIngredient": "cocoa powder",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Xtra Mozzarella",
+    "dishForm": "Casserole"
+  }
+}
