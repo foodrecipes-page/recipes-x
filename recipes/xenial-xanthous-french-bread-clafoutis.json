@@ -1,0 +1,74 @@
+{
+  "title": "xenial xanthous french bread clafoutis",
+  "description": "a warm, comforting french bread dessert featuring a crispy top and a molten center, perfect for a cold winter evening",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1 tsp",
+      "notes": "diabetic-friendly",
+      "},{": "<<--(invalid character found here), fixed version below.   "
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for double-rise bread"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375 f. place 1 cup of water, 1 tsp of sugar, and the xanthan gum in a saucepan over medium heat, stirring occasionally, until the sugar dissolves",
+    "mix 1 cup of all-purpose flour and 1/2 cup of sugar in a separate bowl",
+    "slowly pour the flour mixture into the saucepan, stirring constantly to avoid lumps",
+    "transfer the mixture to a 9x13 inch baking dish and bake for 20-25 minutes, or until the top is golden brown",
+    "remove the baking dish from the oven and top with 1 cup of shredded garlic"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "diabetic-friendly",
+    "flour-dough",
+    "one-pan",
+    "weeknight",
+    "wintery",
+    "xanthan-gum"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "xenial-xanthous-french-bread-clafoutis",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-xanthous-french-bread-clafoutis",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:12:45Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "garlic clove",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "bread",
+    "descriptor": "Xenial Xanthous",
+    "dishForm": "Clafoutis"
+  }
+}

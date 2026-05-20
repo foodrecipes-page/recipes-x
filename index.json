@@ -2820,6 +2820,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-xanthous-french-bread-clafoutis",
+    "title": "xenial xanthous french bread clafoutis",
+    "tags": [
+      "diabetic-friendly",
+      "flour-dough",
+      "one-pan",
+      "weeknight",
+      "wintery",
+      "xanthan-gum"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-xanthous-french-chicken-blanquette",
     "title": "Xenial Xanthous French Chicken Blanquette",
     "tags": [
