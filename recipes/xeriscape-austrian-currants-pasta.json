@@ -1,0 +1,122 @@
+{
+  "title": "xeriscape austrian currants pasta",
+  "description": "citrusy, dense, monsoon australian dish featuring currants, pasta-water-emulsion, ayurvedic-sattvic-friendly",
+  "cuisine": "austrian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried austrian currants",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat spaghetti",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ayurvedic ghee",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh turmeric",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "cook whole wheat spaghetti in boiling water until al dente.",
+    "heat canola oil in a large skillet over medium heat.",
+    "add small onion and cook until translucent.",
+    "add dried austrian currants, lemon juice, ayurvedic ghee, salt, black pepper, turmeric, and ginger to the skillet and stir to combine.",
+    "add cooked spaghetti to the skillet and toss to coat with the currant mixture.",
+    "stir in fresh parsley, cilantro, and water to create a pasta-water-emulsion.",
+    "serve immediately and garnish with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "austrian",
+    "one-pan",
+    "sattvic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 22,
+    "carbs": 104,
+    "fat": 26
+  },
+  "slug": "xeriscape-austrian-currants-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-austrian-currants-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:06:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "currants",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Austrian",
+    "mainIngredient": "currants",
+    "descriptor": "xeriscape",
+    "dishForm": "Pasta"
+  }
+}
