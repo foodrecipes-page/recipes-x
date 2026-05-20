@@ -1,0 +1,99 @@
+{
+  "title": "xeriscape smoked japanese charred tofu noodles",
+  "description": "a unique hangover cure featuring rose water, smoke, and a fodmap-friendly twist on traditional charred tofu noodles. charred and aerated for a fascinating texture.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": "fodmap-friendly alternative to traditional noodles"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "for added umami and texture"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat a salt block to 450f (230c) for 1 hour. place the tofu block on the salt block and char for 5 minutes on each side. remove the tofu from the salt block and set aside. in a separate pan, toast the rice noodles over medium heat for 2 minutes. add the soy sauce, sugar, sesame oil, garlic, and ginger to the pan and stir to combine. add the kombu to the pan and stir for 1 minute. add the cooked noodles to the pan and stir to combine. add the rose water and stir to combine. slice the charred tofu into thin strips and add to the pan. season with black pepper to taste. serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fodmap-friendly",
+    "hangover-cure",
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xeriscape-smoked-japanese-charred-tofu-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-smoked-japanese-charred-tofu-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:29:37Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "rose water",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "charred tofu",
+    "descriptor": "xeriscape smoked",
+    "dishForm": "noodles"
+  }
+}
