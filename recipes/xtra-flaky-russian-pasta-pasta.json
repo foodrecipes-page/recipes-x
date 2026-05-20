@@ -1,0 +1,64 @@
+{
+  "title": "xtra-flaky russian pasta pasta",
+  "description": "a resinous, flaky, lazy-sunday russian dish featuring penne pasta with an al-dente finish, perfect for a buddhist temple-friendly iron teppan vessel",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "12 oz",
+      "notes": "dried, gluten-free"
+    }
+  ],
+  "instructions": [
+    "cook the penne pasta according to package instructions until al-dente.",
+    "in a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "add 2 cloves of minced garlic and saut\u00113e until fragrant.",
+    "whisk in 1 cup of milk and 1 large egg.",
+    "bring the mixture to a simmer and cook until thickened.",
+    "remove from heat and stir in 1/2 cup of grated cheese and 1 tablespoon of chopped fresh parsley.",
+    "add the cooked penne pasta to the skillet and toss until well coated.",
+    "season with salt, black pepper, and dried thyme to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "pasta",
+    "russian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "xtra-flaky-russian-pasta-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-flaky-russian-pasta-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:59:23Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "penne pasta",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pasta",
+    "descriptor": "xtra-flaky",
+    "dishForm": "Pasta"
+  }
+}
