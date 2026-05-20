@@ -1,0 +1,125 @@
+{
+  "title": "Xylophonic Spicy Green Korean Red Lentils Kalguksu Copper Pot Jjigae",
+  "description": "A peppery, gooey, and adventurous Korean dish from the Jeolla region featuring green red lentils, ssam-wrap, and a copper pot.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green Red Lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ssam Wrap",
+      "amount": "4-6 sheets",
+      "notes": "gluten-free friendly"
+    },
+    {
+      "name": "Korean Chopped Green Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Toasted Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Korean Chili Paste",
+      "amount": "1 tablespoon",
+      "notes": "gochugaru-based"
+    }
+  ],
+  "instructions": [
+    "Heat a copper pot over medium-high heat.",
+    "Add 1 tablespoon of toasted sesame oil and swirl it around.",
+    "Add 1 cup of green red lentils and cook for 2 minutes, stirring frequently.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 20 minutes, or until the lentils are tender.",
+    "While the lentils cook, heat another copper pot over medium heat.",
+    "Add 2 tablespoons of gochujang and cook for 1 minute, stirring constantly.",
+    "Add 1/2 cup of Korean chopped green onions and cook for another minute, stirring frequently.",
+    "Add 1 teaspoon of Korean chili flakes and cook for 30 seconds, stirring constantly.",
+    "Add 1/2 teaspoon of salt and 1/4 teaspoon of black pepper, and stir to combine.",
+    "Add 2 cloves of minced garlic and cook for 30 seconds, stirring constantly.",
+    "Add 1 tablespoon of fish sauce and stir to combine.",
+    "Add the cooked lentils to the pot and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "To assemble the dish, place a sheet of ssam wrap on a flat surface and spoon the lentil mixture onto the center of the wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Repeat with the remaining ingredients and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "gluten-free",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "xylophonic-spicy-green-korean-red-lentils-kalguksu-copper-pot-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xylophonic-spicy-green-korean-red-lentils-kalguksu-copper-pot-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:19:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "green red lentils",
+    "diet": "gluten-free",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Red Lentils",
+    "descriptor": "Xylophonic Spicy Green",
+    "dishForm": "Kalguksu Copper Pot Jjigae"
+  }
+}
