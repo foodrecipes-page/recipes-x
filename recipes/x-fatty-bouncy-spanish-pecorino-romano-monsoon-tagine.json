@@ -1,0 +1,89 @@
+{
+  "title": "X-Fatty-Bouncy Spanish Pecorino-Romano Monsoon Tagine",
+  "description": "This keto-friendly X-Fatty-Bouncy Spanish Pecorino-Romano Monsoon Tagine features a blend of creamy pecorino-romano and crispy fried elements, perfect for snacking or as a light dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pecorino-romano cheese",
+      "amount": 100
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2-3"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "medium-sized"
+    },
+    {
+      "name": "fry oil",
+      "amount": 150
+    },
+    {
+      "name": "coconut milk",
+      "amount": "half cup"
+    },
+    {
+      "name": "paprika powder",
+      "amount": 20
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat fry oil in cazuela to medium-high heat.",
+    "Add chopped onion and garlic, sauté for 2 minutes or until softened.",
+    "Stir in pecorino-romano cheese and paprika powder; mix well until melted and blended with the onion-garlic mixture.",
+    "Pour coconut milk over the mixture and stir to combine evenly.",
+    "Simmer on low heat for about 10 minutes, stirring occasionally until thickened slightly.",
+    "Add thyme leaves and cumin seeds, stir gently, and remove from heat immediately.",
+    "Serve hot as a snack or light dinner dish."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "monsoon-tagine",
+    "one-pan",
+    "snack-dish",
+    "spanish-pecorino-romano",
+    "x-fatty-bouncy"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "x-fatty-bouncy-spanish-pecorino-romano-monsoon-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-fatty-bouncy-spanish-pecorino-romano-monsoon-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T23:10:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "fry",
+    "primaryIngredient": "pecorino-romano",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pecorino-romano",
+    "descriptor": "Fatty-Bouncy",
+    "dishForm": "Tagine"
+  }
+}
