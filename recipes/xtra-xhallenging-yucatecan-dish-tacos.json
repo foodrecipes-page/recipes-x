@@ -1,0 +1,126 @@
+{
+  "title": "Xtra Xhallenging Yucatecan Dish Tacos",
+  "description": "A savory and energizing Mexican dish from the Yucatecan region, featuring a glassy-jelly texture and a blend of mixed spices. This recipe is satvik-friendly and perfect for a quick lunch or dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chayote squash",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Ancho chili peppers",
+      "amount": "2",
+      "notes": "dried, rehydrated, and chopped"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped ancho chili peppers and cook for 2 minutes, until softened.",
+    "Add the diced chayote squash and cook until tender, about 10-12 minutes.",
+    "In a blender or food processor, combine the cooked squash mixture, cumin, cayenne pepper, salt, and black pepper. Blend until smooth.",
+    "Heat the remaining 1 tablespoon of coconut oil in the skillet over medium heat.",
+    "Add the blended squash mixture and cook for 2-3 minutes, until heated through.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the squash mixture onto a tortilla, followed by a sprinkle of chopped cilantro, a squeeze of lime juice, and a drizzle of honey.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mexican",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "xtra-xhallenging-yucatecan-dish-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-xhallenging-yucatecan-dish-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:50:19Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "saute",
+    "primaryIngredient": "mixed spice",
+    "diet": "satvik",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "mixed spice",
+    "descriptor": "Energizing",
+    "dishForm": "Tacos"
+  }
+}
