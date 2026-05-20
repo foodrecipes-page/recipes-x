@@ -1,0 +1,102 @@
+{
+  "title": "Xeriscape Tender Argentinian Chicken Liver Bread",
+  "description": "A grassy, tender monsoon-inspired Argentinian dish featuring chicken liver and double-rise-bread, ovo-vegetarian-friendly, cooked in a kadhai.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "250g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "400g"
+    },
+    {
+      "name": "yeast",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a bowl and let it sit for 5 minutes.",
+    "Add flour, salt, and black pepper to the bowl and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Heat 20ml of olive oil in a kadhai over medium heat.",
+    "Add minced garlic and cook for 2 minutes until fragrant.",
+    "Add chicken liver and cook for 5 minutes until browned.",
+    "Add smoked paprika and lemon juice, stir to combine.",
+    "Preheat the oven to 200C.",
+    "Shape the risen dough into a round and place it on a baking sheet.",
+    "Bake the bread in the preheated oven for 25 minutes until golden brown.",
+    "Let the bread cool for 5 minutes before slicing.",
+    "Serve the bread with the chicken liver mixture on top.",
+    "Garnish with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "high-protein",
+    "monsoon",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "xeriscape-tender-argentinian-chicken-liver-bread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-tender-argentinian-chicken-liver-bread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:07:52Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chicken liver",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "xeriscape tender",
+    "dishForm": "Bread"
+  }
+}

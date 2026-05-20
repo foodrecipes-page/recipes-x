@@ -1,0 +1,144 @@
+{
+  "title": "Xtra Crisp Italian Beef Gnocchi",
+  "description": "Umami-packed Italian dish featuring crispy gnocchi and tender beef, made with unsalted beef stock and nuka-pickle for added depth.",
+  "cuisine": "italian",
+  "diet": [
+    "keto",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted beef stock",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "nuka-pickle juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1 teaspoon",
+      "notes": "keto-friendly thickener"
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "gnocchi press",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grana padano",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine ricotta cheese, parmesan cheese, and xanthan gum in a bowl. ",
+    "Add beef, eggs, and all-purpose flour to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a long rope.",
+    "Cut the rope into 1-inch pieces to form gnocchi.",
+    "Press the tines of a fork into the gnocchi to create texture.",
+    "Heat olive oil in a large skillet over medium-high heat. ",
+    "Add gnocchi to the skillet and cook until crispy and golden, about 3-4 minutes per side.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Add nuka-pickle juice, garlic powder, and italian seasoning to the skillet and stir to combine.",
+    "Simmer the sauce for 2 minutes until heated through.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with fresh parsley and grana padano, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "gnocchi",
+    "italian",
+    "keto",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "xtra-crisp-italian-beef-gnocchi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crisp-italian-beef-gnocchi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:07:56Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "beef",
+    "descriptor": "Xtra Crisp",
+    "dishForm": "Gnocchi"
+  }
+}
