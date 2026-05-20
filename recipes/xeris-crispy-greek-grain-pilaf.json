@@ -1,0 +1,114 @@
+{
+  "title": "Xeris Crispy Greek Grain Pilaf",
+  "description": "A resinous, crunchy, pescatarian-friendly Greek grain pilaf featuring mixed grains and a flavorful citrus-herb reduction.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "250g"
+    },
+    {
+      "name": "bulgur",
+      "amount": "120g"
+    },
+    {
+      "name": "kamut",
+      "amount": "80g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "50g"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the chopped onion and cook, stirring occasionally, until translucent.",
+    "Add the minced garlic and cook for 1-2 minutes, stirring constantly.",
+    "Add the long-grain rice, bulgur, kamut, dried oregano, and black pepper.",
+    "Stir for 2-3 minutes, until the rice and grains are coated in oil and lightly toasted.",
+    "Add the lemon juice, tomato paste, and 300ml of water.",
+    "Bring to a boil, then reduce the heat to low and cover.",
+    "Simmer for 20-25 minutes, or until the liquid has been absorbed and the grains are tender.",
+    "Fluff the pilaf with a fork and stir in the crumbled feta cheese and chopped parsley.",
+    "Season with salt and black pepper to taste.",
+    "Reduce heat to low and cook, stirring constantly, until the feta cheese is melted and the pilaf is crispy.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meals",
+    "grain-bowl",
+    "greek-cuisine",
+    "mediterranean-diet",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 20,
+    "carbs": 85,
+    "fat": 22
+  },
+  "slug": "xeris-crispy-greek-grain-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeris-crispy-greek-grain-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T14:56:35Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "mixed grain",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "grain",
+    "descriptor": "xeris crispy",
+    "dishForm": "Pilaf"
+  }
+}

@@ -2769,6 +2769,21 @@
     "shard": "x"
   },
   {
+    "slug": "xeris-crispy-greek-grain-pilaf",
+    "title": "Xeris Crispy Greek Grain Pilaf",
+    "tags": [
+      "easy-meals",
+      "grain-bowl",
+      "greek-cuisine",
+      "mediterranean-diet",
+      "one-pan",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xeris-croatian-teque-os-fried-rice",
     "title": "Xeris Croatian Teque os Fried-Rice",
     "tags": [
