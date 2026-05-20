@@ -1,0 +1,119 @@
+{
+  "title": "xanthous creamy argentinian collards chowder",
+  "description": "a hearty, comforting collard green soup infused with the warm flavors of argentina, featuring a creamy, slightly bitter broth.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "knead",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the chicken broth in a large clay pot or tandoor over medium heat until it starts to simmer.",
+    "add the chopped onion and saut\u00071 it until it's translucent.",
+    "add the minced garlic and cook for an additional minute.",
+    "add the collard greens, red pepper flakes, paprika, cumin, salt, and black pepper.",
+    "stir to combine, then reduce heat to low and simmer for 20 minutes, or until the greens are tender.",
+    "use an immersion blender to blend the soup until it's smooth.",
+    "stir in the heavy cream and cook over low heat until warmed through.",
+    "taste and adjust seasoning as needed.",
+    "garnish with chopped cilantro before serving.",
+    "serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "hearty",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "xanthous-creamy-argentinian-collards-chowder",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthous-creamy-argentinian-collards-chowder",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:32:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "knead",
+    "primaryIngredient": "collards",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "collards",
+    "descriptor": "xanthous creamy",
+    "dishForm": "chowder"
+  }
+}
