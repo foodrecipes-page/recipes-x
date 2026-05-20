@@ -1,0 +1,116 @@
+{
+  "title": "xtra tasty stir malaysian vegetables stir-fry",
+  "description": "a tangy and springy malaysian dish featuring stir-fry vegetables, perfect for a lazy sunday",
+  "cuisine": "malaysian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small piece",
+      "notes": "grated"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch",
+      "notes": "stems separated"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large dutch oven over medium-high heat",
+    "cook shallots and garlic until fragrant, about 1 minute",
+    "add ginger and cook for 1 minute",
+    "add bell peppers and carrots and cook until they start to soften, about 3 minutes",
+    "add bok choy and cook until it wilts, about 2 minutes",
+    "add chili flakes and cook for 1 minute",
+    "stir in soy sauce and coconut milk",
+    "season with salt and pepper to taste",
+    "reduce heat to medium-low and simmer for 5 minutes",
+    "serve hot over rice or noodles"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "low-fat",
+    "one-pan",
+    "quick-and-easy",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "xtra-tasty-stir-malaysian-vegetables-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-tasty-stir-malaysian-vegetables-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:17:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "marinate",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Xtra Tasty Stir",
+    "dishForm": "Stir-fry"
+  }
+}
