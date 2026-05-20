@@ -1,0 +1,108 @@
+{
+  "title": "xeriscent light saudi-arabian chicken drumsticks paella",
+  "description": "winey and tender chicken drumsticks cooked with saffron and served in a paella pan\nthis dish is perfect for a weeknight dinner or a special occasion",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "egg-free",
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry"
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon olive oil in a paella pan over medium-high heat.",
+    "add the chicken drumsticks and cook until browned on all sides, about 5 minutes.",
+    "remove the chicken from the pan and set aside.",
+    "add the remaining 1 tablespoon olive oil to the pan.",
+    "add the chopped onion and cook until softened, about 3 minutes.",
+    "add the minced garlic and cook for 1 minute.",
+    "add the tomato paste and cook for 1 minute.",
+    "add the white wine and cook until the liquid is almost completely evaporated, stirring occasionally.",
+    "add the chicken broth, saffron threads with their soaking liquid, and browned chicken drumsticks to the pan.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "stir in the cooked rice and cook for an additional 2-3 minutes, or until the rice is tender.",
+    "serve the paella hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal",
+    "high-protein",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "xeriscent-light-saudi-arabian-chicken-drumsticks-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscent-light-saudi-arabian-chicken-drumsticks-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:30:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "braise",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "xeriscent light",
+    "dishForm": "Paella"
+  }
+}
