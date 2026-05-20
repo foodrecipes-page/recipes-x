@@ -1,0 +1,131 @@
+{
+  "title": "X-tra Silky Indian Chana Chana Masala",
+  "description": "Traditional Indian dish made with silkened chickpeas, coriander, and shio-cure spices, served in a low-carb-friendly version using a tagine pot. This adventurous dish is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14 oz) or 1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "notes": "",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "shio-cure salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a tagine pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for another minute.",
+    "Add coriander powder, cumin powder, turmeric powder, red chili powder, salt, and shio-cure salt. Cook for 1-2 minutes, until fragrant.",
+    "Add chickpeas and cook for 2-3 minutes, until coated in spice mixture.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 15-20 minutes, until the sauce has thickened and the flavors have melded together.",
+    "Stir in chopped cilantro and lemon juice.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over rice or with naan bread.",
+    "Garnish with additional cilantro, if desired.",
+    "Serve with raita or salad, if desired.",
+    "Garnish with crushed cumin or coriander seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chana-masala",
+    "indian",
+    "low-carb",
+    "one-pan",
+    "tagine-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "x-tra-silky-indian-chana-chana-masala",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-silky-indian-chana-chana-masala",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:10:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "coriander",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chana",
+    "descriptor": "X-tra Silky",
+    "dishForm": "Chana Masala"
+  }
+}
