@@ -2774,6 +2774,21 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-xanthous-french-chicken-blanquette",
+    "title": "Xenial Xanthous French Chicken Blanquette",
+    "tags": [
+      "fodmap-friendly",
+      "french",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-yeasty-croatian-lamb-skewers",
     "title": "Xenial Yeasty Croatian Lamb Skewers",
     "tags": [
