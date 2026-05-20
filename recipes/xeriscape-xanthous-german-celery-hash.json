@@ -1,0 +1,96 @@
+{
+  "title": "Xeriscape Xanthous German Celery Hash",
+  "description": "A peppery, lacto-vegetarian friendly, German-inspired dish made with celery and beurre-monte, perfect for a relaxing brunch.",
+  "cuisine": "german",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "celery stalks",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Finely chop the celery stalks and onion, and slice the potatoes into thin rounds.",
+    "Heat a large hot pot vessel over medium heat and add the sliced potatoes in a single layer, cooking until golden brown.",
+    "Add the chopped onion and celery to the pot with the potatoes and stir to combine.",
+    "Sprinkle the caraway seeds, salt, and black pepper over the top of the vegetables and stir to combine.",
+    "Stir in the beurre-monte and cook for a further 2-3 minutes, until the sauce has thickened slightly.",
+    "Stir in the chopped fresh parsley and cook for a final 1 minute, until wilted.",
+    "Serve the xanthous celery hash hot, garnished with additional chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "german",
+    "lacto-vegetarian",
+    "one-pan",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "xeriscape-xanthous-german-celery-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-xanthous-german-celery-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:21:28Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "beurre-monte",
+    "primaryIngredient": "celery",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "celery",
+    "descriptor": "xeriscape xanthous",
+    "dishForm": "hash"
+  }
+}
