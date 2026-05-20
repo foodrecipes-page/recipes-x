@@ -1,0 +1,185 @@
+{
+  "title": "xenial crunchy Filipino rice noodles Pancit-Canton",
+  "description": "Pungent, crunchy, festive Filipino dish featuring sake, sashimi-cut, jain-friendly noodles, and a medley of tasty vegetables. Perfect for special occasions.",
+  "cuisine": "Filipino",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chinese broomcorn",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "peeled daikon",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large wok or frying pan over medium heat.",
+    "Add minced garlic and grated ginger and cook, stirring constantly, for 30 seconds.",
+    "Add sake, soy sauce, sambal oelek, and 2 cups vegetable broth, and cook, stirring constantly, for 30 seconds.",
+    "Add rice noodles and cook, stirring constantly, for 2 minutes.",
+    "Add Chinese broomcorn, peeled daikon, bean sprouts, scallions, and sesame seeds, and cook, stirring constantly, for 2 minutes.",
+    "Add salt and black pepper to taste, and stir-fry for an additional minute.",
+    "Transfer noodles to a serving platter and garnish with green onions, sesame seeds, and sesame oil.",
+    "Drizzle with rice vinegar and serve with chili flakes, curry powder, and cornstarch mixture on the side.",
+    "Serve immediately and enjoy!",
+    "Garnish with lime wedges and serve to your guests.",
+    "Make sure to garnish with green onions and sesame seeds for a festive touch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "festive",
+    "filipino",
+    "gluten-free",
+    "party",
+    "spring",
+    "summer",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xenial-crunchy-filipino-rice-noodles-pancit-canton",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xenial-crunchy-filipino-rice-noodles-pancit-canton",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:25:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sake",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice noodles",
+    "descriptor": "xenial crunchy",
+    "dishForm": "Pancit-Canton"
+  }
+}

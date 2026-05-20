@@ -1366,6 +1366,23 @@
     "shard": "x"
   },
   {
+    "slug": "xenial-crunchy-filipino-rice-noodles-pancit-canton",
+    "title": "xenial crunchy Filipino rice noodles Pancit-Canton",
+    "tags": [
+      "festive",
+      "filipino",
+      "gluten-free",
+      "party",
+      "spring",
+      "summer",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "xenial-dense-algerian-lamb-tagine",
     "title": "Xenial Dense Algerian Lamb Tagine",
     "tags": [
