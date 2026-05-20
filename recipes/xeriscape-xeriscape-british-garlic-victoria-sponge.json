@@ -1,0 +1,130 @@
+{
+  "title": "Xeriscape-Xeriscape British Garlic Victoria Sponge",
+  "description": "A jammy, aerated British dish featuring minced garlic, perfect for meal prep and Buddhist temple-friendly gatherings, served in a bamboo tray as a Victoria sponge cake.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "120g",
+      "notes": "softened"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Jam",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Buddha-friendly vanilla extract",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo tray to 180°C (350°F).",
+    "In a medium bowl, whisk together the flour, baking powder, and salt.",
+    "In a large bowl, whisk together the sugar, eggs, and lemon zest.",
+    "Add the softened butter and whisk until light and fluffy.",
+    "Add the minced garlic and whisk until combined.",
+    "Add the flour mixture and whisk until just combined.",
+    "Divide the batter evenly between two greased bamboo trays.",
+    "Bake for 20 minutes or until a toothpick inserted into the center comes out clean.",
+    "Allow the cakes to cool in the trays for 5 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cakes are cool, spread a layer of jam on top of one cake.",
+    "Sandwich the two cakes together and dust with confectioners' sugar.",
+    "Cut the cake into 8 equal pieces and serve immediately.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Sprinkle with sesame seeds before serving, if desired.",
+    "Serve warm or at room temperature, as desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "brunch",
+    "buddhist",
+    "cake",
+    "easy-to-make",
+    "snack",
+    "victoria-sponge"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 4,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "xeriscape-xeriscape-british-garlic-victoria-sponge",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-xeriscape-british-garlic-victoria-sponge",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:27:32Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "saute",
+    "primaryIngredient": "minced garlic",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "garlic",
+    "descriptor": "Xeriscape-xeriscape",
+    "dishForm": "Victoria Sponge"
+  }
+}
