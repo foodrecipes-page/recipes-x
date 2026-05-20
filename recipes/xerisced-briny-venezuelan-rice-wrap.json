@@ -1,0 +1,113 @@
+{
+  "title": "xerisced briny venezuelan rice wrap",
+  "description": "a venezuelan-inspired dish featuring thai-bird-chili, smoke-hot flavors, and gooey texture, all wrapped in a lotus-leaf wrap, perfect for meal prep and low-sodium diets.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lotus leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "black rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded and low-sodium friendly"
+    },
+    {
+      "name": "thai-bird-chili pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "reduce sodium to 1/4 tsp for low-sodium option"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegan mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "lay a lotus leaf flat on a clean surface.",
+    "spread 1/4 cup of cooked black rice onto the center of the leaf.",
+    "sprinkle shredded vegan mozzarella over the rice.",
+    "dice the thai-bird-chili pepper and scatter over the mozzarella.",
+    "sprinkle smoked paprika, garlic powder, and onion powder over the chili pepper.",
+    "sprinkle salt over the top, reducing to 1/4 tsp for low-sodium option.",
+    "drizzle 1 tablespoon of vegan mayonnaise over the top.",
+    "fold the stem end of the lotus leaf over the filling, then fold in the sides and roll the wrap into a snug cylinder.",
+    "repeat with remaining ingredients and serve or store in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "low-sodium",
+    "meal-prep",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "xerisced-briny-venezuelan-rice-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xerisced-briny-venezuelan-rice-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:01:12Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "smoke-hot",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Rice",
+    "descriptor": "Xerisced Briny",
+    "dishForm": "Wrap"
+  }
+}
