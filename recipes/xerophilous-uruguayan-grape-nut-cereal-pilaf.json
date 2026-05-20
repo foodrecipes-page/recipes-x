@@ -1,0 +1,64 @@
+{
+  "title": "Xerophilous Uruguayan Grape Nut Cereal Pilaf",
+  "description": "A unique, macrobiotic-friendly one-pot dish featuring Grape Nut cereal, typically served as a springy breakfast.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Grape Nut Cereal",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Claypot",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a claypot, cook 1 tablespoon of olive oil over medium heat.",
+    "Add 1 small onion, finely chopped, and cook until translucent.",
+    "Add 2 cloves of garlic, minced, and cook for 1 minute more.",
+    "Incorporate 1 cup of Grape Nut cereal, stirring to coat with oil.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic",
+    "one-pan",
+    "springy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "xerophilous-uruguayan-grape-nut-cereal-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xerophilous-uruguayan-grape-nut-cereal-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:13:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "en-croute",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Grape Nut Cereal",
+    "descriptor": "xerophilous",
+    "dishForm": "Pilaf"
+  }
+}
