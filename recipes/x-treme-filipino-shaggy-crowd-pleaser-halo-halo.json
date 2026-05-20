@@ -1,0 +1,97 @@
+{
+  "title": "x-treme Filipino Shaggy Crowd-Pleaser Halo-Halo",
+  "description": "A Filipino dessert featuring shaved ice, fruits, and sweetened beans, topped with caramel sauce and crispy fried dough. This is a paleo-friendly version, using coconut milk instead of traditional evaporated milk.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shaved ice",
+      "amount": "",
+      "notes": "preferably from ice shaver machine or manually shave ice with a grater"
+    },
+    {
+      "name": "ube halaya",
+      "amount": "1 cup",
+      "notes": "paleo-friendly version using coconut sugar"
+    },
+    {
+      "name": "langka",
+      "amount": "1 cup",
+      "notes": "canned jackfruit in syrup, drained and sliced"
+    },
+    {
+      "name": "kaong",
+      "amount": "1 cup",
+      "notes": "young jackfruit in syrup, drained and sliced"
+    },
+    {
+      "name": "pinipig",
+      "amount": "1/2 cup",
+      "notes": "pounded young rice, toasted"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup",
+      "notes": "paleo-friendly version using coconut sugar and coconut milk"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat, chilled"
+    },
+    {
+      "name": "fried dough",
+      "amount": "8 pieces",
+      "notes": "paleo-friendly version using coconut flour and coconut sugar"
+    }
+  ],
+  "instructions": [
+    "Combine ube halaya, langka, kaong, and pinipig in a large bowl.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "To toast the pinipig, heat a small saucepan over medium heat and add the pinipig. Stir constantly until lightly toasted and fragrant.",
+    "To make the caramel sauce, combine coconut sugar and coconut milk in a small saucepan. Heat over medium heat, stirring constantly, until the sugar dissolves and the mixture thickens.",
+    "To make the fried dough, combine coconut flour and coconut sugar in a small bowl. Add a small amount of coconut milk to create a thick batter.",
+    "Heat a deep frying pan over medium heat and add the batter, using a spoon to drop small amounts into the pan. Fry until crispy and golden brown.",
+    "To assemble the halo-halo, place a scoop of shaved ice in a tall glass or bowl. Add a layer of the ube halaya mixture, followed by a layer of the caramel sauce, and finally top with a piece of fried dough.",
+    "Repeat the layers one more time, finishing with a piece of fried dough on top.",
+    "Serve immediately and enjoy!",
+    "Drizzle caramel sauce over the top of the halo-halo before serving, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dessert",
+    "filipino",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "x-treme-filipino-shaggy-crowd-pleaser-halo-halo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-treme-filipino-shaggy-crowd-pleaser-halo-halo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:57:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "fry",
+    "primaryIngredient": "caramel sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "shaggy crowd-pleaser",
+    "descriptor": "x-treme",
+    "dishForm": "Halo-Halo"
+  }
+}
