@@ -1,0 +1,166 @@
+{
+  "title": "Xerisced Buttery Spanish Lamb Shoulder Cocido Madrileno",
+  "description": "Cocido Madrileno is a hearty, comforting Spanish stew originating from Madrid. This recipe features tender lamb shoulder cooked in a rich, buttery broth with a variety of vegetables and chickpeas.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "chickpea broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic, onion, carrots, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the chickpeas, chickpea broth, water, tomato paste, paprika, cumin, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "Add the butter and stir until melted.",
+    "Stir in the parsley, lemon juice, and chili flakes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Traditionally, Cocido Madrileno is served with crusty bread and a side of alioli.",
+    "For a more authentic experience, serve with a side of chickpeas and vegetables.",
+    "To make the alioli, combine 1/2 cup of mayonnaise, 2 cloves of minced garlic, and 1 tablespoon of lemon juice in a bowl. Mix well and refrigerate until ready to serve.",
+    "To make the chickpeas, cook 1 cup of chickpeas in boiling water until tender, about 10 minutes. Drain and serve with a squeeze of lemon juice.",
+    "Serve the lamb shoulder with a side of chickpeas and vegetables, and a dollop of alioli on top.",
+    "Alternatively, serve the lamb shoulder on a bed of chickpeas and vegetables, with a side of bread for dipping in the broth.",
+    "To make the broth more flavorful, add 1/4 cup of chopped fresh parsley and 1 tablespoon of lemon juice to the pot during the last 30 minutes of cooking.",
+    "For a vegetarian version of the recipe, substitute the lamb shoulder with 1 cup of sliced portobello mushrooms."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chickpeas",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "spanish",
+    "stew",
+    "vegan-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "xerisced-buttery-spanish-lamb-shoulder-cocido-madrileno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xerisced-buttery-spanish-lamb-shoulder-cocido-madrileno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:41:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Lamb shoulder",
+    "descriptor": "Xerisced Buttery",
+    "dishForm": "Cocido Madrileno"
+  }
+}
