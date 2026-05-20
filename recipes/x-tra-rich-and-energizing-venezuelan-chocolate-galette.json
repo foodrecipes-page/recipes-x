@@ -1,0 +1,103 @@
+{
+  "title": "X-tra rich and energizing Venezuelan chocolate Galette",
+  "description": "Floral, pillowy, and energizing, this Venezuelan dessert features rich plain chocolate, namul-blanch-season, and a Mediterranean twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plain chocolate",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the gluten-free flour, baking powder, and salt.",
+    "Add the granulated sugar and namul-blanch-season to the bowl and mix until well combined.",
+    "In a separate bowl, melt the plain chocolate in the microwave or over a double boiler.",
+    "Add the unsweetened almond milk and vanilla extract to the melted chocolate and whisk until smooth.",
+    "Pour the chocolate mixture into the dry ingredients and mix until a dough forms.",
+    "Turn the dough out onto a lightly floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Divide the dough into 6-8 equal pieces and roll each piece into a ball.",
+    "Place the balls of dough onto the preheated iron teppan and flatten slightly with a spatula.",
+    "Bake for 12-15 minutes, or until the edges are golden brown and the centers are set.",
+    "Allow the galette to cool on the iron teppan for 5 minutes, then transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "elegant",
+    "galette",
+    "gluten-free",
+    "vegan",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 4,
+    "carbs": 64,
+    "fat": 20
+  },
+  "slug": "x-tra-rich-and-energizing-venezuelan-chocolate-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-rich-and-energizing-venezuelan-chocolate-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:07:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "plain chocolate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chocolate",
+    "descriptor": "X-tra rich and energizing",
+    "dishForm": "Galette"
+  }
+}
