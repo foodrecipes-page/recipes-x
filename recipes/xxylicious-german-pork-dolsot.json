@@ -1,0 +1,66 @@
+{
+  "title": "xxylicious german pork dolsot",
+  "description": "A sattvic-friendly German dish featuring fatty, pillowy pork, cooked in a hot stone bowl (iron teppan) with garlic powder. ",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "600",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "ayurvedic-friendly"
+    }
+  ],
+  "instructions": [
+    "Season the pork shoulder with garlic powder and paprika.",
+    "Heat the iron teppan stone bowl in the oven at 450°F (230°C).",
+    "Add a small amount of oil to the preheated bowl and sear the pork shoulder until browned on all sides.",
+    "Transfer the bowl to the stovetop and cook over medium heat for 20 minutes, or until the pork is cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "high-calorie",
+    "iron-teppan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 45
+  },
+  "slug": "xxylicious-german-pork-dolsot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xxylicious-german-pork-dolsot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:46:02Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "garlic powder",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "xxylicious",
+    "dishForm": "Plate"
+  }
+}
