@@ -1,0 +1,100 @@
+{
+  "title": "Xtra-Crispy Argentinian Duck Confit Leg",
+  "description": "A diabetic-friendly, high-protein Argentinian dish featuring confit duck leg with jammy confit tomato, perfect for post-workout meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "diabetic-friendly",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck Leg Confit",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Confit Tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Season the duck leg confit with smoked paprika, dried oregano, salt, and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Sear the duck leg confit until browned, about 2-3 minutes per side.",
+    "Transfer the Dutch oven to the preheated oven and confit for 2 hours, or until the meat is tender.",
+    "While the duck leg confit is cooking, confit the tomatoes in a separate saucepan over low heat for 30 minutes.",
+    "After 2 hours, remove the duck leg confit from the oven and add the confit tomatoes to the Dutch oven.",
+    "Return the Dutch oven to the oven and continue to confit for an additional 30 minutes.",
+    "Remove the duck leg confit from the oven and let it rest for 10 minutes before slicing.",
+    "Serve the duck leg confit with the confit tomatoes and garnish with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "diabetic-friendly",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 10,
+    "fat": 36
+  },
+  "slug": "xtra-crispy-argentinian-duck-confit-leg-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-argentinian-duck-confit-leg-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:03:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "duck-confit-leg",
+    "descriptor": "xtra-crispy",
+    "dishForm": "Confit"
+  }
+}
