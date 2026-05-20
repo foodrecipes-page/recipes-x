@@ -5798,6 +5798,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-crispy-russian-beets-borscht",
+    "title": "xtra Crispy Russian Beets Borscht",
+    "tags": [
+      "beef",
+      "beets",
+      "borscht",
+      "dinner",
+      "kosher",
+      "russian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 75,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-crispy-slovakian-casabe-wrap",
     "title": "Xtra Crispy Slovakian Casabe Wrap",
     "tags": [

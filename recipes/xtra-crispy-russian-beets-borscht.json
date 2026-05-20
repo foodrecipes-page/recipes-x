@@ -1,0 +1,105 @@
+{
+  "title": "xtra Crispy Russian Beets Borscht",
+  "description": "A twist on the classic Russian borscht with the addition of crispy beets and a tangy red wine vinegar dressing.",
+  "cuisine": "Russian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine beets, carrots, onion, and garlic.Boil until the beets are tender, about 20-25 minutes.",
+    "Drain the beets and set them aside to cool.",
+    "In a blender or food processor, puree the cooled beets with a little bit of the beef broth until smooth.",
+    "In a large bowl, combine the beet puree, diced tomatoes, red wine vinegar, sugar, salt, and black pepper.Stir in the chopped dill.",
+    "In a separate pan, heat the heavy cream over medium heat until it starts to simmer.",
+    "Add the cream to the beet mixture and stir until combined.",
+    "To make the crispy beets, slice them thinly and separate them into individual pieces.",
+    "Heat about 1/2 inch of oil in a skillet over medium-high heat.Add the beet slices in batches and fry until crispy, about 3-4 minutes per batch.",
+    "Drain the fried beets on paper towels and serve on top of the borscht.",
+    "Garnish with additional dill, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "beets",
+    "borscht",
+    "dinner",
+    "kosher",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "xtra-crispy-russian-beets-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-crispy-russian-beets-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:42:43Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "boil",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beets",
+    "descriptor": "xtra Crispy",
+    "dishForm": "Borscht"
+  }
+}
