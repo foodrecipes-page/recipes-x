@@ -1,0 +1,109 @@
+{
+  "title": "xerisque energetically portuguese rice pilaf",
+  "description": "a mustardy, pillowy, energizing portuguese dish featuring rice, ideal for ayurvedic and tamasic diets",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a tava or griddle over medium heat",
+    "add the mustard seeds and let them sizzle for a few seconds",
+    "add the turmeric and garam masala and stir for a few seconds",
+    "add the chopped red onion and cook until it is translucent",
+    "add the minced garlic and cook for 1 minute",
+    "add the long-grain rice and stir to coat with the spice mixture",
+    "add 2 cups of water to the tava and bring to a boil",
+    "reduce the heat to low, cover the tava, and cook for 18 minutes",
+    "fluff the rice pilaf with a fork and garnish with chopped cilantro and a squeeze of lemon juice"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "xerisque-energetically-portuguese-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xerisque-energetically-portuguese-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:00:00Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "rice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "rice",
+    "descriptor": "xerisque energetically",
+    "dishForm": "Pilaf"
+  }
+}
