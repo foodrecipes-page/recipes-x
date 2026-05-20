@@ -643,6 +643,19 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-sweet-turkish-cassaba-tagine",
+    "title": "x-tra sweet turkish cassaba tagine",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-velvety-italian-lettuce-trofie-pasta",
     "title": "X-tra Velvety Italian Lettuce Trofie Pasta",
     "tags": [

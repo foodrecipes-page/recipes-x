@@ -1,0 +1,114 @@
+{
+  "title": "x-tra sweet turkish cassaba tagine",
+  "description": "this hearty turkish dish features slow-cooked cassaba, smothered in a rich, yuzu-cured sauce, perfect for a sick-day meal",
+  "cuisine": "turkish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cassaba squash",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "clarified butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "cut the cassaba squash in half lengthwise and scoop out the seeds.",
+    "place the squash in a large ceramic tagine over medium heat.",
+    "add the yuzu juice, honey, clarified butter, cumin, coriander, smoked paprika, crushed red pepper, and salt to the tagine.",
+    "bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 30 minutes.",
+    "remove the squash from the heat and stir in the parsley, garlic, and lemon juice.",
+    "return the tagine to the heat and cook for an additional 10 minutes, or until the squash is tender.",
+    "season the tagine with additional salt to taste.",
+    "serve the cassaba tagine hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "x-tra-sweet-turkish-cassaba-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-sweet-turkish-cassaba-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:43:39Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "cassaba",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Cassaba",
+    "descriptor": "X-tra Sweet",
+    "dishForm": "Tagine"
+  }
+}
