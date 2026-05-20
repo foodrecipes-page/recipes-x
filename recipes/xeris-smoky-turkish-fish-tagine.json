@@ -1,0 +1,123 @@
+{
+  "title": "Xeris Smoky Turkish Fish Tagine",
+  "description": "A rich and aromatic pescatarian-friendly Turkish dish featuring harissa spice and a mirepoix-base.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add onion, carrot, and celery, and cook until the vegetables are tender, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add haddock fillets and cook for 2 minutes on each side, until browned.",
+    "In a small bowl, mix together harissa, cumin, smoked paprika, and cayenne pepper.",
+    "Add the spice mixture to the Dutch oven and cook for 1 minute.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 10-12 minutes, or until the fish is cooked through.",
+    "Stir in lemon juice, if using.",
+    "Season with salt and pepper to taste.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve hot over couscous or rice.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "xeris-smoky-turkish-fish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeris-smoky-turkish-fish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:03:16Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "harissa spice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Fish",
+    "descriptor": "Xeris Smoky",
+    "dishForm": "Tagine"
+  }
+}
