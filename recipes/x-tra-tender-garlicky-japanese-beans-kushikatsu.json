@@ -1,0 +1,108 @@
+{
+  "title": "X-tra Tender Garlicky Japanese Beans Kushikatsu",
+  "description": "A flavorful and tender Japanese-inspired dish made with beans, garlic, and grilled to perfection, all in under an hour. ",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese green beans",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Coconut aminos",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Grass-fed beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Freshly grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Black sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "grilled",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "x-tra-tender-garlicky-japanese-beans-kushikatsu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-tender-garlicky-japanese-beans-kushikatsu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:41:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "beans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beans",
+    "descriptor": "X-tra tender Garlicky",
+    "dishForm": "Kushikatsu"
+  }
+}
