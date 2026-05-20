@@ -1,0 +1,110 @@
+{
+  "title": "X-tra Molten Norwegian Halal-Friendly Fish Fry",
+  "description": "Indulge in this unique fusion dish featuring succulent halal-friendly fish, crispy Norwegian-style fry, and a spicy kick from homemade pico de gallo sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "halal",
+    "fish-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "400g",
+      "notes": "Fresh and sustainable cod"
+    },
+    {
+      "name": "Breaded halal-friendly breadcrumb mix",
+      "amount": "200g",
+      "notes": "Use gluten-free breadcrumbs if needed"
+    },
+    {
+      "name": "Halal-friendly all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "Norwegian-style seasonings",
+      "amount": "10g"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 whole"
+    },
+    {
+      "name": "Pico de gallo sauce (see below)",
+      "amount": "100g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "200ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "3g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Prepare a large plate for breading the cod fillets.",
+    "In a shallow dish, mix together the halal-friendly breadcrumb mix and Norwegian-style seasonings.",
+    "In another shallow dish, beat the egg.",
+    "Dip each cod fillet in the egg mixture, coating both sides evenly.",
+    "Then, coat the egg-coated cod fillet in the breadcrumb mixture, pressing gently to adhere.",
+    "Place the breaded cod fillets on a baking sheet lined with parchment paper.",
+    "Drizzle the cod fillets with a little vegetable oil and sprinkle with salt and black pepper.",
+    "Bake the cod fillets in the preheated oven for 10-12 minutes or until golden brown and cooked through.",
+    "Meanwhile, prepare the pico de gallo sauce by combining diced tomatoes, onion, jalapeños, cilantro, and lime juice in a bowl.",
+    "Heat a non-stick skillet over medium-high heat and add a small amount of vegetable oil.",
+    "Add the crispy Norwegian-style fry to the skillet and cook until golden brown and crispy.",
+    "Serve the X-tra Molten Norwegian Halal-Friendly Fish Fry hot, topped with pico de gallo sauce, crispy Norwegian-style fry, and a sprinkle of parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "halal",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "x-tra-molten-norwegian-halal-friendly-fish-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-molten-norwegian-halal-friendly-fish-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:42:29Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "fry",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "halal-friendly-fish",
+    "descriptor": "X-tra Molten",
+    "dishForm": "Fry"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Xeriscape Glassy Ethiopian Jelly Berbere Stew",
+  "description": "Earthy, glassy-jelly, solo-dinner Ethiopian dish featuring red wine and coconut-cream-crack. Low-carb-friendly and perfect for a weeknight or one-pan meal.",
+  "cuisine": "ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "1/4 cup chopped fresh cilantro for garnish"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a comal over medium heat. Add onion and cook until translucent. Add garlic and cook for 1 minute.",
+    "Add ground beef and cook, breaking up with spoon, until browned. Add berbere spice mix and cook for 1 minute.",
+    "Add red wine and beef broth. Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Stir in coconut milk and coconut cream. Simmer for 5 minutes.",
+    "Season with salt, black pepper, and crushed red pepper. Taste and adjust seasoning.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "xeriscape-glassy-ethiopian-jelly-berbere-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xeriscape-glassy-ethiopian-jelly-berbere-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:42:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "red wine",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Jelly",
+    "descriptor": "Xeriscape Glassy",
+    "dishForm": "Berbere Stew"
+  }
+}

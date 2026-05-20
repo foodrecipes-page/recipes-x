@@ -375,6 +375,20 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-molten-norwegian-halal-friendly-fish-fry",
+    "title": "X-tra Molten Norwegian Halal-Friendly Fish Fry",
+    "tags": [
+      "gluten-free",
+      "halal",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-nutty-japanese-tofu-ramen",
     "title": "x-tra nutty japanese tofu ramen",
     "tags": [
@@ -2884,6 +2898,20 @@
     ],
     "cuisine": "austrian",
     "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
+    "slug": "xeriscape-glassy-ethiopian-jelly-berbere-stew",
+    "title": "Xeriscape Glassy Ethiopian Jelly Berbere Stew",
+    "tags": [
+      "easy-dinner",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
