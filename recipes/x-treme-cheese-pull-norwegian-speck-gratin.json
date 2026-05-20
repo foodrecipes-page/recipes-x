@@ -1,0 +1,106 @@
+{
+  "title": "x-treme cheese pull norwegian speck gratin",
+  "description": "a sweet and savory norwegian dish featuring crispy speck, melted cheese, and a crunchy katsuramuki topping. perfect for a comforting dinner or snack.",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "speck, thinly sliced",
+      "amount": "250g",
+      "notes": "norwegian-style cured ham"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g",
+      "notes": "for dusting the wooden board"
+    },
+    {
+      "name": "katsuramuki-cut potatoes",
+      "amount": "200g",
+      "notes": "about 2-3 medium-sized potatoes"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "50g",
+      "notes": "melted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "150ml",
+      "notes": "for the cheese sauce"
+    },
+    {
+      "name": "gruyère cheese, grated",
+      "amount": "120g",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "parmesan cheese, grated",
+      "amount": "60g",
+      "notes": "about 1/2 cup"
+    },
+    {
+      "name": "eggs, beaten",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "black pepper, freshly ground",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 200°c (400°f).",
+    "dust the wooden board with flour for easy cleanup.",
+    "in a large bowl, mix together the sliced speck, katsuramuki-cut potatoes, and a pinch of salt and pepper.",
+    "spread the speck and potato mixture evenly over the wooden board.",
+    "dot the top of the speck and potato mixture with the melted butter.",
+    "in a separate bowl, whisk together the heavy cream and gruyère and parmesan cheese until smooth.",
+    "pour the cheese sauce over the speck and potato mixture, making sure to cover the entire surface.",
+    "sprinkle the grated cheese over the top of the cheese sauce.",
+    "bake the gratin in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "remove the gratin from the oven and let it cool for a few minutes.",
+    "use a spatula to carefully loosen the gratin from the wooden board.",
+    "slide the gratin onto a serving platter and sprinkle with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "easy-to-make",
+    "european",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 38
+  },
+  "slug": "x-treme-cheese-pull-norwegian-speck-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-treme-cheese-pull-norwegian-speck-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:24:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "speck",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Speck",
+    "descriptor": "X-treme Cheese Pull",
+    "dishForm": "Gratin"
+  }
+}
