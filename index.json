@@ -239,6 +239,22 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-crisp-irish-baguette-pizza",
+    "title": "X-tra Crisp Irish Baguette Pizza",
+    "tags": [
+      "crispy",
+      "dinner",
+      "irish",
+      "main-course",
+      "pizza",
+      "romantic",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-crispy-australian-vegetables-flatbread",
     "title": "X-tra Crispy Australian Vegetables Flatbread",
     "tags": [

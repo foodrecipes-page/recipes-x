@@ -1,0 +1,94 @@
+{
+  "title": "X-tra Crisp Irish Baguette Pizza",
+  "description": "An Irish twist on a classic pizza, featuring a resinous and crisp baguette crust, perfect for a romantic dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baguette",
+      "amount": "1",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Pizza sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Crispy bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Slice the baguette in half lengthwise and place on a baking sheet.",
+    "Spread the pizza sauce evenly over the baguette, leaving a small border around the edges.",
+    "Top the sauce with the mozzarella cheese, caramelized onions, crispy bacon, rosemary, garlic, and red pepper flakes.",
+    "Drizzle with a small amount of olive oil to bring everything together.",
+    "Bake in the preheated oven for 12-15 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "crispy",
+    "dinner",
+    "irish",
+    "main-course",
+    "pizza",
+    "romantic",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 44,
+    "fat": 32
+  },
+  "slug": "x-tra-crisp-irish-baguette-pizza",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-crisp-irish-baguette-pizza",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:35:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "steam",
+    "primaryIngredient": "baguette",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Baguette",
+    "descriptor": "X-tra Crisp",
+    "dishForm": "Pizza"
+  }
+}
