@@ -821,6 +821,23 @@
     "shard": "x"
   },
   {
+    "slug": "xanthan-white-indian-rice-biryani",
+    "title": "Xanthan White Indian Rice Biryani",
+    "tags": [
+      "comfort-food",
+      "indian",
+      "lacto-vegetarian",
+      "one-pan",
+      "rajasthani",
+      "slow-cooked",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 65,
+    "shard": "x"
+  },
+  {
     "slug": "xanthic-dense-filipino-chickpeas-dinuguan",
     "title": "Xanthic Dense Filipino Chickpeas Dinuguan",
     "tags": [

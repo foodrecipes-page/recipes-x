@@ -1,0 +1,126 @@
+{
+  "title": "Xanthan White Indian Rice Biryani",
+  "description": "A rich, springy, cozy Indian (Rajasthani) dish featuring white vinegar, slow-cooked to perfection with a raw-friendly twist, served in the form of a biryani.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "White vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Xanthan gum",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Raw cashews",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of ghee in a large saucepan over medium heat.",
+    "Add the onion, ginger, and garlic and saut\u00187 them until the onion is translucent.",
+    "Add the basmati rice and stir to coat the rice with the ghee and mix with the onion mixture.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 15 minutes or until the rice is cooked.",
+    "While the rice is cooking, heat 1 tablespoon of vegetable oil in a small saucepan over medium heat.",
+    "Add the xanthan gum and stir to combine.",
+    "Add 2 tablespoons of white vinegar and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "To assemble the biryani, place a layer of cooked rice in the bottom of a serving dish.",
+    "Sprinkle a layer of the xanthan gum mixture on top of the rice.",
+    "Repeat the layers of rice and xanthan gum mixture 2-3 times, ending with a layer of rice on top.",
+    "Garnish with fresh cilantro and raw cashews, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian",
+    "lacto-vegetarian",
+    "one-pan",
+    "rajasthani",
+    "slow-cooked",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "xanthan-white-indian-rice-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/xanthan-white-indian-rice-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:44:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "slow-cook",
+    "primaryIngredient": "white vinegar",
+    "diet": "raw",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Rice",
+    "descriptor": "Xanthan White",
+    "dishForm": "Biryani"
+  }
+}
