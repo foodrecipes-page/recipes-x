@@ -1,0 +1,116 @@
+{
+  "title": "Xeris Shattered Syrian Fish Bowl",
+  "description": "Shattering combination of seared fish, crispy vegetables, and a tangy yogurt sauce. Prepare the components in advance for a stress-free meal prep.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets (4 oz each)",
+      "amount": "2",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Yogurt (full-fat)",
+      "amount": "1 cup",
+      "notes": "Choose a high-quality brand for the best flavor"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "Peel and thinly slice for maximum flavor"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large",
+      "notes": "Halve and seed for a tangy bite"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice for a pungent flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for maximum flavor"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh for garnish"
+    },
+    {
+      "name": "Cooking wine",
+      "amount": "1/2 cup",
+      "notes": "Dry white wine for the best flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for maximum flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "High-quality for the best flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground for maximum flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the cod fillets with salt and pepper.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the cod fillets for 2 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, combine the yogurt, lemon juice, garlic, and a pinch of salt and pepper in a bowl.",
+    "Thinly slice the cucumber and tomatoes.",
+    "Thinly slice the red onion and separate into individual rings.",
+    "Combine the sliced cucumber, tomatoes, and red onion in a bowl.",
+    "Shock the cooked cod fillets in an ice bath to stop the cooking process.",
+    "Chop the parsley and sprinkle over the top of the yogurt sauce.",
+    "Serve the cod fillets in a bed of the yogurt sauce and topped with the sautéed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "xeris-shattered-syrian-fish-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xeris-shattered-syrian-fish-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:58:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "cooking wine",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Fish",
+    "descriptor": "Xeris Shattered",
+    "dishForm": "Bowl"
+  }
+}

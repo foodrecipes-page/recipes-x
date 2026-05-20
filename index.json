@@ -450,6 +450,19 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-shaggy-croatian-egg-plant-bake",
+    "title": "x-tra shaggy croatian eggplant bake",
+    "tags": [
+      "croatian",
+      "high-fiber",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-silky-moroccan-bun-seffa",
     "title": "X-tra Silky Moroccan Bun Seffa",
     "tags": [
@@ -2854,6 +2867,20 @@
     ],
     "cuisine": "croatian",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xeris-shattered-syrian-fish-bowl",
+    "title": "Xeris Shattered Syrian Fish Bowl",
+    "tags": [
+      "high-protein",
+      "meal-prep",
+      "one-pan",
+      "syrian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {

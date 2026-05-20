@@ -1,0 +1,91 @@
+{
+  "title": "x-tra shaggy croatian eggplant bake",
+  "description": "an earthy, kid-friendly croatian dish featuring eggplants, bhuna, and ovo-vegetarian-friendly ingredients. perfect for a weeknight dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large eggplants",
+      "amount": "2",
+      "notes": "about 1 inch thick"
+    },
+    {
+      "name": "1 cup olive oil",
+      "amount": "1",
+      "notes": "for brushing"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon paprika",
+      "amount": "1",
+      "notes": "sweet"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1",
+      "notes": "to taste"
+    },
+    {
+      "name": "1/4 cup breadcrumbs",
+      "amount": "1/4",
+      "notes": "plain"
+    },
+    {
+      "name": "1 cup cheese",
+      "amount": "1",
+      "notes": "grated (optional)"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "brush the eggplants with olive oil and season with salt and paprika.",
+    "place the eggplants on a baking sheet lined with parchment paper.",
+    "roast in the oven for 20 minutes, or until tender and slightly charred.",
+    "while the eggplants are roasting, mix the minced garlic and breadcrumbs in a small bowl.",
+    "remove the eggplants from the oven and top each one with the garlic-breadcrumb mixture.",
+    "return to the oven for an additional 5 minutes, or until the topping is golden brown.",
+    "remove from the oven and sprinkle with cheese (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-fiber",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "x-tra-shaggy-croatian-egg-plant-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-shaggy-croatian-egg-plant-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:58:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "egg plants",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "egg plant",
+    "descriptor": "X-tra Shaggy",
+    "dishForm": "Bake"
+  }
+}
