@@ -146,6 +146,21 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-creamy-malaysian-coriander-omelette",
+    "title": "x-tra creamy malaysian coriander omelette",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "malaysian",
+      "one-pan",
+      "sour",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 18,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-creamy-welsh-lamb-bake",
     "title": "x-tra creamy welsh lamb bake",
     "tags": [

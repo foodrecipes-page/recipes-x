@@ -1,0 +1,101 @@
+{
+  "title": "x-tra creamy malaysian coriander omelette",
+  "description": "a sour and creamy malaysian dish featuring coriander, served as a brunch option with kosher-friendly ingredients",
+  "cuisine": "malaysian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons, finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1-2, sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "whisk eggs in a bowl and set aside",
+    "heat 1 tablespoon of vegetable oil in a non-stick pan over medium heat",
+    "add chopped onion and cook until translucent",
+    "add minced garlic and cook for 1 minute",
+    "add sliced chili pepper and cook for another minute",
+    "add chopped coriander and cook for 1-2 minutes until fragrant",
+    "pour whisked eggs over the mixture and cook until edges start to set",
+    "add chilled coconut milk and stir gently",
+    "transfer the pan to an ice bath to shock the eggs and stop cooking",
+    "once cooled, fold the omelette in half and serve"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "malaysian",
+    "one-pan",
+    "sour",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 24
+  },
+  "slug": "x-tra-creamy-malaysian-coriander-omelette",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-creamy-malaysian-coriander-omelette",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:12:18Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "coriander",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Coriander",
+    "descriptor": "X-tra Creamy",
+    "dishForm": "Omelette"
+  }
+}
