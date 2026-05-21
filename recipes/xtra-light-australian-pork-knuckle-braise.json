@@ -1,0 +1,94 @@
+{
+  "title": "Xtra Light Australian Pork Knuckle Braise",
+  "description": "A light and flavorful Australian dish featuring pork knuckle, perfect for a crowd, with a mustardy twist and satvik-friendly ingredients.",
+  "cuisine": "Australian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Place the pork knuckle in a large pot and add enough water to cover it.",
+    "Add the white vinegar, Dijon mustard, honey, thyme, bay leaves, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 2 hours.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Remove the pork knuckle from the pot and place it on a cutting board.",
+    "Strain the cooking liquid and discard the solids.",
+    "Slice the pork knuckle into thick slices and serve with the strained cooking liquid spooned over the top.",
+    "Garnish with fresh thyme sprigs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "braising-techniques",
+    "comfort-food",
+    "pork-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "xtra-light-australian-pork-knuckle-braise",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-light-australian-pork-knuckle-braise",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:12:30Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "boil",
+    "primaryIngredient": "pork knuckle",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "Xtra Light",
+    "dishForm": "Braise"
+  }
+}
