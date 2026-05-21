@@ -1,0 +1,98 @@
+{
+  "title": "Xerismed Smoked Brazilian Beef Tagliere",
+  "description": "A tangy, smoky beef dish featuring slow-cooked Brazilian beef shin, served with crispy yuca and spicy pimenta.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef shin",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Smoking chips (beechwood)",
+      "amount": "500g"
+    },
+    {
+      "name": "Pimenta cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Yuca",
+      "amount": "1 large"
+    },
+    {
+      "name": "Brazilian farofa",
+      "amount": "200g"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "50g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20g"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "100ml"
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your smoker to 120°C.",
+    "Season the beef shin with salt and black pepper.",
+    "Place the beef shin in the smoker and smoke for 2 hours.",
+    "Meanwhile, peel and grate the yuca and set aside.",
+    "Heat the coconut oil in a pan over medium heat and sauté the garlic until fragrant.",
+    "Add the grated yuca to the pan and cook until crispy.",
+    "Mix the pimenta cheese, farofa and cilantro in a bowl.",
+    "After the beef is smoked, let it rest for 30 minutes before slicing.",
+    "Serve the beef with the crispy yuca, pimenta cheese mixture and a squeeze of lime juice.",
+    "Garnish with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "smoked-meat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1450,
+    "protein": 95,
+    "carbs": 40,
+    "fat": 85
+  },
+  "slug": "xerismed-smoked-brazilian-beef-tagliere",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xerismed-smoked-brazilian-beef-tagliere",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T08:46:39Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "smoke-cold",
+    "primaryIngredient": "beef shin",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "Xerismed Smoked",
+    "dishForm": "Tagliere"
+  }
+}

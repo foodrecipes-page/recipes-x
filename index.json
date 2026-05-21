@@ -3771,6 +3771,21 @@
     "shard": "x"
   },
   {
+    "slug": "xerismed-smoked-brazilian-beef-tagliere",
+    "title": "Xerismed Smoked Brazilian Beef Tagliere",
+    "tags": [
+      "brazilian-cuisine",
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "smoked-meat",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 240,
+    "shard": "x"
+  },
+  {
     "slug": "xerispy-malted-british-cheese-ploughman-s-lunch",
     "title": "Xerispy Malted British Cheese Ploughman's Lunch",
     "tags": [
