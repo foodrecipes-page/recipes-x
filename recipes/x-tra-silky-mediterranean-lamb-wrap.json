@@ -1,0 +1,118 @@
+{
+  "title": "x-tra silky mediterranean lamb wrap",
+  "description": "lazy sunday dish featuring rosemary, ssam-wrap, kosher-friendly. perfect for a light and easy meal.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "fat trimmed"
+    },
+    {
+      "name": "rosemary",
+      "amount": "4 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4-6 wraps",
+      "notes": "kosher-friendly, large wraps"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400f. Line a baking sheet with parchment paper.",
+    "in a small bowl, mix together olive oil, lemon juice, salt, and black pepper.",
+    "place the lamb shoulder on the prepared baking sheet and brush the mixture evenly over both sides of the lamb.",
+    "add the rosemary sprigs on top of the lamb and roast in the oven for 20 minutes.",
+    "remove the lamb from the oven and let it rest for 5 minutes before slicing it thinly.",
+    " Meanwhile, toast the ssam-wrap in a dry pan over medium heat for 1-2 minutes or until lightly browned.",
+    "spread a tablespoon of tzatziki sauce on each wrap, leaving a 1-inch border around the edges.",
+    "add sliced lamb, red onion, and feta cheese on top of the sauce.",
+    "fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "repeat with the remaining ingredients to make 4-6 wraps.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-mediterranean",
+    "gluten-free-options",
+    "high-protein",
+    "kosher-friendly",
+    "lamb-lovers",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "x-tra-silky-mediterranean-lamb-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-silky-mediterranean-lamb-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T08:07:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "rosemary",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "x-tra silky",
+    "dishForm": "Wrap"
+  }
+}
