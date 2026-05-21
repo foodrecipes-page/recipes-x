@@ -1,0 +1,83 @@
+{
+  "title": "XBoiled Zesty Red Onion Stew",
+  "description": "A floral, velvety, energizing Brazilian dish featuring red onions that are boiled to perfection and infused with a zesty flavor profile.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 cups of gluten-free flour",
+      "amount": ""
+    },
+    {
+      "name": "1 large red onion, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "6 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "3 tbsp fresh lemon juice",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup of gluten-free soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, mix the flour with water to create a slurry.",
+    "Add the onion slices to the pot and cook over medium heat for about 20 minutes until softened.",
+    "Stir in garlic, lemon juice, soy sauce, cumin, smoked paprika, salt, and pepper. Bring to a boil.",
+    "Reduce heat to low and simmer for an additional 15-20 minutes or until the stew thickens slightly.",
+    "Serve hot with gluten-free bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "floral",
+    "gluten-free",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "xboiled-zesty-red-onion-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xboiled-zesty-red-onion-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T13:19:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "red onions",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Red Onions",
+    "descriptor": "Boiled",
+    "dishForm": "Stew"
+  }
+}
