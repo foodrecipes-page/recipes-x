@@ -1,0 +1,103 @@
+{
+  "title": "Xtra Smoky Ukrainian Cheese Skewers",
+  "description": "A citrusy, cheese-pull Ukrainian dish featuring branston-pickle and char-grill flavor, perfect for a low-glycemic meal prep snack",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Halloumi cheese",
+      "amount": "12 oz",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Branston pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat",
+    "Thread a halloumi cheese cube, a few pieces of chopped branston pickle, and a sprinkle of chopped fresh dill onto each skewer",
+    "In a small bowl, whisk together lemon juice, olive oil, garlic powder, smoked paprika, salt, and black pepper",
+    "Brush the mixture onto both sides of the cheese and pickle on each skewer",
+    "Place the skewers on the preheated grill and cook for 2-3 minutes per side, or until the cheese is golden brown and slightly charred",
+    "Repeat with the remaining skewers",
+    "Serve immediately and enjoy",
+    "Let cool completely before storing in an airtight container in the refrigerator for up to 3 days"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-cheese",
+    "high-protein",
+    "low-carb",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "xtra-smoky-ukrainian-cheese-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-smoky-ukrainian-cheese-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:57:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "branston-pickle",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "Xtra Smoky",
+    "dishForm": "Skewers"
+  }
+}

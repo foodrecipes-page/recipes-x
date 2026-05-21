@@ -1,0 +1,99 @@
+{
+  "title": "Xtra Velvety Korean Tofu Guk",
+  "description": "A fresh and velvety Korean dish featuring tofu, perfect for kids, made with a mirepoix base and a hint of white vinegar.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "silken or soft"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the diced onion, carrot, and celery, and cook until the vegetables are tender.",
+    "Add the vegetable broth, white vinegar, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and add the silken tofu, breaking it up with a spoon.",
+    "Simmer the mixture for 10 minutes, or until the soup has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Xtra Velvety Korean Tofu Guk hot, garnished with chopped green onions if desired.",
+    "Let the soup cool before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "korean-cuisine",
+    "one-pot",
+    "vegan-friendly",
+    "vegetarian-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "xtra-velvety-korean-tofu-guk",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/xtra-velvety-korean-tofu-guk",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:57:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "white vinegar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Xtra Velvety",
+    "dishForm": "Guk"
+  }
+}

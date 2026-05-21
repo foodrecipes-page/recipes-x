@@ -10727,6 +10727,21 @@
     "shard": "x"
   },
   {
+    "slug": "xtra-smoky-ukrainian-cheese-skewers",
+    "title": "Xtra Smoky Ukrainian Cheese Skewers",
+    "tags": [
+      "grilled-cheese",
+      "high-protein",
+      "low-carb",
+      "meal-prep",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 32,
+    "shard": "x"
+  },
+  {
     "slug": "xtra-smoky-venezuelan-taleggio-empanadas",
     "title": "Xtra Smoky Venezuelan Taleggio Empanadas",
     "tags": [
@@ -11946,6 +11961,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-velvety-korean-tofu-guk",
+    "title": "Xtra Velvety Korean Tofu Guk",
+    "tags": [
+      "kid-friendly",
+      "korean-cuisine",
+      "one-pot",
+      "vegan-friendly",
+      "vegetarian-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
