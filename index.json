@@ -3564,6 +3564,22 @@
     "shard": "x"
   },
   {
+    "slug": "xerisced-french-chicken-braised-casserole",
+    "title": "Xerisced French Chicken Braised Casserole",
+    "tags": [
+      "chicken",
+      "comfort-food",
+      "coq-au-vin",
+      "dates",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
     "slug": "xerisced-glassy-jelly-citrusy-peruvian-serrano-ham-tagine",
     "title": "Xerisced Glassy-Jelly Citrusy Peruvian Serrano Ham Tagine",
     "tags": [
