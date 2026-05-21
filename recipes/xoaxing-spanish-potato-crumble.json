@@ -1,0 +1,67 @@
+{
+  "title": "Xoaxing Spanish Potato Crumble",
+  "description": "A savory and crumbly Portuguese dish featuring potato cubes with a tangy mustard sauce, perfect for pescatarian meals.",
+  "cuisine": "Portuguese",
+  "diet": [
+    4
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": 2
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "yakimono-grill seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Peel and cube the potatoes.",
+    "Mix cubed potatoes with mustard and yakimono-grill seasoning.",
+    "Preheat oven to 200°C (392°F).",
+    "Spread the potato mixture evenly on a baking sheet.",
+    "Bake for 25 minutes or until golden brown.",
+    "Serve warm as a side dish or spread between slices of bread for a cracker.",
+    "Enjoy your nostalgic Portuguese dish!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumbly",
+    "nostalgic",
+    "pescatarian-friendly",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 1
+  },
+  "slug": "xoaxing-spanish-potato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xoaxing-spanish-potato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T06:04:15Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "mustard",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potato",
+    "descriptor": "Xoaxing",
+    "dishForm": "Crumble"
+  }
+}
