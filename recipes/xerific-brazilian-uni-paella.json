@@ -1,0 +1,107 @@
+{
+  "title": "Xerific Brazilian Uni Paella",
+  "description": "A rich, snappy, festive Brazilian dish featuring uni, whisk and a flexitarian-friendly twist.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uni (Sea Urchin)",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Saffron-infused oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "White rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Whisk",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the saffron-infused oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook, breaking it up with a spoon, until browned and crispy, about 4 minutes.",
+    "Add the red onion and garlic and cook, stirring occasionally, until the onion is translucent, about 5 minutes.",
+    "Add the white rice and stir to coat the rice in oil and mix with the chorizo and onion mixture.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Add the uni and stir to distribute evenly.",
+    "Cook, uncovered, until the liquid has been absorbed and the rice is tender and crispy, about 5-7 minutes.",
+    "Stir in the fresh cilantro, whisk, salt, and black pepper.",
+    "Drizzle with lime juice and cilantro oil.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "flexitarian",
+    "latin-inspired",
+    "paella",
+    "party-pleaser",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 36,
+    "carbs": 60,
+    "fat": 46
+  },
+  "slug": "xerific-brazilian-uni-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/xerific-brazilian-uni-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T06:54:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "uni",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "uni",
+    "descriptor": "Xerific",
+    "dishForm": "Paella"
+  }
+}

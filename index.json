@@ -3085,6 +3085,21 @@
     "shard": "x"
   },
   {
+    "slug": "xerific-brazilian-uni-paella",
+    "title": "Xerific Brazilian Uni Paella",
+    "tags": [
+      "dinner-party",
+      "flexitarian",
+      "latin-inspired",
+      "paella",
+      "party-pleaser",
+      "seafood"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
     "slug": "xerific-creamy-portuguese-cornstarch-bake",
     "title": "Xerific Creamy Portuguese Cornstarch Bake",
     "tags": [
