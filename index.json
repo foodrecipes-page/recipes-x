@@ -317,6 +317,23 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-crispy-thai-chicken-kao-mun-gai",
+    "title": "X-tra Crispy Thai Chicken Kao Mun Gai",
+    "tags": [
+      "breakfast",
+      "crispy-skin",
+      "hangover-cure",
+      "high-protein",
+      "north-thai",
+      "one-pan",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 70,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-crispy-vietnamese-meat-bowl",
     "title": "x-tra crispy vietnamese meat bowl",
     "tags": [

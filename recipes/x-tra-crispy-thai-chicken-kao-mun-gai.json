@@ -1,0 +1,128 @@
+{
+  "title": "X-tra Crispy Thai Chicken Kao Mun Gai",
+  "description": "A northern Thai dish featuring chicken, served in a flavorful stock with crispy skin and a hint of spice. This hangover-cure breakfast dish is sure to satisfy.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken thighs ",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 ounces)",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches grated",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "chicken stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "toasted rice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "for crispy skin"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chicken, coconut milk, fish sauce, palm sugar, red chilli powder, black pepper, ginger, and garlic. Mix well and refrigerate for at least 2 hours or overnight.",
+    "Preheat oven to 400\t9F (200\u000098C).",
+    "Line a baking sheet with parchment paper and place the marinated chicken on it. ",
+    "Bake the chicken for 25-30 minutes or until cooked through.",
+    "While the chicken is baking, prepare the stock by combining chicken stock, water, and toasted rice in a saucepan. Bring to a boil, then reduce heat and simmer for 10-15 minutes.",
+    "Once the chicken is cooked, remove it from the oven and brush with cornstarch to achieve crispy skin. ",
+    "Place the chicken under the broiler for 2-3 minutes or until the skin is golden brown and crispy.",
+    "To serve, place the chicken on a plate and spoon the hot stock over it. Garnish with chopped Thai basil leaves and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "crispy-skin",
+    "hangover-cure",
+    "high-protein",
+    "north-thai",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "x-tra-crispy-thai-chicken-kao-mun-gai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-crispy-thai-chicken-kao-mun-gai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:25:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "red chilli powder",
+    "diet": "raw",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "X-tra Crispy",
+    "dishForm": "Kao Mun Gai"
+  }
+}
