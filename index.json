@@ -499,6 +499,22 @@
     "shard": "x"
   },
   {
+    "slug": "x-tra-rich-gooey-argentinian-lamb-empanadas",
+    "title": "x-tra rich gooey argentinian lamb empanadas",
+    "tags": [
+      "argentinian",
+      "empanadas",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "rocket",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 85,
+    "shard": "x"
+  },
+  {
     "slug": "x-tra-roasted-spanish-galician-pillowy-jamon-jamon-iberico-croquettes",
     "title": "X-tra Roasted Spanish (Galician) Pillowy Jamon Jamon Iberico Croquettes",
     "tags": [

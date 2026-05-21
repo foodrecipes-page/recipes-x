@@ -1,0 +1,127 @@
+{
+  "title": "x-tra rich gooey argentinian lamb empanadas",
+  "description": "Showcase your culinary skills with these rich, gooey, and savory Argentinian lamb empanadas, featuring fragrant rocket and a hint of smokiness from tukbaegi-earthenware-cooked lamb.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": "boneless, fat-trimmed"
+    },
+    {
+      "name": "onion",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rocket",
+      "amount": "120g",
+      "notes": "chopped, fresh"
+    },
+    {
+      "name": "red wine",
+      "amount": "120ml",
+      "notes": "full-bodied"
+    },
+    {
+      "name": "beef broth",
+      "amount": "100ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "60g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "paprika",
+      "amount": "15g",
+      "notes": "sweet smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "6g",
+      "notes": "flaky sea"
+    },
+    {
+      "name": "black pepper",
+      "amount": "3g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "500g",
+      "notes": "high-protein"
+    },
+    {
+      "name": "butter",
+      "amount": "80g",
+      "notes": "unsalted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the tukbaegi-earthenware vessel in a preheated oven at 220°C (425°F) for 10 minutes.",
+    "In a large skillet, heat 40g of butter over medium heat and cook the chopped onion until translucent, about 8 minutes.",
+    "Add the minced garlic and cook for an additional 2 minutes, stirring constantly to prevent burning.",
+    "Add the lamb shoulder and cook until browned on all sides, about 10 minutes.",
+    "Add the red wine, beef broth, tomato paste, paprika, salt, and black pepper to the skillet. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 hour, or until the lamb is tender.",
+    "Let the lamb cool slightly before shredding it with two forks.",
+    "In a separate bowl, combine the high-protein flour, beaten egg, and a pinch of salt. Mix until a dough forms.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 12cm (5in) in diameter.",
+    "Place a tablespoon of the shredded lamb and a sprinkle of chopped rocket onto the center of each dough circle.",
+    "Fold the dough over the filling and seal the edge with a fork. Brush the tops with a little water and sprinkle with sesame seeds.",
+    "Cook the empanadas in the preheated tukbaegi-earthenware vessel for 20-25 minutes, or until golden brown, and serve hot."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 40,
+  "totalTimeMin": 85,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "rocket",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 4200,
+    "protein": 15,
+    "carbs": 420,
+    "fat": 210
+  },
+  "slug": "x-tra-rich-gooey-argentinian-lamb-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-rich-gooey-argentinian-lamb-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T09:17:26Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "rocket",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Lamb",
+    "descriptor": "X-tra rich gooey",
+    "dishForm": "Empanadas"
+  }
+}
