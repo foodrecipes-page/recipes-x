@@ -1,0 +1,111 @@
+{
+  "title": "X-tra Crisp Ukrainian Shungiku Wrap",
+  "description": "A refreshing, post-workout wrap featuring crisp shungiku, tangy Ukrainian pickles, and creamy cashew sauce, all wrapped in a crispy ssam-wrap.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "4 heads",
+      "notes": "thinly slice"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4-6 pieces",
+      "notes": "preferably Korean or Mexican style"
+    },
+    {
+      "name": "Ukrainian pickles",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "soaked overnight, drained"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "apple cider or white wine vinegar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the ssam-wraps with olive oil and cook for 2-3 minutes on each side, until crispy.",
+    "Slice the shungiku into thin strips.",
+    "In a blender or food processor, combine cashews, lemon juice, garlic, and apple cider vinegar, and blend until smooth.",
+    "Add the sliced shungiku to the blender and blend until well combined.",
+    "Season with salt and black pepper to taste.",
+    "Warm the Ukrainian pickles by steaming them for 1-2 minutes.",
+    "Assemble the wraps by spreading a spoonful of the cashew sauce on each ssam-wrap, followed by a few slices of shungiku, a few slices of pickles, and finally, a sprinkle of salt and black pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "x-tra-crisp-ukrainian-shungiku-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/x-tra-crisp-ukrainian-shungiku-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T03:34:28Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "shungiku",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Shungiku",
+    "descriptor": "X-tra Crisp",
+    "dishForm": "Wrap"
+  }
+}
