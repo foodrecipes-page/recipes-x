@@ -1,0 +1,86 @@
+{
+  "title": "Xgarlicky Velvety Asian-Chive-Buchu Xshepherds-Pie",
+  "description": "A realistic and savory recipe for a shepherds-pie variation featuring asian-chive-buchu with a long-fermentation dough, garlic, and jain-friendly ingredients.",
+  "cuisine": "Asian-Chinese/English Fusion (monsoon British style)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asian-chive-buchu",
+      "amount": "10g"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "200g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "paprika powder",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Mix long-fermentation dough with asian-chive-buchu, salt, and black pepper until smooth.",
+    "Chop garlic finely and mix it into the dough mixture evenly.",
+    "Roll out dough into thin sheets on a floured surface, cut circles about 15cm in diameter.",
+    "Place one circle of dough onto a greased pie dish. Spread half the cheese over the dough, then place another layer of dough on top to form the lid.",
+    "Fill the center with the garlic-chive-buchu mixture, then cover with the second dough layer and press down gently to seal.",
+    "Bake for 25 minutes until golden brown.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "jain-friendly",
+    "shepherds-pie",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 670,
+    "protein": 29,
+    "carbs": 51,
+    "fat": 31
+  },
+  "slug": "xgarlicky-velvety-asian-chive-buchu-xshepherds-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/xgarlicky-velvety-asian-chive-buchu-xshepherds-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T06:01:49Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "jain",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Asian-Chive-Buchu",
+    "descriptor": "Garlicky Velvety",
+    "dishForm": "Xantham-Gum Shepherds-Pie"
+  }
+}
