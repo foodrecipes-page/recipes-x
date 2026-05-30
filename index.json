@@ -605,17 +605,15 @@
   },
   {
     "slug": "x-tra-silky-moroccan-bun-seffa",
-    "title": "X-tra Silky Moroccan Bun Seffa",
+    "title": "Moroccan Saffron Rice with Moroccan Sausage",
     "tags": [
-      "brunch",
-      "fancy",
       "moroccan",
-      "one-pan",
-      "seafood",
-      "special-occasion"
+      "saffron",
+      "rice",
+      "sausage"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -2795,16 +2793,15 @@
   },
   {
     "slug": "xenial-uruguayan-gruyere-flatbread",
-    "title": "Xenial Uruguayan Gruyere Flatbread",
+    "title": "Uruguayan Gruyere Flatbread",
     "tags": [
-      "flatbread",
       "gruyere",
-      "quick",
-      "satvik",
+      "flatbread",
+      "snack",
       "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -6153,18 +6150,15 @@
   },
   {
     "slug": "xtra-crispy-slovakian-casabe-wrap",
-    "title": "Xtra Crispy Slovakian Casabe Wrap",
+    "title": "Crispy Slovakian Wrap",
     "tags": [
-      "breakfast-idea",
-      "coconut-based",
-      "crispy-snack",
-      "dairy-free-option",
-      "hangover-cure",
-      "slovakian-cuisine",
-      "sweet-treat"
+      "slovakian",
+      "wrap",
+      "snack",
+      "quick"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "cuisine": "slovakian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -7202,17 +7196,15 @@
   },
   {
     "slug": "xtra-flaky-american-red-snapper-skillet",
-    "title": "Xtra Flaky American Red Snapper Skillet",
+    "title": "Pan-Seared Red Snapper",
     "tags": [
-      "american-cuisine",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "fish",
+      "snapper",
+      "american",
+      "gluten-free"
     ],
     "cuisine": "American",
-    "totalTimeMin": 30,
+    "totalTimeMin": 18,
     "shard": "x"
   },
   {
@@ -8983,17 +8975,15 @@
   },
   {
     "slug": "xtra-light-uruguayan-cornmeal-pilaf",
-    "title": "Xtra Light Uruguayan Cornmeal Pilaf",
+    "title": "Uruguayan Cornmeal Cakes",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "jain-friendly",
-      "meal-prep",
-      "one-pot",
-      "vegetarian"
+      "uruguayan",
+      "cornmeal",
+      "breakfast",
+      "brunch"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
