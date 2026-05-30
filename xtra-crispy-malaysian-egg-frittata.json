@@ -1,0 +1,73 @@
+{
+  "slug": "xtra-crispy-malaysian-egg-frittata",
+  "title": "Malaysian-Style Crispy Frittata",
+  "description": "A twist on the classic frittata, this Malaysian-inspired dish combines crispy shallots with a rich egg mixture.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "6",
+      "notes": null
+    },
+    {
+      "name": "Frittata",
+      "amount": "1",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "Shallots",
+      "amount": "1/4 cup",
+      "notes": "crispy"
+    },
+    {
+      "name": "Malaysian chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté crispy shallots in a pan until fragrant.",
+    "Add pre-cooked frittata and break it up with a spatula.",
+    "Whisk eggs and season with Malaysian chili flakes, salt, and black pepper.",
+    "Pour egg mixture over frittata mixture in the pan.",
+    "Transfer the pan to the oven and bake for 12-15 minutes.",
+    "Remove from oven and let cool before slicing and serving.",
+    "Serve warm, garnished with additional crispy shallots if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "malaysian",
+    "egg",
+    "frittata",
+    "crispy",
+    "shallots"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-malaysian-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:49:06.052Z"
+}
