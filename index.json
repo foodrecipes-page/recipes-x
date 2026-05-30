@@ -5945,17 +5945,17 @@
   },
   {
     "slug": "xtra-crispy-malaysian-egg-frittata",
-    "title": "Xtra Crispy Malaysian Egg Frittata",
+    "title": "Malaysian-Style Crispy Frittata",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "malaysian-cuisine",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "malaysian",
+      "egg",
+      "frittata",
+      "crispy",
+      "shallots"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 18,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
