@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-rich-polish-cheese-dumplings",
+  "title": "Polish Dumplings with Rich Cheese Filling",
+  "description": "A traditional Polish dish featuring homemade dumplings filled with a rich cheese mixture. Perfect as a hearty snack or light lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "xtra flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "rich sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "polish cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dumplings",
+      "amount": "12 pieces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine xtra flour and salt. Gradually add in sour cream, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide the dough into 12 equal pieces. Roll each piece into a ball and flatten slightly into a disk shape.",
+    "In a separate bowl, mix together polish cheese until well combined.",
+    "Place a tablespoon of the cheese mixture onto the center of each dough disk. Fold the dough over the filling to form a half-moon shape, pressing edges to seal.",
+    "Bring a large pot of salted water to a boil. Gently add the dumplings to the pot and cook for 5-7 minutes, or until they float to the surface.",
+    "Serve the dumplings hot with melted polish cheese on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "dumplings",
+    "cheese",
+    "snack",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-polish-cheese-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:37:15.673Z"
+}
