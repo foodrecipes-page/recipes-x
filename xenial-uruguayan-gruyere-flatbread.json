@@ -1,0 +1,63 @@
+{
+  "slug": "xenial-uruguayan-gruyere-flatbread",
+  "title": "Uruguayan Gruyere Flatbread",
+  "description": "A simple flatbread recipe topped with melted gruyere cheese, inspired by Uruguayan cuisine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 flatbreads)"
+    },
+    {
+      "name": "Gruyere Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "optional, chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut flatbreads in half and place on a baking sheet.",
+    "Sprinkle shredded gruyere cheese evenly over each flatbread half.",
+    "Dot the top of each flatbread with butter.",
+    "Season with salt to taste.",
+    "Bake in preheated oven for 8-10 minutes, or until cheese is melted and bubbly.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "gruyere",
+    "flatbread",
+    "snack",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-uruguayan-gruyere-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:52:42.737Z"
+}
