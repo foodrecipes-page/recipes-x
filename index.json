@@ -4290,18 +4290,14 @@
   },
   {
     "slug": "xtra-buttery-indian-flour-flatbread",
-    "title": "Xtra Buttery Indian Flour Flatbread",
+    "title": "Buttery Flatbread",
     "tags": [
-      "buttery",
-      "crowd-pleaser",
       "flatbread",
-      "homemade",
-      "indian-food",
-      "snappy",
-      "vegetarian"
+      "indian",
+      "snack"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 9,
     "shard": "x"
   },
   {
