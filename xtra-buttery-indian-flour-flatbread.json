@@ -1,0 +1,55 @@
+{
+  "slug": "xtra-buttery-indian-flour-flatbread",
+  "title": "Buttery Flatbread",
+  "description": "A simple flatbread recipe with a rich, buttery flavor, perfect for serving with your favorite curries or as a side dish.",
+  "cuisine": "Indian",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Indian flatbread",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Buttery",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Xtra-virgin olive oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing the flatbread"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Brush the flatbread with olive oil on both sides.",
+    "Place the flatbread in the skillet and cook for 1-2 minutes on each side, until lightly toasted.",
+    "Brush the buttery mixture on top of the flatbread while it's still warm.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "indian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-buttery-indian-flour-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:24:35.826Z"
+}
