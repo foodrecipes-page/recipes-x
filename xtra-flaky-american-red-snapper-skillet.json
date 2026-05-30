@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-flaky-american-red-snapper-skillet",
+  "title": "Pan-Seared Red Snapper",
+  "description": "A simple and flavorful fish dish, pan-seared to perfection. Serve with your favorite sides.",
+  "cuisine": "American",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red Snapper fillets",
+      "amount": "4",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For greasing the skillet"
+    },
+    {
+      "name": "Flaky Sea Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "American Butter",
+      "amount": "2 tablespoons",
+      "notes": "For finishing"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Season the snapper fillets with flaky sea salt and pepper.",
+    "Add a few drops of olive oil to the preheated skillet.",
+    "Sear the snapper fillets for 3-4 minutes on each side, or until cooked through.",
+    "Remove the snapper from the skillet and place on a plate.",
+    "Add the butter to the skillet and let it melt.",
+    "Serve the snapper with the melted butter spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "snapper",
+    "american",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-american-red-snapper-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:54:18.650Z"
+}
