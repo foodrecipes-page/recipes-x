@@ -1,0 +1,74 @@
+{
+  "slug": "x-tra-silky-moroccan-bun-seffa",
+  "title": "Moroccan Saffron Rice with Moroccan Sausage",
+  "description": "A flavorful and aromatic Moroccan dish made with saffron-infused rice, Moroccan sausage, and spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "Soak in 2 tablespoons hot water before using"
+    },
+    {
+      "name": "Moroccan Sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Silky rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tra",
+      "amount": "2 tablespoons",
+      "notes": "Peanut or vegetable oil"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of Tra in a large saucepan over medium-high heat.",
+    "Add the sliced Moroccan Sausage and cook until browned, about 5 minutes.",
+    "Add the soaked saffron and its liquid to the saucepan and stir to combine.",
+    "Add the Silky rice to the saucepan and stir to coat the rice with the spice mixture.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the water is absorbed.",
+    "Fluff the rice with a fork and season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "saffron",
+    "rice",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-silky-moroccan-bun-seffa",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:49:44.039Z"
+}
