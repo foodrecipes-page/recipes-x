@@ -1,0 +1,70 @@
+{
+  "slug": "xtra-crunchy-algerian-lamb-kebabs",
+  "title": "Algerian Lamb Kebabs",
+  "description": "A flavorful and aromatic North African-inspired dish featuring lamb skewers with a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "kebabs",
+      "amount": "10-12",
+      "notes": "metal or bamboo skewers"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crunchy paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (180°C).",
+    "In a large bowl, whisk together algerian spice blend, salt, and black pepper.",
+    "Add lamb to the bowl and toss to coat evenly.",
+    "Thread lamb onto kebabs, leaving a small space between each piece.",
+    "Brush kebabs with olive oil and sprinkle with crunchy paprika.",
+    "Grill kebabs for 8-10 minutes per side, or until lamb reaches 63°C.",
+    "Let kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-algerian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:56:26.504Z"
+}
