@@ -3559,16 +3559,14 @@
   },
   {
     "slug": "xerisced-briny-venezuelan-rice-wrap",
-    "title": "xerisced briny venezuelan rice wrap",
+    "title": "Venezuelan Briny Wrap",
     "tags": [
-      "low-sodium",
-      "meal-prep",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "vegan-free",
+      "easy-to-make",
+      "latin-inspired"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -6415,17 +6413,14 @@
   },
   {
     "slug": "xtra-crunchy-algerian-lamb-kebabs",
-    "title": "Xtra Crunchy Algerian Lamb Kebabs",
+    "title": "Algerian Lamb Kebabs",
     "tags": [
-      "algerian-cuisine",
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "algerian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
