@@ -1,0 +1,61 @@
+{
+  "slug": "xerisced-briny-venezuelan-rice-wrap",
+  "title": "Venezuelan Briny Wrap",
+  "description": "A flavorful and savory Venezuelan-inspired dish wrapped in a warm tortilla.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Venezuelan rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Briny cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Xerisced onion",
+      "amount": "1/2 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Venezuelan rice according to the package instructions.",
+    "In a pan, sauté the chopped xerisced onion until softened.",
+    "Add the briny cheese to the pan and stir until melted.",
+    "Combine the cooked rice and onion-cheese mixture.",
+    "Warm the wrap in the microwave or oven.",
+    "Assemble the Venezuelan Briny Wrap by placing the rice mixture onto the warmed wrap.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-free",
+    "easy-to-make",
+    "latin-inspired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisced-briny-venezuelan-rice-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:56:35.176Z"
+}
