@@ -8005,17 +8005,14 @@
   },
   {
     "slug": "xtra-garlicky-jamaican-mozzarella-casserole",
-    "title": "Xtra Garlicky Jamaican Mozzarella Casserole",
+    "title": "Jamaican Mozzarella Casserole",
     "tags": [
-      "comfort-food",
-      "garlic-lovers",
-      "jamaican-cuisine",
-      "low-fat",
-      "one-pot",
-      "weeknight-meal"
+      "caribbean",
+      "cheesy",
+      "comfort-food"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -9601,13 +9598,13 @@
   },
   {
     "slug": "xtra-rich-polish-cheese-dumplings",
-    "title": "Xtra Rich Polish Cheese Dumplings",
+    "title": "Polish Dumplings with Rich Cheese Filling",
     "tags": [
-      "cheese-lovers",
-      "comfort-food",
-      "low-fat",
-      "polish-cuisine",
-      "romantic-dinner"
+      "polish",
+      "dumplings",
+      "cheese",
+      "snack",
+      "lunch"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 35,
