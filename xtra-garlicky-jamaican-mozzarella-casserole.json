@@ -1,0 +1,83 @@
+{
+  "slug": "xtra-garlicky-jamaican-mozzarella-casserole",
+  "title": "Jamaican Mozzarella Casserole",
+  "description": "A twist on a classic casserole, this Jamaican Mozzarella Casserole combines the flavors of the Caribbean with the comfort of a cheesy, gooey casserole. Perfect for a dinner that's sure to please.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xtra Mozzarella Cheese",
+      "amount": "1 cup shredded",
+      "notes": "Freshly shredded"
+    },
+    {
+      "name": "garlicky Garlic",
+      "amount": "2 cloves minced",
+      "notes": "Use a press for best results"
+    },
+    {
+      "name": "jamaican Jerk Seasoning",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "casserole Pasta",
+      "amount": "8 oz",
+      "notes": "Your favorite casserole-style pasta"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can diced",
+      "notes": "14.5 oz can"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup chopped",
+      "notes": "Red or yellow work well"
+    },
+    {
+      "name": "Jalapeño",
+      "amount": "1/4 cup chopped",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup chopped",
+      "notes": "Fresh or dried work well"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions. Drain and set aside.",
+    "In a large skillet, sauté garlic and onion until softened.",
+    "Add diced tomatoes, jerk seasoning, and jalapeño. Simmer for 5 minutes.",
+    "Stir in chopped basil.",
+    "In a large mixing bowl, combine cooked pasta, tomato mixture, and shredded mozzarella.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Bake for 20-25 minutes, or until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "cheesy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-garlicky-jamaican-mozzarella-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:36:47.759Z"
+}
