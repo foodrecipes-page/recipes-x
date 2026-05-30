@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-crispy-slovakian-casabe-wrap",
+  "title": "Crispy Slovakian Wrap",
+  "description": "A crispy wrap filled with Slovakian flavors, perfect for a quick snack or lunch.",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "casabe",
+      "amount": "2",
+      "notes": "crushed"
+    },
+    {
+      "name": "xtra crispy wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1/4 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium-high heat.",
+    "Add the Slovakian sausage and cook until browned, about 3-4 minutes.",
+    "Add the chopped onion and bell pepper and cook until softened, about 5 minutes.",
+    "Warm the casabe in the pan for 1-2 minutes on each side.",
+    "Assemble the wrap by spreading sour cream on the casabe, followed by the meat and vegetables.",
+    "Sprinkle with parsley and season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "wrap",
+    "snack",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-slovakian-casabe-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:54:50.838Z"
+}
