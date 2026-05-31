@@ -1,0 +1,72 @@
+{
+  "slug": "xenial-uruguayan-gruyere-flatbread--indian",
+  "title": "Uruguayan Flatbread Naan",
+  "description": "A unique twist on traditional Indian flatbread, infused with Uruguayan flavors. Perfect for serving with a variety of curries or stews.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gruyere cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Uruguayan flatbread",
+      "amount": "4 flatbreads"
+    },
+    {
+      "name": "Xenial yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut each flatbread into quarters.",
+    "Mix the crumbled Gruyere cheese with the chopped cilantro.",
+    "Dip each flatbread quarter into the Gruyere mixture, coating both sides evenly.",
+    "Place the coated flatbreads on a baking sheet lined with parchment paper.",
+    "Drizzle the Xenial yogurt over the flatbreads.",
+    "Sprinkle the garam masala and salt over the flatbreads.",
+    "Bake in the preheated oven for 10-12 minutes, or until golden brown.",
+    "Remove from the oven and sprinkle with black pepper.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "naan",
+    "flatbread",
+    "gruyere",
+    "uruguayan",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-uruguayan-gruyere-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:11:53.169Z"
+}
