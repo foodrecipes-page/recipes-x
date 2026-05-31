@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-smoky-croatian-poppy-seeds-dumplings",
+  "title": "Smoky Croatian Dumplings",
+  "description": "A hearty and flavorful dish featuring smoky pork and traditional Croatian dumplings.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky Pork Shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Xtra Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Croatian Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dumplings",
+      "amount": "1 package (12-15 dumplings)",
+      "notes": ""
+    },
+    {
+      "name": "Poppy Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the smoky pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the xtra garlic and cook for an additional 1-2 minutes.",
+    "Add the Croatian paprika and cook for 1 minute.",
+    "Transfer the pork to a baking dish and cover with foil.",
+    "Bake in the preheated oven for 30-40 minutes, or until the pork is tender.",
+    "Meanwhile, cook the dumplings according to package instructions.",
+    "To serve, place the cooked dumplings on a plate and top with the smoky pork and poppy seeds.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "pork",
+    "dumplings",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-croatian-poppy-seeds-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:11:31.894Z"
+}
