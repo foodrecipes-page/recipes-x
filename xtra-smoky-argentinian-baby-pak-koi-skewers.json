@@ -1,0 +1,81 @@
+{
+  "slug": "xtra-smoky-argentinian-baby-pak-koi-skewers",
+  "title": "Grilled Argentinian Shrimp Skewers",
+  "description": "A flavorful and easy-to-make recipe for grilled shrimp skewers with a smoky twist. Perfect for a summer evening or a quick dinner.",
+  "cuisine": "latin american",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "2 teaspoons",
+      "notes": "smoked"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "reduced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Baby Pak Choi",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Koi Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, balsamic vinegar, garlic, smoky paprika, and koi salt.",
+    "Add the shrimp to the marinade and toss to coat.",
+    "Thread the shrimp, pak choi, and cilantro onto skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "latin-american",
+    "summer",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-argentinian-baby-pak-koi-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:57:54.597Z"
+}
