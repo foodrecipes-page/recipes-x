@@ -1,0 +1,83 @@
+{
+  "slug": "xenial-ethiopian-prawns-ceviche--mexican",
+  "title": "Mexican Shrimp Ceviche",
+  "description": "A refreshing Mexican dish made with prawns marinated in lime juice and mixed with spices, onions, and cilantro.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Large prawns",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced avocado",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jalapeno pepper",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the prawns under cold water and pat them dry with paper towels.",
+    "Cut the prawns into small pieces and place them in a large bowl.",
+    "Squeeze the lime juice over the prawns and let them marinate for at least 30 minutes.",
+    "Add the diced onion, chopped cilantro, diced avocado, and sliced jalapeno to the bowl with the prawns.",
+    "Season the mixture with salt, pepper, and Mexican oregano to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the mixture a good stir and adjust the seasoning if needed.",
+    "Serve the ceviche in small glasses or bowls and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "ceviche",
+    "prawns",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-ethiopian-prawns-ceviche--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:25:32.244Z"
+}
