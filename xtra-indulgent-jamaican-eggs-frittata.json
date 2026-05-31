@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-indulgent-jamaican-eggs-frittata",
+  "title": "Jamaican Frittata",
+  "description": "A spicy twist on the classic Italian dish, packed with flavor and perfect for a satisfying dinner.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "dairy",
+    "eggs"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tsp",
+      "notes": "Jamaican seasoning blend"
+    },
+    {
+      "name": "xtra",
+      "amount": "1/4 cup",
+      "notes": "Extra virgin olive oil"
+    },
+    {
+      "name": "indulgent",
+      "amount": "2 cup",
+      "notes": "Shredded cheddar cheese"
+    },
+    {
+      "name": "frittata",
+      "amount": "2 cup",
+      "notes": "Diced bell peppers"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat. Add the diced bell peppers and cook until tender.",
+    "In a large bowl, whisk together the eggs, Jamaican seasoning blend, and a pinch of salt and pepper.",
+    "Pour the egg mixture over the cooked bell peppers in the skillet.",
+    "Sprinkle the shredded cheese over the top of the eggs.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata from the skillet.",
+    "Slide the frittata out of the skillet onto a plate and slice into wedges.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dinner",
+    "caribbean",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 8,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-indulgent-jamaican-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:34:58.209Z"
+}
