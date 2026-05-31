@@ -1,0 +1,80 @@
+{
+  "slug": "xenial-ethiopian-prawns-ceviche",
+  "title": "Ethiopian Prawn Ceviche",
+  "description": "A refreshing and spicy ceviche dish combining the flavors of Ethiopia with succulent prawns.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "xenial",
+      "amount": "1",
+      "notes": "Ethiopian berbere spice"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chilli",
+      "amount": "1",
+      "notes": "Ethiopian berbere chilli"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the prawns under cold water and pat dry with paper towels.",
+    "Mix the xenial, lemon juice, chilli, garlic, olive oil, salt, and black pepper in a bowl.",
+    "Add the prawns to the bowl and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Just before serving, garnish with chopped cilantro (if desired).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "prawns",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-ethiopian-prawns-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:51:16.598Z"
+}
