@@ -6309,16 +6309,15 @@
   },
   {
     "slug": "xtra-crumbly-american-suet-casserole",
-    "title": "Xtra Crumbly American Suet Casserole",
+    "title": "Suzy's Suet Squares",
     "tags": [
-      "american",
-      "comfort-food",
-      "jain-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "easy",
+      "dessert",
+      "squares",
+      "biscuit",
+      "suet"
     ],
-    "cuisine": "American",
+    "cuisine": null,
     "totalTimeMin": 55,
     "shard": "x"
   },
@@ -8549,16 +8548,15 @@
   },
   {
     "slug": "xtra-juicy-jamaican-pork-pasta",
-    "title": "Xtra Juicy Jamaican Pork Pasta",
+    "title": "Jamaican Jerk Pork Pasta",
     "tags": [
-      "jamaican-cuisine",
-      "kid-friendly",
-      "one-pan",
-      "pasta-dish",
-      "weeknight-meal"
+      "pasta",
+      "pork",
+      "jamaican",
+      "caribbean"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
