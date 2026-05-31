@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-crumbly-american-suet-casserole",
+  "title": "Suzy's Suet Squares",
+  "description": "A crumbly and sweet dessert with a crunchy crust, perfect for a snack or dessert.",
+  "cuisine": null,
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Suet",
+      "amount": "250g",
+      "notes": "Crumbly suet, not melted"
+    },
+    {
+      "name": "Xtra sweet biscuits",
+      "amount": "175g",
+      "notes": "Crushed into crumbs"
+    },
+    {
+      "name": "American sugar",
+      "amount": "100g",
+      "notes": "Granulated sugar"
+    },
+    {
+      "name": "Casserole tin",
+      "amount": "",
+      "notes": "For lining with parchment paper"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Grease a casserole tin and line with parchment paper.",
+    "Mix the crushed biscuits and melted suet in a bowl until well combined.",
+    "Press the mixture into the prepared tin.",
+    "Mix the sugar and melted suet in a separate bowl until well combined.",
+    "Pour the sugar mixture over the biscuit mixture in the tin.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Remove from the oven and let cool completely.",
+    "Cut into squares and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 9,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "dessert",
+    "squares",
+    "biscuit",
+    "suet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crumbly-american-suet-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:18:34.520Z"
+}
