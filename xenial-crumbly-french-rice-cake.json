@@ -1,0 +1,53 @@
+{
+  "slug": "xenial-crumbly-french-rice-cake",
+  "title": "French Crumbly Rice Cake",
+  "description": "A simple and light dessert perfect for warm days. This French-inspired rice cake is crumbly and delicious.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "French cake",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Xenial",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Mix rice and crumbled cake in a bowl.",
+    "Add xenial and mix well.",
+    "Transfer the mixture to a baking dish.",
+    "Bake for 25 minutes.",
+    "Let it cool completely.",
+    "Cut into desired shapes or serve as is."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "crumbly",
+    "rice-cake"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-crumbly-french-rice-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:15:22.456Z"
+}
