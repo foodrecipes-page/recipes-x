@@ -9559,13 +9559,13 @@
   },
   {
     "slug": "xtra-rich-moroccan-lamb-tagine",
-    "title": "Xtra Rich Moroccan Lamb Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-recipes",
-      "moroccan-cuisine",
-      "one-pot-meals",
-      "whole30-recipes"
+      "moroccan",
+      "lamb",
+      "tagine",
+      "stew",
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 180,
@@ -12481,6 +12481,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-smoky-slovakian-pork-skewers--mexican",
+    "title": "Smoky Pork Skewers",
+    "tags": [
+      "mexican",
+      "skewers",
+      "pork"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "x"
   }
 ]
