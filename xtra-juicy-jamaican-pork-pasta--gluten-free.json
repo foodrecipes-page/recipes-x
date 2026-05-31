@@ -1,0 +1,83 @@
+{
+  "slug": "xtra-juicy-jamaican-pork-pasta--gluten-free",
+  "title": "Jamaican Pork Pasta",
+  "description": "A flavorful and gluten-free pasta dish made with juicy pork and Jamaican spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pasta (gluten-free)",
+      "amount": "8 oz",
+      "notes": "such as rice-based pasta"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "3. Add the jerk seasoning and cook for 1 minute, stirring constantly.",
+    "4. Add the pineapple and cook for an additional 2-3 minutes, stirring occasionally.",
+    "5. Add the pasta to the skillet and stir to combine with the pork and pineapple mixture.",
+    "6. Cook for an additional 2-3 minutes, stirring occasionally, until the pasta is lightly toasted.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "pork",
+    "pasta",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-juicy-jamaican-pork-pasta--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:54:26.384Z"
+}
