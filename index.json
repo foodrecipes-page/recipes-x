@@ -12442,5 +12442,17 @@
     "cuisine": "Filipino",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "x-tra-silky-moroccan-bun-seffa--keto",
+    "title": "Moroccan Keto Stuffed Buns",
+    "tags": [
+      "keto",
+      "moroccan",
+      "stuffed-buns"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
