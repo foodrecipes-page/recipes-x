@@ -2683,18 +2683,16 @@
   },
   {
     "slug": "xenial-tunisian-beef-tagine",
-    "title": "Xenial Tunisian Beef Tagine",
+    "title": "Beef Tagine with Xenial Flair",
     "tags": [
-      "bean-free",
-      "donabe",
-      "one-pot",
-      "romantic",
-      "shattering",
-      "tunisian",
-      "whole30"
+      "beef",
+      "tagine",
+      "north-african",
+      "lunch",
+      "spicy"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 105,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "x"
   },
   {
