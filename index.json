@@ -1485,17 +1485,14 @@
   },
   {
     "slug": "xenial-crumbly-french-rice-cake",
-    "title": "Xenial Crumbly French Rice Cake",
+    "title": "French Crumbly Rice Cake",
     "tags": [
-      "cast-iron",
-      "crumble",
-      "madeleine",
-      "one-pan",
-      "rice",
-      "weeknight"
+      "french",
+      "crumbly",
+      "rice-cake"
     ],
     "cuisine": "French",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -12470,6 +12467,20 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xgooey-x-korean-kabocha-x-poached-x-stir-fry--french",
+    "title": "Pan-Seared Kabocha Squash",
+    "tags": [
+      "french",
+      "vegetarian",
+      "squash",
+      "fall",
+      "autumn"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
     "shard": "x"
   }
 ]
