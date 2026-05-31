@@ -1,0 +1,66 @@
+{
+  "slug": "x-tra-silky-moroccan-bun-seffa--keto",
+  "title": "Moroccan Keto Stuffed Buns",
+  "description": "Soft and fluffy buns filled with a rich and savory Moroccan-inspired filling, perfect for a keto diet.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Seffa",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tra",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Moroccan",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bun",
+      "amount": "4"
+    },
+    {
+      "name": "X",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Silky",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine Seffa, Tra, and Moroccan. Mix well.",
+    "Cut the buns in half and hollow them out.",
+    "Divide the Seffa mixture among the buns, spooning it into the hollowed-out centers.",
+    "Top each bun with X and Silky.",
+    "Place the stuffed buns on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the buns are golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "moroccan",
+    "stuffed-buns"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-silky-moroccan-bun-seffa--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:01:34.373Z"
+}
