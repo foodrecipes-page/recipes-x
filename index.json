@@ -8378,17 +8378,16 @@
   },
   {
     "slug": "xtra-indulgent-jamaican-eggs-frittata",
-    "title": "Xtra Indulgent Jamaican Eggs Frittata",
+    "title": "Jamaican Frittata",
     "tags": [
-      "high-protein",
-      "indulgent-breakfast",
-      "jamaican-cuisine",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "brunch",
+      "dinner",
+      "caribbean",
+      "frittata"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 30,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -10429,16 +10428,15 @@
   },
   {
     "slug": "xtra-smoky-croatian-poppy-seeds-dumplings",
-    "title": "Xtra Smoky Croatian Poppy Seeds Dumplings",
+    "title": "Smoky Croatian Dumplings",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "homemade-dumplings",
-      "kosher-friendly",
-      "smoky-flavors"
+      "smoky",
+      "pork",
+      "dumplings",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "x"
   },
   {
@@ -12491,6 +12489,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-ethiopian-prawns-ceviche--mexican",
+    "title": "Mexican Shrimp Ceviche",
+    "tags": [
+      "mexican",
+      "ceviche",
+      "prawns",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "x"
   }
 ]
