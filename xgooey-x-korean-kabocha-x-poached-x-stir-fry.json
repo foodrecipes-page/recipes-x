@@ -1,0 +1,84 @@
+{
+  "slug": "xgooey-x-korean-kabocha-x-poached-x-stir-fry",
+  "title": "Korean-Style Kabocha Squash Stir Fry",
+  "description": "A delicious and easy-to-make stir fry dish featuring roasted kabocha squash, crispy garlic, and a sweet Korean-inspired sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabocha Squash",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Pierce the kabocha squash with a fork a few times and roast for 30-40 minutes, or until tender.",
+    "While the squash is roasting, heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1-2 minutes, or until fragrant.",
+    "Add the soy sauce, brown sugar, and sesame oil to the skillet and stir to combine.",
+    "Once the squash is done, remove it from the oven and let it cool for a few minutes.",
+    "Scoop the flesh out of the squash and add it to the skillet with the sauce.",
+    "Stir-fry everything together for 2-3 minutes, or until the squash is well coated with the sauce.",
+    "Season with salt to taste, then serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "squash",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xgooey-x-korean-kabocha-x-poached-x-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:48:34.255Z"
+}
