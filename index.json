@@ -10332,18 +10332,15 @@
   },
   {
     "slug": "xtra-smoky-argentinian-baby-pak-koi-skewers",
-    "title": "Xtra Smoky Argentinian Baby Pak Koi Skewers",
+    "title": "Grilled Argentinian Shrimp Skewers",
     "tags": [
-      "argentinian",
-      "date-night",
-      "fluffy",
       "gluten-free",
-      "low-carb",
-      "smoky",
-      "sugar-free"
+      "latin-american",
+      "summer",
+      "grilled"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 36,
+    "cuisine": "latin american",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -12460,6 +12457,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 22,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-juicy-jamaican-pork-pasta--gluten-free",
+    "title": "Jamaican Pork Pasta",
+    "tags": [
+      "gluten-free",
+      "pork",
+      "pasta",
+      "jamaican"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "x"
   }
 ]
