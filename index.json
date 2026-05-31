@@ -1696,16 +1696,14 @@
   },
   {
     "slug": "xenial-ethiopian-prawns-ceviche",
-    "title": "Xenial Ethiopian Prawns Ceviche",
+    "title": "Ethiopian Prawn Ceviche",
     "tags": [
-      "ethiopian",
-      "hangover-cure",
-      "low-carb",
-      "robata",
-      "seafood"
+      "ceviche",
+      "prawns",
+      "ethiopian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -8748,18 +8746,15 @@
   },
   {
     "slug": "xtra-light-british-seaweed-salad",
-    "title": "Xtra Light British Seaweed Salad",
+    "title": "British Seaweed Salad",
     "tags": [
       "british",
-      "lazy-sunday",
-      "light",
-      "plant-based",
-      "quick",
-      "seaweed-salad",
-      "vegan"
+      "salad",
+      "seafood-free",
+      "gluten-free"
     ],
     "cuisine": "British",
-    "totalTimeMin": 20,
+    "totalTimeMin": 10,
     "shard": "x"
   },
   {
