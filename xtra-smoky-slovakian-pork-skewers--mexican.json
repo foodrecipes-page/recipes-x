@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-smoky-slovakian-pork-skewers--mexican",
+  "title": "Smoky Pork Skewers",
+  "description": "A traditional Mexican-inspired dish featuring smoky pork skewers with a flavorful twist. Perfect for a quick and spicy meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Xtra hot sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian allspice",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together hot sauce, smoky paprika, allspice, garlic, lime juice, and olive oil.",
+    "3. Add pork cubes to the marinade and mix well.",
+    "4. Thread pork cubes onto skewers.",
+    "5. Season with salt and pepper to taste.",
+    "6. Grill skewers for 8-10 minutes, turning occasionally, or until the pork is cooked through.",
+    "7. Let skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "skewers",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-slovakian-pork-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:33:09.864Z"
+}
