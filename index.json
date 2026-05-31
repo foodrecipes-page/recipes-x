@@ -12454,5 +12454,19 @@
     "cuisine": "Moroccan",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-uruguayan-gruyere-flatbread--indian",
+    "title": "Uruguayan Flatbread Naan",
+    "tags": [
+      "naan",
+      "flatbread",
+      "gruyere",
+      "uruguayan",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "x"
   }
 ]
