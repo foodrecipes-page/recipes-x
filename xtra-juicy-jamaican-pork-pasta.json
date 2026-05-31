@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-juicy-jamaican-pork-pasta",
+  "title": "Jamaican Jerk Pork Pasta",
+  "description": "A flavorful and spicy pasta dish featuring jerk seasoned pork and a variety of Caribbean-inspired spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "boneless pork shoulder"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork with salt, black pepper, allspice, and jerk seasoning.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the pork for 2-3 minutes on each side, then transfer to a baking sheet.",
+    "Bake the pork in the oven for 15-20 minutes, or until cooked through.",
+    "While the pork is cooking, cook the pasta according to the package instructions.",
+    "In a small bowl, mix together the brown sugar and garlic powder.",
+    "Add the sugar mixture to the pasta and toss to combine.",
+    "Once the pork is done, let it rest for 5 minutes before slicing.",
+    "Add the sliced pork to the pasta and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "pork",
+    "jamaican",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-juicy-jamaican-pork-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:19:17.819Z"
+}
