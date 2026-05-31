@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-light-british-seaweed-salad",
+  "title": "British Seaweed Salad",
+  "description": "A refreshing and healthy salad made with British seaweed and mixed greens.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "British Seaweed",
+      "amount": "12 oz (340g)",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups (100g)",
+      "notes": ""
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tbsp (30ml)",
+      "notes": ""
+    },
+    {
+      "name": "Xtra-Virgin Apple Cider Vinegar",
+      "amount": "2 tbsp (30ml)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the British seaweed and chop it into small pieces.",
+    "In a large bowl, combine the mixed greens and chopped seaweed.",
+    "In a small bowl, whisk together the olive oil and apple cider vinegar.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "salad",
+    "seafood-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-british-seaweed-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:18:11.961Z"
+}
