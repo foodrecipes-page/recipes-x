@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-crispy-spanish-octopus-pulpo-a-la-gallega",
+  "title": "Gallega-Style Grilled Octopus",
+  "description": "A traditional Spanish recipe from the Galicia region, showcasing the simplicity and flavor of grilled octopus.",
+  "cuisine": "Spanish",
+  "diet": [
+    "seafood",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "octopus (pulpo)",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic (a)",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pimentón (smoked paprika)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Rinse the octopus under cold water, pat dry with paper towels.",
+    "2. In a small bowl, mix together olive oil, lemon juice, garlic, pimentón, salt, and black pepper.",
+    "3. Place the octopus in a large ziplock bag and pour the marinade over it. Seal the bag and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Remove the octopus from the marinade, letting any excess liquid drip off.",
+    "6. Grill the octopus for 2-3 minutes per side, or until slightly charred and cooked through.",
+    "7. Transfer the grilled octopus to a plate and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "grilled",
+    "octopus",
+    "gallega"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 25,
+    "carbs": 0,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-spanish-octopus-pulpo-a-la-gallega",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:58:51.400Z"
+}
