@@ -10770,18 +10770,15 @@
   },
   {
     "slug": "xtra-sour-ethiopian-sausages-stew",
-    "title": "Xtra Sour Ethiopian Sausages Stew",
+    "title": "Ethiopian Sausage Stew",
     "tags": [
-      "comfort-food",
       "ethiopian",
-      "gooey",
-      "one-pot",
-      "pescatarian",
-      "sour",
-      "weeknight"
+      "sausage",
+      "stew",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
