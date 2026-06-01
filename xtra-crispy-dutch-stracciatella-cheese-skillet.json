@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-crispy-dutch-stracciatella-cheese-skillet",
+  "title": "Cheesy Skillet Stracciatella",
+  "description": "A creamy, cheesy skillet dish made with stracciatella and crispy dutch cheese.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stracciatella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crispy Dutch Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Xtra Sharp Cheddar Cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Butter the skillet and place it in the oven to melt the butter.",
+    "Remove the skillet from the oven and sprinkle the crispy dutch cheese and xtra sharp cheddar cheese.",
+    "Return the skillet to the oven and bake for 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and top with stracciatella.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the stracciatella is heated through.",
+    "Serve the cheesy skillet stracciatella hot, garnished with additional crispy dutch cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "italian",
+    "stracciatella",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-dutch-stracciatella-cheese-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:29:29.901Z"
+}
