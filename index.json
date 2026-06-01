@@ -3835,16 +3835,14 @@
   },
   {
     "slug": "xerocreme-roasted-xanthaceous-kidney-beans-quesadilla",
-    "title": "Xerocreme Roasted Xanthaceous Kidney Beans Quesadilla",
+    "title": "Roasted Bean and Kidney Quesadilla",
     "tags": [
-      "date-night",
-      "dutch",
-      "foldable",
-      "jain-friendly",
-      "vegan"
+      "vegan",
+      "latinamerican",
+      "beans"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 16,
     "shard": "x"
   },
   {
@@ -7672,17 +7670,15 @@
   },
   {
     "slug": "xtra-fluffy-kenyan-egg-spring-rolls",
-    "title": "Xtra Fluffy Kenyan Egg Spring Rolls",
+    "title": "Kenyan Spring Rolls with Egg",
     "tags": [
-      "african-food",
-      "kenyan-cuisine",
-      "ovo-vegetarian",
-      "snack-food",
+      "kenyan",
       "spring-rolls",
-      "tandoor-cooking"
+      "egg",
+      "snack"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
