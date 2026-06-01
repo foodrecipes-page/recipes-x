@@ -5756,17 +5756,15 @@
   },
   {
     "slug": "xtra-crispy-dutch-stracciatella-cheese-skillet",
-    "title": "Xtra Crispy Dutch Stracciatella Cheese Skillet",
+    "title": "Cheesy Skillet Stracciatella",
     "tags": [
-      "air-fryer-recipes",
-      "dutch-cuisine",
-      "lunch-ideas",
-      "one-pan",
-      "quick-fix",
-      "vegan-friendly"
+      "cheesy",
+      "italian",
+      "stracciatella",
+      "skillet"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -6167,16 +6165,16 @@
   },
   {
     "slug": "xtra-crispy-spanish-octopus-pulpo-a-la-gallega",
-    "title": "Xtra Crispy Spanish Octopus Pulpo A La Gallega",
+    "title": "Gallega-Style Grilled Octopus",
     "tags": [
-      "low-calorie",
-      "one-pan",
+      "spanish",
       "seafood",
-      "spanish-cuisine",
-      "weeknight"
+      "grilled",
+      "octopus",
+      "gallega"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
