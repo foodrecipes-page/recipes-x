@@ -1,0 +1,89 @@
+{
+  "slug": "xtra-sour-ethiopian-sausages-stew",
+  "title": "Ethiopian Sausage Stew",
+  "description": "A spicy and flavorful stew originating from Ethiopia, made with sausages and a blend of spices. Serve with injera or rice for a complete meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "Any type of sausage works, such as Ethiopian-inspired or classic breakfast sausage"
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "2 tablespoons",
+      "notes": "Berbere spice blend, available at most African or Middle Eastern markets"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing onions and sausages"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Chopped for added flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for depth of flavor"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can (14 oz)",
+      "notes": "Diced tomatoes for added moisture and flavor"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "Optional topping for a tangy kick"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste for added depth"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "For thinning the stew to desired consistency"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add sausages and cook until browned on all sides, about 5 minutes.",
+    "Remove sausages and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add Berbere spice and cook for 1 minute.",
+    "Add diced tomatoes, water, and browned sausages to pot.",
+    "Bring stew to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with sour cream and injera or rice on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "sausage",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sour-ethiopian-sausages-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:38:13.773Z"
+}
