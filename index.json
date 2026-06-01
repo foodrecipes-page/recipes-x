@@ -12492,5 +12492,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-garlicky-jamaican-mozzarella-casserole--vegan",
+    "title": "Jamaican Mozzarella Casserole",
+    "tags": [
+      "vegan",
+      "jamaican",
+      "casserole",
+      "mozzarella"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "x"
   }
 ]
