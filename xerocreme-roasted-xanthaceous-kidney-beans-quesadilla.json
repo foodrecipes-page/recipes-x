@@ -1,0 +1,62 @@
+{
+  "slug": "xerocreme-roasted-xanthaceous-kidney-beans-quesadilla",
+  "title": "Roasted Bean and Kidney Quesadilla",
+  "description": "A delicious and filling quesadilla filled with roasted beans and kidney beans, perfect for a quick and satisfying meal.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xerocreme",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "roasted beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "quesadilla",
+      "amount": "2",
+      "notes": "whole wheat or whole grain"
+    },
+    {
+      "name": "xanthaceous",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a bowl, mix together the roasted beans, kidney beans, and xanthaceous.",
+    "Place a quesadilla in the skillet and sprinkle the bean mixture on half of the quesadilla.",
+    "Fold the quesadilla in half and cook for 2-3 minutes or until the tortilla is crispy and the filling is heated through.",
+    "Flip the quesadilla and cook for another 2-3 minutes or until the other side is also crispy and the filling is heated through.",
+    "Cut the quesadilla into wedges and serve with xerocreme.",
+    "Enjoy your delicious Roasted Bean and Kidney Quesadilla!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "latinamerican",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerocreme-roasted-xanthaceous-kidney-beans-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:43:15.476Z"
+}
