@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-crispy-welsh-cornmeal-sunday-roast",
+  "title": "Crispy Welsh Roast Fritters",
+  "description": "A crispy twist on traditional Welsh roast fritters, made with a crunchy exterior and a tender interior.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "xtra cornmeal",
+      "amount": "1 cup",
+      "notes": "coarse-ground"
+    },
+    {
+      "name": "crispy roasted vegetables",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "welsh roast",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sunday gravy",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the cornmeal, roasted vegetables, and roast.",
+    "In a separate bowl, whisk together the sunday gravy and 1/4 cup of water.",
+    "Add the wet ingredients to the dry ingredients and stir until a thick batter forms.",
+    "Heat about 1/2 inch of oil in a large frying pan over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the oil and flatten slightly.",
+    "Fry the fritters for about 4 minutes on each side, or until golden brown and crispy.",
+    "Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fritters",
+    "snack",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-welsh-cornmeal-sunday-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:26:58.967Z"
+}
