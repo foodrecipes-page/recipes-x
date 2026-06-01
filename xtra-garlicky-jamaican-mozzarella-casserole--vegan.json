@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-garlicky-jamaican-mozzarella-casserole--vegan",
+  "title": "Jamaican Mozzarella Casserole",
+  "description": "A vegan casserole with a Jamaican twist, featuring a melty mozzarella alternative.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Casserole",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Jamaican",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlicky",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Xtra",
+      "amount": "1 cup",
+      "notes": "shredded vegan mozzarella"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a mixing bowl, combine casserole, Jamaican, and Garlicky.",
+    "Stir well to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with shredded Xtra.",
+    "Bake for 25-30 minutes.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "jamaican",
+    "casserole",
+    "mozzarella"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-garlicky-jamaican-mozzarella-casserole--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:35:40.112Z"
+}
