@@ -5263,17 +5263,15 @@
   },
   {
     "slug": "xtra-crisp-ethiopian-turkey-neck-wot",
-    "title": "Xtra Crisp Ethiopian Turkey Neck Wot",
+    "title": "Ethiopian-Style Turkey Wot",
     "tags": [
-      "doro-wot",
-      "ethiopian-cuisine",
-      "festive",
-      "high-protein",
-      "one-pan",
-      "stone-bowl"
+      "turkey",
+      "ethiopian",
+      "stew",
+      "wot"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 60,
     "shard": "x"
   },
   {
@@ -10631,17 +10629,16 @@
   },
   {
     "slug": "xtra-smoky-slovakian-hazelnut-skewers",
-    "title": "Xtra Smoky Slovakian Hazelnut Skewers",
+    "title": "Slovakian Grilled Skewers with Hazelnut Glaze",
     "tags": [
-      "gluten-free",
+      "slovakian",
       "grilled",
-      "keto-friendly",
-      "quick-snack",
-      "slovakian-cuisine",
-      "smoky"
+      "hazelnut",
+      "skewers",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "x"
   },
   {
