@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-spicy-british-fish-skewers",
+  "title": "Grilled Fish Skewers with Spicy British Glaze",
+  "description": "A twist on traditional fish skewers, this British-inspired dish adds a spicy kick. Perfect for a quick and easy dinner or lunch.",
+  "cuisine": "british",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "British honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Spicy hot sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut cod into 1-inch pieces and thread onto skewers.",
+    "Brush with xtra virgin olive oil and season with salt and pepper.",
+    "Grill for 8-10 minutes, turning occasionally.",
+    "Meanwhile, mix together British honey and spicy hot sauce in a small bowl.",
+    "Brush glaze onto fish during last 2 minutes of grilling.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "british",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-british-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:22:24.750Z"
+}
