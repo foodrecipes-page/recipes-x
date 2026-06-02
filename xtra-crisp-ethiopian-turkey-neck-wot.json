@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-crisp-ethiopian-turkey-neck-wot",
+  "title": "Ethiopian-Style Turkey Wot",
+  "description": "A flavorful and aromatic stew originating from Ethiopia, made with tender turkey and spices. Serve with injera or rice for a delicious and satisfying meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "Crisp onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Xtra garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "2 tsp",
+      "notes": "berbere, niter kibbeh, salt"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Wot spice mix",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Crisp tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, heat oil over medium heat.",
+    "2. Add onion and garlic, cook until softened, about 5 minutes.",
+    "3. Add turkey neck pieces and cook until browned, about 5 minutes.",
+    "4. Add Ethiopian spices, water, and wot spice mix.",
+    "5. Bring to a boil, then reduce heat and simmer, covered, for 30 minutes.",
+    "6. Add diced tomato and cook for an additional 10 minutes.",
+    "7. Season with salt to taste.",
+    "8. Serve hot with injera or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkey",
+    "ethiopian",
+    "stew",
+    "wot"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-ethiopian-turkey-neck-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:31:23.051Z"
+}
