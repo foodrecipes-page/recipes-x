@@ -1,0 +1,92 @@
+{
+  "slug": "xtra-light-spanish-pumpkin-paella",
+  "title": "Spanish Paella with Pumpkin and Sausage",
+  "description": "A flavorful and easy-to-make paella dish with the addition of roasted pumpkin. Perfect for a fall evening.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish chorizo",
+      "amount": "1 pound, sliced",
+      "notes": "look for Spanish chorizo at your local grocery store or substitute with regular chorizo"
+    },
+    {
+      "name": "Pumpkin",
+      "amount": "1 medium, peeled and cubed",
+      "notes": ""
+    },
+    {
+      "name": "paella rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "safron threads",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the sliced chorizo and cook until browned, about 2-3 minutes.",
+    "Remove the chorizo from the pan and set aside.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cubed pumpkin and cook until tender, about 5-7 minutes.",
+    "Add the diced tomato and cook for an additional 2 minutes.",
+    "Add the paella rice, saffron threads, and light soy sauce. Stir to combine.",
+    "Return the cooked chorizo to the pan and stir to combine.",
+    "Transfer the pan to the oven and cook at 375°F (190°C) for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "pumpkin",
+    "chicken",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-spanish-pumpkin-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:45:14.314Z"
+}
