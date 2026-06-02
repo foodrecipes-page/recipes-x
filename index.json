@@ -7147,17 +7147,15 @@
   },
   {
     "slug": "xtra-energizing-italian-apples-tuscan-stracciatella",
-    "title": "Xtra Energizing Italian Apples Tuscan Stracciatella",
+    "title": "Tuscan Apple Strata",
     "tags": [
-      "easy-to-make",
-      "high-energy",
-      "italian-dessert",
-      "low-calorie",
-      "raw-friendly",
-      "tuscan-recipes"
+      "breakfast",
+      "brunch",
+      "italian",
+      "apples"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -8920,17 +8918,16 @@
   },
   {
     "slug": "xtra-light-spanish-pumpkin-paella",
-    "title": "Xtra Light Spanish Pumpkin Paella",
+    "title": "Spanish Paella with Pumpkin and Sausage",
     "tags": [
-      "one-pan",
-      "ovo-vegetarian",
-      "pumpkin-recipe",
-      "sous-vide",
-      "spanish-cuisine",
-      "weeknight"
+      "spanish",
+      "paella",
+      "pumpkin",
+      "chicken",
+      "rice"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
