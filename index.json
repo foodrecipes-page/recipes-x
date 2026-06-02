@@ -10885,17 +10885,14 @@
   },
   {
     "slug": "xtra-spicy-british-fish-skewers",
-    "title": "Xtra Spicy British Fish Skewers",
+    "title": "Grilled Fish Skewers with Spicy British Glaze",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "romantic",
-      "seafood",
-      "spicy",
-      "weeknight"
+      "fish",
+      "british",
+      "grilled"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 32,
+    "cuisine": "british",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
