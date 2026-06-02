@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-smoky-slovakian-hazelnut-skewers",
+  "title": "Slovakian Grilled Skewers with Hazelnut Glaze",
+  "description": "A twist on traditional Slovakian skewers, these are slathered in a rich hazelnut glaze.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Thread sausage, red bell pepper, onion, mushrooms, and garlic onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 10-12 minutes or until sausage is cooked through.",
+    "Meanwhile, combine chopped hazelnuts and brown sugar in a bowl.",
+    "Brush skewers with hazelnut mixture during last 2 minutes of grilling.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "grilled",
+    "hazelnut",
+    "skewers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-slovakian-hazelnut-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:43:48.583Z"
+}
