@@ -2537,17 +2537,14 @@
   },
   {
     "slug": "xenial-springy-indian-kidney-beans-rajma",
-    "title": "Xenial Springy Indian Kidney Beans Rajma",
+    "title": "Rajma Chawal",
     "tags": [
-      "gluten-free",
-      "indian-food",
+      "north-indian",
       "kidney-beans",
-      "one-pot",
-      "vegetarian",
-      "whole30"
+      "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -11401,16 +11398,15 @@
   },
   {
     "slug": "xtra-sweet-irish-eggplant-casserole",
-    "title": "Xtra Sweet Irish Eggplant Casserole",
+    "title": "Casserole Eggplant Bake",
     "tags": [
+      "eggplant",
       "casserole",
-      "comfort-food",
-      "gluten-free",
-      "irish-food",
-      "weeknight"
+      "italian",
+      "vegetarian"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 75,
+    "cuisine": "italian",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
