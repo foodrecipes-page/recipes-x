@@ -2900,17 +2900,15 @@
   },
   {
     "slug": "xenial-xanthous-french-chicken-blanquette",
-    "title": "Xenial Xanthous French Chicken Blanquette",
+    "title": "French Chicken in Xanthous Cream Sauce",
     "tags": [
-      "fodmap-friendly",
       "french",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "cream-sauce",
+      "xanthous"
     ],
     "cuisine": "French",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -9640,17 +9638,15 @@
   },
   {
     "slug": "xtra-roasted-algerian-chicken-tagine",
-    "title": "Xtra Roasted Algerian Chicken Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
-      "algerian-cuisine",
-      "coconut-cream",
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "roasted-chicken"
+      "algerian",
+      "chicken",
+      "tagine",
+      "stew"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -10563,18 +10559,14 @@
   },
   {
     "slug": "xtra-smoky-mediterranean-steak-kebabs",
-    "title": "Xtra Smoky Mediterranean Steak Kebabs",
+    "title": "Smoky Steak Kebabs",
     "tags": [
-      "high-protein",
-      "lacto-vegetarian",
+      "grilling",
       "mediterranean",
-      "one-pan",
-      "post-workout",
-      "smoky",
-      "weeknight"
+      "kebabs"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 32,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
