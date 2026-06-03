@@ -1,0 +1,80 @@
+{
+  "slug": "xenial-xanthous-french-chicken-blanquette",
+  "title": "French Chicken in Xanthous Cream Sauce",
+  "description": "Tender and flavorful chicken in a rich xanthous cream sauce, inspired by traditional French cuisine.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Xanthous Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "French Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": "xanthous"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Season the chicken breast with salt and pepper.",
+    "In a large skillet, melt the French butter over medium heat.",
+    "Add the chopped xanthous onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken breast to the skillet and cook until browned on both sides, about 5-6 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until cooked through.",
+    "While the chicken is baking, prepare the cream sauce by whisking together the heavy cream, Dijon mustard, and a pinch of salt and pepper in a small bowl.",
+    "Once the chicken is cooked, remove it from the oven and let it rest for a few minutes.",
+    "Serve the chicken with the xanthous cream sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "cream-sauce",
+    "xanthous"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 12,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-xanthous-french-chicken-blanquette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:13:17.120Z"
+}
