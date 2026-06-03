@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-roasted-algerian-chicken-tagine",
+  "title": "Algerian Chicken Tagine",
+  "description": "A classic Algerian dish made with chicken, spices, and dried fruits. This tagine is a hearty and flavorful stew that's perfect for any occasion.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound, boneless and skinless",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Algerian tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Roasted almonds",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add more oil if necessary, then add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the tagine spice blend and cook for 1 minute.",
+    "Add the apricots, almonds, and chicken back to the pot.",
+    "Season with salt to taste.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, until the chicken is cooked through, about 20-25 minutes.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-roasted-algerian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:35:30.889Z"
+}
