@@ -1,0 +1,133 @@
+{
+  "slug": "xtra-pillowy-vietnamese-ground-cardamom-bun-bo-kho",
+  "title": "Bo Kho Beef Stew",
+  "description": "A hearty and flavorful Vietnamese beef stew made with tender beef, aromatic spices, and a rich broth.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "beef",
+    "pork",
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound beef (such as chuck or round)",
+      "amount": "",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 onions",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon ground cardamom",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon fish sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon brown sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped scallions",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add onions and cook until browned, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add cumin, coriander, cinnamon, cardamom, and cayenne pepper. Cook for 1 minute.",
+    "Add beef broth, water, fish sauce, soy sauce, and brown sugar. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until beef is tender.",
+    "Stir in cilantro and scallions. Serve hot over rice or noodles.",
+    "Serve with steamed bun or xtra rice.",
+    "Garnish with additional cilantro and scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "stew",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-pillowy-vietnamese-ground-cardamom-bun-bo-kho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:00:06.199Z"
+}
