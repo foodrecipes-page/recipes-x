@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-smoky-mediterranean-steak-kebabs",
+  "title": "Smoky Steak Kebabs",
+  "description": "A flavorful and easy-to-make recipe featuring smoky steak and mediterranean-inspired flavors.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "grill",
+  "ingredients": [
+    {
+      "name": "1.5 pounds steak",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon lemon juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup crumbled feta cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "10-12 wooden skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread steak, garlic, and parsley onto skewers, leaving space for even cooking.",
+    "In a small bowl, whisk together olive oil, lemon juice, and oregano.",
+    "Brush the skewers with the marinade, making sure to coat all surfaces.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes per side, or until the steak reaches 135°F for medium-rare.",
+    "Transfer the skewers to a cutting board and let rest for 5 minutes.",
+    "Serve hot with feta cheese crumbled on top.",
+    "Optional: serve with a side of smoky sauce (store-bought or homemade)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "mediterranean",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-mediterranean-steak-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:46:21.499Z"
+}
