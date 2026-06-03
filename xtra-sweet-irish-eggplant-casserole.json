@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-sweet-irish-eggplant-casserole",
+  "title": "Casserole Eggplant Bake",
+  "description": "A delicious and savory eggplant casserole dish, perfect for a weeknight dinner. This recipe combines the flavors of casserole and eggplant for a tasty and satisfying meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "irish",
+      "amount": "1 cup",
+      "notes": "shredded (cheddar or mozzarella)"
+    },
+    {
+      "name": "xtra",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "sweet",
+      "amount": "1 tsp",
+      "notes": "salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the eggplant into 1/2-inch thick slices.",
+    "Brush both sides of eggplant slices with olive oil and season with salt.",
+    "In a large skillet, cook the eggplant slices over medium heat until golden brown, about 3-4 minutes per side.",
+    "In a separate bowl, combine the crushed casserole, shredded irish cheese, and a pinch of salt.",
+    "In a 9x13-inch baking dish, arrange a layer of eggplant slices.",
+    "Spread half of the casserole-cheese mixture over the eggplant.",
+    "Repeat the layers, starting with the eggplant slices, then the remaining casserole-cheese mixture.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for 5 minutes before serving.",
+    "Slice and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "casserole",
+    "italian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sweet-irish-eggplant-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:26:49.746Z"
+}
