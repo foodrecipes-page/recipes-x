@@ -2092,17 +2092,15 @@
   },
   {
     "slug": "xenial-molten-chinese-lentils-char-siu-bao",
-    "title": "Xenial Molten Chinese Lentils Char Siu Bao",
+    "title": "Siu Bao with Lentil Filling",
     "tags": [
-      "buddhist-friendly",
-      "high-protein",
-      "one-pan",
-      "spherification",
-      "vegan-fusion",
-      "weeknight"
+      "chinese",
+      "lentils",
+      "bao",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -6656,18 +6654,14 @@
   },
   {
     "slug": "xtra-crunchy-peruvian-potatoes-papa-rellena",
-    "title": "Xtra Crunchy Peruvian Potatoes Papa Rellena",
+    "title": "Potato Rellena",
     "tags": [
-      "crunchy",
-      "dessert",
-      "gluten-free",
-      "low-glycemic",
-      "malty",
-      "peruvian-dish",
-      "romantic"
+      "peruvian",
+      "potatoes",
+      "rellena"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -9296,21 +9290,15 @@
   },
   {
     "slug": "xtra-pillowy-vietnamese-ground-cardamom-bun-bo-kho",
-    "title": "Xtra Pillowy Vietnamese Ground Cardamom Bun Bo Kho",
+    "title": "Bo Kho Beef Stew",
     "tags": [
-      "aromatic",
-      "bo-kho",
-      "gluten-free",
-      "ground-cardamom",
-      "pillowy",
-      "rich",
-      "shojin-friendly",
-      "vegetarian",
       "vietnamese",
-      "weeknight"
+      "beef",
+      "stew",
+      "comfortfood"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 150,
+    "totalTimeMin": 110,
     "shard": "x"
   },
   {
