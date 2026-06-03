@@ -1,0 +1,89 @@
+{
+  "slug": "xenial-springy-indian-kidney-beans-rajma",
+  "title": "Rajma Chawal",
+  "description": "A classic North Indian dish made with kidney beans in a flavorful tomato-based sauce, served with steaming hot basmati rice.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup (200g)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups (400g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and sauté until translucent.",
+    "Add garlic and sauté for another minute.",
+    "Add tomato and cook until soft.",
+    "Add kidney beans, cumin powder, coriander powder, and garam masala. Stir well.",
+    "Add salt to taste and stir well.",
+    "Cook for 10-15 minutes or until the sauce thickens.",
+    "Serve with steaming hot basmati rice.",
+    "Garnish with chopped cilantro (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-indian",
+    "kidney-beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 65,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-springy-indian-kidney-beans-rajma",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:44:51.572Z"
+}
