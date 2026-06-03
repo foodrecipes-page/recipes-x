@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-crunchy-peruvian-potatoes-papa-rellena",
+  "title": "Potato Rellena",
+  "description": "A traditional Peruvian dish, this potato stuffed with meat and spices is a flavorful twist on a classic potato dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Papa",
+      "amount": "1 cup mashed",
+      "notes": "cooled"
+    },
+    {
+      "name": "Rellena",
+      "amount": "1 cup ground beef"
+    },
+    {
+      "name": "Xtra Spices",
+      "amount": "1 tsp paprika, 1 tsp cumin"
+    },
+    {
+      "name": "Crunchy Onion",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Boil the potatoes until tender, then let cool.",
+    "2. In a pan, cook the Rellena until browned, breaking it into small pieces.",
+    "3. Add the Xtra Spices and cook for an additional 2 minutes.",
+    "4. In a bowl, combine the mashed papa, cooked Rellena mixture, and chopped crunchy onion.",
+    "5. Season with salt and pepper to taste.",
+    "6. Scoop out the centers of the potatoes and fill with the papa mixture.",
+    "7. Bake the potatoes at 400°F (200°C) for 15-20 minutes, or until golden brown.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "potatoes",
+    "rellena"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-peruvian-potatoes-papa-rellena",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:05:58.506Z"
+}
