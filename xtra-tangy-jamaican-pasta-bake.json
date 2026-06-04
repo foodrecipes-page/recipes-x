@@ -1,0 +1,73 @@
+{
+  "slug": "xtra-tangy-jamaican-pasta-bake",
+  "title": "Jamaican Pasta Bake",
+  "description": "A flavorful and comforting pasta dish infused with Jamaican spices and topped with a crunchy breadcrumb mix.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking pasta"
+    },
+    {
+      "name": "tangy tomato sauce",
+      "amount": "200g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "bake",
+      "amount": "50g",
+      "notes": "crushed into breadcrumbs"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "20g",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "Heat olive oil in a large skillet over medium heat. Add jerk seasoning and cook for 1 minute.",
+    "Add tomato sauce to the skillet and stir to combine with jerk seasoning. Bring to a simmer.",
+    "Stir in cooked pasta to coat with sauce.",
+    "Transfer pasta mixture to a baking dish and top with breadcrumbs.",
+    "Bake in preheated oven for 15-20 minutes, or until breadcrumbs are golden brown.",
+    "Garnish with chopped scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "jamaican",
+    "bake",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tangy-jamaican-pasta-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:41:22.963Z"
+}
