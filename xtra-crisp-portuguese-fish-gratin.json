@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-crisp-portuguese-fish-gratin",
+  "title": "Baked Fish with Portuguese Crust",
+  "description": "A simple and flavorful dish featuring a crispy Portuguese crust on a delicate fish fillet. This recipe is perfect for a quick dinner or lunch.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (Cod or Tilapia)",
+      "amount": "4 fillets",
+      "notes": "Fresh and sustainable options recommended"
+    },
+    {
+      "name": "Portuguese bread crust mix",
+      "amount": "1 bag",
+      "notes": "Available at most grocery stores or online"
+    },
+    {
+      "name": "Xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crisp onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Gratin cheese (such as Edam or Gouda)",
+      "amount": "1/4 cup",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season the fish fillets with salt and black pepper.",
+    "Mix the Portuguese bread crust mix with xtra-virgin olive oil to create a paste.",
+    "Coat each fish fillet with the bread crust mixture, pressing gently to adhere.",
+    "Place the coated fish fillets on the prepared baking sheet.",
+    "Top each fish fillet with a sprinkle of crisp onion and a sprinkle of gratin cheese.",
+    "Bake for 12-15 minutes or until the fish is cooked through and the crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "portuguese",
+    "baked",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-portuguese-fish-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:25:45.229Z"
+}
