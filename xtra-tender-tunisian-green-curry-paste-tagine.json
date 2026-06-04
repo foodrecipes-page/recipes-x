@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-tender-tunisian-green-curry-paste-tagine",
+  "title": "Tunisian Chicken Tagine",
+  "description": "A flavorful North African stew made with chicken, vegetables, and aromatic spices. Perfect for a chilly evening.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "green",
+      "amount": "2",
+      "notes": "green olives, pitted"
+    },
+    {
+      "name": "tender",
+      "amount": "2",
+      "notes": "tender zucchini, sliced"
+    },
+    {
+      "name": "tunisian",
+      "amount": "1",
+      "notes": "tunisian spice blend"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons",
+      "notes": "red or green curry paste"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "tagine (or Dutch oven) with lid"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the tagine over medium heat.",
+    "Add the chicken and cook until browned on all sides and cooked through, about 8-10 minutes.",
+    "Add the onions, garlic, and ginger; cook until the onions are translucent.",
+    "Add the zucchini, olives, and curry paste; cook for 2-3 minutes.",
+    "Add the chicken broth, tunisian spice blend, and honey; bring to a boil.",
+    "Cover the tagine and transfer to the oven; cook for 20-25 minutes.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "north-african",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tender-tunisian-green-curry-paste-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:45:15.505Z"
+}
