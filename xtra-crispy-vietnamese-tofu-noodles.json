@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-crispy-vietnamese-tofu-noodles",
+  "title": "Crispy Tofu Noodle Bowl",
+  "description": "A quick and delicious Vietnamese-inspired dish featuring crispy tofu and fresh noodles.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "xtra crispy panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for coating tofu"
+    },
+    {
+      "name": "vietnamese noodles",
+      "amount": "8 oz",
+      "notes": "rice noodles or rice sticks"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying tofu"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together panko breadcrumbs and a pinch of salt.",
+    "2. Dip each piece of tofu into the breadcrumb mixture, pressing gently to adhere.",
+    "3. Heat 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "4. Fry the breaded tofu pieces until golden brown and crispy, about 3-4 minutes per side.",
+    "5. Remove the tofu from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "6. Cook the noodles according to package instructions. Drain and set aside.",
+    "7. In a large bowl, combine the cooked noodles, crispy tofu, and chopped green onions and cilantro.",
+    "8. In a small bowl, whisk together soy sauce and lime juice. Pour the sauce over the noodle mixture and toss to combine.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "tofu",
+    "noodles",
+    "lunch",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-vietnamese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:06:48.573Z"
+}
