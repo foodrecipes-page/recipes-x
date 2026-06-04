@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-fluffy-venezuelan-chicken-empanadas",
+  "title": "Delicious Venezuelan Chicken Empanadas",
+  "description": "A classic Venezuelan dish, these empanadas are filled with juicy chicken and baked to perfection. Perfect for a snack or light meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breast",
+      "notes": "cooking temperature 165°F (74°C)"
+    },
+    {
+      "name": "xtra flour",
+      "amount": "2 1/4 cups all-purpose flour",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "fluffy butter",
+      "amount": "1/2 cup unsalted butter, softened",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "venezuelan cheese",
+      "amount": "1 cup shredded queso fresco",
+      "notes": "optional"
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6 empanada wrappers",
+      "notes": "available at most Latin American markets"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine chicken, salt, and black pepper. Mix well to combine.",
+    "Divide the chicken mixture evenly among the empanada wrappers, placing a tablespoon or two in the center of each wrapper.",
+    "Brush the edges of the empanada wrappers with water, then fold the dough over the filling, pressing the edges to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Brush the tops of the empanadas with the softened butter, then sprinkle with shredded cheese (if using).",
+    "Bake the empanadas for 12-15 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "chicken",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 13,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-venezuelan-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:07:28.519Z"
+}
