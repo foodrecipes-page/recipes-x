@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-flaky-syrian-lamb-tagine",
+  "title": "Braised Lamb Tagine",
+  "description": "A classic Moroccan dish made with tender lamb and flavorful spices, slow-cooked in a rich tagine sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "Bone-in, cut into large pieces"
+    },
+    {
+      "name": "Syrian olives",
+      "amount": "1/2 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "To brown lamb"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at Middle Eastern stores"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb pieces in batches, then set aside.",
+    "Add remaining 1 tbsp olive oil, then sauté Syrian olives until fragrant.",
+    "Add tagine spice blend and cook for 1 min, stirring constantly.",
+    "Return browned lamb to the pot, then add 1 cup water.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise at 300°F (150°C) for 2 hours, or until lamb is tender.",
+    "Season with flaky sea salt to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised-lamb",
+    "moroccan-cuisine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 15,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-syrian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:55:15.730Z"
+}
