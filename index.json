@@ -6224,16 +6224,17 @@
   },
   {
     "slug": "xtra-crispy-vietnamese-tofu-noodles",
-    "title": "Xtra Crispy Vietnamese Tofu Noodles",
+    "title": "Crispy Tofu Noodle Bowl",
     "tags": [
-      "citrusy-flavors",
-      "crispy-tofu",
-      "lacto-vegetarian",
-      "midnight-cravings",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "tofu",
+      "noodles",
+      "lunch",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
