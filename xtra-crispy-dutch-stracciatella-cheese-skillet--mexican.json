@@ -1,0 +1,58 @@
+{
+  "slug": "xtra-crispy-dutch-stracciatella-cheese-skillet--mexican",
+  "title": "Mexican Skillet Quesadilla",
+  "description": "A delicious Mexican dish made with crispy quesadilla, melted cheese, and a hint of stracciatella.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "stracciatella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "skillet",
+      "amount": "1"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium heat.",
+    "Add the dutch to the preheated skillet.",
+    "Add the stracciatella and stir for 2 minutes.",
+    "Add the shredded cheese and stir until melted.",
+    "Cook for another minute.",
+    "Transfer the skillet to a plate, and fold the quesadilla in half.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "quesadilla",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-dutch-stracciatella-cheese-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:41:02.530Z"
+}
