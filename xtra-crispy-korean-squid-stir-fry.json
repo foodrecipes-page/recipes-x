@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-crispy-korean-squid-stir-fry",
+  "title": "Korean-Style Crispy Squid",
+  "description": "A spicy and crunchy twist on traditional squid dishes. This recipe combines the flavors of Korea with the crispy texture of fried squid.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Green onions, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the squid into bite-sized pieces and pat dry with paper towels.",
+    "In a shallow dish, mix together the cornstarch, flour, and a pinch of salt.",
+    "In a separate dish, beat the egg.",
+    "Dredge the squid pieces in the cornstarch mixture, shaking off excess.",
+    "Dip the coated squid in the egg and then coat again in the cornstarch mixture.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "Add the squid to the skillet and fry until golden brown and crispy, about 2-3 minutes per side.",
+    "Remove the squid from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, whisk together the soy sauce, garlic, and gochugaru.",
+    "Pour the sauce over the fried squid and toss to coat.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "squid",
+    "crispy",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-korean-squid-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:17:51.518Z"
+}
