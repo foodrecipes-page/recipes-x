@@ -5873,17 +5873,15 @@
   },
   {
     "slug": "xtra-crispy-korean-squid-stir-fry",
-    "title": "Xtra Crispy Korean Squid Stir-fry",
+    "title": "Korean-Style Crispy Squid",
     "tags": [
-      "crispy",
-      "gluten-free",
       "korean",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "squid",
+      "crispy",
+      "fry"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 18,
+    "totalTimeMin": 27,
     "shard": "x"
   },
   {
@@ -12468,6 +12466,18 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-dutch-stracciatella-cheese-skillet--mexican",
+    "title": "Mexican Skillet Quesadilla",
+    "tags": [
+      "mexican",
+      "quesadilla",
+      "skillet"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
     "shard": "x"
   }
 ]
