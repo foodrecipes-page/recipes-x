@@ -12471,5 +12471,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 15,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-roasted-algerian-chicken-tagine--german",
+    "title": "German Chicken Tagine",
+    "tags": [
+      "german",
+      "chicken",
+      "tagine",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "x"
   }
 ]
