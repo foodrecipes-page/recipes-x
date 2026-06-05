@@ -1,0 +1,89 @@
+{
+  "slug": "xtra-crispy-vietnamese-tofu-noodles--italian",
+  "title": "Italian-Style Tofu Stir Fry",
+  "description": "A quick and easy Italian-inspired stir fry made with crispy tofu and noodles, featuring a blend of Eastern and Western flavors.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "extra-firm"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "preferably rice-based"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "2 tbsp",
+      "notes": "toasted sesame oil"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 cups",
+      "notes": "mixed greens (such as arugula, spinach, and/or kale)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of Vietnamese oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1-2 minutes until fragrant.",
+    "Add tofu and cook until golden brown, about 3-4 minutes per side.",
+    "Add noodles and crispy to the skillet, stir-frying for 2-3 minutes.",
+    "Season with salt, pepper, and parmesan cheese.",
+    "Serve immediately over mixed greens, garnished with additional crispy if desired.",
+    "Enjoy!",
+    "Note: You can also add other Italian-inspired ingredients, such as cherry tomatoes or sliced olives.",
+    "Experiment with different combinations to make this recipe your own!",
+    "Buon appetito!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-cuisine",
+    "tofu-recipe",
+    "stir-fry",
+    "italian-inspired",
+    "vietnamese-oil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-vietnamese-tofu-noodles--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:35:18.786Z"
+}
