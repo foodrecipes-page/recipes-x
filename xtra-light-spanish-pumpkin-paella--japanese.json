@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-light-spanish-pumpkin-paella--japanese",
+  "title": "Japanese-Style Pumpkin Paella",
+  "description": "A fusion twist on traditional Spanish paella, incorporating the rich flavors of Japan. Roasted pumpkin adds a sweet and comforting touch.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "1 small",
+      "notes": "seeded and cubed"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "short-grain"
+    },
+    {
+      "name": "Light oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Xtra garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Xtra soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Spanish chorizo",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Paella seasoning",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add chorizo and cook, stirring occasionally, until browned (5 minutes).",
+    "Add garlic and cook, stirring constantly, for 1 minute.",
+    "Add pumpkin and cook, stirring occasionally, until tender (5 minutes).",
+    "Add rice and stir to coat with oil and mix with chorizo and pumpkin.",
+    "Add soy sauce and paella seasoning (if using), stirring to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Remove lid and cook, stirring occasionally, until rice is lightly browned (5 minutes).",
+    "Serve hot, garnished with green onions (optional).",
+    "Cook's note: Traditionally, paella is cooked over an open flame, which gives the rice a crispy crust at the bottom called the socarrat. If you have access to an outdoor grill or cooking station, feel free to cook the paella there for an added layer of flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-paella",
+    "fusion-cuisine",
+    "pumpkin-paella"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-spanish-pumpkin-paella--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:52:08.123Z"
+}
