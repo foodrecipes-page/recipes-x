@@ -12484,5 +12484,18 @@
     "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "x"
+  },
+  {
+    "slug": "xerisced-briny-venezuelan-rice-wrap--french",
+    "title": "Classic French Briny Wrap",
+    "tags": [
+      "french",
+      "vegetarian",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 10,
+    "shard": "x"
   }
 ]
