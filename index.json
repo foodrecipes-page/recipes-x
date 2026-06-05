@@ -4056,17 +4056,14 @@
   },
   {
     "slug": "xtra-bitter-irish-tomato-stew",
-    "title": "Xtra Bitter Irish Tomato Stew",
+    "title": "Hearty Irish Stew",
     "tags": [
-      "dairy-free",
-      "hearty-stew",
-      "irish-cuisine",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "irish-stew",
+      "comfort-food",
+      "slow-cooked"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
