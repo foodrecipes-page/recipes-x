@@ -1,0 +1,70 @@
+{
+  "slug": "x-tra-crispy-australian-vegetables-flatbread",
+  "title": "Australian Flatbread with Veggie Tapenade",
+  "description": "A simple and flavorful flatbread topped with a delicious veggie tapenade, perfect for a quick and easy snack or light meal.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 pieces)",
+      "notes": null
+    },
+    {
+      "name": "Tra",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetables",
+      "amount": "1 cup (chopped bell peppers, onions, and zucchini)",
+      "notes": null
+    },
+    {
+      "name": "X",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1/2 cup (crispy fried onions)",
+      "notes": null
+    },
+    {
+      "name": "Australian",
+      "amount": "1/4 cup (Australian olive oil)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the flatbread and brush with Australian olive oil.",
+    "Top the flatbread with chopped vegetables and crispy fried onions.",
+    "Drizzle with Tra and sprinkle with X (if using).",
+    "Bake for 10-12 minutes, or until the flatbread is crispy and the vegetables are tender.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "flatbread",
+    "veggie-tapenade",
+    "easy-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-crispy-australian-vegetables-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:37:37.840Z"
+}
