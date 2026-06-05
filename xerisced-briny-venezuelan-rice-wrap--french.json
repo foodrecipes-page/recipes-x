@@ -1,0 +1,61 @@
+{
+  "slug": "xerisced-briny-venezuelan-rice-wrap--french",
+  "title": "Classic French Briny Wrap",
+  "description": "A simple yet flavorful wrap filled with the essence of French cuisine.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "French-style wrap or flatbread"
+    },
+    {
+      "name": "briny",
+      "amount": "1 tsp",
+      "notes": "Fleur de sel or other flaky sea salt"
+    },
+    {
+      "name": "xerisced",
+      "amount": "1 tsp",
+      "notes": "Dried thyme or oregano for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the wrap on a baking sheet and bake for 5-7 minutes, or until crispy.",
+    "In a small bowl, mix together the rice, briny, and xerisced.",
+    "Once the wrap is crispy, remove it from the oven and let it cool slightly.",
+    "Spoon the rice mixture onto the center of the wrap, leaving a small border around the edges.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisced-briny-venezuelan-rice-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:02:53.591Z"
+}
