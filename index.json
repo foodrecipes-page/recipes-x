@@ -12516,5 +12516,17 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-light-spanish-pumpkin-paella--japanese",
+    "title": "Japanese-Style Pumpkin Paella",
+    "tags": [
+      "japanese-paella",
+      "fusion-cuisine",
+      "pumpkin-paella"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
