@@ -286,17 +286,15 @@
   },
   {
     "slug": "x-tra-crispy-australian-vegetables-flatbread",
-    "title": "X-tra Crispy Australian Vegetables Flatbread",
+    "title": "Australian Flatbread with Veggie Tapenade",
     "tags": [
       "australian",
-      "easy-to-make",
-      "gluten-free",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "flatbread",
+      "veggie-tapenade",
+      "easy-snack"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
@@ -985,17 +983,16 @@
   },
   {
     "slug": "xanthous-energizing-ethiopian-salt-cod-doro-wot",
-    "title": "Xanthous Energizing Ethiopian Salt Cod Doro Wot",
+    "title": "Ethiopian Cod Wot",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "international",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "fish",
+      "ethiopian",
+      "stew",
+      "lunch",
+      "pescatarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -12527,6 +12524,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-vietnamese-tofu-noodles--italian",
+    "title": "Italian-Style Tofu Stir Fry",
+    "tags": [
+      "italian-cuisine",
+      "tofu-recipe",
+      "stir-fry",
+      "italian-inspired",
+      "vietnamese-oil"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "x"
   }
 ]
