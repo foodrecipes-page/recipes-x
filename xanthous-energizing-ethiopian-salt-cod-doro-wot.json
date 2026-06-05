@@ -1,0 +1,80 @@
+{
+  "slug": "xanthous-energizing-ethiopian-salt-cod-doro-wot",
+  "title": "Ethiopian Cod Wot",
+  "description": "A flavorful Ethiopian-inspired fish stew made with cod, aromatic spices, and a hint of salt.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "1 pound",
+      "notes": "Fresh cod fillets"
+    },
+    {
+      "name": "Ethiopian red pepper spice (berbere)",
+      "amount": "2 teaspoons",
+      "notes": "Available at most African or Middle Eastern markets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian doro spice",
+      "amount": "1 teaspoon",
+      "notes": "Available at most African or Middle Eastern markets"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Add the cod and cook until browned on both sides.",
+    "Add the doro spice and water, and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the fish is cooked through.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "ethiopian",
+    "stew",
+    "lunch",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-energizing-ethiopian-salt-cod-doro-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:15:39.431Z"
+}
