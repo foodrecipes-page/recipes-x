@@ -1,0 +1,94 @@
+{
+  "slug": "xtra-roasted-algerian-chicken-tagine--german",
+  "title": "German Chicken Tagine",
+  "description": "A unique German twist on the traditional North African dish, using roasted tagine and chicken. This flavorful stew is perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "roasted tagine",
+      "amount": "1 tablespoon",
+      "notes": "available in most grocery stores or online"
+    },
+    {
+      "name": "algerian spices",
+      "amount": "1 teaspoon",
+      "notes": "mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes and cook for an additional 5 minutes.",
+    "Add tagine, spices, and broth. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 25-30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-roasted-algerian-chicken-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:41:48.455Z"
+}
