@@ -12505,5 +12505,19 @@
     "cuisine": "indian",
     "totalTimeMin": 20,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-tangy-jamaican-pasta-bake--italian",
+    "title": "Creamy JAMAICAN Pasta Bake",
+    "tags": [
+      "italian",
+      "pasta",
+      "bake",
+      "cheesy",
+      "easy-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "x"
   }
 ]
