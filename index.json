@@ -2954,19 +2954,14 @@
   },
   {
     "slug": "xerid-aird-middle-eastern-vegetables-pilaf",
-    "title": "xerid aird middle-eastern vegetables pilaf",
+    "title": "Eastern Pilaf with Vegetables",
     "tags": [
-      "dinner",
-      "easy",
-      "gluten-free",
-      "lunch",
-      "middle-eastern",
-      "one-pan",
-      "quick",
+      "eastern",
+      "pilaf",
       "vegetarian"
     ],
-    "cuisine": "middle-eastern",
-    "totalTimeMin": 35,
+    "cuisine": "Eastern",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -12496,6 +12491,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 10,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-portuguese-vegetable-skewers--indian",
+    "title": "Vegetable Xtra Crunch Skewers",
+    "tags": [
+      "indian",
+      "snack",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
     "shard": "x"
   }
 ]
