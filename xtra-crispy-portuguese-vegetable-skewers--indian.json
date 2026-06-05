@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-crispy-portuguese-vegetable-skewers--indian",
+  "title": "Vegetable Xtra Crunch Skewers",
+  "description": "A crispy and flavorful snack or appetizer that combines the crunch of xtra and crispy vegetables with the spice of indian cuisine.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vegetable skewers",
+      "amount": "1 package (10-12 skewers)",
+      "notes": ""
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Xtra crunchy slaw",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to high heat.",
+    "Brush the vegetable skewers with vegetable oil and season with garam masala.",
+    "Grill the skewers for 2-3 minutes per side, or until slightly charred.",
+    "Meanwhile, mix the crispy onions and xtra crunchy slaw in a bowl.",
+    "Add the shredded portuguese cheese to the bowl and toss to combine.",
+    "Once the skewers are done, serve them hot with the onion slaw.",
+    "Squeeze lemon juice over the skewers and slaw.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-portuguese-vegetable-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:01:27.834Z"
+}
