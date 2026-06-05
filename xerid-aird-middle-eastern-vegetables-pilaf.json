@@ -1,0 +1,70 @@
+{
+  "slug": "xerid-aird-middle-eastern-vegetables-pilaf",
+  "title": "Eastern Pilaf with Vegetables",
+  "description": "A flavorful and aromatic eastern-inspired pilaf dish loaded with sautéed vegetables. Perfect for a quick weeknight dinner.",
+  "cuisine": "Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aird",
+      "amount": "1 cup"
+    },
+    {
+      "name": "middle",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eastern spices",
+      "amount": "1 tsp",
+      "notes": "Use a blend of ground cumin, coriander, and turmeric."
+    },
+    {
+      "name": "xerid",
+      "amount": "2 cups",
+      "notes": "Rinse before using."
+    },
+    {
+      "name": "vegetables (bell peppers, carrots, onions)",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large skillet over medium-high heat. Add chopped vegetables and cook until tender.",
+    "Add eastern spices to the skillet and stir for 1 minute.",
+    "Add rinsed xerid to the skillet and stir to combine.",
+    "Add cooked pilaf to the skillet and stir to combine.",
+    "Add aird and middle to the skillet. Stir to combine.",
+    "Season with salt to taste.",
+    "Serve hot.",
+    "Optional: Garnish with chopped fresh herbs."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eastern",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerid-aird-middle-eastern-vegetables-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:13:57.462Z"
+}
