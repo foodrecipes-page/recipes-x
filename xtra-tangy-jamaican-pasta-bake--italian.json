@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-tangy-jamaican-pasta-bake--italian",
+  "title": "Creamy JAMAICAN Pasta Bake",
+  "description": "A rich and tangy Italian-inspired pasta bake infused with the warm flavors of Jamaica. Perfect for a satisfying dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz.",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup shredded mozzarella",
+      "notes": ""
+    },
+    {
+      "name": "tangy",
+      "amount": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "xtra",
+      "amount": "1/4 cup grated Parmesan",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp.",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Stir in the shredded mozzarella and grated Parmesan until melted and well combined.",
+    "Add the cooked pasta to the skillet and toss until the pasta is well coated with the cheese mixture.",
+    "Transfer the pasta mixture to a greased 9x13-inch baking dish.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 15-20 minutes until the top is golden brown and the cheese is melted and bubbly.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "bake",
+    "cheesy",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tangy-jamaican-pasta-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:12:56.539Z"
+}
