@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-bitter-irish-tomato-stew",
+  "title": "Hearty Irish Stew",
+  "description": "A comforting, slow-cooked stew perfect for a chilly evening. The addition of xtra virgin olive oil and a hint of bitter greens elevate this classic dish.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "irish stew",
+      "amount": "1 cup",
+      "notes": "canned, drained and rinsed"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the xtra virgin olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and celery and cook for an additional 5 minutes.",
+    "Add the irish stew, diced tomatoes, potatoes, salt, and enough water to cover the ingredients.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Stir in the chopped parsley and serve hot.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish-stew",
+    "comfort-food",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bitter-irish-tomato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:21:28.916Z"
+}
