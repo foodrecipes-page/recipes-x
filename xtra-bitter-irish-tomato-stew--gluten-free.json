@@ -1,0 +1,92 @@
+{
+  "slug": "xtra-bitter-irish-tomato-stew--gluten-free",
+  "title": "Irish Stew Recipe",
+  "description": "A hearty, comforting Irish stew made with tender beef and root vegetables. Perfect for a chilly evening.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "irish stew beef (1 pound)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "xtra-virgin olive oil (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bitter root vegetables (2 carrots, 2 potatoes)",
+      "amount": "2 carrots, 2 potatoes",
+      "notes": ""
+    },
+    {
+      "name": "onion (1 large)",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "tomato (1 can, 14.5 ounces, diced)",
+      "amount": "1 can, 14.5 ounces",
+      "notes": ""
+    },
+    {
+      "name": "gluten-free all-purpose flour (2 tablespoons)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth (2 cups)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt (1 teaspoon)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper (1 teaspoon)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large pot over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes. Remove the beef from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the diced tomato, gluten-free flour, beef broth, water, salt, and pepper to the pot.",
+    "Stir to combine, then add the browned beef back to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-stew",
+    "gluten-free",
+    "beef-stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bitter-irish-tomato-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:47:16.127Z"
+}
