@@ -12539,5 +12539,30 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-bitter-irish-tomato-stew--german",
+    "title": "German Beef Stew",
+    "tags": [
+      "german",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-sweet-irish-eggplant-casserole--vegan",
+    "title": "Vegan Eggplant Casserole",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "eggplant",
+      "casserole"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "x"
   }
 ]
