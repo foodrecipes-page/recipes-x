@@ -1,0 +1,72 @@
+{
+  "slug": "xerisced-briny-venezuelan-rice-wrap--indian",
+  "title": "Briny Venezuelan Rice Wrap",
+  "description": "A flavorful and spicy Indian-inspired rice wrap filled with the brininess of pickled vegetables and the warmth of venezuelan spices.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Xerisced rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Briny pickled vegetables",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Venezuelan spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add venezuelan spice blend and sauté for 1 minute.",
+    "Add xerisced rice and mix well.",
+    "Cook for 2-3 minutes.",
+    "Add briny pickled vegetables and mix well.",
+    "Season with salt and pepper to taste.",
+    "Brush the wrap with oil.",
+    "Assemble the wrap by placing the rice mixture in the center.",
+    "Fold the wrap to enclose the filling.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "rice",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisced-briny-venezuelan-rice-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:11:57.379Z"
+}
