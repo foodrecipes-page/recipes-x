@@ -12589,5 +12589,32 @@
     "cuisine": null,
     "totalTimeMin": 110,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-garlicky-jamaican-mozzarella-casserole--thai",
+    "title": "Thai Jamaican Casserole",
+    "tags": [
+      "thai",
+      "jamaican",
+      "casserole",
+      "curry",
+      "cheese"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xanthous-energizing-ethiopian-salt-cod-doro-wot--vegan",
+    "title": "Ethiopian-Style Vegan Stew",
+    "tags": [
+      "vegan",
+      "ethiopian",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "x"
   }
 ]
