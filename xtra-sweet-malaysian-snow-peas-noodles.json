@@ -1,0 +1,64 @@
+{
+  "slug": "xtra-sweet-malaysian-snow-peas-noodles",
+  "title": "Malaysian Noodle Stir Fry",
+  "description": "A quick and flavorful stir-fry made with sweet Malaysian noodles, mixed vegetables, and a hint of sesame oil.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Malaysian noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Xtra sweet soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the snow peas and cook for 2-3 minutes until tender.",
+    "Add the peas and cook for an additional 1-2 minutes until tender.",
+    "Add the Malaysian noodles and cook for 2-3 minutes until heated through.",
+    "In a small bowl, whisk together the sweet soy sauce and 1 tablespoon of water.",
+    "Pour the soy sauce mixture over the noodles and vegetables, and stir-fry for 1 minute.",
+    "Transfer the stir-fry to a serving dish and garnish with sesame seeds if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "malaysian",
+    "vegetarian",
+    "noodle-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sweet-malaysian-snow-peas-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T20:01:21.023Z"
+}
