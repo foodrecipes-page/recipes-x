@@ -1,0 +1,66 @@
+{
+  "slug": "xanthous-energizing-ethiopian-salt-cod-doro-wot--vegan",
+  "title": "Ethiopian-Style Vegan Stew",
+  "description": "A flavorful and spicy stew inspired by Ethiopian cuisine, made with a variety of vegetables and served over rice or injera.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xanthous sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "energizing bell peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "doro tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "ethiopian spices",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pan over medium heat.",
+    "Add the onions and sauté for 5 minutes.",
+    "Add the bell peppers and sweet potatoes and cook for an additional 5 minutes.",
+    "Add the can of tomatoes, spices, and salt. Stir well.",
+    "Simmer the stew for 20-25 minutes or until the vegetables are tender.",
+    "Serve over rice or injera."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ethiopian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-energizing-ethiopian-salt-cod-doro-wot--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:41:45.046Z"
+}
