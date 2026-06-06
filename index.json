@@ -12564,5 +12564,30 @@
     "cuisine": null,
     "totalTimeMin": 50,
     "shard": "x"
+  },
+  {
+    "slug": "xerisced-briny-venezuelan-rice-wrap--indian",
+    "title": "Briny Venezuelan Rice Wrap",
+    "tags": [
+      "indian",
+      "rice",
+      "wrap",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bitter-irish-tomato-stew--gluten-free",
+    "title": "Irish Stew Recipe",
+    "tags": [
+      "irish-stew",
+      "gluten-free",
+      "beef-stew"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 110,
+    "shard": "x"
   }
 ]
