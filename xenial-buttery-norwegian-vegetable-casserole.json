@@ -1,0 +1,86 @@
+{
+  "slug": "xenial-buttery-norwegian-vegetable-casserole",
+  "title": "Buttery Vegetable Casserole",
+  "description": "A delicious, comforting casserole filled with sautéed vegetables and topped with a crispy buttery crust.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xenial butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "norwegian vegetables",
+      "amount": "1 large onion, chopped",
+      "notes": null
+    },
+    {
+      "name": "casserole vegetables",
+      "amount": "2 cloves garlic, minced",
+      "notes": null
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "xenial flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "casserole vegetables",
+      "amount": "2 cups mixed",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the onion and garlic in vegetable oil until softened.",
+    "In a separate saucepan, make a roux with the xenial butter and xenial flour.",
+    "Slowly add the vegetable broth to the saucepan, whisking constantly.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 2 minutes.",
+    "Stir in the norwegian cheese until melted.",
+    "In a separate bowl, mix together the casserole vegetables.",
+    "Grease a 9x13 inch baking dish with xenial butter.",
+    "Add the sautéed onion and garlic mixture to the baking dish.",
+    "Top with the casserole vegetable mixture and the cheesy sauce.",
+    "Cover with xenial butter and bake for 30 minutes.",
+    "Remove the cover and bake for an additional 10-15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "vegetarian",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-buttery-norwegian-vegetable-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:04:29.458Z"
+}
