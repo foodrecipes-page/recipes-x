@@ -1896,17 +1896,15 @@
   },
   {
     "slug": "xenial-herbal-saudi-arabian-fish-fillet-tagine",
-    "title": "Xenial Herbal Saudi Arabian Fish Fillet Tagine",
+    "title": "Moroccan Fish Tagine",
     "tags": [
-      "fish-dish",
-      "gluten-free",
-      "herbal",
-      "one-pan",
-      "saudi-arabian",
-      "whole30"
+      "moroccan",
+      "fish",
+      "tagine",
+      "gluten-free"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -11235,17 +11233,15 @@
   },
   {
     "slug": "xtra-spicy-vietnamese-beef-shin-pho",
-    "title": "Xtra Spicy Vietnamese Beef Shin Pho",
+    "title": "Spicy Beef Pho",
     "tags": [
-      "beef",
-      "comfort-food",
+      "vietnamese",
       "noodle-soup",
-      "one-pot",
-      "spicy",
-      "vietnamese"
+      "beef",
+      "spicy"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 110,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
