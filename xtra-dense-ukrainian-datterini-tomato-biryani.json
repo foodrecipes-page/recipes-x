@@ -1,0 +1,90 @@
+{
+  "slug": "xtra-dense-ukrainian-datterini-tomato-biryani",
+  "title": "Ukrainian-Style Biryani",
+  "description": "A hearty and flavorful biryani dish inspired by Ukrainian cuisine, featuring tender meat and aromatic spices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Datterini Tomatoes",
+      "amount": "1 cup, halved",
+      "notes": null
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Dense Ground Beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Ukrainian Mixed Spices",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Biryani Rice",
+      "amount": "1 cup, uncooked",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the xtra virgin olive oil in a large pan over medium-high heat.",
+    "Add the dense ground beef and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "Add the Ukrainian mixed spices, salt, and black pepper. Cook for 1-2 minutes.",
+    "Stir in the tomato paste and cook for an additional 1-2 minutes.",
+    "Add the datterini tomatoes and cook until they start to break down, about 3-4 minutes.",
+    "Stir in the biryani rice and cook for 2-3 minutes, until it is well coated with the oil and spice mixture.",
+    "Transfer the mixture to a large bowl and let it cool to room temperature.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes, or up to 2 hours.",
+    "When ready to serve, fluff the rice mixture with a fork and garnish with chopped fresh cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "biryani",
+    "rice",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-ukrainian-datterini-tomato-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:07:55.378Z"
+}
