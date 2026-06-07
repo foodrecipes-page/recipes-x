@@ -1377,16 +1377,13 @@
   },
   {
     "slug": "xenial-buttery-norwegian-vegetable-casserole",
-    "title": "Xenial Buttery Norwegian Vegetable Casserole",
+    "title": "Buttery Vegetable Casserole",
     "tags": [
       "casserole",
-      "comfort-food",
-      "norwegian",
-      "tandoor",
       "vegetarian",
-      "winter"
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "norwegian",
     "totalTimeMin": 60,
     "shard": "x"
   },
@@ -7052,17 +7049,15 @@
   },
   {
     "slug": "xtra-dense-ukrainian-datterini-tomato-biryani",
-    "title": "Xtra Dense Ukrainian Datterini Tomato Biryani",
+    "title": "Ukrainian-Style Biryani",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "one-pot",
-      "post-workout",
-      "ukrainian-cuisine",
-      "vegetarian"
+      "ukrainian",
+      "biryani",
+      "rice",
+      "beef"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
