@@ -1,0 +1,86 @@
+{
+  "slug": "xeriscape-austrian-currants-pasta",
+  "title": "Austrian Pasta with Currants",
+  "description": "A unique and flavorful pasta dish that combines Austrian and Mediterranean flavors. The sweetness of currants pairs well with the savory sauce.",
+  "cuisine": "Austrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "any shape of your choice"
+    },
+    {
+      "name": "currants",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tomato sauce and stir to combine.",
+    "Add the currants and stir to combine.",
+    "Simmer the sauce over low heat for 10-15 minutes.",
+    "Drain the cooked pasta and add it to the skillet with the sauce.",
+    "Toss the pasta in the sauce until well coated.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "austrian",
+    "pasta",
+    "currants",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-austrian-currants-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:47:21.607Z"
+}
