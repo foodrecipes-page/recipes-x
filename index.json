@@ -6826,17 +6826,14 @@
   },
   {
     "slug": "xtra-dense-irish-potato-boxty",
-    "title": "Xtra Dense Irish Potato Boxty",
+    "title": "Irish Boxty Potato Cakes",
     "tags": [
-      "gluten-free",
       "irish",
-      "macrobiotic",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "potato",
+      "vegetarian"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 23,
     "shard": "x"
   },
   {
@@ -8527,18 +8524,16 @@
   },
   {
     "slug": "xtra-juicy-mediterranean-fish-pilaf",
-    "title": "Xtra Juicy Mediterranean Fish Pilaf",
+    "title": "Greek Fish Pilaf",
     "tags": [
-      "easy-dinner",
+      "greek",
       "fish",
-      "mediterranean",
-      "one-pan",
       "pilaf",
-      "rice",
-      "weeknight"
+      "lemon",
+      "herbs"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "Greek",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
