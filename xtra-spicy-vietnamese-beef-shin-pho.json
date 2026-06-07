@@ -1,0 +1,94 @@
+{
+  "slug": "xtra-spicy-vietnamese-beef-shin-pho",
+  "title": "Spicy Beef Pho",
+  "description": "A flavorful and spicy Vietnamese noodle soup made with tender beef and a rich broth.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "xtra beef broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "vietnamese pho spice mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "spicy sauce",
+      "amount": "1 tablespoon",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil in a large pot.",
+    "Add the pho spice mix, spicy sauce, fish sauce, soy sauce, and brown sugar to the pot.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "While the broth is simmering, cook the rice noodles according to package instructions.",
+    "Add the beef shin to the pot and cook for 10-15 minutes or until tender.",
+    "Add the cooked noodles and bean sprouts to the pot.",
+    "Slice the beef into thin strips and add to the pot.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "beef",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-vietnamese-beef-shin-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:41:35.142Z"
+}
