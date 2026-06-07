@@ -1,0 +1,92 @@
+{
+  "slug": "xenial-herbal-saudi-arabian-fish-fillet-tagine",
+  "title": "Moroccan Fish Tagine",
+  "description": "A classic Moroccan dish made with flavorful spices and tender fish, cooked to perfection in a traditional clay pot.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb fish fillet (any white fish)",
+      "amount": "1",
+      "notes": "such as tilapia or cod"
+    },
+    {
+      "name": "2 tbsp xenial olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 tsp arabian ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1 tsp saudi ground coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1 tsp saudi ground cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1/2 tsp xenial ground cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup herbal chicken broth",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup xenial lemon juice",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, coriander, cinnamon, and cayenne pepper and cook for 1 minute.",
+    "Add the fish fillet and cook for 2-3 minutes on each side, or until browned.",
+    "Add the chicken broth and lemon juice, and bring to a simmer.",
+    "Cover the pot and cook over low heat for 10-12 minutes, or until the fish is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "fish",
+    "tagine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-herbal-saudi-arabian-fish-fillet-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:32:30.896Z"
+}
