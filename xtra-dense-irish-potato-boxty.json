@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-dense-irish-potato-boxty",
+  "title": "Irish Boxty Potato Cakes",
+  "description": "A traditional Irish dish made with shredded potatoes and pan-fried until crispy. Serve with your favorite toppings.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish potato",
+      "amount": "2 large",
+      "notes": "shredded"
+    },
+    {
+      "name": "xtra boxty",
+      "amount": "1 package",
+      "notes": "grated"
+    },
+    {
+      "name": "dense butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "potato",
+      "amount": "1 small",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine shredded Irish potato, grated boxty, and grated potato.",
+    "Add melted butter, salt, and black pepper to the bowl. Mix well.",
+    "Using your hands, shape the mixture into 4-6 patties.",
+    "Heat a non-stick pan with a small amount of oil over medium heat.",
+    "Add the patties to the pan and cook for 4-5 minutes on each side.",
+    "Serve hot with your favorite toppings.",
+    "Note: Boxty can be found in most Irish or international grocery stores."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-irish-potato-boxty",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:39:41.910Z"
+}
