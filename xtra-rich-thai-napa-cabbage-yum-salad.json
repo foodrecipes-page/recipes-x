@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-rich-thai-napa-cabbage-yum-salad",
+  "title": "Xtra Special Thai Cabbage Salad",
+  "description": "A refreshing and crunchy salad made with napa cabbage, yum dressing, and a variety of ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Napa Cabbage",
+      "amount": "1 head, shredded"
+    },
+    {
+      "name": "Xtra-ripe Mango",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Rich Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Thai Yum Dressing",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups, mixed greens"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shredded napa cabbage and mixed greens.",
+    "In a small bowl, whisk together the yum dressing and chopped cilantro.",
+    "Add the diced mango to the bowl with the cabbage and toss to combine.",
+    "Drizzle the yum dressing mixture over the salad and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "thai",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-thai-napa-cabbage-yum-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:11:48.750Z"
+}
