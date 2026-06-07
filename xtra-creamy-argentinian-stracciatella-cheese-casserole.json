@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-creamy-argentinian-stracciatella-cheese-casserole",
+  "title": "Argentinian Casserole",
+  "description": "A hearty, comforting casserole filled with the flavors of Argentina, featuring creamy stracciatella cheese and argentinian ground beef.",
+  "cuisine": "Latin American",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 small"
+    },
+    {
+      "name": "Stracciatella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Xtra sharp cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the casserole according to package instructions.",
+    "In a large pan, heat the olive oil over medium-high heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces.",
+    "Stir in the salt, black pepper, and cooked casserole.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with the stracciatella and cheddar cheese.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "casserole",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-argentinian-stracciatella-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:03:44.540Z"
+}
