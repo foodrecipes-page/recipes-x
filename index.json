@@ -3221,16 +3221,15 @@
   },
   {
     "slug": "xeriscape-austrian-currants-pasta",
-    "title": "xeriscape austrian currants pasta",
+    "title": "Austrian Pasta with Currants",
     "tags": [
       "austrian",
-      "one-pan",
-      "sattvic",
-      "vegetarian",
-      "weeknight"
+      "pasta",
+      "currants",
+      "vegetarian"
     ],
-    "cuisine": "austrian",
-    "totalTimeMin": 27,
+    "cuisine": "Austrian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -10907,17 +10906,14 @@
   },
   {
     "slug": "xtra-spicy-irish-beef-stew",
-    "title": "Xtra Spicy Irish Beef Stew",
+    "title": "Irish Beef Stew",
     "tags": [
-      "date-night",
-      "hearty",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "beef-stew",
+      "irish-cuisine",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 180,
     "shard": "x"
   },
   {
