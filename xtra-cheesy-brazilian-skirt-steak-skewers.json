@@ -1,0 +1,92 @@
+{
+  "slug": "xtra-cheesy-brazilian-skirt-steak-skewers",
+  "title": "Brazilian-Style Churrasco Skewers",
+  "description": "Grilled steak and skewers, marinated in a zesty Brazilian-inspired sauce. A simple and delicious meal perfect for any outdoor gathering.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheesy chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Brazilian skewers",
+      "amount": "10-12",
+      "notes": "Wooden or metal"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, chimichurri sauce, garlic, salt, and black pepper.",
+    "Add steak, onion, bell pepper, tomato, and garlic to the bowl, and toss to coat.",
+    "Thread skewers with the marinated meat and vegetables.",
+    "Grill skewers for 8-10 minutes per side, or until steak is cooked to desired level of doneness.",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "steak",
+    "churrasco",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-cheesy-brazilian-skirt-steak-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:16:34.419Z"
+}
