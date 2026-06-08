@@ -1,0 +1,59 @@
+{
+  "slug": "xtra-dense-uruguayan-mackerel-skillet",
+  "title": "Uruguayan Pan-Seared Mackerel",
+  "description": "A simple and flavorful Uruguayan-inspired dish featuring pan-seared mackerel with a crispy crust.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dense breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the mackerel fillets with salt and pepper.",
+    "Heat a skillet over medium-high heat.",
+    "Add the olive oil to the skillet and swirl to coat.",
+    "Sear the mackerel fillets for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, mix the breadcrumbs with a pinch of salt and pepper.",
+    "Remove the skillet from the oven and top each mackerel fillet with breadcrumbs.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the breadcrumbs are golden brown.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mackerel",
+    "uruguayan",
+    "pan-seared",
+    "fish"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-uruguayan-mackerel-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:33:52.526Z"
+}
