@@ -1,0 +1,101 @@
+{
+  "slug": "xtra-rich-canadian-beef-pie",
+  "title": "Canadian Beef Pie",
+  "description": "A hearty beef pie with a rich and flaky crust, perfect for a cold winter night. Serves 4-6 people.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "for the crust"
+    },
+    {
+      "name": "Cold Butter",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "for the crust"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Frozen Mixed Vegetables",
+      "amount": "1 cup",
+      "notes": "such as peas and carrots"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten (for egg wash)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Stir in the frozen mixed vegetables and beef broth. Bring the mixture to a simmer and let cook for 5 minutes.",
+    "Season the filling with salt and black pepper to taste.",
+    "On a lightly floured surface, roll out the pie crust to a thickness of about 1/8 inch.",
+    "Transfer the pie crust to a 9-inch pie dish and fill with the beef filling.",
+    "Roll out the remaining pie crust to a thickness of about 1/8 inch and use it to cover the pie.",
+    "Use a knife or pastry brush to create a decorative edge around the pie crust.",
+    "Brush the beaten egg over the pie crust to give it a golden brown finish.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Let the pie cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pie",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-canadian-beef-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:50:20.882Z"
+}
