@@ -1,0 +1,81 @@
+{
+  "slug": "x-tra-rich-gooey-argentinian-lamb-empanadas",
+  "title": "Argentinian Lamb Empanadas",
+  "description": "A classic Argentinian dish, these lamb empanadas are perfect for a dinner party. The flaky pastry and flavorful lamb filling will leave your guests wanting more.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "x",
+      "amount": "2",
+      "notes": "Cups all-purpose flour"
+    },
+    {
+      "name": "tra",
+      "amount": "1/2 cup",
+      "notes": "Vegetable shortening"
+    },
+    {
+      "name": "rich",
+      "amount": "1 egg",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "gooey",
+      "amount": "1/4 cup",
+      "notes": "Water"
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6",
+      "notes": "Pre-made empanada dough"
+    },
+    {
+      "name": "argentinian",
+      "amount": "1/2 cup",
+      "notes": "Feta cheese, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat a couple of tablespoons of oil over medium-high heat.",
+    "Add the lamb and cook, breaking it up with a spoon, until it is no longer pink.",
+    "Add the cumin and paprika and cook for 1 minute.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a tablespoon of the lamb mixture onto one half of each dough circle.",
+    "Fold the other half of the dough over the filling and press the edges together with a fork.",
+    "Brush the tops of the empanadas with the egg wash.",
+    "Place the empanadas on a baking sheet and bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "empanada",
+    "argentinian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-rich-gooey-argentinian-lamb-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:47:18.634Z"
+}
