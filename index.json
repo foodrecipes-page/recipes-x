@@ -498,18 +498,15 @@
   },
   {
     "slug": "x-tra-rich-gooey-argentinian-lamb-empanadas",
-    "title": "x-tra rich gooey argentinian lamb empanadas",
+    "title": "Argentinian Lamb Empanadas",
     "tags": [
-      "argentinian",
-      "empanadas",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "rocket",
-      "weeknight"
+      "empanada",
+      "argentinian",
+      "dinner"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 85,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
