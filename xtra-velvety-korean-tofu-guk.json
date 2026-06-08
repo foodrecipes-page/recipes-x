@@ -1,0 +1,83 @@
+{
+  "slug": "xtra-velvety-korean-tofu-guk",
+  "title": "Spicy Korean-Style Tofu Soup",
+  "description": "A hearty and comforting soup with the bold flavors of Korea. Tofu and vegetables are simmered in a spicy broth.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "12 oz",
+      "notes": "cubed"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "guk",
+      "amount": "2 cups",
+      "notes": "Korean-style broth"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "velvety soy sauce",
+      "amount": "1 tsp",
+      "notes": "for added depth"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cubed tofu and cook for 2-3 minutes, until lightly browned.",
+    "Add the Korean-style broth, chili flakes, and soy sauce.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-cuisine",
+    "spicy",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-velvety-korean-tofu-guk",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:51:19.133Z"
+}
