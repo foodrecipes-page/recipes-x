@@ -4378,17 +4378,16 @@
   },
   {
     "slug": "xtra-cheesy-brazilian-skirt-steak-skewers",
-    "title": "Xtra Cheesy Brazilian Skirt Steak Skewers",
+    "title": "Brazilian-Style Churrasco Skewers",
     "tags": [
-      "brazilian-inspired",
-      "cheesy",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "skewers",
+      "steak",
+      "churrasco",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 33,
     "shard": "x"
   },
   {
@@ -7056,17 +7055,15 @@
   },
   {
     "slug": "xtra-dense-uruguayan-mackerel-skillet",
-    "title": "Xtra Dense Uruguayan Mackerel Skillet",
+    "title": "Uruguayan Pan-Seared Mackerel",
     "tags": [
-      "air-fryer-recipe",
-      "diabetic-friendly",
-      "high-protein",
-      "low-carb",
-      "one-pan-dinner",
-      "uruguayan-cuisine"
+      "mackerel",
+      "uruguayan",
+      "pan-seared",
+      "fish"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
