@@ -8269,18 +8269,14 @@
   },
   {
     "slug": "xtra-hearty-turkish-lamb-stew",
-    "title": "Xtra Hearty Turkish Lamb Stew",
+    "title": "Hearty Turkish Lamb Stew",
     "tags": [
-      "al-dente",
-      "coconut-milk",
-      "hearty-stew",
-      "lamb-recipes",
-      "one-pot",
-      "turkish-cuisine",
-      "whole30"
+      "lamb stew",
+      "turkish food",
+      "hearty stew"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 110,
+    "totalTimeMin": 170,
     "shard": "x"
   },
   {
@@ -9413,16 +9409,14 @@
   },
   {
     "slug": "xtra-rich-canadian-beef-pie",
-    "title": "Xtra Rich Canadian Beef Pie",
+    "title": "Canadian Beef Pie",
     "tags": [
-      "beef-based",
-      "canadian-cuisine",
-      "comfort-food",
-      "one-dish",
-      "special-occasion"
+      "beef",
+      "pie",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
