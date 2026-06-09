@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-tangy-russian-fish-noodles",
+  "title": "Pan-Seared Fish with Russian Noodle Stir Fry",
+  "description": "A flavorful and nutritious dish combining the freshness of fish with the heartiness of Russian noodles. This recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (4 pieces)",
+      "amount": "4",
+      "notes": "Choose your preferred fish type (e.g., salmon, cod)"
+    },
+    {
+      "name": "Xtra Long Noodles",
+      "amount": "8 oz",
+      "notes": "Russian or egg noodles work well"
+    },
+    {
+      "name": "Tangy Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Russian Dill",
+      "amount": "1/4 cup",
+      "notes": "Fresh or dried herbs can be used"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-frying the fish"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Season the fish and noodles as desired"
+    }
+  ],
+  "instructions": [
+    "1. Cook the noodles according to package instructions, then set aside.",
+    "2. Season the fish with salt and pepper.",
+    "3. Heat olive oil in a large skillet over medium-high heat.",
+    "4. Add the fish to the skillet and pan-fry until cooked through, about 4-5 minutes per side.",
+    "5. In a separate pan, heat 1 tbsp of olive oil over medium heat.",
+    "6. Add the Russian dill and cook for 1 minute, until fragrant.",
+    "7. Add the cooked noodles to the pan with the dill and stir in tangy soy sauce.",
+    "8. Combine the cooked fish with the noodle stir-fry.",
+    "9. Serve hot, garnished with additional Russian dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "noodles",
+    "stir-fry",
+    "russian-cuisine",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tangy-russian-fish-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:47:39.503Z"
+}
