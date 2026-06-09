@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-spicy-irish-bacon-hash",
+  "title": "Irish Bacon Hash",
+  "description": "A hearty breakfast dish featuring crispy Irish bacon and a crispy hash of potatoes and onions. Serve with eggs for a filling meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish Bacon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large, peeled and diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spicy Seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, toss diced potatoes and onions with 1 tablespoon of olive oil, spicy seasoning, salt, and pepper until well coated.",
+    "Spread the potato mixture on a baking sheet and roast for 20 minutes, or until golden brown.",
+    "Meanwhile, cook Irish bacon in a skillet over medium heat until crispy. Flip halfway through.",
+    "After 20 minutes, remove the potato mixture from the oven and stir in the remaining tablespoon of olive oil.",
+    "To assemble the dish, place a portion of the hash on a plate, top with crispy bacon, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-irish-bacon-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:43:05.918Z"
+}
