@@ -1,0 +1,91 @@
+{
+  "slug": "xeriscape-aerated-spanish-chilli-wrap",
+  "title": "Spicy Chilli Beef Wrap",
+  "description": "A flavorful and spicy wrap filled with tender beef, crunchy vegetables, and a hint of Mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "8 oz",
+      "notes": "sirloin or ribeye work well"
+    },
+    {
+      "name": "spanish chilli",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "wrap",
+      "amount": "4-6",
+      "notes": "flour or corn tortillas"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/4 cup",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "smoked or sweet"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook for 3-4 minutes until translucent.",
+    "Add the diced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the beef strips and cook for 5-6 minutes until browned and cooked through.",
+    "Add the diced chilli, cumin, and paprika. Stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the beef mixture onto the center of each wrap.",
+    "Top with shredded cheese, salsa, and any desired toppings.",
+    "Serve immediately and enjoy!",
+    "Optional: Grill or pan-fry the wraps for a crispy exterior and a melty interior."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "wrap",
+    "chilli"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-aerated-spanish-chilli-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T18:13:22.115Z"
+}
