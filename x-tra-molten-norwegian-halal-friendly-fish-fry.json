@@ -1,0 +1,71 @@
+{
+  "slug": "x-tra-molten-norwegian-halal-friendly-fish-fry",
+  "title": "Pan-Seared Fish Fry",
+  "description": "A simple and delicious fish dish, perfect for a quick dinner. The halal certified fish is pan-seared to perfection.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Friendly fish fillets",
+      "amount": "4",
+      "notes": "Halal certified"
+    },
+    {
+      "name": "Molten butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Tra of lemon juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Norwegian x-ale",
+      "amount": "1/4 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Fry seasoning",
+      "amount": "1 tsp",
+      "notes": "Pre-mixed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the fish fillets under cold water and pat them dry with paper towels.",
+    "In a shallow dish, mix together the Norwegian x-ale, tra of lemon juice, and fry seasoning.",
+    "Add the fish fillets to the marinade and refrigerate for at least 30 minutes.",
+    "Heat the molten butter in an oven-safe skillet over medium heat.",
+    "Remove the fish from the marinade, letting any excess liquid drip off.",
+    "Add the fish to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Serve the fish hot, garnished with fresh herbs if desired.",
+    "Enjoy your delicious pan-seared fish fry!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "halal",
+    "norwegian",
+    "easy-dinner",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-molten-norwegian-halal-friendly-fish-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:56:20.541Z"
+}
