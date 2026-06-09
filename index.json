@@ -1228,15 +1228,14 @@
   },
   {
     "slug": "xcrispy-xoily-xwhole30-quesadilla-onion",
-    "title": "Xcrispy Xoily XWhole30 Quesadilla Onion",
+    "title": "Pan-Seared Quesadilla",
     "tags": [
-      "crispy",
-      "quick",
-      "snack",
-      "whole30"
+      "xwhole30",
+      "quick-and-easy",
+      "mexican"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -1797,17 +1796,14 @@
   },
   {
     "slug": "xenial-garlicky-norwegian-lamb-stew",
-    "title": "Xenial Garlicky Norwegian Lamb Stew",
+    "title": "Norwegian Lamb Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-dinner",
+      "norwegian",
       "lamb-stew",
-      "norwegian-cuisine",
-      "whole30"
+      "hearty-dinner"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 180,
+    "cuisine": "norwegian",
+    "totalTimeMin": 105,
     "shard": "x"
   },
   {
