@@ -1972,16 +1972,15 @@
   },
   {
     "slug": "xenial-light-indian-fish-baingan-bharta",
-    "title": "Xenial Light Indian Fish Baingan Bharta",
+    "title": "Baingan Bharta",
     "tags": [
-      "fish-recipes",
-      "indian-cuisine",
-      "lazy-sunday",
-      "pescatarian-friendly",
-      "pressure-cooker"
+      "indian",
+      "baingan",
+      "bharta",
+      "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "cuisine": "indian",
+    "totalTimeMin": 55,
     "shard": "x"
   },
   {
