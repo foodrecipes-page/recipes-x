@@ -1,0 +1,72 @@
+{
+  "slug": "xanthous-salty-slovakian-squid-gratin",
+  "title": "Slovakian Squid Gratin",
+  "description": "A unique Slovakian-inspired dish featuring tender squid in a rich, savory gratin.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian squid",
+      "amount": "12 oz",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salty cheese",
+      "amount": "1 cup",
+      "notes": "grated, such as Parmesan or feta"
+    },
+    {
+      "name": "Xanthous paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Rinse the squid and pat dry with paper towels.",
+    "Melt 2 tbs of butter in a large skillet over medium-high heat.",
+    "Add the squid and cook for 2-3 minutes per side, or until tender.",
+    "Transfer the squid to a baking dish.",
+    "In a separate saucepan, melt the remaining 2 tbs of butter over medium heat.",
+    "Add the grated cheese and stir until melted and smooth.",
+    "Sprinkle the xanthous paprika over the squid.",
+    "Pour the cheese sauce over the squid.",
+    "Bake for 10-12 minutes, or until the top is golden brown and the sauce is bubbly.",
+    "Serve hot, garnished with additional xanthous paprika if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "seafood",
+    "gratin",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-salty-slovakian-squid-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:50:24.388Z"
+}
