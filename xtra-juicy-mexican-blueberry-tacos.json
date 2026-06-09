@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-juicy-mexican-blueberry-tacos",
+  "title": "Blueberry Tacos",
+  "description": "A unique breakfast dessert, combining the sweetness of blueberries with the crunch of tacos.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Blueberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Taco Shells (corn)",
+      "amount": "6-8 shells"
+    },
+    {
+      "name": "Whipped Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Arrange the taco shells on a baking sheet.",
+    "Bake the taco shells for 5-7 minutes, or until crispy.",
+    "In a separate bowl, mix together the blueberries, powdered sugar, and cinnamon.",
+    "Spoon the blueberry mixture into the baked taco shells.",
+    "Top with whipped cream and drizzle with lime juice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "blueberry",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-juicy-mexican-blueberry-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:08:37.839Z"
+}
