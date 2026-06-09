@@ -452,16 +452,16 @@
   },
   {
     "slug": "x-tra-molten-norwegian-halal-friendly-fish-fry",
-    "title": "X-tra Molten Norwegian Halal-Friendly Fish Fry",
+    "title": "Pan-Seared Fish Fry",
     "tags": [
-      "gluten-free",
+      "fish",
       "halal",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "norwegian",
+      "easy-dinner",
+      "quick-dinner"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -1739,16 +1739,14 @@
   },
   {
     "slug": "xenial-floral-italian-christmas-pudding-panettone",
-    "title": "Xenial Floral Italian Christmas Pudding Panettone",
+    "title": "Panettone Christmas Bread Pudding",
     "tags": [
-      "dairy-free",
-      "holiday-treats",
-      "italian-desserts",
-      "romantic-dishes",
-      "wok-hei"
+      "christmas-bread-pudding",
+      "italian-dessert",
+      "bread-pudding"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 55,
     "shard": "x"
   },
   {
@@ -11549,14 +11547,13 @@
   },
   {
     "slug": "xtra-tangy-russian-fish-noodles",
-    "title": "Xtra Tangy Russian Fish Noodles",
+    "title": "Pan-Seared Fish with Russian Noodle Stir Fry",
     "tags": [
-      "chewy",
-      "halal-friendly",
-      "noodle-dish",
-      "quick-fix",
+      "fish",
+      "noodles",
+      "stir-fry",
       "russian-cuisine",
-      "tangy"
+      "quick-dinner"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 25,
