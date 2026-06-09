@@ -1,0 +1,75 @@
+{
+  "slug": "xenial-floral-italian-christmas-pudding-panettone",
+  "title": "Panettone Christmas Bread Pudding",
+  "description": "A sweet bread pudding dessert made with panettone, a traditional Italian Christmas bread.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "panettone",
+      "amount": "1 loaf (1 pound)",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "allspice",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large mixing bowl, whisk together eggs, sugar, heavy cream, vanilla extract, cinnamon, and allspice.",
+    "Add the cubed panettone to the bowl and toss until the bread is evenly coated with the egg mixture.",
+    "Pour the mixture into a 9x13-inch baking dish.",
+    "Bake for 35-40 minutes or until the top is golden brown and the pudding is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "christmas-bread-pudding",
+    "italian-dessert",
+    "bread-pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-floral-italian-christmas-pudding-panettone",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:02:38.054Z"
+}
