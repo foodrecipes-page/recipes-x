@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-roasted-portuguese-cottage-cheese-curry",
+  "title": "Portuguese Cottage Cheese Curry",
+  "description": "A creamy and flavorful curry made with roasted portuguese spices, cottage cheese, and a hint of xtra special touch.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cottage Cheese",
+      "amount": "250g",
+      "notes": "low-fat option"
+    },
+    {
+      "name": "Roasted Portuguese Spices",
+      "amount": "2 tsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the roasted portuguese spices, curry powder, and salt. Cook for 1-2 minutes.",
+    "Add the cottage cheese and stir until well combined.",
+    "Reduce heat to low and simmer for 5-7 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "portuguese",
+    "cottage-cheese",
+    "vegetarian",
+    "dairy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-roasted-portuguese-cottage-cheese-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:00:03.858Z"
+}
