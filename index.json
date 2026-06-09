@@ -8524,16 +8524,15 @@
   },
   {
     "slug": "xtra-juicy-mexican-blueberry-tacos",
-    "title": "Xtra Juicy Mexican Blueberry Tacos",
+    "title": "Blueberry Tacos",
     "tags": [
-      "easy-desserts",
-      "gluten-free",
-      "mexican-inspired",
-      "summer-recipes",
-      "vegetarian-friendly"
+      "breakfast",
+      "dessert",
+      "blueberry",
+      "tacos"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -9676,16 +9675,17 @@
   },
   {
     "slug": "xtra-roasted-portuguese-cottage-cheese-curry",
-    "title": "Xtra Roasted Portuguese Cottage Cheese Curry",
+    "title": "Portuguese Cottage Cheese Curry",
     "tags": [
-      "cottage-cheese-recipes",
-      "fodmap-friendly",
-      "monsoon-recipes",
-      "portuguese-cuisine",
-      "roasted-vegetables"
+      "curry",
+      "portuguese",
+      "cottage-cheese",
+      "vegetarian",
+      "dairy",
+      "lunch"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -10522,17 +10522,16 @@
   },
   {
     "slug": "xtra-smoky-roasted-norwegian-potato-casserole",
-    "title": "Xtra Smoky Roasted Norwegian Potato Casserole",
+    "title": "Norwegian Smoky Potato Casserole",
     "tags": [
+      "scandinavian",
       "comfort-food",
-      "norwegian-cuisine",
-      "one-pan",
-      "smoky-flavors",
-      "vegetarian-friendly",
-      "weeknight"
+      "potatoes",
+      "cheesy",
+      "vegetarian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 95,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
