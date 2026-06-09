@@ -1,0 +1,71 @@
+{
+  "slug": "xenial-garlicky-norwegian-lamb-stew",
+  "title": "Norwegian Lamb Stew",
+  "description": "A hearty lamb stew inspired by Norwegian cuisine, perfect for a chilly evening.",
+  "cuisine": "norwegian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "xenial vegetables",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlicky spices",
+      "amount": "2 cloves garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "stew broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "add as needed"
+    },
+    {
+      "name": "norwegian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme, rosemary"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Brown lamb pieces on all sides, about 5 minutes. Remove and set aside.",
+    "Add chopped onion and cook until tender, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add stew broth, water, and browned lamb. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season with Norwegian seasoning and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "lamb-stew",
+    "hearty-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-garlicky-norwegian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:55:18.640Z"
+}
