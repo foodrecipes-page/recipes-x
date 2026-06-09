@@ -3200,16 +3200,14 @@
   },
   {
     "slug": "xeriscape-aerated-spanish-chilli-wrap",
-    "title": "Xeriscape Aerated Spanish Chilli Wrap",
+    "title": "Spicy Chilli Beef Wrap",
     "tags": [
-      "dairy-free",
-      "one-pan",
-      "romantic",
-      "spanish",
-      "spicy",
-      "weeknight"
+      "mexican",
+      "beef",
+      "wrap",
+      "chilli"
     ],
-    "cuisine": "Spanish",
+    "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "x"
   },
@@ -10868,15 +10866,10 @@
   },
   {
     "slug": "xtra-spicy-irish-bacon-hash",
-    "title": "Xtra Spicy Irish Bacon Hash",
+    "title": "Irish Bacon Hash",
     "tags": [
-      "brunch",
-      "hangover-cure",
-      "irish-dish",
-      "low-sodium",
-      "one-pan",
-      "spicy-food",
-      "weeknight"
+      "breakfast",
+      "irish"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
