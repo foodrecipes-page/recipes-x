@@ -1,0 +1,62 @@
+{
+  "slug": "xcrispy-xoily-xwhole30-quesadilla-onion",
+  "title": "Pan-Seared Quesadilla",
+  "description": "A delicious and easy-to-make quesadilla recipe that's perfect for any meal. The combination of crunchy xcrispy, savory xoily, and flavorful xwhole30 makes this dish a standout.",
+  "cuisine": null,
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xcrispy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "xoily",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "xwhole30",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "quesadilla",
+      "amount": "2 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the xoily to the skillet and sauté the onion until translucent.",
+    "Cut the quesadilla in half and place in the skillet.",
+    "Sprinkle the xcrispy and xwhole30 on half of the quesadilla.",
+    "Fold the other half of the quesadilla over the filling.",
+    "Cook for 2-3 minutes or until the quesadilla is crispy and the filling is heated through.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes.",
+    "Cut into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "xwhole30",
+    "quick-and-easy",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xcrispy-xoily-xwhole30-quesadilla-onion",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:40:30.574Z"
+}
