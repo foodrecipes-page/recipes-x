@@ -1,0 +1,64 @@
+{
+  "slug": "xtra-smoky-roasted-norwegian-potato-casserole",
+  "title": "Norwegian Smoky Potato Casserole",
+  "description": "A hearty, comforting casserole featuring smoky Norwegian potatoes, roasted vegetables, and a crispy xtra topping.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "smoky roasted vegetables",
+      "amount": "2 cups"
+    },
+    {
+      "name": "xtra cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and dice the Norwegian potatoes. Boil in salted water until slightly tender.",
+    "Sauté the smoky roasted vegetables with olive oil and roasted garlic until caramelized.",
+    "In a large mixing bowl, combine the cooked potatoes, roasted vegetables, and xtra cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with additional xtra cheese and a sprinkle of paprika.",
+    "Bake in the preheated oven for 25-30 minutes, or until the top is golden brown.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "scandinavian",
+    "comfort-food",
+    "potatoes",
+    "cheesy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-roasted-norwegian-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:45:40.912Z"
+}
