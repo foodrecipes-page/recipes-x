@@ -1,0 +1,88 @@
+{
+  "slug": "xyloid-silky-brazilian-rigatoni-pasta",
+  "title": "Brazilian Pasta Bake",
+  "description": "A hearty, comforting pasta dish inspired by Brazilian flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "8 oz",
+      "notes": "pasta of choice"
+    },
+    {
+      "name": "xyloid",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "silky",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "pasta",
+      "amount": "4 oz",
+      "notes": "additional pasta for topping"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook rigatoni according to package instructions.",
+    "In a separate pan, heat olive oil over medium heat.",
+    "Add xyloid, silky, and brazilian. Cook until the vegetables are tender.",
+    "Stir in cooked rigatoni, parmesan cheese, salt, and black pepper.",
+    "Transfer the mixture to a baking dish.",
+    "Top with additional pasta for a crunchy topping.",
+    "Bake for 20-25 minutes or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "brazilian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xyloid-silky-brazilian-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:59:11.953Z"
+}
