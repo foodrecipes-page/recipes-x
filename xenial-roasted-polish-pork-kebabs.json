@@ -1,0 +1,90 @@
+{
+  "slug": "xenial-roasted-polish-pork-kebabs",
+  "title": "Polish Pork Kebabs",
+  "description": "A classic Polish recipe featuring marinated pork kebabs grilled to perfection.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "roasted red pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "xenial seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "polish sausage",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "kebabs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together xenial seasoning, salt, and black pepper.",
+    "Add the cubed pork to the bowl and toss to coat with the marinade.",
+    "Thread the marinated pork, roasted red pepper, polish sausage, and onion onto the kebabs.",
+    "Brush the kebabs with olive oil and grill for 8-10 minutes per side, or until the pork is cooked through.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-roasted-polish-pork-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:41:01.113Z"
+}
