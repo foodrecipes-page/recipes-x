@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-hearty-saudi-arabian-lamb-stew",
+  "title": "Saudi Lamb Stew",
+  "description": "A hearty and flavorful lamb stew inspired by Saudi Arabian cuisine. Perfect for a cold winter evening.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups (fresh or canned)"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup (peeled and chopped)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and brown on all sides, about 5 minutes.",
+    "Remove the lamb and set aside.",
+    "Reduce heat to medium and sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the cumin and coriander, cook for 1 minute.",
+    "Add the tomatoes, potatoes, and carrots, cook for 5 minutes.",
+    "Return the lamb to the pot, season with salt and pepper.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-hearty-saudi-arabian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:43:18.945Z"
+}
