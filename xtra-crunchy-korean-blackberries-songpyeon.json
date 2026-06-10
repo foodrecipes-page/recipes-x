@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-crunchy-korean-blackberries-songpyeon",
+  "title": "Songpyeon with Crunchy Xtra Topping",
+  "description": "A traditional Korean dessert inspired by the flavors of crunchy snacks and sweet blackberries. Songpyeon are half-moon shaped rice cakes often filled with sweet sesame seeds.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Songpyeon",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Xtra",
+      "amount": "1 cup, crushed",
+      "notes": "any crunchy snack like peanuts or churros"
+    },
+    {
+      "name": "Blackberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for filling songpyeon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for cooking songpyeon"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the songpyeon and soak them in water for 4-5 hours.",
+    "2. Drain and rinse the songpyeon, then cook them in boiling water for 10-15 minutes.",
+    "3. In a pan, heat the sesame seeds over medium heat, stirring constantly, until fragrant.",
+    "4. Add the sugar to the pan and stir until dissolved.",
+    "5. Fill each songpyeon with the sesame seed mixture.",
+    "6. In a separate pan, heat the crushed crunchy Xtra over medium heat.",
+    "7. Add the blackberries to the pan and stir until they start to break down.",
+    "8. Serve the filled songpyeon with the blackberry-crunchy Xtra topping.",
+    "9. Enjoy!",
+    "10. Garnish with additional blackberries and crunchy Xtra if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "songpyeon",
+    "blackberries",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-korean-blackberries-songpyeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:42:47.154Z"
+}
