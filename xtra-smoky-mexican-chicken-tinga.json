@@ -1,0 +1,97 @@
+{
+  "slug": "xtra-smoky-mexican-chicken-tinga",
+  "title": "Smoky Chicken Tinga Tacos",
+  "description": "Tinga is a traditional Mexican dish made with shredded chicken cooked in a smoky chipotle tomato sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "Xtra-smoky chipotle peppers in adobo sauce",
+      "amount": "2-3 peppers",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "Mexican xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 (14.5 oz) can",
+      "notes": "drained"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Tinga seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the chipotle peppers and cook for 1-2 minutes, until fragrant.",
+    "Add the chicken and cook until browned on all sides, about 5-6 minutes.",
+    "Add the diced tomatoes, chicken broth, and tinga seasoning blend. Stir to combine.",
+    "Bring the mixture to a simmer and cook until the chicken is cooked through and the sauce has thickened, about 10-12 minutes.",
+    "Shred the chicken with two forks and stir to combine with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the tinga chicken onto a tortilla and serving with your desired toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "smoky",
+    "chipotle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "37g",
+    "carbs": "20g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-mexican-chicken-tinga",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:45:25.425Z"
+}
