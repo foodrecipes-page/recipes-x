@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-crispy-chinese-tempeh-baozi",
+  "title": "Crispy Baozi with Tempeh Filling",
+  "description": "A Chinese-inspired vegetarian snack featuring crispy baozi filled with a savory tempeh mixture.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baozi dough",
+      "amount": "1 package",
+      "notes": "Available at Asian markets"
+    },
+    {
+      "name": "Tempeh",
+      "amount": "1 package",
+      "notes": "Crumbled into small pieces"
+    },
+    {
+      "name": "Crispy soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Available at Asian markets"
+    },
+    {
+      "name": "Xtra hot sauce",
+      "amount": "1 teaspoon",
+      "notes": "Optional, adjust to taste"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing baozi dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "Cut baozi dough into small pieces and fry until crispy, about 2-3 minutes.",
+    "In a separate pan, heat sesame oil over medium heat.",
+    "Add crumbled tempeh and cook, breaking apart with a spatula, until lightly browned.",
+    "Add crispy soy sauce and xtra hot sauce (if using) to the tempeh mixture and stir to combine.",
+    "To assemble the baozi, place a few pieces of crispy dough on a flat surface.",
+    "Spoon the tempeh mixture onto the dough and fold the dough to form a triangle or square.",
+    "Brush the top of the baozi with sesame oil and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-chinese-tempeh-baozi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:02:27.248Z"
+}
