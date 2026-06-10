@@ -8219,16 +8219,14 @@
   },
   {
     "slug": "xtra-hearty-saudi-arabian-lamb-stew",
-    "title": "Xtra Hearty Saudi Arabian Lamb Stew",
+    "title": "Saudi Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "lamb-based",
-      "middle-eastern",
-      "one-pot"
+      "lamb",
+      "stew",
+      "saudi-arabian"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 165,
     "shard": "x"
   },
   {
