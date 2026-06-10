@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-light-peruvian-tomatoes-pollo-a-la-brasa",
+  "title": "Peruvian-Style Grilled Chicken",
+  "description": "Enjoy the bold flavors of Peru with this grilled chicken recipe, marinated in a zesty mixture of aji amarillo peppers and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pollo",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless chicken breasts"
+    },
+    {
+      "name": "Aji amarillo peppers",
+      "amount": "2",
+      "notes": "dried, crushed or 2-3 fresh peppers, seeded and chopped"
+    },
+    {
+      "name": "Peruvian la brasa seasoning",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with a mix of paprika, garlic powder, and cumin"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "Xtra garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine aji amarillo peppers, Peruvian la brasa seasoning, garlic, salt, and black pepper. Blend until smooth.",
+    "2. In a large ziplock bag, combine the marinade, olive oil, and chicken. Seal the bag and massage to coat the chicken evenly. Refrigerate for at least 2 hours or overnight.",
+    "3. Preheat grill to medium-high heat. Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "4. Grill the chicken for 5-7 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "5. Meanwhile, in a small bowl, mix together diced tomatoes and a squeeze of lime juice.",
+    "6. Once the chicken is cooked, let it rest for 5 minutes before slicing.",
+    "7. Serve the grilled chicken with the tomato salsa spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "grilled-chicken",
+    "chicken-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-peruvian-tomatoes-pollo-a-la-brasa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:34:57.099Z"
+}
