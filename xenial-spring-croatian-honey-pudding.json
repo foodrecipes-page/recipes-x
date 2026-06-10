@@ -1,0 +1,86 @@
+{
+  "slug": "xenial-spring-croatian-honey-pudding",
+  "title": "Spring Pudding with Honey Crostini",
+  "description": "A sweet spring-inspired dessert featuring honey-infused pudding atop a toasted crostini topped with fresh spring herbs.",
+  "cuisine": "european",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pudding",
+      "amount": "1 package",
+      "notes": "vanilla-flavored"
+    },
+    {
+      "name": "Spring Crostini",
+      "amount": "1 baguette, sliced",
+      "notes": "toasted"
+    },
+    {
+      "name": "Fresh Spring Herbs",
+      "amount": "1/4 cup",
+      "notes": "chopped (such as parsley, chives, or dill)"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Xenial Cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded (such as parmesan or ricotta)"
+    },
+    {
+      "name": "Croatian Yogurt",
+      "amount": "1/4 cup",
+      "notes": "plain"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. Slice the baguette into 1-inch thick slices and toast until lightly browned.",
+    "3. In a small saucepan, combine honey, granulated sugar, and lemon zest (if using). Heat over low heat, stirring until sugar dissolves.",
+    "4. Pour the honey mixture over the toasted crostini and sprinkle with xenial cheese.",
+    "5. In a separate saucepan, heat the pudding according to package instructions.",
+    "6. Spoon the pudding over the crostini and top with chopped spring herbs.",
+    "7. Drizzle with croatian yogurt and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spring",
+    "dessert",
+    "honey",
+    "pudding",
+    "crostini"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-spring-croatian-honey-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:45:05.951Z"
+}
