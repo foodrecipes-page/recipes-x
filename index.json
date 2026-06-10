@@ -7177,17 +7177,15 @@
   },
   {
     "slug": "xtra-flaky-british-potato-bake",
-    "title": "Xtra Flaky British Potato Bake",
+    "title": "Classic British Shepherd's Pie",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "earthy",
-      "flaky",
-      "one-pan",
-      "weeknight"
+      "british",
+      "beef",
+      "potatoes",
+      "casserole"
     ],
     "cuisine": "British",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
