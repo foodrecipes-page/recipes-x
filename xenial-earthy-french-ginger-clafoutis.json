@@ -1,0 +1,75 @@
+{
+  "slug": "xenial-earthy-french-ginger-clafoutis",
+  "title": "French Clafoutis with Ginger",
+  "description": "A twist on the classic French dessert, infused with the warm spice of ginger.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh peaches",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "3"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Butter a 9x13-inch baking dish and set aside.",
+    "In a large bowl, whisk together the almond flour, sugar, and eggs.",
+    "Stir in the grated ginger and vanilla extract.",
+    "Arrange the sliced peaches in the prepared baking dish.",
+    "Pour the batter over the peaches and smooth the top.",
+    "Dot the top with the unsalted butter.",
+    "Bake for 35-40 minutes or until the clafoutis is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "ginger",
+    "clafoutis",
+    "dessert",
+    "peaches"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-earthy-french-ginger-clafoutis",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:20:06.468Z"
+}
