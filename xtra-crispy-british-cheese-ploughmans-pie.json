@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-crispy-british-cheese-ploughmans-pie",
+  "title": "British Ploughman's Pie",
+  "description": "A twist on the classic British ploughman's lunch, turned into a savory pie filled with cheese and crusty bread.",
+  "cuisine": "British",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "British cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "british ploughmans",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "xtra crispy bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 tablespoon, for topping"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 sheet, frozen"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pie crust and place in a pie dish.",
+    "Mix together British cheese, British ploughmans, and xtra crispy bread in a bowl.",
+    "Pour cheese mixture into pie crust.",
+    "Top with crispy bread cubes and a sprinkle of crispy.",
+    "Bake for 25-30 minutes, or until crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "pie",
+    "cheese",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-british-cheese-ploughmans-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:28:37.933Z"
+}
