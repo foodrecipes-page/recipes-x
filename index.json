@@ -1722,17 +1722,15 @@
   },
   {
     "slug": "xenial-flaky-slovakian-pineapple-dumplings",
-    "title": "Xenial Flaky Slovakian Pineapple Dumplings",
+    "title": "Slovakian Dumplings with Pineapple",
     "tags": [
-      "copper-mug",
-      "dumplings",
-      "pineapple",
       "slovakian",
-      "snack",
-      "vegetarian"
+      "pineapple",
+      "dumplings",
+      "dessert"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "cuisine": "Slovak",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -10499,18 +10497,16 @@
   },
   {
     "slug": "xtra-smoky-mexican-chicken-tinga",
-    "title": "Xtra Smoky Mexican Chicken Tinga",
+    "title": "Smoky Chicken Tinga Tacos",
     "tags": [
-      "grilled",
-      "high-protein",
       "mexican",
-      "one-pan",
+      "chicken",
+      "tacos",
       "smoky",
-      "spicy",
-      "weeknight"
+      "chipotle"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
