@@ -1,0 +1,75 @@
+{
+  "slug": "xenial-flaky-slovakian-pineapple-dumplings",
+  "title": "Slovakian Dumplings with Pineapple",
+  "description": "A sweet twist on traditional Slovakian dumplings, filled with a pineapple and flaky pastry.",
+  "cuisine": "Slovak",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Slovakian dumplings",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1/2 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a dumpling on each pastry circle.",
+    "Place a spoonful of pineapple on top of each dumpling.",
+    "Fold the pastry over the dumpling and press the edges together to seal.",
+    "Brush the tops of the dumplings with melted butter and sprinkle with sugar.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pineapple",
+    "dumplings",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-flaky-slovakian-pineapple-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:18:22.311Z"
+}
