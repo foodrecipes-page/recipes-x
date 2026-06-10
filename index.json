@@ -1622,18 +1622,16 @@
   },
   {
     "slug": "xenial-earthy-french-ginger-clafoutis",
-    "title": "Xenial Earthy French Ginger Clafoutis",
+    "title": "French Clafoutis with Ginger",
     "tags": [
-      "baked",
-      "clafoutis",
-      "french-dessert",
+      "french",
       "ginger",
-      "gluten-free",
-      "low-carb",
-      "raspberry"
+      "clafoutis",
+      "dessert",
+      "peaches"
     ],
     "cuisine": "French",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
@@ -6560,16 +6558,15 @@
   },
   {
     "slug": "xtra-crunchy-korean-blackberries-songpyeon",
-    "title": "Xtra Crunchy Korean Blackberries Songpyeon",
+    "title": "Songpyeon with Crunchy Xtra Topping",
     "tags": [
-      "crunchy",
-      "gluten-free",
-      "korean-snack",
-      "no-onion-no-garlic",
-      "post-workout"
+      "korean",
+      "songpyeon",
+      "blackberries",
+      "crunchy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
