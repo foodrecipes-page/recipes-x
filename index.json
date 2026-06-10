@@ -2494,17 +2494,16 @@
   },
   {
     "slug": "xenial-spring-croatian-honey-pudding",
-    "title": "Xenial Spring Croatian Honey Pudding",
+    "title": "Spring Pudding with Honey Crostini",
     "tags": [
-      "croatian-desserts",
-      "fodmap-friendly",
-      "gluten-free",
-      "honey-based",
-      "romantic-dishes",
-      "springtime-treats"
+      "spring",
+      "dessert",
+      "honey",
+      "pudding",
+      "crostini"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "cuisine": "european",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
