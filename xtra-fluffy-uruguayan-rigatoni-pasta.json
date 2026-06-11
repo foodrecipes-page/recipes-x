@@ -1,0 +1,75 @@
+{
+  "slug": "xtra-fluffy-uruguayan-rigatoni-pasta",
+  "title": "Uruguayan Pasta Bake",
+  "description": "A hearty and comforting Uruguayan-inspired pasta bake, perfect for a cozy dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "pasta",
+      "amount": "1 cup",
+      "notes": "grated (Parmesan)"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fluffy flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "1 cup",
+      "notes": "grated (Chivito)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook rigatoni according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium heat. Add flour and cook, stirring constantly, for 1-2 minutes.",
+    "Slowly add grated cheese, stirring constantly, until melted and smooth.",
+    "Stir in cooked rigatoni, salt, and pepper. Mix well to combine.",
+    "Transfer the pasta mixture to a baking dish and top with additional grated cheese.",
+    "Bake for 15-20 minutes or until the top is golden brown and the cheese is bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "bake",
+    "uruguayan",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-uruguayan-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:04:12.186Z"
+}
