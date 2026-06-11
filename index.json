@@ -3066,18 +3066,14 @@
   },
   {
     "slug": "xeridic-yeast-glazed-mediterranean-bellflower-root-doraji-wrap",
-    "title": "Xeridic Yeast-Glazed Mediterranean Bellflower-root-doraji Wrap",
+    "title": "Pan-Fried Bellflower Fritters",
     "tags": [
-      "ayurvedic-tamasic-friendly",
-      "date-night",
-      "mediterranean",
-      "one-pan",
-      "romantic",
-      "vegetarian",
-      "weeknight"
+      "korean",
+      "snack",
+      "veggie"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -3258,17 +3254,15 @@
   },
   {
     "slug": "xeriscape-light-croatian-fish-bisque",
-    "title": "Xeriscape Light Croatian Fish Bisque",
+    "title": "Pan-Seared Fish with Croatian-Style Bisque",
     "tags": [
+      "fish",
       "bisque",
-      "creamy",
-      "high-protein",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "croatian",
+      "balkan"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "cuisine": "Balkan",
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
@@ -5929,17 +5923,14 @@
   },
   {
     "slug": "xtra-crispy-middle-eastern-eggplant-baba-ganoush",
-    "title": "Xtra Crispy Middle Eastern Eggplant Baba Ganoush",
+    "title": "Middle Eastern Eggplant Delight",
     "tags": [
-      "comfort-food",
-      "crispy",
-      "dairy-free",
+      "eggplant",
       "middle-eastern",
-      "snack",
-      "vegan"
+      "snack"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 75,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
