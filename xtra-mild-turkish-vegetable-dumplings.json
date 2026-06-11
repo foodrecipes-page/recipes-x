@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-mild-turkish-vegetable-dumplings",
+  "title": "Turkish Vegetable Stew",
+  "description": "A hearty and flavorful stew made with a variety of vegetables and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Turkish pepper",
+      "amount": "1 teaspoon, crushed",
+      "notes": "or substitute with red pepper flakes"
+    },
+    {
+      "name": "Mild chili powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetables",
+      "amount": "1 cup, chopped (such as zucchini, eggplant, and red bell pepper)"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "6-8, homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the Turkish pepper and chili powder (if using) and cook for 1 minute.",
+    "Add the diced tomatoes and cook for 10 minutes.",
+    "Add the chopped vegetables and cook until they start to soften, about 5 minutes.",
+    "Pour in the vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 15-20 minutes.",
+    "While the stew is cooking, prepare the dumplings according to the package instructions (or make your own).",
+    "When the stew has finished cooking, add the dumplings to the pot and cook for an additional 5-10 minutes.",
+    "Serve hot, garnished with fresh herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "stew",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-mild-turkish-vegetable-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:15:46.368Z"
+}
