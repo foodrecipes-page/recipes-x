@@ -1,0 +1,81 @@
+{
+  "slug": "x-tra-creamy-yeasty-polish-polish-potato-dish-bread",
+  "title": "Polish Potato Pierogi",
+  "description": "Traditional Polish dish filled with a delicious potato and cheese filling, served with a side of creamy sauce.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Polish cheese (or similar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tra",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeasty",
+      "amount": "1 tablespoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "dram flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "bread",
+      "amount": "1/4 cup",
+      "notes": "crumbs (for dusting)"
+    },
+    {
+      "name": "x",
+      "amount": "1/2 teaspoon",
+      "notes": "salt"
+    }
+  ],
+  "instructions": [
+    "Combine warm water, yeast, and 1 tablespoon of sugar in a large mixing bowl. Let it sit for 5-10 minutes, until frothy.",
+    "Add flour, salt, and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes, until smooth and elastic.",
+    "Divide the dough into 2 equal pieces and roll out each piece into a thin sheet.",
+    "Combine grated cheese, diced potato, and tra in a bowl.",
+    "Place small spoonfuls of the potato mixture onto the dough, leaving space between each pierogi.",
+    "Fold the dough over the filling and press edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil and gently add the pierogi.",
+    "Cook for 5-7 minutes, until they float to the surface.",
+    "Serve with a side of creamy sauce made from melted butter, milk, and grated cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pierogi",
+    "polish-food",
+    "potato-dish",
+    "cheese-filled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-creamy-yeasty-polish-polish-potato-dish-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:40:50.412Z"
+}
