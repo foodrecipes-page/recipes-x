@@ -1,0 +1,66 @@
+{
+  "slug": "xeriscape-light-croatian-fish-bisque",
+  "title": "Pan-Seared Fish with Croatian-Style Bisque",
+  "description": "A flavorful dish featuring pan-seared fish served with a rich and creamy bisque made with Croatian influences.",
+  "cuisine": "Balkan",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Croatian-Style Bisque (see below)",
+      "amount": "4 servings",
+      "notes": "Note: Bisque ingredients not included in this list."
+    }
+  ],
+  "instructions": [
+    "Season the fish with salt and pepper.",
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Add the garlic and onion to the skillet and sauté until softened.",
+    "Add the fish to the skillet and sear for 3-4 minutes per side, or until cooked through.",
+    "Remove the fish from the skillet and serve with Croatian-Style Bisque."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "bisque",
+    "croatian",
+    "balkan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-light-croatian-fish-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:48:58.873Z"
+}
