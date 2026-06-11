@@ -1,0 +1,62 @@
+{
+  "slug": "xerisimo-quick-fix-spring-pao-de-queijo",
+  "title": "Xerisimo Pao de Queijo",
+  "description": "A classic Brazilian cheese bread recipe with a twist using xerisimo flour.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "xerisimo flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "queijo",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "spring water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fix de pao",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together xerisimo flour and fix de pao.",
+    "Gradually add spring water, stirring with a fork until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Place the dough on a floured surface and shape into balls.",
+    "Flatten each ball slightly into a disk shape.",
+    "Place the disks on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Remove from oven and sprinkle with grated queijo.",
+    "Return to oven for an additional 2-3 minutes or until cheese is melted and bubbly.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-bread",
+    "xerisimo-flour",
+    "brazilian-cuisine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisimo-quick-fix-spring-pao-de-queijo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:36:53.824Z"
+}
