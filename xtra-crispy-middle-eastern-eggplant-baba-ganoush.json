@@ -1,0 +1,75 @@
+{
+  "slug": "xtra-crispy-middle-eastern-eggplant-baba-ganoush",
+  "title": "Middle Eastern Eggplant Delight",
+  "description": "A flavorful eggplant dish with crispy texture, inspired by Middle Eastern cuisine. Serve warm and enjoy with pita or rice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "Sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "Eastern",
+      "amount": "2 tbsp",
+      "notes": "Olive oil, for brushing"
+    },
+    {
+      "name": "Middle",
+      "amount": "1 tsp",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1 tsp",
+      "notes": "Paprika"
+    },
+    {
+      "name": "Baba Ghanoush",
+      "amount": "1/2 cup",
+      "notes": "Chilled, for serving"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Brush both sides of eggplant slices with olive oil, then season with salt, cumin, and paprika.",
+    "Arrange eggplant slices on a baking sheet, leaving space between each slice.",
+    "Roast in the oven for 20-25 minutes, flipping halfway through.",
+    "While eggplant is roasting, heat baba ghanoush in a saucepan over low heat.",
+    "Once eggplant is done, let it cool slightly, then serve warm with baba ghanoush.",
+    "Garnish with minced garlic, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "middle-eastern",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-middle-eastern-eggplant-baba-ganoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:01:40.872Z"
+}
