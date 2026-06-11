@@ -1,0 +1,71 @@
+{
+  "slug": "xeridic-yeast-glazed-mediterranean-bellflower-root-doraji-wrap",
+  "title": "Pan-Fried Bellflower Fritters",
+  "description": "Crispy fritters filled with sweet bellflower, perfect as a side dish or snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bellflower",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "xeridic",
+      "amount": "1 cup",
+      "notes": "flour"
+    },
+    {
+      "name": "glazed",
+      "amount": "1/2 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1 tsp",
+      "notes": "herbs (e.g. oregano, thyme)"
+    },
+    {
+      "name": "root",
+      "amount": "1/4 cup",
+      "notes": "grated ginger"
+    }
+  ],
+  "instructions": [
+    "Activate yeast by mixing with 1/2 cup warm water and 1 tsp sugar. Let sit for 5 minutes.",
+    "In a large bowl, combine xeridic, sugar, and yeast mixture. Mix well.",
+    "Add glazed, mediterranean herbs, and root. Mix until a smooth batter forms.",
+    "Chop bellflower into small pieces and fold into the batter.",
+    "Heat a non-stick pan with 1/2 inch of oil over medium heat.",
+    "Using a spoon, drop small balls of the batter into the oil and flatten slightly.",
+    "Cook for 2-3 minutes on each side, until golden brown and crispy.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeridic-yeast-glazed-mediterranean-bellflower-root-doraji-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:39:47.718Z"
+}
