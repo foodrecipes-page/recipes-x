@@ -4762,16 +4762,14 @@
   },
   {
     "slug": "xtra-creamy-argentinian-sugar-snap-peas-stew",
-    "title": "Xtra Creamy Argentinian Sugar Snap Peas Stew",
+    "title": "Argentinian Stew",
     "tags": [
-      "argentinian-cuisine",
-      "comfort-food",
-      "hangover-cure",
-      "kosher-friendly",
-      "one-pot"
+      "argentinian",
+      "beef",
+      "stew"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 105,
     "shard": "x"
   },
   {
@@ -7677,16 +7675,15 @@
   },
   {
     "slug": "xtra-fluffy-uruguayan-rigatoni-pasta",
-    "title": "Xtra Fluffy Uruguayan Rigatoni Pasta",
+    "title": "Uruguayan Pasta Bake",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "pasta",
+      "bake",
+      "uruguayan",
+      "comfortfood"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
