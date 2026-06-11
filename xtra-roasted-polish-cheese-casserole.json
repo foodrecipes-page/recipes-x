@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-roasted-polish-cheese-casserole",
+  "title": "Polish-Style Xtra Roasted Casserole",
+  "description": "A hearty casserole made with roasted xtra, polish sausage, and melted cheese.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted Xtra",
+      "amount": "2 cups",
+      "notes": "preferably roasted at 400°F (200°C) for 30 minutes"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "Casserole Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook Polish sausage in a skillet over medium-high heat until browned.",
+    "Add chopped onion and minced garlic to the skillet and cook until softened.",
+    "In a large mixing bowl, combine cooked sausage, roasted xtra, and shredded cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 25-30 minutes or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "polish-cuisine",
+    "sausage-casserole",
+    "cheesy-dish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-roasted-polish-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:16:32.534Z"
+}
