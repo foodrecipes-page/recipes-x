@@ -3725,17 +3725,15 @@
   },
   {
     "slug": "xerisimo-quick-fix-spring-pao-de-queijo",
-    "title": "Xerisimo Quick-Fix Spring Pao de Queijo",
+    "title": "Xerisimo Pao de Queijo",
     "tags": [
-      "breakfast",
-      "brunch",
-      "easy-puff",
-      "spring-pao",
-      "sugar-free",
-      "weeknight"
+      "cheese-bread",
+      "xerisimo-flour",
+      "brazilian-cuisine",
+      "gluten-free"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
