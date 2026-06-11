@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-creamy-argentinian-sugar-snap-peas-stew",
+  "title": "Argentinian Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, featuring tender chunks of beef and vegetables.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "snap peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the snap peas and cook for 2 minutes.",
+    "Add the stew, beef, sugar, salt, and pepper to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-argentinian-sugar-snap-peas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:37:16.904Z"
+}
