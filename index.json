@@ -224,16 +224,15 @@
   },
   {
     "slug": "x-tra-creamy-yeasty-polish-polish-potato-dish-bread",
-    "title": "X-tra Creamy Yeasty Polish Polish Potato Dish Bread",
+    "title": "Polish Potato Pierogi",
     "tags": [
-      "date-night",
-      "keto-friendly",
-      "polish",
-      "potato",
-      "yeasty"
+      "pierogi",
+      "polish-food",
+      "potato-dish",
+      "cheese-filled"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 80,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -4547,14 +4546,13 @@
   },
   {
     "slug": "xtra-chewy-middle-eastern-lentil-tabbouleh",
-    "title": "Xtra Chewy Middle Eastern Lentil Tabbouleh",
+    "title": "Eastern Lentil Stew",
     "tags": [
-      "high-fiber",
-      "meal-prep",
+      "lentil",
       "middle-eastern",
-      "raw-friendly",
-      "vegan-friendly",
-      "whole-grain"
+      "stew",
+      "vegetarian",
+      "chewy"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
@@ -8920,16 +8918,15 @@
   },
   {
     "slug": "xtra-mild-turkish-vegetable-dumplings",
-    "title": "Xtra Mild Turkish Vegetable Dumplings",
+    "title": "Turkish Vegetable Stew",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "healthy",
       "turkish",
-      "vegetarian"
+      "vegetarian",
+      "stew",
+      "soup"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
