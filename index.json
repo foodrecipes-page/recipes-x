@@ -8054,16 +8054,15 @@
   },
   {
     "slug": "xtra-gooey-canadian-oatmeal-bake",
-    "title": "Xtra Gooey Canadian Oatmeal Bake",
+    "title": "Canadian Oatmeal Bake",
     "tags": [
-      "canadian-classic",
-      "comfort-food",
-      "high-fiber",
-      "one-pan",
-      "weekend-brunch"
+      "oatmeal",
+      "breakfast",
+      "bake",
+      "comfort-food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
