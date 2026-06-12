@@ -1,0 +1,90 @@
+{
+  "slug": "xtra-crisp-italian-beef-gnocchi",
+  "title": "Beef Gnocchi Bolognese",
+  "description": "A classic Italian pasta dish made with ground beef, gnocchi, and a rich tomato sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Gnocchi",
+      "amount": "1 package",
+      "notes": "dried"
+    },
+    {
+      "name": "Crisp italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Canned crushed tomatoes",
+      "amount": "28 oz",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the gnocchi according to package instructions.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the crushed tomatoes, salt, and pepper. Stir to combine.",
+    "Bring the sauce to a simmer and let cook for 10-15 minutes.",
+    "Add the cooked gnocchi to the sauce and toss to combine.",
+    "Serve hot, topped with grated parmesan cheese if desired.",
+    "Season with additional salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "gnocchi",
+    "pasta",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-italian-beef-gnocchi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:12:54.385Z"
+}
