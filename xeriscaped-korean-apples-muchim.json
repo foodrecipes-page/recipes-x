@@ -1,0 +1,65 @@
+{
+  "slug": "xeriscaped-korean-apples-muchim",
+  "title": "Korean Apple Muchim Salad",
+  "description": "A refreshing salad made with crispy apples, spicy Korean chili flakes, and crunchy xeriscaped herbs.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Xeriscaped Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Muchim (Korean Chili Flakes)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine diced apples and chopped xeriscaped cilantro.",
+    "2. In a small bowl, whisk together rice vinegar, honey, and muchim.",
+    "3. Pour the dressing over the apple mixture and toss to coat.",
+    "4. Season with salt to taste.",
+    "5. Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "6. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "apples",
+    "salad",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 0.5,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscaped-korean-apples-muchim",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:40:07.906Z"
+}
