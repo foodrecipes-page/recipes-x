@@ -1,0 +1,78 @@
+{
+  "slug": "xenial-cheesy-algerian-deodeok-root-tagine",
+  "title": "Deodeok and Root Tagine",
+  "description": "A hearty, comforting tagine from North Africa, featuring deodeok, root, and a blend of spices. Perfect for a cold evening.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Deodeok",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Root",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheesy crumbles",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and chop the deodeok and root into bite-sized pieces.",
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the Algerian spice blend and cook for 1 minute.",
+    "Add the deodeok and root, and cook for 5 minutes.",
+    "Transfer the pot to the preheated oven, and cook for 30 minutes.",
+    "Remove the pot from the oven, and stir in the cheesy crumbles.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-cheesy-algerian-deodeok-root-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:46:21.936Z"
+}
