@@ -1,0 +1,73 @@
+{
+  "slug": "xerisced-glassy-jelly-citrusy-peruvian-serrano-ham-tagine",
+  "title": "Peruvian Serrano Ham Tagine",
+  "description": "A fusion of Peruvian and Middle Eastern flavors, this dish is a unique take on traditional tagines. The combination of serrano peppers and ham adds a spicy kick.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian ham",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "serrano peppers",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "xerisced citrus zest",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "glassy onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "jelly",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tbsp of oil over medium heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the sliced ham and cook until browned, about 5 minutes.",
+    "Add the serrano peppers, citrus zest, and tagine spice blend. Cook for an additional 2 minutes.",
+    "Transfer the Dutch oven to the preheated oven and cook for 20 minutes.",
+    "Glaze the ham with the jelly during the last 5 minutes of cooking.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "ham",
+    "tagine",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisced-glassy-jelly-citrusy-peruvian-serrano-ham-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:00:32.163Z"
+}
