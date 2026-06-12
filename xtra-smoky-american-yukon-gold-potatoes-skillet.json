@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-smoky-american-yukon-gold-potatoes-skillet",
+  "title": "Smoky Skillet Hash",
+  "description": "A hearty breakfast dish featuring crispy potatoes and a smoky flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "American",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "Smoky",
+      "amount": "1 teaspoon",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "Xtra",
+      "amount": "1 teaspoon",
+      "notes": "garlic powder"
+    },
+    {
+      "name": "Yukon gold",
+      "amount": "1/2 cup",
+      "notes": "grated cheddar cheese"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the diced potatoes and cook until golden brown, about 5-7 minutes.",
+    "Stir in smoked paprika and garlic powder.",
+    "Cook for an additional 2-3 minutes.",
+    "Stir in grated cheddar cheese until melted and well combined.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hash",
+    "potatoes",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-american-yukon-gold-potatoes-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:13:19.168Z"
+}
