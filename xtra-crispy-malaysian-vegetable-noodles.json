@@ -1,0 +1,95 @@
+{
+  "slug": "xtra-crispy-malaysian-vegetable-noodles",
+  "title": "Crispy Vegetable Noodle Stir Fry",
+  "description": "A quick, flavorful stir-fry dish made with a variety of colorful vegetables and crispy noodles. Perfect for a weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable Noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Broccoli",
+      "amount": "1 cup, florets",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian Chili Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced carrots and cook for 3-4 minutes, or until they start to soften.",
+    "Add the broccoli and mushrooms and cook for another 3-4 minutes, or until the vegetables are tender.",
+    "Add the vegetable noodles, chili paste, soy sauce, and hoisin sauce to the skillet. Stir-fry for 2-3 minutes, or until the noodles are well coated.",
+    "Stir in the crispy fried shallots and sesame seeds.",
+    "Cook for an additional 1-2 minutes, or until the noodles are heated through.",
+    "Serve hot and garnish with additional crispy fried shallots if desired.",
+    "Note: You can also add protein such as chicken or tofu to this dish if you prefer.",
+    "Adjust the amount of chili paste to your desired level of spiciness.",
+    "Serve with your favorite sides, such as steamed dumplings or a simple green salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "malaysian-cuisine",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-malaysian-vegetable-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:53:19.232Z"
+}
