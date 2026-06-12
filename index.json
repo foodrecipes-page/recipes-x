@@ -7922,17 +7922,14 @@
   },
   {
     "slug": "xtra-garlicky-middle-eastern-purple-sprouting-broccoli-skewers",
-    "title": "Xtra Garlicky Middle Eastern Purple Sprouting Broccoli Skewers",
+    "title": "Grilled Eastern Skewers with Broccoli",
     "tags": [
-      "garlicky",
-      "grilled",
+      "vegetarian",
       "healthy",
-      "lazy-sunday",
-      "middle-eastern",
-      "vegetarian"
+      "grilled"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 32,
+    "cuisine": "eastern",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -8040,16 +8037,16 @@
   },
   {
     "slug": "xtra-gooey-argentinian-gobo-burdock-stew",
-    "title": "Xtra Gooey Argentinian Gobo Burdock Stew",
+    "title": "Argentinian Beef Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-stew",
-      "low-calorie",
-      "one-pot"
+      "argentinian",
+      "beef",
+      "stew",
+      "hearty",
+      "comfort-food"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 200,
     "shard": "x"
   },
   {
@@ -9912,17 +9909,16 @@
   },
   {
     "slug": "xtra-silky-indian-cucumber-bowl",
-    "title": "Xtra Silky Indian Cucumber Bowl",
+    "title": " Refreshing Cucumber Raita",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "healthy-snack",
-      "indian-cuisine",
-      "refreshing-dish",
-      "vegetarian-friendly"
+      "cucumber",
+      "yogurt",
+      "raita",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -10164,18 +10160,15 @@
   },
   {
     "slug": "xtra-smoky-american-yukon-gold-potatoes-skillet",
-    "title": "Xtra Smoky American Yukon Gold Potatoes Skillet",
+    "title": "Smoky Skillet Hash",
     "tags": [
-      "american",
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
+      "breakfast",
+      "hash",
       "potatoes",
-      "smoky",
-      "weeknight"
+      "smoky"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
