@@ -1400,16 +1400,14 @@
   },
   {
     "slug": "xenial-cheesy-algerian-deodeok-root-tagine",
-    "title": "Xenial Cheesy Algerian Deodeok Root Tagine",
+    "title": "Deodeok and Root Tagine",
     "tags": [
-      "algerian-cuisine",
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "north-african",
+      "vegetarian",
+      "comfort-food"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "x"
   },
   {
@@ -2435,17 +2433,15 @@
   },
   {
     "slug": "xenial-sour-greek-long-bean-tagine",
-    "title": "Xenial sour Greek long-bean Tagine",
+    "title": "Greek Bean Tagine",
     "tags": [
-      "date-night",
-      "greek-food",
-      "jain-friendly",
-      "one-pot",
-      "tagine-recipe",
-      "vegetarian"
+      "greek",
+      "bean",
+      "tagine",
+      "stew"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -5254,16 +5250,16 @@
   },
   {
     "slug": "xtra-crisp-italian-beef-gnocchi",
-    "title": "Xtra Crisp Italian Beef Gnocchi",
+    "title": "Beef Gnocchi Bolognese",
     "tags": [
+      "italian",
       "beef",
       "gnocchi",
-      "italian",
-      "keto",
-      "umami"
+      "pasta",
+      "main-course"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 40,
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
