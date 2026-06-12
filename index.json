@@ -3538,16 +3538,15 @@
   },
   {
     "slug": "xerisced-glassy-jelly-citrusy-peruvian-serrano-ham-tagine",
-    "title": "Xerisced Glassy-Jelly Citrusy Peruvian Serrano Ham Tagine",
+    "title": "Peruvian Serrano Ham Tagine",
     "tags": [
-      "flexitarian",
-      "meal-prep",
-      "one-pan",
       "peruvian",
-      "weeknight"
+      "ham",
+      "tagine",
+      "fusion"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 35,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -5519,17 +5518,15 @@
   },
   {
     "slug": "xtra-crispy-american-chicken-burger",
-    "title": "Xtra Crispy American Chicken Burger",
+    "title": "American Chicken Burger",
     "tags": [
-      "american-classics",
-      "cheese-pull",
-      "crispy-chicken",
-      "dinner-ideas",
-      "sugar-free",
-      "weeknight"
+      "american",
+      "burger",
+      "chicken",
+      "high-protein"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "x"
   },
   {
