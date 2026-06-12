@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-crispy-american-chicken-burger",
+  "title": "American Chicken Burger",
+  "description": "A classic American-style burger topped with crispy chicken and fresh ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 oz",
+      "notes": "pounded to 1/4 inch thickness"
+    },
+    {
+      "name": "burger bun",
+      "amount": "1",
+      "notes": "toasted"
+    },
+    {
+      "name": "american cheese",
+      "amount": "2 slices",
+      "notes": "melted"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "fresh"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 slices",
+      "notes": "ripe"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "2 slices",
+      "notes": "crumbled"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "xtra sharp cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Season the chicken breast with salt, pepper, and any other desired seasonings.",
+    "Cook the chicken for 5-6 minutes on each side or until it reaches an internal temperature of 165°F.",
+    "Meanwhile, toast the burger bun and cook the bacon until crispy.",
+    "Assemble the burger by spreading mayonnaise on the bottom bun, followed by a slice of cheese, a few pieces of lettuce, a few slices of tomato, and finally the cooked chicken.",
+    "Top with the remaining cheese, bacon, and top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "burger",
+    "chicken",
+    "high-protein"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-american-chicken-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:44:57.033Z"
+}
