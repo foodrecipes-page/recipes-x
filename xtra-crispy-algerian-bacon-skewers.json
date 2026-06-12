@@ -1,0 +1,69 @@
+{
+  "slug": "xtra-crispy-algerian-bacon-skewers",
+  "title": "Crispy Algerian Bacon Skewers",
+  "description": "A delicious and easy-to-make appetizer featuring crispy bacon and algerian spices, served on skewers.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bacon",
+      "amount": "12 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "chopped crispy fried onions"
+    },
+    {
+      "name": "skewers",
+      "amount": "12",
+      "notes": "bamboo or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Thread 2-3 pieces of bacon onto each skewer.",
+    "Brush the bacon with olive oil and sprinkle with Algerian spice blend.",
+    "Bake for 12-15 minutes or until the bacon is crispy.",
+    "Remove from the oven and top each skewer with crispy fried onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "bacon",
+    "skewers",
+    "algerian",
+    "north-african",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-algerian-bacon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:10:20.103Z"
+}
