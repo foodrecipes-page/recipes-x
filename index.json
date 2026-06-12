@@ -2968,19 +2968,14 @@
   },
   {
     "slug": "xerid-russian-beef-broil",
-    "title": "Xerid Russian Beef Broil",
+    "title": "Grilled Beef Russian-Style",
     "tags": [
-      "adventurous",
       "beef",
-      "high-protein",
-      "no-onion-no-garlic",
-      "one-pan",
-      "rusian",
-      "spring",
-      "weeknight"
+      "grilled",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "cuisine": "russian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
