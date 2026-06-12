@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-gooey-argentinian-gobo-burdock-stew",
+  "title": "Argentinian Beef Stew",
+  "description": "Hearty and flavorful beef stew from Argentina, slow-cooked with tender meat and vegetables.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "gobo",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "burdock",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add gobo and burdock and cook for another 4-5 minutes.",
+    "Add stew and stir to combine.",
+    "Return beef to pot and add salt and pepper to taste.",
+    "Bring to a boil, cover pot, and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 to 3 hours, or until beef is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "stew",
+    "hearty",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-gooey-argentinian-gobo-burdock-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:13:42.386Z"
+}
