@@ -1,0 +1,68 @@
+{
+  "slug": "xerid-russian-beef-broil",
+  "title": "Grilled Beef Russian-Style",
+  "description": "A classic Russian-inspired dish featuring grilled beef and served with a side of sautéed vegetables.",
+  "cuisine": "russian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb beef steak (such as ribeye or sirloin)",
+      "amount": "1",
+      "notes": "Choose a high-quality cut of beef"
+    },
+    {
+      "name": "2 tbsp xerid oil",
+      "amount": "2 tbsp",
+      "notes": "Xerid oil adds a nutty flavor to the dish"
+    },
+    {
+      "name": "1 tsp broil seasoning",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality broil seasoning blend"
+    },
+    {
+      "name": "1 onion, sliced",
+      "amount": "1",
+      "notes": "Choose a sweet onion variety"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": "Use fresh garlic for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F/190°C).",
+    "Season the beef steak with broil seasoning. Grill the beef for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Meanwhile, heat 1 tablespoon of xerid oil in a large skillet over medium-high heat.",
+    "Add the sliced onion to the skillet and cook for 3-4 minutes, or until it starts to caramelize.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Once the beef is cooked to your liking, remove it from the grill and let it rest for 5 minutes.",
+    "Slice the beef against the grain and serve with the sautéed onion and garlic.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 5,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerid-russian-beef-broil",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:23:39.301Z"
+}
