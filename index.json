@@ -3463,15 +3463,15 @@
   },
   {
     "slug": "xeriscaped-korean-apples-muchim",
-    "title": "Xeriscaped Korean Apples Muchim",
+    "title": "Korean Apple Muchim Salad",
     "tags": [
-      "ginseng-friendly",
-      "korean-cuisine",
-      "romantic",
-      "winter-dish"
+      "korean",
+      "apples",
+      "salad",
+      "veggie"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -5487,18 +5487,16 @@
   },
   {
     "slug": "xtra-crispy-algerian-bacon-skewers",
-    "title": "Xtra Crispy Algerian Bacon Skewers",
+    "title": "Crispy Algerian Bacon Skewers",
     "tags": [
-      "algerian",
       "bacon",
-      "breakfast",
-      "brunch",
-      "crispy",
-      "glazed",
-      "skewers"
+      "skewers",
+      "algerian",
+      "north-african",
+      "appetizer"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -6545,17 +6543,14 @@
   },
   {
     "slug": "xtra-crunchy-malaysian-shrimp-paella",
-    "title": "Xtra Crunchy Malaysian Shrimp Paella",
+    "title": "Malaysian Shrimp Paella",
     "tags": [
-      "malaysian-cuisine",
-      "one-pan",
-      "paella-pan",
+      "spicy",
       "seafood",
-      "shrimp-recipes",
-      "weeknight"
+      "rice-dish"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -9269,16 +9264,15 @@
   },
   {
     "slug": "xtra-pungent-vietnamese-onion-grill",
-    "title": "Xtra Pungent Vietnamese Onion Grill",
+    "title": "Vietnamese Grilled Pork Chops",
     "tags": [
-      "easy-entertaining",
-      "grilled-dish",
-      "quick-snack",
-      "vegetarian-friendly",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "grilled",
+      "pork-chops",
+      "marinade"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
