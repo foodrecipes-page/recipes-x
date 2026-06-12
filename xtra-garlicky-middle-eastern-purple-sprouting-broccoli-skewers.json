@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-garlicky-middle-eastern-purple-sprouting-broccoli-skewers",
+  "title": "Grilled Eastern Skewers with Broccoli",
+  "description": "A flavorful and healthy meal featuring marinated eastern skewers grilled to perfection and served with steamed broccoli.",
+  "cuisine": "eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "Eastern skewers",
+      "amount": "8-10",
+      "notes": "wooden or bamboo"
+    },
+    {
+      "name": "Garlicky oil",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Middle eastern spices",
+      "amount": "1 tsp",
+      "notes": "such as cumin, coriander, and sumac"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together garlicky oil, middle eastern spices, and 1 tbsp of xtra virgin olive oil.",
+    "Add the eastern skewers to the bowl and toss to coat.",
+    "Thread broccoli florets onto the skewers, leaving a small space between each piece.",
+    "Brush the grill with xtra virgin olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the broccoli is tender and slightly charred.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "healthy",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-garlicky-middle-eastern-purple-sprouting-broccoli-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:16:32.161Z"
+}
