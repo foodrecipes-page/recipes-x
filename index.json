@@ -5857,17 +5857,15 @@
   },
   {
     "slug": "xtra-crispy-malaysian-vegetable-noodles",
-    "title": "Xtra Crispy Malaysian Vegetable Noodles",
+    "title": "Crispy Vegetable Noodle Stir Fry",
     "tags": [
-      "crispy",
-      "malaysian",
-      "noodles",
-      "vegan",
+      "stir-fry",
       "vegetarian",
-      "weeknight"
+      "malaysian-cuisine",
+      "quick-dinner"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
