@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-crunchy-malaysian-shrimp-paella",
+  "title": "Malaysian Shrimp Paella",
+  "description": "A flavorful and spicy paella dish with succulent shrimp, crunchy vegetables, and a hint of Malaysian spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "sliced bell peppers"
+    },
+    {
+      "name": "Malaysian",
+      "amount": "2 tablespoons",
+      "notes": "chili paste"
+    },
+    {
+      "name": "Xtra",
+      "amount": "2 cups",
+      "notes": "uncooked Arborio rice"
+    },
+    {
+      "name": "Paella",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add shrimp and cook until pink, about 2 minutes.",
+    "Add crunchy vegetables and cook for 3 minutes.",
+    "Stir in Malaysian chili paste and cook for 1 minute.",
+    "Add Xtra rice and stir to coat with oil.",
+    "Add Paella chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Fluff rice with a fork and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "seafood",
+    "rice-dish"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-malaysian-shrimp-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:35:41.254Z"
+}
