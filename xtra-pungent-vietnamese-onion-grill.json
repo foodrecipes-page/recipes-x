@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-pungent-vietnamese-onion-grill",
+  "title": "Vietnamese Grilled Pork Chops",
+  "description": "Marinated pork chops grilled to perfection with a sweet and spicy flavor profile.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless, 1-inch thick"
+    },
+    {
+      "name": "Vietnamese Xtra (fish sauce)",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Pungent (chili flakes)",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Grill",
+      "amount": "None",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together xtra, pungent, and a pinch of salt.",
+    "Add the pork chops and marinate for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Remove pork chops from marinade, letting any excess liquid drip off.",
+    "Grill pork chops for 5-7 minutes per side, or until they reach an internal temperature of 145°F.",
+    "Let pork chops rest for 5 minutes before serving.",
+    "Serve with sliced onion and additional xtra, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork-chops",
+    "marinade"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-pungent-vietnamese-onion-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:08:32.971Z"
+}
