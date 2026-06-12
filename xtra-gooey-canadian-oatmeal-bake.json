@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-gooey-canadian-oatmeal-bake",
+  "title": "Canadian Oatmeal Bake",
+  "description": "A hearty, comforting oatmeal bake with a gooey center, perfect for a cold morning.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gooey brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Xtra large egg",
+      "amount": "1"
+    },
+    {
+      "name": "Bake apples",
+      "amount": "1 large"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Spices (cinnamon, nutmeg)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together oats, brown sugar, egg, and spices.",
+    "Add diced apples and mix well.",
+    "Pour in milk and mix until combined.",
+    "Add melted butter and mix until a thick batter forms.",
+    "Pour the batter into a greased 9x9-inch baking dish.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the center is set.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm, topped with additional brown sugar and cinnamon if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "oatmeal",
+    "breakfast",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-gooey-canadian-oatmeal-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:47:12.329Z"
+}
