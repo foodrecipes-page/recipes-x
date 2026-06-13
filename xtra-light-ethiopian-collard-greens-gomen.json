@@ -1,0 +1,81 @@
+{
+  "slug": "xtra-light-ethiopian-collard-greens-gomen",
+  "title": "Gomen Be Sega (Ethiopian Collard Greens Stew)",
+  "description": "A traditional Ethiopian stew made with collard greens and spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Collard greens",
+      "amount": "1 bunch",
+      "notes": "stemmed and chopped"
+    },
+    {
+      "name": "Gomen (Ethiopian collard greens spice mix)",
+      "amount": "2 tsp",
+      "notes": "available in most Ethiopian markets or online"
+    },
+    {
+      "name": "Light vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying onions"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Xtra hot pepper",
+      "amount": "1",
+      "notes": "finely chopped (optional)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onions and cook until softened (4-5 minutes).",
+    "Add garlic and cook for 1 minute.",
+    "Add chopped collard greens, Gomen spice mix, salt, and black pepper.",
+    "Mix well and cook for 5 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat and simmer for 20-25 minutes or until greens are tender.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "stew",
+    "collard-greens"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-ethiopian-collard-greens-gomen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:31:53.497Z"
+}
