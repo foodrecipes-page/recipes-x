@@ -953,14 +953,16 @@
   },
   {
     "slug": "xanthous-citrusy-venezuelan-vermicelli-noodles",
-    "title": "Xanthous Citrusy Venezuelan Vermicelli Noodles",
+    "title": "Venezuelan Vermicelli Stew",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "latin",
+      "stew",
+      "vermicelli",
+      "noodles",
+      "venezuelan"
     ],
-    "cuisine": "venezuelan",
-    "totalTimeMin": 25,
+    "cuisine": "Latin",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -2358,17 +2360,15 @@
   },
   {
     "slug": "xenial-slow-uruguayan-beef-stew",
-    "title": "Xenial Slow Uruguayan Beef Stew",
+    "title": "Uruguayan Beef Stew",
     "tags": [
-      "beef-stew",
-      "comfort-food",
-      "macrobiotic",
-      "slow-cooked",
-      "south-american",
-      "weeknight"
+      "beef",
+      "stew",
+      "uruguayan",
+      "slow-cooked"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 1470,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 205,
     "shard": "x"
   },
   {
