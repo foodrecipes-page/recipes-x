@@ -1,0 +1,86 @@
+{
+  "slug": "xenial-slow-uruguayan-beef-stew",
+  "title": "Uruguayan Beef Stew",
+  "description": "A hearty beef stew inspired by the flavors of Uruguay, slow-cooked to perfection.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "beef",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Crushed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the carrots and potatoes, cooking for 5 minutes.",
+    "Add the tomato paste, cooking for 1 minute.",
+    "Add the beef broth and bring to a boil.",
+    "Return the beef to the pot, cover, and transfer to the oven.",
+    "Braise for 2 1/2 to 3 hours, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 180,
+  "totalTimeMin": 205,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "uruguayan",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-slow-uruguayan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:24:34.099Z"
+}
