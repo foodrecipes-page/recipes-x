@@ -12031,16 +12031,15 @@
   },
   {
     "slug": "xyloid-aerated-egyptian-wagyu-kebabs",
-    "title": "Xyloid Aerated Egyptian Wagyu Kebabs",
+    "title": "Grilled Wagyu Kebabs with Egyptian Spices",
     "tags": [
-      "dairy-free",
-      "grilled-meat",
-      "high-protein",
-      "middle-eastern",
-      "special-occasion"
+      "wagyu",
+      "kebabs",
+      "grilled",
+      "middle-eastern"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 36,
     "shard": "x"
   },
   {
