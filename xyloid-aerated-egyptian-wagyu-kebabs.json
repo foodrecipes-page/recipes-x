@@ -1,0 +1,87 @@
+{
+  "slug": "xyloid-aerated-egyptian-wagyu-kebabs",
+  "title": "Grilled Wagyu Kebabs with Egyptian Spices",
+  "description": "A flavorful and aromatic dish featuring tender Wagyu kebabs, infused with the essence of Egyptian spices and grilled to perfection.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu beef cubes",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Egyptian cumin",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kebabs",
+      "amount": "10",
+      "notes": "Soak in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, mix together cumin, coriander, paprika, salt, and black pepper.",
+    "Add the Wagyu beef cubes to the spice mixture and toss to coat.",
+    "Thread the marinated beef onto the kebabs, leaving a small space between each cube.",
+    "Brush the kebabs with olive oil and grill for 8-10 minutes per side, or until cooked to your liking.",
+    "Brush the kebabs with lemon juice during the last minute of grilling.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wagyu",
+    "kebabs",
+    "grilled",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 0,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xyloid-aerated-egyptian-wagyu-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:05:17.181Z"
+}
