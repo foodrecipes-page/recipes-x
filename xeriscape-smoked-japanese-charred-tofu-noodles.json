@@ -1,0 +1,73 @@
+{
+  "slug": "xeriscape-smoked-japanese-charred-tofu-noodles",
+  "title": "Smoked Tofu Noodle Stir-Fry",
+  "description": "A quick and easy Asian-inspired noodle dish made with smoked tofu, noodles, and a variety of savory ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked tofu",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Charred soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Xeriscape sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Japanese chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "Cut the smoked tofu into bite-sized pieces and set aside.",
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the charred soy sauce and cook for 1 minute.",
+    "Add the Japanese chili flakes and cook for another minute.",
+    "Add the tofu and cook until golden brown.",
+    "Add the cooked noodles to the skillet and stir to combine.",
+    "Top with green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "noodle-dish",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-smoked-japanese-charred-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:13:41.871Z"
+}
