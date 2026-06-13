@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-fluffy-mediterranean-lentil-pilaf",
+  "title": "Lentil Pilaf Mediterranean Bowl",
+  "description": "A hearty and flavorful Mediterranean-inspired dish made with lentils and xtra fluffy pilaf, finished with fresh herbs.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "xtra fluffy pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lentils, tomato, and Mediterranean seasoning. Cook for 2 minutes.",
+    "Add 2 cups of water and bring to a boil. Reduce heat to low and simmer for 20 minutes.",
+    "While the lentils are cooking, prepare the pilaf according to package instructions.",
+    "To assemble the bowls, divide the cooked lentil mixture between four bowls.",
+    "Top each bowl with a scoop of pilaf, crumbled feta cheese, and a sprinkle of fresh herbs.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "pilaf",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-mediterranean-lentil-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:00:48.808Z"
+}
