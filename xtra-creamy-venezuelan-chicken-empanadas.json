@@ -1,0 +1,106 @@
+{
+  "slug": "xtra-creamy-venezuelan-chicken-empanadas",
+  "title": "Venezuelan Chicken Empanadas",
+  "description": "A delicious twist on traditional empanadas, filled with flavorful chicken and spices, inspired by Venezuelan cuisine.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "xtra large onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "xtra large garlic clove",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "venezuelan cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1 egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Add the cumin, paprika, salt, and pepper to the skillet and stir to combine.",
+    "Stir in the shredded cheese until melted and well combined.",
+    "Let the filling cool slightly before assembling the empanadas.",
+    "Brush the edges of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 15-20 minutes, until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "empanadas",
+    "chicken",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-venezuelan-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:24:55.951Z"
+}
