@@ -1,0 +1,81 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--indian",
+  "title": "Canadian Noodle Fish Curry",
+  "description": "A flavorful and aromatic Indian-inspired fish curry made with noodles, fish, and a blend of spices.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (any white fish works)",
+      "amount": "400g",
+      "notes": "Cut into 1 inch pieces"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Xtra Virgin Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Canadian Curry Powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bouncy Ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add curry powder and ginger; cook for 1 minute, stirring constantly.",
+    "Add fish; cook for 3-4 minutes, until cooked through.",
+    "Add noodles; cook for 2-3 minutes, until noodles are heated through.",
+    "Season with salt and pepper to taste.",
+    "Add water; bring to a simmer.",
+    "Reduce heat to low and let cook for 5 minutes, until noodles are well coated with the curry sauce.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "curry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T05:04:24.640Z"
+}
