@@ -1,0 +1,60 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--thai",
+  "title": "Spicy Thai Noodle Stir Fry",
+  "description": "A quick and easy Thai-inspired noodle stir fry made with fish, vegetables, and spices. Serve as a filling lunch or dinner.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "1/2 pound",
+      "notes": "any firm white fish works well, such as tilapia or cod"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice noodles or egg noodles work well"
+    },
+    {
+      "name": "canadian",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions and set aside.",
+    "Heat the xtra in a large skillet or wok over medium-high heat.",
+    "Add the fish and cook until browned on both sides and cooked through.",
+    "Add the noodles to the skillet and stir to combine with the fish and xtra.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with canadian."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "noodle-stir-fry",
+    "fish",
+    "easy",
+    "30-minutes-or-less"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T05:00:19.846Z"
+}
