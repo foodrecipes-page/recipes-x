@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-zesty-jamaican-chicken-skewers",
+  "title": "Jamaican Chicken Skewers",
+  "description": "A flavorful and spicy Jamaican-inspired dish featuring marinated chicken skewers grilled to perfection.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "zesty olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "xtra-large onion",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "xtra-large bell pepper",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "xtra-large zucchini",
+      "amount": "1",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "xtra-large cherry tomatoes",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together jerk seasoning, olive oil, and a pinch of salt.",
+    "Add the chicken, onion, bell pepper, zucchini, and cherry tomatoes to the bowl. Toss to coat with the marinade.",
+    "Thread the marinated vegetables and chicken onto the skewers, leaving a little space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with your favorite herbs or a sprinkle of jerk seasoning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "spicy",
+    "caribbean",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-zesty-jamaican-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:53:22.545Z"
+}
