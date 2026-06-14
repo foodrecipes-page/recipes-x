@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--vegetarian",
+  "title": "Canadian Noodle Stir Fry",
+  "description": "A simple and quick stir fry recipe using Canadian noodles and your favorite vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "bouncy bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "xtra broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "fish sauce (vegetarian alternative)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the broccoli and cook until tender, about 3-4 minutes.",
+    "Add the bell peppers and cook for another 2-3 minutes.",
+    "Add the Canadian noodles and stir to combine with the vegetables.",
+    "In a small bowl, whisk together the fish sauce and soy sauce.",
+    "Pour the sauce over the noodles and vegetables, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the noodles are well coated with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-noodles",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:33:28.097Z"
+}
