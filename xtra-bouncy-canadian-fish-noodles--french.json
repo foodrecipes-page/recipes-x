@@ -1,0 +1,70 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--french",
+  "title": "French Fish Noodle Soup",
+  "description": "A hearty French-inspired fish noodle soup made with fresh fish and Canadian noodles.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "1 lb fish",
+      "amount": "1 lb",
+      "notes": "any white fish like cod or tilapia"
+    },
+    {
+      "name": "xtra vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots and celery"
+    },
+    {
+      "name": "bouncy lemons",
+      "amount": "2",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "2 tbsp butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring 4 cups of water to a boil in a large pot.",
+    "Add the Canadian noodles and cook according to the package instructions.",
+    "In a separate pan, sauté the xtra vegetables and bouncy lemons in butter until tender.",
+    "Add the fish to the pan and cook until opaque and flaking.",
+    "Add the thyme to the fish mixture and stir to combine.",
+    "Once the noodles are done, add them to the fish mixture and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional bouncy lemons if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "soup",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T05:00:58.011Z"
+}
