@@ -4834,16 +4834,13 @@
   },
   {
     "slug": "xtra-creamy-croatian-cheese-pasta",
-    "title": "Xtra Creamy Croatian Cheese Pasta",
+    "title": "Mac and Cheese Croquettes",
     "tags": [
-      "comfort-food",
-      "croatian",
-      "one-pot",
-      "pasta",
-      "vegetarian",
-      "weeknight"
+      "mac-and-cheese",
+      "cheesy",
+      "comfort-food"
     ],
-    "cuisine": "Croatian",
+    "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "x"
   },
@@ -5287,17 +5284,15 @@
   },
   {
     "slug": "xtra-crisp-korean-mulukhiyah-jeon",
-    "title": "Xtra Crisp Korean Mulukhiyah Jeon",
+    "title": "Crispy Korean-Style Fried Mulukhiyah Bites",
     "tags": [
-      "clay-pot",
-      "crispy",
-      "gluten-free",
-      "jeon",
-      "korean-food",
-      "mulukhiyah"
+      "korean",
+      "vegetarian",
+      "snack",
+      "fry"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
