@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-bitter-italian-seafood-pasta",
+  "title": "Seafood Pasta",
+  "description": "A light and flavorful Italian-inspired dish featuring seafood and pasta.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine",
+      "amount": "12 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the linguine according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the shrimp and mussels to the skillet. Cook for 2-3 minutes until the shrimp turn pink and the mussels open.",
+    "Add the lemon juice to the skillet and toss to combine. Season with salt and black pepper to taste.",
+    "Add the cooked linguine to the skillet and toss to combine with the seafood and sauce.",
+    "Serve immediately, garnished with parsley.",
+    "Optional: add some xtra grated Parmesan cheese on top for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "pasta",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bitter-italian-seafood-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:01:19.226Z"
+}
