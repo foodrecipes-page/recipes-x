@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--vegan",
+  "title": "Vegan Canadian Noodle Stir Fry",
+  "description": "A quick and easy stir fry made with noodles and Canadian vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bouncy bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "canadian mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish-free sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the bell peppers and cook until tender, about 3-4 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the noodles and cook until heated through.",
+    "Stir in the fish-free sauce and cook for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "noodles",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T04:58:59.704Z"
+}
