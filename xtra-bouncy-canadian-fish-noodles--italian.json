@@ -1,0 +1,86 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--italian",
+  "title": "Italian-Style Noodle Soup",
+  "description": "A hearty and comforting Italian-inspired noodle soup made with fish and fresh flavors. Serve hot and enjoy!",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bouncy fish fillets",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "canadian noodles",
+      "amount": "8 ounces",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté for 3-4 minutes until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the bouncy fish fillets and cook until opaque and flaky.",
+    "Add the dried oregano, dried basil, salt, and black pepper to the pot and stir to combine.",
+    "Add the canadians noodles to the pot and stir to combine with the fish and spices.",
+    "Pour in 4 cups of water and bring the soup to a boil.",
+    "Reduce the heat to low and simmer for 10-12 minutes or until the noodles are cooked through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot, garnished with chopped fresh parsley or basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "soup",
+    "noodle",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T04:57:46.441Z"
+}
