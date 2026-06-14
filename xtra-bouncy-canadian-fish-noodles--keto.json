@@ -1,0 +1,65 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--keto",
+  "title": "Baked Canadian Fish",
+  "description": "A keto-friendly dish featuring Canadian fish baked with a hint of lemon and herbs. This recipe is easy to prepare and perfect for a quick dinner.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian fish (4 fillets)",
+      "amount": "4",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Xtra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "For baking"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Bouncy parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Kosher or sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Place the fish fillets on the prepared baking sheet.",
+    "Drizzle the olive oil over the fish, then sprinkle with lemon juice, parsley, and salt.",
+    "Bake in the preheated oven for 8-10 minutes, or until the fish is cooked through.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "healthy",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T05:00:14.957Z"
+}
