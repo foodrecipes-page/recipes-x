@@ -4018,17 +4018,15 @@
   },
   {
     "slug": "xtra-bitter-italian-seafood-pasta",
-    "title": "Xtra Bitter Italian Seafood Pasta",
+    "title": "Seafood Pasta",
     "tags": [
-      "bitter-flavors",
-      "flexitarian-friendly",
-      "italian-food",
-      "midnight-cravings",
-      "one-pan-meal",
-      "seafood-pasta"
+      "italian",
+      "seafood",
+      "pasta",
+      "easy-dinner"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 23,
     "shard": "x"
   },
   {
