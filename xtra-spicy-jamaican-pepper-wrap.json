@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-spicy-jamaican-pepper-wrap",
+  "title": "Jamaican Chicken Wrap",
+  "description": "A flavorful and spicy Jamaican-inspired wrap filled with grilled chicken, peppers, and onions. Serve with your favorite sides for a delicious meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "jamaican pepper",
+      "amount": "1-2 teaspoons",
+      "notes": "scotch bonnet peppers or substitute with hot sauce"
+    },
+    {
+      "name": "xtra hot sauce",
+      "amount": "1-2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "wrap",
+      "amount": "4-6",
+      "notes": "tortilla or flatbread"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together jamaican pepper, xtra hot sauce, and salt. Set aside.",
+    "2. In a large bowl, whisk together 1 tablespoon of olive oil and 1 tablespoon of lime juice. Add the chicken and marinate for at least 30 minutes.",
+    "3. Preheat a grill or grill pan to medium-high heat. Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "4. Meanwhile, slice the bell pepper and onion into thin strips.",
+    "5. Once the chicken is cooked, let it rest for 5 minutes before slicing it into thin strips.",
+    "6. In a large skillet, heat 1 tablespoon of olive oil over medium heat. Add the sliced onion and bell pepper and cook until tender, about 5 minutes.",
+    "7. Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the wraps by placing a few slices of the chicken, some of the sautéed onion and bell pepper, and a sprinkle of cilantro inside each wrap.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "spicy",
+    "chicken",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-jamaican-pepper-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:22:33.958Z"
+}
