@@ -10707,17 +10707,15 @@
   },
   {
     "slug": "xtra-spicy-british-beef-casserole",
-    "title": "Xtra Spicy British Beef Casserole",
+    "title": "Classic Beef Casserole",
     "tags": [
-      "british-cuisine",
+      "beef",
+      "british",
       "casserole",
-      "gluten-free",
-      "low-calorie",
-      "meal-prep",
-      "spicy-food"
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
