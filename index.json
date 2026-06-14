@@ -3536,15 +3536,16 @@
   },
   {
     "slug": "xerisced-glassy-jelly-citrusy-peruvian-serrano-ham-tagine",
-    "title": "Peruvian Serrano Ham Tagine",
+    "title": "Citrusy Ham and Jelly Tagine",
     "tags": [
-      "peruvian",
+      "breakfast",
       "ham",
+      "jelly",
       "tagine",
-      "fusion"
+      "peruvian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
