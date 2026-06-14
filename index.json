@@ -4044,17 +4044,14 @@
   },
   {
     "slug": "xtra-bouncy-canadian-fish-noodles",
-    "title": "Xtra Bouncy Canadian Fish Noodles",
+    "title": "Canadian Fish Noodle Soup",
     "tags": [
-      "canadian-cuisine",
-      "gelatine-based",
-      "monsoon-inspired",
-      "noodle-dish",
-      "pescatarian",
-      "seafood"
+      "soup",
+      "seafood",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -12465,6 +12462,161 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--german",
+    "title": "Fischsuppe",
+    "tags": [
+      "german",
+      "soup",
+      "fish"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--italian",
+    "title": "Italian-Style Noodle Soup",
+    "tags": [
+      "italian",
+      "soup",
+      "noodle",
+      "fish"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--vegan",
+    "title": "Vegan Canadian Noodle Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "noodles",
+      "canadian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--keto",
+    "title": "Baked Canadian Fish",
+    "tags": [
+      "keto",
+      "healthy",
+      "fish"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 13,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--thai",
+    "title": "Spicy Thai Noodle Stir Fry",
+    "tags": [
+      "thai",
+      "noodle-stir-fry",
+      "fish",
+      "easy",
+      "30-minutes-or-less"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--french",
+    "title": "French Fish Noodle Soup",
+    "tags": [
+      "french",
+      "soup",
+      "seafood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--indian",
+    "title": "Canadian Noodle Fish Curry",
+    "tags": [
+      "indian",
+      "fish",
+      "curry",
+      "noodles"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--chinese",
+    "title": "Kung Pao Fish",
+    "tags": [
+      "chinese",
+      "fish",
+      "noodles",
+      "spicy",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--japanese",
+    "title": "Japanese-Style Noodle Soup",
+    "tags": [
+      "soup",
+      "japanesecuisine",
+      "noodles",
+      "fish"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--mexican",
+    "title": "Fish Tacos",
+    "tags": [
+      "mexican",
+      "fish-tacos",
+      "quick-lunch",
+      "easy-dinner"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--vegetarian",
+    "title": "Canadian Noodle Stir Fry",
+    "tags": [
+      "canadian-noodles",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bouncy-canadian-fish-noodles--gluten-free",
+    "title": "Canadian Noodle Bowl",
+    "tags": [
+      "canadian",
+      "gluten-free",
+      "easy",
+      "lunch"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
     "shard": "x"
   }
 ]
