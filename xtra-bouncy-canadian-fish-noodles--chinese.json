@@ -1,0 +1,105 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--chinese",
+  "title": "Kung Pao Fish",
+  "description": "A spicy Sichuan-inspired dish made with marinated fish, vegetables, and noodles.",
+  "cuisine": "chinese",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (cut into bite-sized pieces)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Canadian Noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Xtra Hot Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bouncy Bell Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Bouncy Onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "to taste",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a wok or large skillet over medium-high heat.",
+    "Add the ginger and garlic and stir-fry until fragrant.",
+    "Add the fish and stir-fry until cooked through.",
+    "Add the bell peppers and onions and stir-fry until they start to soften.",
+    "Add the noodles, soy sauce, and hot sauce. Stir-fry for 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles to a serving platter.",
+    "Top with the fish and garnish with scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "noodles",
+    "spicy",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T05:05:07.429Z"
+}
