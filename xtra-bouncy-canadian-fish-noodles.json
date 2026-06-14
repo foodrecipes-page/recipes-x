@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles",
+  "title": "Canadian Fish Noodle Soup",
+  "description": "A hearty and comforting soup made with fresh Canadian fish and savory noodles. Perfect for a chilly evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian fish fillets",
+      "amount": "1 pound",
+      "notes": "Fresh and skin removed"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "bouncy ginger",
+      "amount": "1-inch piece",
+      "notes": "Fresh and sliced"
+    },
+    {
+      "name": "fish broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add sliced ginger and sauté for 1 minute until fragrant.",
+    "Add fish fillets and cook for 2-3 minutes per side until browned.",
+    "Add fish broth, noodles, salt, and pepper. Bring to a boil.",
+    "Reduce heat to low and simmer for 8-10 minutes until noodles are cooked through.",
+    "Stir in sliced green onions. Serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "seafood",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T03:19:18.361Z"
+}
