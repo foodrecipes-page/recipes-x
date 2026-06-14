@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--mexican",
+  "title": "Fish Tacos",
+  "description": "A delicious and easy-to-make Mexican dish featuring fish, noodles, and a variety of flavors. Perfect for a quick lunch or dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian fish fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Noodles",
+      "amount": "200g",
+      "notes": "Mexican-style noodles or fideo"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying and dressing"
+    },
+    {
+      "name": "Bouncy lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed for added flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "To season the fish and noodles"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": "For wrapping the tacos"
+    }
+  ],
+  "instructions": [
+    "1. Cut the fish into small pieces and season with salt and pepper.",
+    "2. Heat the olive oil in a pan and fry the fish until it's cooked through.",
+    "3. Cook the noodles according to the package instructions.",
+    "4. In a separate pan, warm the tortillas over low heat.",
+    "5. Assemble the tacos by placing a piece of fish on each tortilla, followed by some noodles and a squeeze of lime juice.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "fish-tacos",
+    "quick-lunch",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T05:07:10.544Z"
+}
