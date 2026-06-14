@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-spicy-british-beef-casserole",
+  "title": "Classic Beef Casserole",
+  "description": "A hearty, comforting British dish made with tender beef and topped with a crispy crust. Perfect for a chilly evening.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "spicy Worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup (as a serving dish)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Brown the beef in a large pan over medium-high heat. Remove from heat and set aside.",
+    "In the same pan, sauté the onion and garlic until softened.",
+    "Add the flour and cook for 1 minute.",
+    "Gradually add the beef broth and milk, whisking continuously. Bring to a simmer.",
+    "Return the beef to the pan and stir in the Worcestershire sauce.",
+    "Transfer the mixture to a casserole dish.",
+    "Top with shredded cheddar cheese.",
+    "Bake for 25-30 minutes, or until the cheese is golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-british-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:49:44.868Z"
+}
