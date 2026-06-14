@@ -1,0 +1,65 @@
+{
+  "slug": "xtra-crisp-korean-mulukhiyah-jeon",
+  "title": "Crispy Korean-Style Fried Mulukhiyah Bites",
+  "description": "A twist on traditional mulukhiyah, these crispy bites are perfect as a snack or appetizer. The combination of crunchy xtra and crisp vegetables with the savory flavor of jeon and mulukhiyah is a game-changer.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mulukhiyah leaves",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "xtra",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crisp kimchi",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jeon (Korean-style pancake mix)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mulukhiyah leaves, xtra, and crisp kimchi.",
+    "Add jeon and flour to the bowl and mix well.",
+    "Heat vegetable oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop small balls of the mulukhiyah mixture into the hot oil.",
+    "Fry the mulukhiyah bites for 3-4 minutes on each side, or until golden brown.",
+    "Drain the fried bites on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "snack",
+    "fry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-korean-mulukhiyah-jeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:54:37.115Z"
+}
