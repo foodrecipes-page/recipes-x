@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--german",
+  "title": "Fischsuppe",
+  "description": "A hearty German fish soup made with fish and noodles.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish (cod or haddock)",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "preferably German-style egg noodles"
+    },
+    {
+      "name": "xtra vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "bouncy chopped onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "canadian chopped celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "german-style fish broth",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and celery and cook until softened.",
+    "Add fish and cook until opaque.",
+    "Add broth and bring to a boil.",
+    "Reduce heat and simmer for 10 minutes or until noodles are cooked.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "soup",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T04:57:22.569Z"
+}
