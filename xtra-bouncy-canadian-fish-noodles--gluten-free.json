@@ -1,0 +1,58 @@
+{
+  "slug": "xtra-bouncy-canadian-fish-noodles--gluten-free",
+  "title": "Canadian Noodle Bowl",
+  "description": "A simple and flavorful gluten-free noodle dish made with Canadian ingredients.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "Fish",
+      "amount": "200g",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bouncy fresh cilantro",
+      "amount": "chopped 4g"
+    },
+    {
+      "name": "Gluten-free soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the Canadian noodles according to the package instructions.",
+    "In a pan, heat the xtra virgin olive oil over medium heat.",
+    "Add the cooked fish and cook for 1-2 minutes.",
+    "Add the gluten-free soy sauce and stir to combine.",
+    "Add the chopped cilantro and stir to combine.",
+    "Combine the cooked noodles and fish mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "easy",
+    "lunch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bouncy-canadian-fish-noodles--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:39:32.192Z"
+}
