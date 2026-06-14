@@ -1,73 +1,67 @@
 {
   "slug": "xerisced-glassy-jelly-citrusy-peruvian-serrano-ham-tagine",
-  "title": "Peruvian Serrano Ham Tagine",
-  "description": "A fusion of Peruvian and Middle Eastern flavors, this dish is a unique take on traditional tagines. The combination of serrano peppers and ham adds a spicy kick.",
+  "title": "Citrusy Ham and Jelly Tagine",
+  "description": "A flavorful and sweet tagine made with ham, jelly, and citrusy notes, inspired by Peruvian cuisine.",
   "cuisine": "Peruvian",
   "diet": [
-    "meat"
+    "gluten-free"
   ],
-  "meal": "dinner",
+  "meal": "breakfast",
   "ingredients": [
     {
-      "name": "Peruvian ham",
-      "amount": "1 lb",
-      "notes": null
+      "name": "Ham",
+      "amount": "2 cups, diced"
     },
     {
-      "name": "serrano peppers",
-      "amount": "4",
-      "notes": null
+      "name": "Jelly",
+      "amount": "1 cup"
     },
     {
-      "name": "xerisced citrus zest",
-      "amount": "2 tbsp",
-      "notes": null
+      "name": "Citrusy",
+      "amount": "1/4 cup, freshly squeezed orange juice"
     },
     {
-      "name": "glassy onion",
-      "amount": "1",
-      "notes": null
+      "name": "Xerisced",
+      "amount": "2 tablespoons, chopped fresh rosemary"
     },
     {
-      "name": "jelly",
-      "amount": "2 tbsp",
-      "notes": "for glaze"
+      "name": "Serrano",
+      "amount": "1/4 cup, sliced"
     },
     {
-      "name": "tagine spice blend",
-      "amount": "2 tsp",
-      "notes": null
+      "name": "Peruvian",
+      "amount": "2 tablespoons, aji amarillo paste"
     }
   ],
   "instructions": [
-    "Preheat oven to 300°F (150°C).",
-    "In a large Dutch oven, heat 2 tbsp of oil over medium heat.",
-    "Add the sliced onion and cook until translucent, about 5 minutes.",
-    "Add the sliced ham and cook until browned, about 5 minutes.",
-    "Add the serrano peppers, citrus zest, and tagine spice blend. Cook for an additional 2 minutes.",
-    "Transfer the Dutch oven to the preheated oven and cook for 20 minutes.",
-    "Glaze the ham with the jelly during the last 5 minutes of cooking.",
-    "Remove from the oven and let rest for 5 minutes before serving."
+    "Heat oil in a large tagine over medium heat.",
+    "Add diced ham and cook until browned, about 5 minutes.",
+    "Add sliced serrano peppers and cook for an additional 2 minutes.",
+    "Stir in aji amarillo paste and cook for 1 minute.",
+    "Add jelly, orange juice, and chopped rosemary. Stir to combine.",
+    "Bring to a simmer and cook for 10-15 minutes, or until the sauce has thickened.",
+    "Serve hot, garnished with additional rosemary if desired."
   ],
-  "prepTimeMin": 20,
-  "cookTimeMin": 25,
-  "totalTimeMin": 45,
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "peruvian",
+    "breakfast",
     "ham",
+    "jelly",
     "tagine",
-    "fusion"
+    "peruvian"
   ],
   "nutrition": {
-    "calories": 450,
-    "protein": 35,
+    "calories": 350,
+    "protein": 25,
     "carbs": 20,
-    "fat": 25
+    "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/xerisced-glassy-jelly-citrusy-peruvian-serrano-ham-tagine",
   "providerUsed": "groq",
-  "createdAt": "2026-06-09T11:00:32.163Z"
+  "createdAt": "2026-06-10T21:38:23.878Z"
 }
