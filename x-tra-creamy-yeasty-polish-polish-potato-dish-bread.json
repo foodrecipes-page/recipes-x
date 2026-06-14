@@ -1,81 +1,85 @@
 {
   "slug": "x-tra-creamy-yeasty-polish-polish-potato-dish-bread",
-  "title": "Polish Potato Pierogi",
-  "description": "Traditional Polish dish filled with a delicious potato and cheese filling, served with a side of creamy sauce.",
-  "cuisine": "Polish",
+  "title": "Polish Potato Bread",
+  "description": "A hearty bread recipe inspired by Polish cuisine, featuring a potato twist.",
+  "cuisine": "polish",
   "diet": [
     "vegetarian",
     "gluten-free"
   ],
-  "meal": "dinner",
+  "meal": "breakfast",
   "ingredients": [
     {
-      "name": "Potato",
+      "name": "potato",
       "amount": "2 large",
       "notes": ""
     },
     {
-      "name": "Polish cheese (or similar)",
-      "amount": "1 cup",
+      "name": "yeasty",
+      "amount": "1 packet active dry yeast",
+      "notes": ""
+    },
+    {
+      "name": "polish",
+      "amount": "1/4 cup warm water",
+      "notes": ""
+    },
+    {
+      "name": "bread",
+      "amount": "3 cups all-purpose flour",
+      "notes": ""
+    },
+    {
+      "name": "x",
+      "amount": "1/4 cup unsalted butter, melted",
       "notes": ""
     },
     {
       "name": "tra",
-      "amount": "1/4 cup",
+      "amount": "1 tsp salt",
       "notes": ""
     },
     {
-      "name": "yeasty",
-      "amount": "1 tablespoon",
-      "notes": "active dry yeast"
+      "name": "creamy",
+      "amount": "1 egg, beaten",
+      "notes": ""
     },
     {
-      "name": "dram flour",
-      "amount": "2 cups",
-      "notes": "all-purpose flour"
-    },
-    {
-      "name": "bread",
-      "amount": "1/4 cup",
-      "notes": "crumbs (for dusting)"
-    },
-    {
-      "name": "x",
-      "amount": "1/2 teaspoon",
-      "notes": "salt"
+      "name": "dish",
+      "amount": "1 tbsp sugar",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Combine warm water, yeast, and 1 tablespoon of sugar in a large mixing bowl. Let it sit for 5-10 minutes, until frothy.",
-    "Add flour, salt, and mix until a dough forms.",
-    "Knead the dough for 5-7 minutes, until smooth and elastic.",
-    "Divide the dough into 2 equal pieces and roll out each piece into a thin sheet.",
-    "Combine grated cheese, diced potato, and tra in a bowl.",
-    "Place small spoonfuls of the potato mixture onto the dough, leaving space between each pierogi.",
-    "Fold the dough over the filling and press edges together to seal the pierogi.",
-    "Bring a large pot of salted water to a boil and gently add the pierogi.",
-    "Cook for 5-7 minutes, until they float to the surface.",
-    "Serve with a side of creamy sauce made from melted butter, milk, and grated cheese."
+    "1. In a large mixing bowl, combine yeast, warm water, and 1 tsp sugar. Let it sit for 5-7 minutes, until frothy.",
+    "2. Add flour, melted butter, egg, and salt to the bowl. Mix until a shaggy dough forms.",
+    "3. Knead the dough on a floured surface for 10-12 minutes, until smooth.",
+    "4. Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour, until doubled in size.",
+    "5. Preheat oven to 375°F (190°C).",
+    "6. Punch down the dough and shape it into a round loaf.",
+    "7. Place the loaf on a baking sheet lined with parchment paper, and bake for 35-40 minutes, until golden brown.",
+    "8. Let the bread cool on a wire rack for 10-15 minutes before slicing.",
+    "9. Serve warm, or let it cool completely for later use.",
+    "10. Store bread in an airtight container at room temperature for up to 3 days."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 15,
-  "totalTimeMin": 35,
-  "servings": 4,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "pierogi",
-    "polish-food",
-    "potato-dish",
-    "cheese-filled"
+    "breakfast",
+    "bread",
+    "polish-cuisine"
   ],
   "nutrition": {
-    "calories": 350,
-    "protein": 12,
-    "carbs": 45,
-    "fat": 15
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-creamy-yeasty-polish-polish-potato-dish-bread",
   "providerUsed": "groq",
-  "createdAt": "2026-06-08T21:40:50.412Z"
+  "createdAt": "2026-06-10T22:21:59.895Z"
 }
