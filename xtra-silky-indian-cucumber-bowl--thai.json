@@ -1,0 +1,64 @@
+{
+  "slug": "xtra-silky-indian-cucumber-bowl--thai",
+  "title": "Thai Cucumber Salad",
+  "description": "A refreshing and light Thai salad made with cucumber, silky dressing, and indian spices.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "2 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Silky dressing",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tsp",
+      "notes": "such as cumin and coriander"
+    },
+    {
+      "name": "Bowl",
+      "amount": null,
+      "notes": "for serving"
+    },
+    {
+      "name": "Xtra vinegar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the sliced cucumber and indian spices.",
+    "2. Drizzle the silky dressing over the cucumber mixture and toss to coat.",
+    "3. Add the xtra vinegar, if using, and toss again to combine.",
+    "4. Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "5. Serve the salad in a bowl and garnish with additional cilantro, if desired.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "cucumber",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 12,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-indian-cucumber-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:26:38.415Z"
+}
