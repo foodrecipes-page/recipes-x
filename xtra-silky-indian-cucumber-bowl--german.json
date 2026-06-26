@@ -1,0 +1,70 @@
+{
+  "slug": "xtra-silky-indian-cucumber-bowl--german",
+  "title": "Traditional German Cucumber Salad",
+  "description": "A refreshing and simple salad with cucumber, mayonnaise, and a hint of Indian spices, a perfect side dish for any German meal.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "indian",
+      "amount": "1 tsp curry powder",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1 large",
+      "notes": "For serving"
+    },
+    {
+      "name": "xtra",
+      "amount": "Salt and pepper to taste",
+      "notes": ""
+    },
+    {
+      "name": "silky",
+      "amount": "1/4 cup sour cream",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the cucumber into thin slices.",
+    "In a large bowl, whisk together the mayonnaise and curry powder.",
+    "Add the sliced cucumber to the bowl and toss to coat with the mayonnaise mixture.",
+    "Stir in the sour cream until well combined.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if needed.",
+    "Serve chilled from a large bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "salad",
+    "cucumber"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-indian-cucumber-bowl--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:26:03.025Z"
+}
