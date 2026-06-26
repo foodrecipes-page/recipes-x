@@ -12659,5 +12659,121 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-indian-cucumber-bowl--german",
+    "title": "Traditional German Cucumber Salad",
+    "tags": [
+      "german",
+      "salad",
+      "cucumber"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 10,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-indian-cucumber-bowl--thai",
+    "title": "Thai Cucumber Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "cucumber",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-indian-cucumber-bowl--french",
+    "title": "French Cucumber Salad",
+    "tags": [
+      "salad",
+      "cucumber",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 15,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-indian-cucumber-bowl--chinese",
+    "title": "Silky Cucumber Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 18,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-indian-cucumber-bowl--vegetarian",
+    "title": "Refreshing Cucumber Raita",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "side-dish",
+      "summer"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 15,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-indian-cucumber-bowl--vegan",
+    "title": "Vegan Cucumber Raita",
+    "tags": [
+      "vegan",
+      "indian",
+      "side-dish",
+      "snack",
+      "cooling"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 10,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-indian-cucumber-bowl--italian",
+    "title": "Italian Cucumber Salad",
+    "tags": [
+      "italian",
+      "salad",
+      "low-carb",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 10,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-indian-cucumber-bowl--japanese",
+    "title": "Japanese Cucumber Salad",
+    "tags": [
+      "japanese",
+      "salad",
+      "cucumber",
+      "veggie"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-indian-cucumber-bowl--gluten-free",
+    "title": "Refreshing Cucumber and Xtra Salad",
+    "tags": [
+      "salad",
+      "gluten-free",
+      "healthy",
+      "easy"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 10,
+    "shard": "x"
   }
 ]
