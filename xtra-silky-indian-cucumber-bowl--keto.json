@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-silky-indian-cucumber-bowl--keto",
+  "title": "Keto Cucumber Raita",
+  "description": "A refreshing keto side dish made with cucumber, xtra cream, and silky spices.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Xtra cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Silky yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Indian cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Peel and grate the cucumber.",
+    "In a bowl, mix together the xtra cream, silky yogurt, Indian cumin powder, and salt.",
+    "Add the grated cucumber to the bowl and mix well.",
+    "Chill the raita in the refrigerator for at least 30 minutes.",
+    "Serve the raita cold, garnished with additional cumin powder if desired.",
+    "Serve in individual bowls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "cucumber",
+    "raita",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-indian-cucumber-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T07:16:03.077Z"
+}
