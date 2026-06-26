@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-silky-indian-cucumber-bowl--mexican",
+  "title": "Cool Cucumber Salsa",
+  "description": "A refreshing Mexican dip perfect for hot summer days. Serve with tortilla chips or use as a topping for tacos.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "silky honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "indian spices",
+      "amount": "1/4 teaspoon, cayenne pepper"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine the diced cucumber and indian spices. Let sit for 10 minutes.",
+    "In a small bowl, whisk together the xtra-virgin olive oil, lime juice, and silky honey.",
+    "Pour the dressing over the cucumber mixture and toss to coat.",
+    "Season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature with tortilla chips or as a topping for tacos."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "gluten-free",
+    "dip",
+    "salsa",
+    "cucumber"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-indian-cucumber-bowl--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:16:22.232Z"
+}
