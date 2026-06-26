@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-silky-indian-cucumber-bowl--vegetarian",
+  "title": "Refreshing Cucumber Raita",
+  "description": "A cooling side dish made with yogurt, cucumber, and spices. Perfect for hot summer days or as a complement to spicy meals.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Indian yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Silky cilantro",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "Xtra garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Bowl salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bowl black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together the yogurt and garlic until smooth.",
+    "Add the diced cucumber, chopped cilantro, salt, and pepper. Mix well.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "side-dish",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-indian-cucumber-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:28:29.510Z"
+}
