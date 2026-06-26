@@ -1,0 +1,60 @@
+{
+  "slug": "xtra-silky-indian-cucumber-bowl--gluten-free",
+  "title": "Refreshing Cucumber and Xtra Salad",
+  "description": "A simple and healthy gluten-free salad made with cucumber, xtra, and a few other ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "2 medium",
+      "notes": "Peel and slice"
+    },
+    {
+      "name": "Xtra",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Indian",
+      "amount": "1 tsp",
+      "notes": "Cumin powder"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together cucumber and xtra.",
+    "Add cumin powder and mix well.",
+    "Chill in the refrigerator for at least 30 minutes.",
+    "Serve cold in a bowl.",
+    "Garnish with a dash of cumin powder, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "gluten-free",
+    "healthy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-indian-cucumber-bowl--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:34:42.667Z"
+}
