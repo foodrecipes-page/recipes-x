@@ -1,0 +1,60 @@
+{
+  "slug": "xtra-silky-indian-cucumber-bowl--vegan",
+  "title": "Vegan Cucumber Raita",
+  "description": "A refreshing and cooling side dish made with cucumber, silky tofu, and a hint of Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "xtra silky tofu",
+      "amount": "1/2 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "indian spices",
+      "amount": "1 tsp",
+      "notes": "garam masala and cumin powder"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together the grated cucumber and crumbled tofu.",
+    "Add the Indian spices and stir well to combine.",
+    "Chill in the refrigerator for at least 30 minutes.",
+    "Serve cold, garnished with additional cucumber slices if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "indian",
+    "side-dish",
+    "snack",
+    "cooling"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 5,
+    "carbs": 8,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-indian-cucumber-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:28:33.607Z"
+}
