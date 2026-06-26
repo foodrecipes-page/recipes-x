@@ -1,0 +1,65 @@
+{
+  "slug": "xtra-silky-indian-cucumber-bowl--french",
+  "title": "French Cucumber Salad",
+  "description": "A refreshing French-inspired salad made with cucumber, silky dressing, and a hint of xtra crunch.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cucumber",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Silky",
+      "amount": "1/2 cup",
+      "notes": "Dressing of your choice"
+    },
+    {
+      "name": "Xtra",
+      "amount": "1/4 cup",
+      "notes": "Crushed croutons or crispy shallots"
+    },
+    {
+      "name": "Indian",
+      "amount": "1 tsp",
+      "notes": "Garam masala or cumin powder"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "Large bowl for serving"
+    }
+  ],
+  "instructions": [
+    "1. Peel and slice the cucumber into thin rounds.",
+    "2. In a large bowl, whisk together the silky dressing and a pinch of Indian spice.",
+    "3. Add the sliced cucumber to the bowl and toss to coat with the dressing.",
+    "4. Sprinkle the xtra topping over the salad.",
+    "5. Serve immediately and enjoy!",
+    "6. Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "7. Garnish with additional xtra topping or fresh herbs, if desired.",
+    "8. Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "cucumber",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-indian-cucumber-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:26:52.081Z"
+}
