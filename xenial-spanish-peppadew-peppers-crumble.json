@@ -1,0 +1,63 @@
+{
+  "slug": "xenial-spanish-peppadew-peppers-crumble",
+  "title": "Spanish Peppadew Frittata",
+  "description": "A flavorful and colorful omelette-style dish featuring peppers and crumble. Great for a quick brunch or breakfast.",
+  "cuisine": "spanish",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Peppadew peppers",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/4 cup",
+      "notes": "spanish-style"
+    },
+    {
+      "name": "Xenial cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C)",
+    "Chop the peppers and cook in a pan with some oil until tender",
+    "In a separate bowl, whisk the eggs and add crumble",
+    "Add the cooked peppers and peppadew peppers to the bowl and mix",
+    "Pour the egg mixture into a greased baking dish",
+    "Bake for 20-25 minutes or until the eggs are set",
+    "Remove from oven and let cool for a few minutes before slicing",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "breakfast",
+    "frittata",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-spanish-peppadew-peppers-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:05:30.720Z"
+}
