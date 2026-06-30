@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-crisp-tunisian-chwinamul-tagine",
+  "title": "Tunisian Stuffed Chwinamul",
+  "description": "A flavorful and aromatic dish originating from Tunisia, featuring chwinamul stuffed with a mixture of tunisian spices and xtra cheese.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "4",
+      "notes": " medium-sized"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "xtra cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "crisp garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wash and dry the chwinamul. Cut a horizontal slit in each to create a pocket.",
+    "In a bowl, mix together the tunisian spice blend and xtra cheese.",
+    "Stuff each chwinamul with the spice and cheese mixture.",
+    "In a large skillet, heat the olive oil over medium heat. Add the crisp garlic and cook for 1-2 minutes.",
+    "Add the stuffed chwinamul to the skillet and cook for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chwinamul is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stuffed",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-tunisian-chwinamul-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:42:40.387Z"
+}
