@@ -1,0 +1,65 @@
+{
+  "slug": "xtra-flaky-portuguese-marshmallows-pastries",
+  "title": "Portuguese Flaky Pastry Tarts",
+  "description": "Delicious pastries filled with a sweet marshmallow surprise. Inspired by traditional Portuguese cuisine.",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "marshmallows",
+      "amount": "1 bag",
+      "notes": null
+    },
+    {
+      "name": "xtra sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "portuguese vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional but recommended"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a marshmallow in the center of each dough circle.",
+    "Sprinkle a pinch of sugar over the marshmallow.",
+    "Fold the dough over the filling to form a triangle or a square.",
+    "Press the edges together to seal the pastry.",
+    "Brush the tops with a little water and sprinkle with sugar.",
+    "Bake for 15-20 minutes, or until the pastry is golden brown.",
+    "Serve warm and enjoy!",
+    "Optional: Drizzle with a little vanilla extract for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "dessert",
+    "pastry",
+    "marshmallow",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-portuguese-marshmallows-pastries",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:53:45.498Z"
+}
