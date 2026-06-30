@@ -1,0 +1,83 @@
+{
+  "slug": "xerismed-smoked-brazilian-beef-tagliere",
+  "title": "Brazilian-Style Smoked Beef Tagliere",
+  "description": "A fusion of Brazilian and Italian flavors, this dish features tender smoked beef served with a side of crispy sautéed vegetables and creamy tagliere sauce.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked beef",
+      "amount": "1 lb",
+      "notes": "Thick-cut, preferably smoked in-house"
+    },
+    {
+      "name": "Xerismed onions",
+      "amount": "2",
+      "notes": "Chopped, caramelized onions"
+    },
+    {
+      "name": "Brazilian chili flakes",
+      "amount": "1 tsp",
+      "notes": "Adds a spicy kick"
+    },
+    {
+      "name": "Tagliere sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season the smoked beef with salt and pepper. Grill for 3-4 minutes per side, or until tender.",
+    "3. Meanwhile, heat 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "4. Add the chopped onions and cook for 5 minutes, or until caramelized.",
+    "5. Add the minced garlic and cook for an additional 1 minute.",
+    "6. Stir in the Brazilian chili flakes and cook for 1 minute.",
+    "7. Add the tagliere sauce and stir to combine.",
+    "8. Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "9. Slice the grilled smoked beef against the grain.",
+    "10. Serve the beef with the sautéed onions and tagliere sauce.",
+    "11. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "brazilian",
+    "italian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerismed-smoked-brazilian-beef-tagliere",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:50:22.619Z"
+}
