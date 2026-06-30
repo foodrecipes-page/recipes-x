@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-silky-syrian-tomato-skillet",
+  "title": "Syrian Skillet Scramble",
+  "description": "A flavorful and filling breakfast dish made with scrambled eggs, crispy tomatoes, and savory Syrian spices.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "any size skillet will do"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "any variety will do"
+    },
+    {
+      "name": "syrian spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "silk tofu (crumbled)",
+      "amount": "1/2 cup",
+      "notes": "silky texture, not firm"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together. Add a pinch of salt and a sprinkle of Syrian spice blend.",
+    "Heat the xtra virgin olive oil in the skillet over medium heat.",
+    "Add the crumbled tofu and cook until it starts to brown, about 2-3 minutes.",
+    "Add the diced tomatoes to the skillet and cook for another 2-3 minutes, until they start to soften.",
+    "Pour the whisked eggs over the tomatoes and tofu.",
+    "Scramble the eggs until they are cooked through, breaking them up with a spatula as they cook.",
+    "Serve hot, garnished with a sprinkle of Syrian spice blend if desired.",
+    "Cook time may vary depending on the size of the skillet and the desired level of doneness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "middle eastern",
+    "scrambled eggs",
+    "silky tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-syrian-tomato-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:29:27.619Z"
+}
