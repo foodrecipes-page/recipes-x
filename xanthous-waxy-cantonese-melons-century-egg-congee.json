@@ -1,0 +1,77 @@
+{
+  "slug": "xanthous-waxy-cantonese-melons-century-egg-congee",
+  "title": "Cantonese Century Egg Congee",
+  "description": "A traditional Cantonese-inspired congee dish featuring century eggs and a variety of ingredients. This comforting breakfast or brunch option is rich in flavor and texture.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Congee",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Century Egg",
+      "amount": "1",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Cantonese Egg",
+      "amount": "1",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Xanthous",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Waxy",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Melons",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the century egg and cut it into small pieces. Set aside.",
+    "Heat the congee in a large pot over medium heat.",
+    "Add the waxy to the pot and cook for 2 minutes.",
+    "Add the xanthous and cook for another 2 minutes.",
+    "Add the diced melons and cook for 1 minute.",
+    "Add the soy sauce and stir to combine.",
+    "Add the Cantonese egg and century egg to the pot.",
+    "Stir to combine and cook for 1 minute.",
+    "Serve the congee hot.",
+    "Garnish with additional xanthous if desired.",
+    "Serve with a side of pickled ginger if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "congee",
+    "cantonese",
+    "century-egg"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-waxy-cantonese-melons-century-egg-congee",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:42:46.925Z"
+}
