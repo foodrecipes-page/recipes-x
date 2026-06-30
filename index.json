@@ -2732,18 +2732,15 @@
   },
   {
     "slug": "xenial-umami-saudi-arabian-natto-pasta",
-    "title": "Xenial Umami Saudi Arabian Natto Pasta",
+    "title": "Saudi Arabian Pasta with Umami Sauce",
     "tags": [
-      "date-night",
-      "japanese-inspired",
-      "natto",
-      "pescatarian",
-      "saudi-arabian",
-      "seafood",
-      "umami"
+      "saudi arabian",
+      "umami",
+      "pasta",
+      "vegan"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
