@@ -1,0 +1,97 @@
+{
+  "slug": "x-tra-aerated-vietnamese-chicken-vietnamese-chicken-pho",
+  "title": "Vietnamese Chicken Pho",
+  "description": "A classic Vietnamese noodle soup made with chicken, aromatics, and a flavorful broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Vietnamese chicken pho spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "optional"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": "available at most Asian markets"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add sliced onion and cook until browned, about 5 minutes.",
+    "Add sliced ginger and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add Vietnamese chicken pho spice blend, fish sauce, soy sauce, and sugar. Cook for 1 minute.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Add star anise and cinnamon stick, if using.",
+    "Cook rice noodles according to package instructions.",
+    "Assemble pho by placing cooked noodles in a bowl and ladling hot broth over the top.",
+    "Serve immediately and garnish with sliced herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "soup",
+    "noodles",
+    "pho"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-aerated-vietnamese-chicken-vietnamese-chicken-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:49:06.841Z"
+}
