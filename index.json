@@ -89,16 +89,16 @@
   },
   {
     "slug": "x-tra-aerated-vietnamese-chicken-vietnamese-chicken-pho",
-    "title": "X-tra Aerated Vietnamese Chicken Pho",
+    "title": "Vietnamese Chicken Pho",
     "tags": [
-      "halal",
-      "high-protein",
-      "one-pan",
       "vietnamese",
-      "weeknight"
+      "chicken",
+      "soup",
+      "noodles",
+      "pho"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 55,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -3724,17 +3724,15 @@
   },
   {
     "slug": "xerismed-smoked-brazilian-beef-tagliere",
-    "title": "Xerismed Smoked Brazilian Beef Tagliere",
+    "title": "Brazilian-Style Smoked Beef Tagliere",
     "tags": [
-      "brazilian-cuisine",
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "smoked-meat",
-      "weeknight"
+      "beef",
+      "brazilian",
+      "italian",
+      "grilled"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 240,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -10060,16 +10058,15 @@
   },
   {
     "slug": "xtra-silky-syrian-tomato-skillet",
-    "title": "Xtra Silky Syrian Tomato Skillet",
+    "title": "Syrian Skillet Scramble",
     "tags": [
-      "brunch-ideas",
-      "gluten-free",
-      "keto-friendly",
-      "one-pan",
-      "syrian-cuisine"
+      "breakfast",
+      "middle eastern",
+      "scrambled eggs",
+      "silky tofu"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
