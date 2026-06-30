@@ -5716,16 +5716,14 @@
   },
   {
     "slug": "xtra-crispy-japanese-baby-new-potatoes-mochi",
-    "title": "Xtra Crispy Japanese Baby New Potatoes Mochi",
+    "title": "Crunchy Mochi Waffles with New Potato Wedges",
     "tags": [
-      "crispy-mochi",
-      "dinner-ideas",
-      "gluten-free",
-      "high-protein",
-      "japanese-cuisine",
-      "stone-bowl-recipes"
+      "snack",
+      "new-potatoes",
+      "mochi",
+      "waffles"
     ],
-    "cuisine": "Japanese",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "x"
   },
@@ -7233,17 +7231,16 @@
   },
   {
     "slug": "xtra-flaky-portuguese-marshmallows-pastries",
-    "title": "Xtra Flaky Portuguese Marshmallows Pastries",
+    "title": "Portuguese Flaky Pastry Tarts",
     "tags": [
-      "dairy-free",
-      "flaky",
-      "portuguese-desserts",
-      "smoky",
-      "special-occasion",
-      "yeasty"
+      "portuguese",
+      "dessert",
+      "pastry",
+      "marshmallow",
+      "sweet"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "cuisine": "portuguese",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -8332,17 +8329,14 @@
   },
   {
     "slug": "xtra-juicy-indian-cherry-tomatoes-curry",
-    "title": "Xtra Juicy Indian Cherry Tomatoes Curry",
+    "title": "Indian Cherry Tomato Curry",
     "tags": [
-      "dairy-free",
-      "indian-cuisine",
-      "one-pan",
-      "sous-vide",
-      "vegetarian",
-      "weeknight"
+      "curry",
+      "indian",
+      "vegetarian"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -10372,18 +10366,15 @@
   },
   {
     "slug": "xtra-smoky-mediterranean-chicken-kebabs",
-    "title": "Xtra Smoky Mediterranean Chicken Kebabs",
+    "title": "Smoky Chicken Kebabs",
     "tags": [
-      "chicken",
       "grilled",
-      "high-protein",
       "kebabs",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 31,
     "shard": "x"
   },
   {
@@ -11158,16 +11149,15 @@
   },
   {
     "slug": "xtra-sweet-argentinian-sage-toast",
-    "title": "Xtra Sweet Argentinian Sage Toast",
+    "title": "Argentinian Grilled Meat Toast",
     "tags": [
-      "argentinian-cuisine",
-      "brunch-ideas",
-      "easy-recipes",
-      "sweet-toasts",
-      "vegan-friendly"
+      "grilled",
+      "sausage",
+      "argentinian",
+      "snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 17,
     "shard": "x"
   },
   {
