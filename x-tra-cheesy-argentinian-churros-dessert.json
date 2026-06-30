@@ -1,0 +1,68 @@
+{
+  "slug": "x-tra-cheesy-argentinian-churros-dessert",
+  "title": "Churros with Argentine-Style Dulce de Leche",
+  "description": "A sweet and indulgent dessert featuring crispy churros served with a rich Argentine-style dulce de leche sauce.",
+  "cuisine": "Argentine",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tra",
+      "amount": "250g",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Cheesy",
+      "amount": "100g",
+      "notes": "confectioners' sugar"
+    },
+    {
+      "name": "Churros",
+      "amount": "1 bag",
+      "notes": "churros"
+    },
+    {
+      "name": "Dessert",
+      "amount": "1 package",
+      "notes": "dulce de leche sauce"
+    },
+    {
+      "name": "Argentinian",
+      "amount": "1/2 cup",
+      "notes": "heavy cream"
+    }
+  ],
+  "instructions": [
+    "Heat 1 1/2 cups heavy cream in a saucepan over medium heat.",
+    "Bring to a simmer and cook for 5-7 minutes, stirring occasionally.",
+    "Remove from heat and let cool slightly.",
+    "Whisk in 1/2 cup dulce de leche sauce until smooth.",
+    "Dip churros into cooled dulce de leche sauce, coating completely.",
+    "Place coated churros on a baking sheet lined with parchment paper.",
+    "Drizzle with additional dulce de leche sauce, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentine",
+    "dulce-de-leche",
+    "churros"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-cheesy-argentinian-churros-dessert",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:40:21.317Z"
+}
