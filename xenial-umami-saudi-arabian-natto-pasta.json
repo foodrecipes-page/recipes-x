@@ -1,0 +1,86 @@
+{
+  "slug": "xenial-umami-saudi-arabian-natto-pasta",
+  "title": "Saudi Arabian Pasta with Umami Sauce",
+  "description": "A flavorful and aromatic pasta dish inspired by the cuisine of Saudi Arabia, featuring a rich umami sauce made with xenial spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "Umami paste",
+      "amount": "2 tbsp",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Natto",
+      "amount": "1/4 cup",
+      "notes": "optional, add for extra umami flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Xenial spice blend",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Arabian cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "optional, adds warmth"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the umami paste and sauté for 1-2 minutes, stirring constantly.",
+    "Add the natto (if using), xenial spice blend, and Arabian cinnamon (if using). Stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Reserve 1 cup of pasta water before draining the spaghetti.",
+    "Add the cooked pasta to the skillet with the sauce and toss to combine.",
+    "If the sauce seems too thick, add a bit of the reserved pasta water.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped parsley (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "umami",
+    "pasta",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-umami-saudi-arabian-natto-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:35:48.565Z"
+}
