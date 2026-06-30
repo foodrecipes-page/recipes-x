@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-sweet-argentinian-sage-toast",
+  "title": "Argentinian Grilled Meat Toast",
+  "description": "A simple yet flavorful dish originating from Argentina, perfect for a quick snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Argentinian Sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Sage Leaves",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Slice the onions and set aside.",
+    "Brush the grates with olive oil to prevent sticking.",
+    "Grill the Argentinian sausages for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast the bread until lightly browned.",
+    "Once the sausages are cooked, let them rest for a minute before slicing.",
+    "Assemble the toast by placing a sausage on each slice, topping with a few onion slices and a sage leaf.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "sausage",
+    "argentinian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sweet-argentinian-sage-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:55:48.560Z"
+}
