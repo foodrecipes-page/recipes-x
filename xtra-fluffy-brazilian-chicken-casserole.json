@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-fluffy-brazilian-chicken-casserole",
+  "title": "Brazilian Chicken Casserole",
+  "description": "A delicious and easy-to-make casserole dish that combines the flavors of Brazil with the comfort of chicken and cheese. Perfect for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds boneless, skinless chicken breast or thighs",
+      "amount": "",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "1 cup xtra fluffy Brazilian cheese",
+      "amount": "",
+      "notes": "shredded"
+    },
+    {
+      "name": "1/2 cup casserole cream",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 onion",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 cup mixed bell peppers",
+      "amount": "",
+      "notes": "sliced"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "1 teaspoon cumin",
+      "amount": "",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "3. Add the minced garlic and cook for an additional minute.",
+    "4. Add the sliced bell peppers and cook until tender, about 4-5 minutes.",
+    "5. Add the chicken to the skillet and cook until browned on all sides and cooked through, about 5-6 minutes.",
+    "6. Stir in the cumin and shredded cheese.",
+    "7. Transfer the chicken mixture to a 9x13 inch baking dish.",
+    "8. If using, drizzle the casserole cream over the top of the chicken mixture.",
+    "9. Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "chicken",
+    "casserole",
+    "cheese",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-brazilian-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:16:36.762Z"
+}
