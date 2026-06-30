@@ -1,0 +1,93 @@
+{
+  "slug": "xtra-crisp-russian-chicken-skewers",
+  "title": "Russian Chicken Skewers",
+  "description": "A flavorful and colorful dish perfect for a summer evening, with marinated chicken and vegetable skewers.",
+  "cuisine": "russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crisp russian dill",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "russian seasoning blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut chicken into 1-inch pieces and thread onto skewers, leaving space between each piece.",
+    "Cut bell peppers, onions, zucchini, and tomatoes into 1-inch pieces and thread onto skewers with chicken.",
+    "In a small bowl, whisk together olive oil, russian seasoning blend, and garlic.",
+    "Brush the mixture onto the chicken and vegetables.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through and vegetables are tender.",
+    "Serve hot, garnished with crisp russian dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "russian",
+    "summer",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-russian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:55:39.740Z"
+}
