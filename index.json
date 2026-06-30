@@ -42,17 +42,16 @@
   },
   {
     "slug": "x-light-norwegian-fish-using-the-speculaas-spice-mix-stew",
-    "title": "X-Light Norwegian Fish Stew with Speculaas Spice Mix",
+    "title": "Norwegian Fish Stew",
     "tags": [
-      "fish-stew",
-      "gluten-free",
-      "low-carb",
       "norwegian",
-      "one-pan",
-      "weeknight"
+      "fish",
+      "stew",
+      "fish-stew",
+      "easy-recipe"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 33,
     "shard": "x"
   },
   {
@@ -1112,17 +1111,15 @@
   },
   {
     "slug": "xanthous-waxy-cantonese-melons-century-egg-congee",
-    "title": "Xanthous Waxy Cantonese Melons Century Egg Congee",
+    "title": "Cantonese Century Egg Congee",
     "tags": [
-      "cantonese",
-      "comfort-food",
+      "breakfast",
       "congee",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "cantonese",
+      "century-egg"
     ],
-    "cuisine": "Chinese (Cantonese)",
-    "totalTimeMin": 40,
+    "cuisine": "Cantonese",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -7401,17 +7398,16 @@
   },
   {
     "slug": "xtra-fluffy-brazilian-chicken-casserole",
-    "title": "Xtra Fluffy Brazilian Chicken Casserole",
+    "title": "Brazilian Chicken Casserole",
     "tags": [
-      "brazilian-cuisine",
+      "brazilian",
+      "chicken",
       "casserole",
-      "chicken-recipe",
-      "diabetic-friendly",
-      "one-pan",
-      "weeknight"
+      "cheese",
+      "dinner"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -11413,16 +11409,16 @@
   },
   {
     "slug": "xtra-tangy-moroccan-manchego-tagine",
-    "title": "Xtra Tangy Moroccan Manchego Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "macrobiotic",
-      "moroccan-inspired",
-      "one-pot",
-      "vegetarian-friendly",
-      "weeknight"
+      "moroccan",
+      "chicken",
+      "tagine",
+      "stew",
+      "one-pot"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "x"
   },
   {
