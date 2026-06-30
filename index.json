@@ -2442,16 +2442,15 @@
   },
   {
     "slug": "xenial-spanish-peppadew-peppers-crumble",
-    "title": "Xenial Spanish Peppadew Peppers Crumble",
+    "title": "Spanish Peppadew Frittata",
     "tags": [
-      "gluten-free",
-      "quick",
-      "romantic",
-      "spicy",
-      "vegan"
+      "spanish",
+      "breakfast",
+      "frittata",
+      "peppers"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 22,
+    "cuisine": "spanish",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
