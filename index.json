@@ -102,17 +102,14 @@
   },
   {
     "slug": "x-tra-cheesy-argentinian-churros-dessert",
-    "title": "X-tra Cheesy Argentinian Churros Dessert",
+    "title": "Churros with Argentine-Style Dulce de Leche",
     "tags": [
-      "argentinian",
-      "cheesy",
-      "chocolate",
-      "dessert",
+      "argentine",
       "dulce-de-leche",
-      "low-fat"
+      "churros"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "Argentine",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -5328,17 +5325,15 @@
   },
   {
     "slug": "xtra-crisp-russian-chicken-skewers",
-    "title": "Xtra Crisp Russian Chicken Skewers",
+    "title": "Russian Chicken Skewers",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "chicken",
+      "russian",
+      "summer",
+      "grill"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 27,
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
