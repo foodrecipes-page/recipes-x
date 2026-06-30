@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-crispy-japanese-baby-new-potatoes-mochi",
+  "title": "Crunchy Mochi Waffles with New Potato Wedges",
+  "description": "A sweet and savory fusion of crispy Japanese-inspired mochi and golden new potato wedges, perfect for a satisfying snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "New Potatoes",
+      "amount": "4-6",
+      "notes": "about 1 inch in diameter"
+    },
+    {
+      "name": "Mochi",
+      "amount": "1 package",
+      "notes": "preferably Japanese rice flour-based"
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1/4 cup",
+      "notes": "preferably xtra crispy"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for waffle batter"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "large egg"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "table salt"
+    }
+  ],
+  "instructions": [
+    "Preheat waffle iron to medium-high heat.",
+    "In a large bowl, whisk together mochi, bread crumbs, sugar, cinnamon, and salt.",
+    "In a separate bowl, whisk together olive oil and egg.",
+    "Add the wet ingredients to the dry ingredients and stir until a thick batter forms.",
+    "Cook waffles according to waffle iron instructions.",
+    "Meanwhile, slice new potatoes into wedges.",
+    "Toss potato wedges with a little olive oil and season with salt.",
+    "Bake potato wedges in the oven at 400°F (200°C) for 12-15 minutes, or until crispy.",
+    "Serve waffles with baked potato wedges on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "new-potatoes",
+    "mochi",
+    "waffles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-japanese-baby-new-potatoes-mochi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:33:14.610Z"
+}
