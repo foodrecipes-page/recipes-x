@@ -1,0 +1,69 @@
+{
+  "slug": "xtra-crisp-filipino-tomato-adobo",
+  "title": "Filipino-Style Fried Adobo Rice Bowl",
+  "description": "A fusion twist on traditional adobo with the added crunch of crispy fried rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xtra long grain rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "crisp bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "filipino adobo seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "adobo sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of oil in a pan over medium heat.",
+    "Add diced bacon and cook until crispy, then set aside.",
+    "In the same pan, add the diced tomato and cook until softened.",
+    "Add the adobo seasoning and stir to combine.",
+    "Add 1 cup of cooked rice to the pan and stir-fry until combined with the tomato mixture.",
+    "Add the cooked bacon back into the pan and stir-fry for another minute.",
+    "Transfer the mixture to a serving bowl and drizzle with adobo sauce.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "rice-bowl",
+    "adobo",
+    "veggie-packed"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-filipino-tomato-adobo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:52:15.138Z"
+}
