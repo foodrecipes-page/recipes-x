@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-chewy-umami-australian-meat-tacos",
+  "title": "Australian Meat Tacos",
+  "description": "A twist on traditional tacos, this recipe combines the flavors of Australia with the comfort of a taco. The xtra juicy beef is marinated in a umami-rich sauce and served in a chewy taco shell.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grill"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "umami sauce",
+      "amount": "1/4 cup",
+      "notes": "such as soy sauce or fish sauce"
+    },
+    {
+      "name": "chewy taco shells",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "such as cheddar or Monterey Jack"
+    },
+    {
+      "name": "sliced avocado",
+      "amount": "2",
+      "notes": "for topping"
+    },
+    {
+      "name": "sliced lettuce",
+      "amount": "1 head",
+      "notes": "for topping"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 pint",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine ground beef, xtra virgin olive oil, taco seasoning, and umami sauce. Mix well with your hands until just combined.",
+    "Form the beef mixture into 8-10 patties.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "While the beef is cooking, toast the taco shells on the grill or in the oven.",
+    "Assemble the tacos by placing a cooked patty onto a toasted shell, followed by shredded cheese, sliced avocado, sliced lettuce, and diced tomatoes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "beef",
+    "tacos",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-chewy-umami-australian-meat-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:29:30.242Z"
+}
