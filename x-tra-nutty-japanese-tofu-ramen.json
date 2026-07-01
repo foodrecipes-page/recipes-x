@@ -1,0 +1,88 @@
+{
+  "slug": "x-tra-nutty-japanese-tofu-ramen",
+  "title": "Spicy Tofu Ramen",
+  "description": "A quick and flavorful Japanese-inspired dish made with spicy tofu, ramen noodles, and a variety of savory ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "8 oz",
+      "notes": "Your favorite brand"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm, drained and cut into small cubes"
+    },
+    {
+      "name": "Tra egg",
+      "amount": "1",
+      "notes": "Beaten for scrambling"
+    },
+    {
+      "name": "X vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Nutty sesame oil",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Japanese chili flakes",
+      "amount": "1 tsp",
+      "notes": "Or substitute with sriracha"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Green onions",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to package instructions. Drain and set aside.",
+    "In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the cubed tofu and cook until golden brown on all sides, about 5-6 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the beaten egg and scramble it until cooked through, breaking it up into small pieces as it cooks.",
+    "Add the Japanese chili flakes and cook for 1-2 minutes, until fragrant.",
+    "Add the cooked noodles, tofu, and soy sauce to the skillet. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Stir in the sesame oil and cook for 1 minute.",
+    "Transfer the Spicy Tofu Ramen to a serving bowl and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "ramen",
+    "spicy",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-nutty-japanese-tofu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:18:55.530Z"
+}
