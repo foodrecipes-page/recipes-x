@@ -7932,17 +7932,15 @@
   },
   {
     "slug": "xtra-garlicky-uruguayan-squid-empanadas",
-    "title": "Xtra Garlicky Uruguayan Squid Empanadas",
+    "title": "Uruguayan Empanadas with Squid Filling",
     "tags": [
-      "baked-goods",
-      "egg-free",
-      "garlicky",
-      "latin-american",
-      "pescatarian",
-      "seafood"
+      "uruguayan",
+      "empanadas",
+      "seafood",
+      "appetizer"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "x"
   },
   {
