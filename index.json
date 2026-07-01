@@ -4105,17 +4105,15 @@
   },
   {
     "slug": "xtra-briny-mediterranean-smoked-turkey-neck-tagine",
-    "title": "Xtra Briny Mediterranean Smoked Turkey Neck Tagine",
+    "title": "Smoked Turkey Tagine",
     "tags": [
-      "briny",
-      "comfort-food",
-      "mediterranean",
-      "one-pot",
+      "moroccan",
+      "stew",
       "smoked-turkey",
       "tagine"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 210,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "x"
   },
   {
@@ -6156,17 +6154,15 @@
   },
   {
     "slug": "xtra-crumbly-algerian-lamb-tagine",
-    "title": "Xtra Crumbly Algerian Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "fermented-food",
-      "gluten-free",
-      "lamb-recipes",
-      "lazy-sunday",
-      "one-pot"
+      "lamb",
+      "tagine",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 150,
+    "cuisine": "North African",
+    "totalTimeMin": 105,
     "shard": "x"
   },
   {
@@ -8785,17 +8781,15 @@
   },
   {
     "slug": "xtra-malty-polish-padron-peppers-toast",
-    "title": "Xtra Malty Polish Padron Peppers Toast",
+    "title": "Pan-Seared Polish Sausages with Roasted Peppers",
     "tags": [
-      "bento-box",
-      "crowd-pleaser",
-      "easy-snack",
-      "malty-flavors",
-      "plant-based",
-      "polish-cuisine"
+      "polish",
+      "sausages",
+      "peppers",
+      "quick-dinner"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
