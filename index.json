@@ -4556,16 +4556,14 @@
   },
   {
     "slug": "xtra-chewy-umami-australian-meat-tacos",
-    "title": "Xtra Chewy Umami Australian Meat Tacos",
+    "title": "Australian Meat Tacos",
     "tags": [
       "australian",
-      "easy-to-make",
-      "kid-friendly",
-      "meat-lovers",
-      "umami",
-      "weeknight"
+      "beef",
+      "tacos",
+      "grilled"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 30,
     "shard": "x"
   },
@@ -10236,18 +10234,16 @@
   },
   {
     "slug": "xtra-smoky-ethiopian-lentils-curry",
-    "title": "Xtra Smoky Ethiopian Lentils Curry",
+    "title": "Ethiopian Lentil Curry",
     "tags": [
+      "lentils",
       "curry",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "smoky",
+      "ethiopian",
       "vegetarian",
-      "weeknight"
+      "vegan"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
