@@ -10750,17 +10750,16 @@
   },
   {
     "slug": "xtra-spicy-irish-sausage-skillet",
-    "title": "Xtra Spicy Irish Sausage Skillet",
+    "title": "Irish Sausage Skillet",
     "tags": [
-      "date-night",
-      "flexitarian",
       "irish",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "sausage",
+      "skillet",
+      "meat",
+      "omnivore"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
