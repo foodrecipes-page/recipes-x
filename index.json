@@ -3951,13 +3951,15 @@
   },
   {
     "slug": "xsmoky-roasted-banana-stir-fry-tandoor-clay-pot",
-    "title": "Gruzy Roasted Banana Stir-Fry Tandoor-Pot",
+    "title": "Tandoor Chicken with Roasted Bananas",
     "tags": [
-      "banana-focussed",
-      "gravy-based",
-      "weeknight"
+      "indian",
+      "chicken",
+      "bananas",
+      "tandoor",
+      "roasted"
     ],
-    "cuisine": "Asian",
+    "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "x"
   },
