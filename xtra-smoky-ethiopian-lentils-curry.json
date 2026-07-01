@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-smoky-ethiopian-lentils-curry",
+  "title": "Ethiopian Lentil Curry",
+  "description": "A flavorful and nutritious Ethiopian-inspired lentil curry made with smoky spices and served over xtra rice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "smoky"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "xtra rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "vegetable or chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add curry powder and cook for 1 minute.",
+    "Add lentils, carrots, tomato paste, and water.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes.",
+    "Serve over xtra rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "curry",
+    "ethiopian",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-ethiopian-lentils-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:30:12.563Z"
+}
