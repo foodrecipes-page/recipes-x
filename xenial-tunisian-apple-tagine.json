@@ -1,0 +1,90 @@
+{
+  "slug": "xenial-tunisian-apple-tagine",
+  "title": "Tunisian Tagine Chicken Stew",
+  "description": "A flavorful and aromatic stew inspired by the cuisine of Tunisia, made with chicken, apples, and spices.",
+  "cuisine": "north african",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "apple",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "xenial spice blend",
+      "amount": "2 teaspoons",
+      "notes": "or substitute with a combination of cinnamon, cumin, and coriander"
+    },
+    {
+      "name": "tunisian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with regular olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with a combination of ginger, cumin, and coriander"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the apple, xenial spice blend, tunisian spice blend, and chicken broth to the pot.",
+    "Return the chicken to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through and the apples are tender, about 20-25 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "chicken",
+    "stew",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-tunisian-apple-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:08:21.795Z"
+}
