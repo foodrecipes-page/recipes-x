@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-spicy-irish-sausage-skillet",
+  "title": "Irish Sausage Skillet",
+  "description": "A hearty and spicy Irish-inspired skillet meal featuring sausage and vegetables, perfect for a weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spicy skillet seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the Irish sausage and cook until browned, about 3-4 minutes.",
+    "Add the chopped onion and red bell pepper and cook until the vegetables are tender.",
+    "Add the spicy skillet seasoning and stir to combine.",
+    "Add the chopped potatoes and continue to cook for an additional 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "sausage",
+    "skillet",
+    "meat",
+    "omnivore"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-irish-sausage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:35:36.631Z"
+}
