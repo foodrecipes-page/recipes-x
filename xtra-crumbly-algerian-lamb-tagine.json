@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-crumbly-algerian-lamb-tagine",
+  "title": "Lamb Tagine",
+  "description": "A traditional North African stew made with tender lamb and flavorful spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 1/2 pounds boneless lamb shoulder, cut into 2-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tablespoons",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/2 cup",
+      "notes": "crumbly feta cheese, crumbled"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 cups",
+      "notes": "extra virgin olive oil"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "tagine or Dutch oven"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine or Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin and cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the feta cheese and cook for an additional 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with parsley and serve hot.",
+    "Serve over couscous or with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crumbly-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:33:33.340Z"
+}
