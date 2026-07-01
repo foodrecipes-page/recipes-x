@@ -460,17 +460,15 @@
   },
   {
     "slug": "x-tra-nutty-japanese-tofu-ramen",
-    "title": "x-tra nutty japanese tofu ramen",
+    "title": "Spicy Tofu Ramen",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "high-protein",
-      "nutritious",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "japanese",
+      "ramen",
+      "spicy",
+      "tofu",
+      "vegetarian"
     ],
-    "cuisine": "japanese",
+    "cuisine": "Japanese",
     "totalTimeMin": 25,
     "shard": "x"
   },
@@ -2623,17 +2621,15 @@
   },
   {
     "slug": "xenial-tunisian-apple-tagine",
-    "title": "Xenial Tunisian Apple Tagine",
+    "title": "Tunisian Tagine Chicken Stew",
     "tags": [
-      "apples",
-      "comfort-food",
-      "low-sodium",
-      "one-pot",
-      "snappy",
-      "tunisian"
+      "north-african",
+      "chicken",
+      "stew",
+      "apple"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "north african",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -2866,17 +2862,15 @@
   },
   {
     "slug": "xenial-yeasty-croatian-lamb-skewers",
-    "title": "Xenial Yeasty Croatian Lamb Skewers",
+    "title": "Lamb Skewers",
     "tags": [
-      "croatian",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "weeknight",
-      "yeast"
+      "skewers",
+      "croatian",
+      "mediterranean"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -5178,17 +5172,15 @@
   },
   {
     "slug": "xtra-crisp-filipino-tomato-adobo",
-    "title": "Xtra Crisp Filipino Tomato Adobo",
+    "title": "Filipino-Style Fried Adobo Rice Bowl",
     "tags": [
-      "crisp",
-      "filipino-food",
-      "garlicky",
-      "gluten-free",
-      "lazy-sunday",
-      "paleo-friendly"
+      "filipino-cuisine",
+      "rice-bowl",
+      "adobo",
+      "veggie-packed"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
