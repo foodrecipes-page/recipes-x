@@ -1,0 +1,64 @@
+{
+  "slug": "xtra-malty-polish-padron-peppers-toast",
+  "title": "Pan-Seared Polish Sausages with Roasted Peppers",
+  "description": "A hearty and flavorful dish featuring pan-seared Polish sausages paired with roasted peppers. Perfect for a quick and satisfying dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausages",
+      "amount": "4-6 sausages",
+      "notes": "any type of Polish sausage works well"
+    },
+    {
+      "name": "Padron peppers",
+      "amount": "4-6 peppers",
+      "notes": "or any other sweet pepper variety"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-searing sausages"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roast the Padron peppers in the oven for 15-20 minutes, or until charred and tender.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the Polish sausages to the skillet and sear until browned on all sides, about 5 minutes.",
+    "Transfer the sausages to a plate and let them rest.",
+    "Sauté the roasted peppers in the same skillet with the pan drippings until caramelized and fragrant.",
+    "Serve the sausages with the roasted peppers and enjoy!",
+    "Optional: serve with crusty toast for a comforting meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "sausages",
+    "peppers",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-malty-polish-padron-peppers-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:30:53.977Z"
+}
