@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-roasted-uruguayan-meat-empanadas",
+  "title": "Uruguayan Empanadas",
+  "description": "Traditional Uruguayan empanadas filled with ground meat and onions, served as a snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Meat",
+      "amount": "1 pound",
+      "notes": "80/20 beef to pork ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "homemade or store-bought",
+      "notes": "Thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground meat, breaking it up with a spoon as it cooks, until browned, about 5-7 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon or two of the meat mixture in the center of each dough circle.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal.",
+    "Brush the tops with a little water and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "8-10",
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "empanadas",
+    "meat",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-roasted-uruguayan-meat-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:58:01.554Z"
+}
