@@ -1,0 +1,76 @@
+{
+  "slug": "xenial-yeasty-croatian-lamb-skewers",
+  "title": "Lamb Skewers",
+  "description": "A flavorful and easy-to-make dish featuring lamb skewers with a hint of Croatian spices. Perfect for a quick dinner or lunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Croatian spices",
+      "amount": "1 tablespoon",
+      "notes": "available at most specialty stores"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Xenial",
+      "amount": "1 teaspoon",
+      "notes": "see notes"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Yeasty",
+      "amount": "1/2 teaspoon",
+      "notes": "optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together olive oil, Croatian spices, garlic, xenial, salt, and pepper.",
+    "Brush the mixture onto both sides of the lamb skewers.",
+    "Grill the skewers for 5-7 minutes per side, or until the lamb reaches an internal temperature of 145°F.",
+    "Serve hot, garnished with yeasty if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "skewers",
+    "croatian",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-yeasty-croatian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:08:16.865Z"
+}
