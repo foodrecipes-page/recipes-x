@@ -1549,18 +1549,15 @@
   },
   {
     "slug": "xenial-dense-norwegian-shirataki-noodles",
-    "title": "Xenial Dense Norwegian Shirataki Noodles",
+    "title": "Shirataki Noodle Stir Fry with Norwegian Salmon",
     "tags": [
-      "citrusy",
-      "dense",
-      "lazy-sunday",
-      "norwegian-cuisine",
-      "raw-friendly",
-      "shirataki-noodles",
-      "vegetarian"
+      "stir-fry",
+      "salmon",
+      "low-carb",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -4470,17 +4467,15 @@
   },
   {
     "slug": "xtra-chewy-mediterranean-dates-skewers",
-    "title": "Xtra Chewy Mediterranean Dates Skewers",
+    "title": "Grilled Date and Xtra Skewers",
     "tags": [
-      "chewy",
-      "kosher-friendly",
-      "mediterranean",
-      "quick-fix",
-      "snack",
-      "vegetarian"
+      "grilled",
+      "healthy",
+      "easy",
+      "snack"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 20,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 23,
     "shard": "x"
   },
   {
@@ -4874,17 +4869,15 @@
   },
   {
     "slug": "xtra-creamy-kenyan-mackerel-curry",
-    "title": "Xtra Creamy Kenyan Mackerel Curry",
+    "title": "Kenyan Mackerel Curry",
     "tags": [
-      "coconut-milk",
+      "fish",
       "curry",
-      "kenyan-cuisine",
-      "one-pan",
-      "seafood",
-      "smoked-fish"
+      "kenyan",
+      "mackerel"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -9677,17 +9670,16 @@
   },
   {
     "slug": "xtra-savory-malaysian-duck-toast",
-    "title": "Xtra Savory Malaysian Duck Toast",
+    "title": "Malaysian Duck Toast",
     "tags": [
-      "duck-sauce",
-      "easy-lunch",
-      "gluten-free",
-      "malaysian-cuisine",
-      "mediterranean-friendly",
-      "quick-meal"
+      "breakfast",
+      "lunch",
+      "malaysian",
+      "duck",
+      "toast"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -10281,17 +10273,15 @@
   },
   {
     "slug": "xtra-smoky-jamaican-chicken-skewers",
-    "title": "Xtra Smoky Jamaican Chicken Skewers",
+    "title": "Jamaican Chicken Skewers",
     "tags": [
-      "chicken-skewers",
-      "grilled",
       "jamaican",
-      "kid-friendly",
-      "low-calorie",
-      "smoky"
+      "grilled",
+      "chicken",
+      "skewers"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 37,
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
