@@ -1735,17 +1735,14 @@
   },
   {
     "slug": "xenial-fluffy-middle-eastern-green-chilli-umm-ali",
-    "title": "Xenial Fluffy Middle Eastern Green Chilli Umm Ali",
+    "title": "Eastern Fluffy Pancakes",
     "tags": [
-      "dessert",
-      "double-rise-bread",
-      "green-chilli",
-      "middle-eastern",
-      "sattvic",
-      "vegetarian"
+      "breakfast",
+      "eastern",
+      "pancakes"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "eastern",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -2546,15 +2543,14 @@
   },
   {
     "slug": "xenial-stone-dutch-potatoes-hash",
-    "title": "Xenial Stone Dutch Potatoes Hash",
+    "title": "Dutch-Style Potato Hash",
     "tags": [
-      "easy",
-      "hot-stone-plate",
-      "one-pan",
-      "vegan-friendly"
+      "breakfast",
+      "side-dish",
+      "dutch-cuisine"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 30,
+    "cuisine": "Dutch",
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
