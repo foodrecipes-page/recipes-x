@@ -1,0 +1,64 @@
+{
+  "slug": "xtra-chewy-mediterranean-dates-skewers",
+  "title": "Grilled Date and Xtra Skewers",
+  "description": "A delicious and healthy snack or side dish made by grilling dates and xtra on skewers, perfect for a quick and easy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dates",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "Xtra",
+      "amount": "1 bunch",
+      "notes": "such as asparagus or zucchini"
+    },
+    {
+      "name": "Mediterranean skewers",
+      "amount": "1 package",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Chewy",
+      "amount": "1 cup",
+      "notes": "cotton string or twine"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread a date onto each skewer, followed by a piece of xtra.",
+    "Leave a small space between each date and xtra.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 2-3 minutes per side, or until the xtra is tender.",
+    "Serve the skewers hot, garnished with fresh herbs if desired.",
+    "Soak the skewers in water for 30 minutes before grilling to prevent them from catching fire.",
+    "Thread the chewy onto the skewers before grilling to help keep them in place."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "healthy",
+    "easy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-chewy-mediterranean-dates-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T09:58:08.654Z"
+}
