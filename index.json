@@ -8987,17 +8987,15 @@
   },
   {
     "slug": "xtra-nutty-thai-papaya-som-tum",
-    "title": "Xtra Nutty Thai Papaya Som Tum",
+    "title": "Thai Papaya Salad",
     "tags": [
-      "easy-to-make",
-      "flavorful-dish",
-      "gluten-free",
-      "spicy-food",
-      "thai-cuisine",
-      "vegetarian-option"
+      "thai",
+      "salad",
+      "vegetarian",
+      "snack"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
