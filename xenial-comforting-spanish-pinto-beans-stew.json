@@ -1,0 +1,77 @@
+{
+  "slug": "xenial-comforting-spanish-pinto-beans-stew",
+  "title": "Hearty Spanish Bean Stew",
+  "description": "A comforting and flavorful stew made with pinto beans, perfect for a cold winter's night.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pinto Beans",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chili powder and cumin; cook for 1 minute.",
+    "Add pinto beans, diced tomatoes, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "comforting",
+    "vegetarian",
+    "beans",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-comforting-spanish-pinto-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:59:14.763Z"
+}
