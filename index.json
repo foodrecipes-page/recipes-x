@@ -1432,17 +1432,16 @@
   },
   {
     "slug": "xenial-comforting-spanish-pinto-beans-stew",
-    "title": "Xenial Comforting Spanish Pinto Beans Stew",
+    "title": "Hearty Spanish Bean Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "spanish-cuisine",
-      "sugar-free",
-      "vegetarian"
+      "spanish",
+      "comforting",
+      "vegetarian",
+      "beans",
+      "stew"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 90,
+    "cuisine": "spanish",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -2386,17 +2385,14 @@
   },
   {
     "slug": "xenial-smoky-ukrainian-lamb-stew",
-    "title": "Xenial Smoky Ukrainian Lamb Stew",
+    "title": "Smoky Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "lamb-based",
-      "slow-cooked",
-      "smoky-flavors",
-      "ukrainian-cuisine"
+      "lamb",
+      "stew",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "x"
   },
   {
@@ -7625,17 +7621,14 @@
   },
   {
     "slug": "xtra-fresh-australian-fish-poke",
-    "title": "Xtra Fresh Australian Fish Poke",
+    "title": "Grilled Australian Fish with Poke Sauce",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-bowl",
-      "seafood",
-      "sustainable",
-      "weeknight"
+      "grilled-fish",
+      "poke-sauce",
+      "australian"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 23,
     "shard": "x"
   },
   {
