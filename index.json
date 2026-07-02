@@ -7032,17 +7032,14 @@
   },
   {
     "slug": "xtra-flaky-argentinian-taleggio-empanadas",
-    "title": "Xtra Flaky Argentinian Taleggio Empanadas",
+    "title": "Argentinian Empanadas with Taleggio Cheese Filling",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "argentinian",
+      "cheese",
+      "empanadas"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "cuisine": "argentinian",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
