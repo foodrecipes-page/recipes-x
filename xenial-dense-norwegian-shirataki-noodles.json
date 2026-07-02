@@ -1,0 +1,73 @@
+{
+  "slug": "xenial-dense-norwegian-shirataki-noodles",
+  "title": "Shirataki Noodle Stir Fry with Norwegian Salmon",
+  "description": "A light and delicious stir fry made with shirataki noodles, Norwegian salmon, and xenial vegetables.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillet",
+      "amount": "6 oz",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Shirataki noodles",
+      "amount": "8 oz",
+      "notes": "Low-carb and low-calorie"
+    },
+    {
+      "name": "Xenial mixed vegetables",
+      "amount": "1 cup",
+      "notes": "Dense and flavorful"
+    },
+    {
+      "name": "Dense sesame oil",
+      "amount": "2 tbsp",
+      "notes": "Healthy and aromatic"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Traditional Asian flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Fresh and spicy"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the ginger and cook for 1 minute, until fragrant.",
+    "Add the xenial mixed vegetables and cook for 3-4 minutes, until tender.",
+    "Add the shirataki noodles and cook for 2-3 minutes, until heated through.",
+    "Add the Norwegian salmon fillet and cook for 3-4 minutes, until cooked through.",
+    "Season with soy sauce and serve hot.",
+    "Garnish with chopped green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "salmon",
+    "low-carb",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-dense-norwegian-shirataki-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:08:33.016Z"
+}
