@@ -1,0 +1,69 @@
+{
+  "slug": "x-tra-sweet-peruvian-sweet-potato-picarones",
+  "title": "Picarones with Sweet Potato and Peruvian Sauce",
+  "description": "A traditional Peruvian dessert consisting of sweet potato donuts, fried and coated with a sweet syrup.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "x-tra large sweet potatoes",
+      "amount": "2",
+      "notes": "peeled and mashed"
+    },
+    {
+      "name": "tra",
+      "amount": "1/4 cup",
+      "notes": "shortening for frying"
+    },
+    {
+      "name": "picarones",
+      "amount": "1 package",
+      "notes": "Peruvian dough"
+    },
+    {
+      "name": "peruvian",
+      "amount": "1/4 cup",
+      "notes": "sugar"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2",
+      "notes": "large, peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mashed sweet potatoes, sugar, and shortening.",
+    "Heat oil in a deep frying pan to 375°F (190°C).",
+    "Using a cookie scoop, drop dough into hot oil and fry until golden brown.",
+    "Using a slotted spoon, remove donuts from oil and place on a paper towel-lined plate.",
+    "In a small saucepan, combine Peruvian sugar and water to make syrup.",
+    "Bring syrup to a boil, then reduce heat and simmer for 5 minutes.",
+    "Drizzle syrup over fried donuts and serve immediately.",
+    "Optional: Dust with cinnamon or powdered sugar for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "dessert",
+    "sweet-potato",
+    "fried-dough"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-sweet-peruvian-sweet-potato-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:18:19.659Z"
+}
