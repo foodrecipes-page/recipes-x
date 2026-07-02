@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-savory-malaysian-duck-toast",
+  "title": "Malaysian Duck Toast",
+  "description": "A fusion twist on the classic open-faced sandwich, featuring savory Malaysian flavors and crispy, toasted bread.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Xtra-virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Savory soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Malaysian chili paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices",
+      "notes": "preferably baguette"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the duck breast with salt and pepper.",
+    "In a small bowl whisk together soy sauce, chili paste, and 1 tablespoon of olive oil.",
+    "Brush the mixture evenly onto the duck breast, making sure to coat all surfaces.",
+    "Place the duck breast on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until cooked through.",
+    "Meanwhile, toast the bread slices until crispy and golden brown.",
+    "Once the duck is cooked, let it rest for 5 minutes before slicing into thin strips.",
+    "Assemble the toast by placing a few slices of the duck on top of each slice of toasted bread.",
+    "Drizzle with the remaining 1 tablespoon of olive oil and sprinkle with chopped cilantro.",
+    "Squeeze a sliver of lime juice over the top and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "malaysian",
+    "duck",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-savory-malaysian-duck-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:28:37.964Z"
+}
