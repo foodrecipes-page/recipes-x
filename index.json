@@ -691,14 +691,12 @@
   },
   {
     "slug": "x-tra-sweet-peruvian-sweet-potato-picarones",
-    "title": "X-tra Sweet Peruvian Sweet Potato Picarones",
+    "title": "Picarones with Sweet Potato and Peruvian Sauce",
     "tags": [
-      "deep-fried",
-      "dessert",
-      "doughnuts",
-      "marsala",
       "peruvian",
-      "sweet-potatoes"
+      "dessert",
+      "sweet-potato",
+      "fried-dough"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 40,
@@ -4910,16 +4908,15 @@
   },
   {
     "slug": "xtra-creamy-korean-tofu-stew",
-    "title": "Xtra Creamy Korean Tofu Stew",
+    "title": "Spicy Korean Tofu Stew",
     "tags": [
-      "comfort-food",
-      "halal-friendly",
-      "korean-cuisine",
-      "one-pot",
-      "tofu-recipes"
+      "korean",
+      "spicy",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
