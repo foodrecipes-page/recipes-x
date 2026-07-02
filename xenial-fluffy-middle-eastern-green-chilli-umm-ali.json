@@ -1,0 +1,71 @@
+{
+  "slug": "xenial-fluffy-middle-eastern-green-chilli-umm-ali",
+  "title": "Eastern Fluffy Pancakes",
+  "description": "Delicate, eastern-inspired pancakes with green chilli undertones. Serve warm with sweet syrup.",
+  "cuisine": "eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "green chilli",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "xenial eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fluffy milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "middle eastern honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ali butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, green chilli, and a pinch of salt in a mixing bowl.",
+    "In a separate bowl, whisk together eggs, milk, honey, and butter.",
+    "Pour the wet ingredients into the dry ingredients and mix until smooth.",
+    "Heat a non-stick pan over medium heat.",
+    "Drop spoonfuls of the batter onto the pan and cook until bubbles appear.",
+    "Flip the pancakes and cook for another 1-2 minutes.",
+    "Serve warm with sweet syrup."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "eastern",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-fluffy-middle-eastern-green-chilli-umm-ali",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:16:12.333Z"
+}
