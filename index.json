@@ -7163,18 +7163,15 @@
   },
   {
     "slug": "xtra-flaky-mexican-tortilla-quesadilla",
-    "title": "Xtra Flaky Mexican Tortilla Quesadilla",
+    "title": "Mexican Flaky Quesadilla",
     "tags": [
-      "buttery",
-      "flaky",
-      "jain-friendly",
       "mexican",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "quesadilla",
+      "cheese",
+      "easy"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
