@@ -1,0 +1,90 @@
+{
+  "slug": "xtra-creamy-korean-tofu-stew",
+  "title": "Spicy Korean Tofu Stew",
+  "description": "A hearty and flavorful stew made with crispy tofu and a spicy Korean-inspired sauce. Perfect for a cold evening.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Crushed xtra hot red pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "vegetable or chicken broth"
+    },
+    {
+      "name": "Creamy",
+      "amount": "1/4 cup",
+      "notes": "sour cream or heavy cream"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chili flakes and cook for another minute, until fragrant.",
+    "Add the tofu and cook until golden brown on all sides, about 5 minutes.",
+    "Add the stew, soy sauce, rice vinegar, brown sugar, and crushed red pepper.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Stir in the creamy.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-korean-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:19:07.796Z"
+}
