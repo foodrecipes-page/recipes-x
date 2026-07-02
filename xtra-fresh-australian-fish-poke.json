@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-fresh-australian-fish-poke",
+  "title": "Grilled Australian Fish with Poke Sauce",
+  "description": "A refreshing and flavorful dish featuring grilled Australian fish served with a tangy poke sauce.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Fish Fillets (4)",
+      "amount": "1.5 lbs",
+      "notes": "Fresh catch, skin removed"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "For marinade and poke sauce"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp",
+      "notes": "For poke sauce"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "For poke sauce"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp",
+      "notes": "For poke sauce"
+    },
+    {
+      "name": "Hawaiian Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Poke Sauce (store-bought or homemade)",
+      "amount": "to taste",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season fish fillets with Hawaiian salt and let sit for 10 minutes.",
+    "Brush fish with xtra virgin olive oil and grill for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, combine lime juice, fish sauce, soy sauce, and grated ginger in a bowl.",
+    "Stir in homemade or store-bought poke sauce.",
+    "To serve, place grilled fish on a plate and spoon poke sauce over the top.",
+    "Garnish with chopped fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-fish",
+    "poke-sauce",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fresh-australian-fish-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:00:57.700Z"
+}
