@@ -1,0 +1,78 @@
+{
+  "slug": "xtra-creamy-kenyan-mackerel-curry",
+  "title": "Kenyan Mackerel Curry",
+  "description": "A flavorful and easy-to-make Kenyan-inspired curry using mackerel. The creamy sauce pairs well with the rich flavor of the fish.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "fish-only"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mackerel",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for another minute.",
+    "Add mackerel fillets and cook for 2-3 minutes per side.",
+    "Add curry powder and stir to coat the fish.",
+    "Add curry sauce and coconut milk, stir to combine.",
+    "Bring to a simmer and cook for 10-15 minutes or until the fish is cooked through.",
+    "Serve hot with rice or naan."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "curry",
+    "kenyan",
+    "mackerel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-kenyan-mackerel-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:29:28.867Z"
+}
