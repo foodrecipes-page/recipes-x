@@ -1,0 +1,58 @@
+{
+  "slug": "xtra-flaky-argentinian-taleggio-empanadas",
+  "title": "Argentinian Empanadas with Taleggio Cheese Filling",
+  "description": "A classic Argentinian dish featuring flaky empanada pastry filled with a creamy taleggio cheese mixture, perfect for a dinner or snack.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky empanada pastry",
+      "amount": "1 package (8-10 empanadas)"
+    },
+    {
+      "name": "taleggio cheese",
+      "amount": "8 ounces",
+      "notes": "softened at room temperature"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "argentinian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada pastry and cut out circles of dough.",
+    "Combine the softened taleggio cheese, olive oil, and argentinian seasoning in a bowl.",
+    "Spoon a small amount of the cheese mixture onto the center of each dough circle.",
+    "Fold the dough over the filling, forming a half-circle shape, and press the edges to seal.",
+    "Brush the tops of the empanadas with a little water and sprinkle with salt.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "cheese",
+    "empanadas"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-argentinian-taleggio-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T04:35:32.460Z"
+}
