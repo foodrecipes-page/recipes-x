@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-smoky-jamaican-chicken-skewers",
+  "title": "Jamaican Chicken Skewers",
+  "description": "A flavorful and spicy Jamaican-inspired dish, perfect for a quick dinner or lunch.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "X-tra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "soak in water for 30 minutes"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak 10-12 skewers in water for 30 minutes.",
+    "Thread chicken pieces onto skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together jerk seasoning, smoky paprika, garlic powder, salt, and pepper.",
+    "Brush the skewers with olive oil and sprinkle with jerk seasoning mixture.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until chicken is cooked through.",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-jamaican-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:01:12.004Z"
+}
