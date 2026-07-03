@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-roasted-filipino-cheese-casserole",
+  "title": "Filipino-Style Cheese Casserole",
+  "description": "A creamy and savory Filipino-inspired casserole featuring melted cheese and crunchy xtra.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xtra",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roasted",
+      "amount": "1 cup",
+      "notes": "chopped vegetables"
+    },
+    {
+      "name": "filipino",
+      "amount": "2 cups",
+      "notes": "cooked rice"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "casserole",
+      "amount": "1/4 cup",
+      "notes": "oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine xtra, roasted, and filipino ingredients in a large bowl.",
+    "Add cheese and mix well.",
+    "Transfer the mixture to a baking dish and drizzle with casserole.",
+    "Bake for 25-30 minutes or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!",
+    "Note: You can customize this recipe by adding your favorite toppings or ingredients."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "cheesy-casserole",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-roasted-filipino-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:28:24.649Z"
+}
