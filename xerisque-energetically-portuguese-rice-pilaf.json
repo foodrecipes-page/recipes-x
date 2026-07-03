@@ -1,0 +1,62 @@
+{
+  "slug": "xerisque-energetically-portuguese-rice-pilaf",
+  "title": "Portuguese Rice Pilaf",
+  "description": "A flavorful and easy-to-make pilaf dish from Portugal, perfect for a weeknight dinner. This recipe combines the simplicity of rice with the savory taste of portuguese seasonings.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Portuguese",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Xerisque",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Energetically",
+      "amount": "2 cups water"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 tbsp olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pilaf and cook until lightly browned, about 2-3 minutes.",
+    "Add the rice and stir to coat with the oil and mix with the pilaf.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the water is absorbed and the rice is tender.",
+    "Fluff the rice with a fork and serve hot.",
+    "Sprinkle with xerisque and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "rice",
+    "pilaf",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisque-energetically-portuguese-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:30:20.421Z"
+}
