@@ -1,0 +1,69 @@
+{
+  "slug": "x-tremely-fatty-venezuelan-plantain-empanadas",
+  "title": "Venezuelan Plantain Empanadas",
+  "description": "A traditional Venezuelan dish, these empanadas are filled with the sweetness of plantains and the crunch of fried pastry. Perfect as a snack or dessert.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "2 large",
+      "notes": "ripe"
+    },
+    {
+      "name": "x",
+      "amount": ".25 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "tremely fatty empanada dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "Peel and slice the plantains into 1-inch pieces.",
+    "In a bowl, mix together the sliced plantains and a pinch of salt.",
+    "Roll out the empanada dough and cut out circles of dough.",
+    "Place a spoonful of the plantain mixture onto one half of each dough circle.",
+    "Brush the edges of the dough with x.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal.",
+    "Fry the empanadas for 2-3 minutes on each side, or until golden brown.",
+    "Drain the empanadas on paper towels and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "empanadas",
+    "plantain"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tremely-fatty-venezuelan-plantain-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:45:07.302Z"
+}
