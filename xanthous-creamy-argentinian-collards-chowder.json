@@ -1,0 +1,74 @@
+{
+  "slug": "xanthous-creamy-argentinian-collards-chowder",
+  "title": "Argentinian Collard Chowder",
+  "description": "A hearty and flavorful soup originating from Argentina, made with collard greens and creamy ingredients.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Collard Greens",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Xanthous Potatoes",
+      "amount": "3"
+    },
+    {
+      "name": "Argentinian Sausage (Chorizo)",
+      "amount": "1 lb",
+      "notes": "Optional: omit for vegetarian version"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chowder Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add collard greens and cook until wilted.",
+    "Add potatoes, sausage (if using), and broth; bring to a boil.",
+    "Reduce heat and simmer until potatoes are tender, about 15-20 minutes.",
+    "Stir in cream and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "southern",
+    "comfort-food",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-creamy-argentinian-collards-chowder",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T20:33:51.659Z"
+}
