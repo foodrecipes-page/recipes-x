@@ -1987,17 +1987,14 @@
   },
   {
     "slug": "xenial-malaysian-beef-stew",
-    "title": "Xenial Malaysian Beef Stew",
+    "title": "Xenial Beef Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "malaysian",
-      "no-sugar",
-      "stew",
-      "weeknight"
+      "beef stew",
+      "malaysian cuisine",
+      "hearty meal"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 105,
+    "totalTimeMin": 110,
     "shard": "x"
   },
   {
