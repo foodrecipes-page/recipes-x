@@ -1,0 +1,66 @@
+{
+  "slug": "x-crisp-winey-lamb-mince-spherify",
+  "title": "Spherified Lamb Koftas with Crisp Vegetable Skewers",
+  "description": "A unique twist on traditional lamb koftas, featuring spherified ingredients and a side of crunchy vegetable skewers.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g"
+    },
+    {
+      "name": "x",
+      "amount": "to taste"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "winey vegetables",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spherify agent",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large mixing bowl, combine lamb mince, x, and winey vegetables. Mix well.",
+    "Add the spherify agent to the mixture and stir until combined.",
+    "Using your hands, shape the mixture into small koftas.",
+    "Thread the chopped crisp onto skewers.",
+    "Grill the koftas for 3-4 minutes per side, or until they reach an internal temperature of 63°C.",
+    "Meanwhile, grill the vegetable skewers for 2-3 minutes per side, or until tender.",
+    "Serve the spherified lamb koftas with the crispy vegetable skewers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "lamb",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-crisp-winey-lamb-mince-spherify",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:22:42.746Z"
+}
