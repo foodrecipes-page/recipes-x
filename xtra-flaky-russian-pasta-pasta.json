@@ -1,0 +1,90 @@
+{
+  "slug": "xtra-flaky-russian-pasta-pasta",
+  "title": "Creamy Pasta Bake",
+  "description": "A rich and satisfying pasta dish with a flaky, buttery crust.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flaky russian pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente, then set aside.",
+    "In a large skillet, heat olive oil over medium heat. Add butter and melt.",
+    "Add onion and garlic to the skillet and sauté until softened.",
+    "Sprinkle flour over the onion mixture and cook for 1 minute.",
+    "Slowly add milk, whisking continuously to avoid lumps. Bring to a simmer.",
+    "Remove skillet from heat and stir in parmesan until melted.",
+    "In a large bowl, combine cooked pasta and sauce. Season with salt to taste.",
+    "Transfer pasta mixture to a baking dish and top with additional parmesan.",
+    "Bake in preheated oven for 20-25 minutes, or until top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian",
+    "pasta-bake"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 45,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-russian-pasta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:59:31.755Z"
+}
