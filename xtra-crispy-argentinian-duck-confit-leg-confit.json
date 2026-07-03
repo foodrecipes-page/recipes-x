@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-crispy-argentinian-duck-confit-leg-confit",
+  "title": "Crispy Duck Leg Confit",
+  "description": "A classic argentinian dish combining the tender confit duck leg with the crunchy xtra crispy skin. This recipe is a must-try for any poultry lover.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg",
+      "amount": "4",
+      "notes": "skin-on"
+    },
+    {
+      "name": "Confit spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most spice stores or online"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Herbs de provence",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Crispy seasoning blend",
+      "amount": "1 teaspoon",
+      "notes": "available at most spice stores or online"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the duck legs with confit spice blend, garlic, and herbs de provence.",
+    "Heat the xtra virgin olive oil in a large skillet over medium-high heat.",
+    "Sear the duck legs until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the duck legs to a baking sheet and bake in the preheated oven for 15-20 minutes, or until the meat is tender and the skin is crispy.",
+    "While the duck legs are baking, mix together the crispy seasoning blend and a pinch of salt.",
+    "Remove the duck legs from the oven and sprinkle the crispy seasoning blend mixture evenly over the top of each leg.",
+    "Return the duck legs to the oven and bake for an additional 2-3 minutes, or until the crispy topping is golden brown.",
+    "Serve the crispy duck leg confit hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "argentinian",
+    "duck",
+    "confit",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-argentinian-duck-confit-leg-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:17:01.733Z"
+}
