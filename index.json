@@ -8993,16 +8993,15 @@
   },
   {
     "slug": "xtra-peppery-piedmontese-paneer-piadina",
-    "title": "Xtra Peppery Piedmontese Paneer Piadina",
+    "title": "Piedmontese and Paneer Piadina",
     "tags": [
-      "double-fry",
-      "high-protein",
-      "quick-meal",
-      "snack",
-      "veg-friendly"
+      "italian",
+      "beef",
+      "cheese",
+      "grilled"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 18,
     "shard": "x"
   },
   {
