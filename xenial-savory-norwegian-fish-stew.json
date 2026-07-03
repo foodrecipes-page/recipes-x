@@ -1,0 +1,92 @@
+{
+  "slug": "xenial-savory-norwegian-fish-stew",
+  "title": "Pan-Seared Fish Stew",
+  "description": "A hearty and flavorful stew made with fresh fish and a variety of savory spices. Perfect for a cold winter's night.",
+  "cuisine": "Nordic",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "1 pound",
+      "notes": "Any firm white fish such as halibut or cod works well."
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "Peel and chop the carrots into bite-sized pieces."
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "Peel and chop the potatoes into bite-sized pieces."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion into small pieces."
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic adds a lot of flavor to the stew."
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "Use a high-quality fish stew mix for the best flavor."
+    },
+    {
+      "name": "norwegian",
+      "amount": "1 teaspoon",
+      "notes": "A pinch of Norwegian seasoning adds a unique flavor to the stew."
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "Use low-sodium broth for a healthier option."
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "Add salt to taste."
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Add pepper to taste."
+    }
+  ],
+  "instructions": [
+    "Heat the water in a large pot over medium heat.",
+    "Add the onion, garlic, and Norwegian seasoning to the pot and sauté until the onion is translucent.",
+    "Add the fish, carrot, and potato to the pot and stir to combine.",
+    "Pour in the stew mix and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 15-20 minutes, or until the fish is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "stew",
+    "nordic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-savory-norwegian-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:12:32.303Z"
+}
