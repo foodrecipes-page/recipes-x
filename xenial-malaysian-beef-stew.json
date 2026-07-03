@@ -1,0 +1,94 @@
+{
+  "slug": "xenial-malaysian-beef-stew",
+  "title": "Xenial Beef Stew",
+  "description": "A hearty beef stew inspired by Malaysian flavors, perfect for a cold evening. This dish is a testament to the warmth and hospitality of xenial cultures.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "beef",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "chuck or round, sliced"
+    },
+    {
+      "name": "xenial stew mix",
+      "amount": "1 packet",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for depth of flavor"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled, cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned, then set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened.",
+    "Add the stew mix, chili flakes (if using), and soy sauce, and cook for 1 minute.",
+    "Add the browned beef back in, along with the potatoes and carrots.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and let cook, covered, for 1.5 hours or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef stew",
+    "malaysian cuisine",
+    "hearty meal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-malaysian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:03:44.012Z"
+}
