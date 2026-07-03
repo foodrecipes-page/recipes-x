@@ -5457,16 +5457,15 @@
   },
   {
     "slug": "xtra-crispy-argentinian-duck-confit-leg-confit",
-    "title": "Xtra-Crispy Argentinian Duck Confit Leg",
+    "title": "Crispy Duck Leg Confit",
     "tags": [
       "argentinian",
-      "diabetic-friendly",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "duck",
+      "confit",
+      "crispy"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 225,
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -6806,17 +6805,15 @@
   },
   {
     "slug": "xtra-dense-roasted-irish-duck-leg-roast",
-    "title": "Xtra Dense Roasted Irish Duck Leg Roast",
+    "title": "Roasted Irish Duck Leg",
     "tags": [
-      "comfort-food",
-      "crowd-pleaser",
       "irish",
-      "low-fat",
-      "one-pan",
-      "roasted"
+      "duck",
+      "roasted",
+      "lunch"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 85,
+    "totalTimeMin": 55,
     "shard": "x"
   },
   {
