@@ -9439,17 +9439,14 @@
   },
   {
     "slug": "xtra-roasted-filipino-cheese-casserole",
-    "title": "Xtra Roasted Filipino Cheese Casserole",
+    "title": "Filipino-Style Cheese Casserole",
     "tags": [
-      "casserole",
-      "comfort-food",
-      "filipino-food",
-      "kid-friendly",
-      "one-pan",
-      "vegetarian"
+      "filipino-cuisine",
+      "cheesy-casserole",
+      "vegetarian-dinner"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 55,
+    "cuisine": "filipino",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
