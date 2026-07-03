@@ -2263,17 +2263,14 @@
   },
   {
     "slug": "xenial-savory-norwegian-fish-stew",
-    "title": "Xenial Savory Norwegian Fish Stew",
+    "title": "Pan-Seared Fish Stew",
     "tags": [
-      "comfort-food",
-      "fish-stew",
-      "gluten-free",
-      "norwegian-cuisine",
-      "one-pot",
-      "pescatarian"
+      "fish",
+      "stew",
+      "nordic"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "cuisine": "Nordic",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -3720,15 +3717,14 @@
   },
   {
     "slug": "xerisque-energetically-portuguese-rice-pilaf",
-    "title": "xerisque energetically portuguese rice pilaf",
+    "title": "Portuguese Rice Pilaf",
     "tags": [
-      "gluten-free",
-      "one-pan",
       "portuguese",
-      "vegetarian",
-      "weeknight"
+      "rice",
+      "pilaf",
+      "easy"
     ],
-    "cuisine": "portuguese",
+    "cuisine": "Portuguese",
     "totalTimeMin": 30,
     "shard": "x"
   },
@@ -11511,17 +11507,16 @@
   },
   {
     "slug": "xtra-tender-tuscan-pork-skillet",
-    "title": "Xtra Tender Tuscan Pork Skillet",
+    "title": "Tuscan Pork Skillet",
     "tags": [
-      "gluten-free",
-      "italian-cuisine",
-      "one-pot",
-      "pork-recipes",
-      "weeknight-dinner",
-      "whole30"
+      "tuscan",
+      "pork",
+      "skillet",
+      "italian",
+      "easy"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
