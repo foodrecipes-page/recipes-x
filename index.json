@@ -7211,17 +7211,14 @@
   },
   {
     "slug": "xtra-flaky-russian-pasta-pasta",
-    "title": "xtra-flaky russian pasta pasta",
+    "title": "Creamy Pasta Bake",
     "tags": [
-      "easy",
-      "gluten-free",
-      "pasta",
-      "russian",
-      "vegetarian",
-      "weeknight"
+      "comfort-food",
+      "italian",
+      "pasta-bake"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 30,
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
