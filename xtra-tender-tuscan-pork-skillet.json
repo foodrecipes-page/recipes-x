@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-tender-tuscan-pork-skillet",
+  "title": "Tuscan Pork Skillet",
+  "description": "A hearty Italian-inspired pork skillet dish with tender pork, crispy tuscan vegetables, and a hint of xtra flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Tuscan",
+      "amount": "2 large",
+      "notes": "bell peppers, sliced"
+    },
+    {
+      "name": "Xtra",
+      "amount": "2 large",
+      "notes": "onions, sliced"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1 medium",
+      "notes": "zucchini, sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add 1 tablespoon of oil and cook pork until browned, about 5 minutes.",
+    "Add sliced onions and bell peppers and cook until tender, about 5 minutes.",
+    "Add sliced zucchini and cook until tender, about 3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tuscan",
+    "pork",
+    "skillet",
+    "italian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tender-tuscan-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:22:46.926Z"
+}
