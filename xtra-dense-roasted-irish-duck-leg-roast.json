@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-dense-roasted-irish-duck-leg-roast",
+  "title": "Roasted Irish Duck Leg",
+  "description": "A classic dish featuring the rich flavors of roasted duck leg, served with a side of roasted vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 Irish duck leg",
+      "amount": "1",
+      "notes": "Prepared at room temperature"
+    },
+    {
+      "name": "2 tablespoons xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "2 cloves roasted garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon dense salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "1 cup roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, potatoes, and parsnips"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the duck leg and pat dry with paper towels.",
+    "Season the duck leg with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the duck leg until browned on all sides, about 5 minutes.",
+    "Transfer the duck leg to a roasting pan and roast in the preheated oven for 20 minutes.",
+    "Reduce the oven temperature to 325°F (160°C) and continue roasting for an additional 20-25 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Let the duck leg rest for 10 minutes before slicing and serving.",
+    "Toss the roasted vegetables with olive oil, salt, and pepper, and roast in the oven for 20-25 minutes, or until tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "duck",
+    "roasted",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-roasted-irish-duck-leg-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:06:07.848Z"
+}
