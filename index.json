@@ -739,17 +739,16 @@
   },
   {
     "slug": "x-tra-winey-brazilian-tofu-curry",
-    "title": "X-tra winey Brazilian tofu curry",
+    "title": "Curry Tofu Stir Fry",
     "tags": [
-      "brazilian",
+      "stir-fry",
       "curry",
-      "date-night",
-      "one-pan",
       "tofu",
-      "winey"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -5077,16 +5076,14 @@
   },
   {
     "slug": "xtra-crisp-canadian-haddock-chowder",
-    "title": "Xtra Crisp Canadian Haddock Chowder",
+    "title": "New England Haddock Chowder",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "crispy-top",
-      "fermented-food",
-      "seafood-chowder"
+      "seafood",
+      "soup",
+      "new-england"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -9022,16 +9019,16 @@
   },
   {
     "slug": "xtra-peppery-syrian-fish-poke",
-    "title": "Xtra Peppery Syrian Fish Poke",
+    "title": "Grilled Poke with Syrian Pepper",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "no-cook",
-      "seafood"
+      "healthy",
+      "grilled",
+      "poke",
+      "syrian pepper",
+      "xtra"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 18,
     "shard": "x"
   },
   {
