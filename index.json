@@ -6846,17 +6846,16 @@
   },
   {
     "slug": "xtra-dense-syrian-chickpeas-wrap",
-    "title": "Xtra Dense Syrian Chickpeas Wrap",
+    "title": "Syrian Chickpea Wrap",
     "tags": [
-      "healthy-snack",
-      "low-fat",
-      "middle-eastern",
-      "steam-cooked",
-      "syrian-cuisine",
-      "vegetarian"
+      "syrian",
+      "chickpea",
+      "wrap",
+      "lunch",
+      "snack"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -9971,16 +9970,15 @@
   },
   {
     "slug": "xtra-silky-vietnamese-chicken-ca-kho-to",
-    "title": "Xtra Silky Vietnamese Chicken Ca Kho To",
+    "title": "Vietnamese Chicken Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "satvik-friendly",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "chicken",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 50,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
