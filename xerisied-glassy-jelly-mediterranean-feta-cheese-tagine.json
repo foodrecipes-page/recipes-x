@@ -1,0 +1,73 @@
+{
+  "slug": "xerisied-glassy-jelly-mediterranean-feta-cheese-tagine",
+  "title": "Mediterranean Tagine",
+  "description": "A traditional North African stew originating from the Tagine, made with a flavorful blend of spices, herbs, and cheese.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xerisied cheese",
+      "amount": "1 block, crumbled"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 medium, peeled and chopped"
+    },
+    {
+      "name": "glassy noodles",
+      "amount": "1/2 cup, cooked"
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/4 cup, pitted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped tagine and cook until softened, about 5 minutes.",
+    "Add the crumbled cheese, cooked noodles, and pitted olives.",
+    "Season with salt and black pepper to taste.",
+    "Cover the saucepan and cook for an additional 5 minutes.",
+    "Serve hot, garnished with additional cheese and olives if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "tagine",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisied-glassy-jelly-mediterranean-feta-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:02:21.419Z"
+}
