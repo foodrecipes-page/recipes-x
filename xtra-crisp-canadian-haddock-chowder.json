@@ -1,0 +1,70 @@
+{
+  "slug": "xtra-crisp-canadian-haddock-chowder",
+  "title": "New England Haddock Chowder",
+  "description": "A classic seafood chowder recipe from the coast of New England, featuring fresh haddock and potatoes.",
+  "cuisine": "American",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haddock",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "xtra",
+      "amount": "1 cup",
+      "notes": "diced xtra potatoes"
+    },
+    {
+      "name": "crisp",
+      "amount": "1/4 cup",
+      "notes": "chopped crisp bacon"
+    },
+    {
+      "name": "canadian",
+      "amount": "1/2 cup",
+      "notes": "diced onions"
+    },
+    {
+      "name": "clam juice",
+      "amount": "2 cups",
+      "notes": "canned or homemade"
+    }
+  ],
+  "instructions": [
+    "Rinse the haddock and pat dry with a paper towel.",
+    "In a large pot or Dutch oven, cook the bacon over medium heat until crispy.",
+    "Remove the cooked bacon with a slotted spoon and set aside.",
+    "Add the diced onions to the pot and cook until softened, about 5 minutes.",
+    "Add the diced potatoes, clam juice, and fish stock to the pot.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 10 minutes.",
+    "Add the haddock to the pot and cook until opaque and flaky, about 5-7 minutes.",
+    "Stir in the cooked bacon and chopped fresh herbs (if using).",
+    "Season the chowder with salt and pepper to taste.",
+    "Serve hot, garnished with chopped scallions and a side of crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "soup",
+    "new-england"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-canadian-haddock-chowder",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:28:03.206Z"
+}
