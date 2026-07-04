@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-gooey-argentinian-dough-bake",
+  "title": "Argentinian Empanadas",
+  "description": "A traditional Argentine pastry filled with a mix of cheese and beef. These empanadas are perfect as a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Xtra Sharp Cheddar Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Gooey Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Argentinian Ground Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dough",
+      "amount": "homemade or store-bought"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the cumin, salt, and honey to the skillet and stir to combine.",
+    "In a large bowl, combine the flour, baking powder, and a pinch of salt.",
+    "Gradually add the Xtra Sharp Cheddar Cheese to the dry ingredients and stir until the mixture resembles coarse crumbs.",
+    "Add the cooked ground beef mixture to the bowl and stir until just combined.",
+    "Divide the dough into 8-10 equal pieces.",
+    "On a lightly floured surface, roll out each piece of dough into a thin circle.",
+    "Place 1-2 tablespoons of the beef and cheese mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-circle and press the edges together to seal.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "beef",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-gooey-argentinian-dough-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:08:23.805Z"
+}
