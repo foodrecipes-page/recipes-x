@@ -1,0 +1,74 @@
+{
+  "slug": "x-tra-winey-brazilian-tofu-curry",
+  "title": "Curry Tofu Stir Fry",
+  "description": "A quick and easy stir fry made with curry-spiced tofu, served over a bed of rice.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "press and drain before use"
+    },
+    {
+      "name": "Curry",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Tra",
+      "amount": "2 cups",
+      "notes": "mixed vegetables (bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "Brazilian",
+      "amount": "1 cup",
+      "notes": "cooked rice"
+    },
+    {
+      "name": "X",
+      "amount": "2 tbsp",
+      "notes": "neutral oil (e.g. canola or grapeseed)"
+    },
+    {
+      "name": "Winey",
+      "amount": "2 tbsp",
+      "notes": "soy sauce (or tamari for gluten-free)"
+    }
+  ],
+  "instructions": [
+    "Heat the X in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes per side.",
+    "Add the Tra and cook until the vegetables are tender-crisp, about 3-4 minutes.",
+    "Add the curry and stir to combine.",
+    "Stir in the Brazilian and Winey.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot over the Brazilian."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "curry",
+    "tofu",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-winey-brazilian-tofu-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:45:20.590Z"
+}
