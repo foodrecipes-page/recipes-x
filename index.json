@@ -3653,15 +3653,15 @@
   },
   {
     "slug": "xerisied-glassy-jelly-mediterranean-feta-cheese-tagine",
-    "title": "Xerisied Glassy Jelly Mediterranean Feta Cheese Tagine",
+    "title": "Mediterranean Tagine",
     "tags": [
-      "feta-cheese",
       "mediterranean",
-      "post-workout",
-      "tagine"
+      "tagine",
+      "cheese",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 55,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -4124,17 +4124,15 @@
   },
   {
     "slug": "xtra-buttery-egyptian-fish-pilaf",
-    "title": "Xtra Buttery Egyptian Fish Pilaf",
+    "title": "Pan-Seared Fish with Egyptian Pilaf",
     "tags": [
-      "fish-based",
-      "middle-eastern",
-      "one-pan",
-      "pescatarian",
-      "spicy",
-      "weeknight"
+      "fish",
+      "pilaf",
+      "easy",
+      "dinner"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
@@ -7296,17 +7294,14 @@
   },
   {
     "slug": "xtra-fluffy-american-corn-pancakes",
-    "title": "Xtra Fluffy American Corn Pancakes",
+    "title": "Classic American Pancakes",
     "tags": [
-      "american-classic",
-      "breakfast-ideas",
-      "brunch-recipe",
-      "corn-based",
-      "fluffy-pancakes",
-      "vegan-friendly"
+      "breakfast",
+      "pancakes",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
