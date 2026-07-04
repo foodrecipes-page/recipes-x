@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-spicy-syrian-beef-bowl",
+  "title": "Spicy Beef Bowl",
+  "description": "A flavorful and spicy beef dish served in a bowl, inspired by Syrian cuisine.",
+  "cuisine": "syrian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "spicy",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "Clean and ready to serve"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large pan over medium-high heat.",
+    "2. Add the sliced beef and cook until browned, about 3-4 minutes.",
+    "3. Add the onion and garlic and cook until softened, about 2-3 minutes.",
+    "4. Stir in the spicy mix and cook for 1 minute.",
+    "5. Add the tomato and cook until heated through, about 2 minutes.",
+    "6. Season with salt and pepper to taste.",
+    "7. Serve the spicy beef mixture in the prepared bowl.",
+    "8. Garnish with fresh herbs, if desired.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "spicy",
+    "syrian",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-syrian-beef-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:30:12.730Z"
+}
