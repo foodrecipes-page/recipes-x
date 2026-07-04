@@ -1,0 +1,58 @@
+{
+  "slug": "xtra-buttery-canadian-bread-casserole",
+  "title": "Buttery Canadian Bread Casserole",
+  "description": "A simple and delicious casserole made with bread, butter, and a dash of Canadian flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buttery Canadian bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "xtra cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup, crushed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut the bread into 1-inch cubes and set aside.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the crushed casserole and cook for 2-3 minutes, stirring frequently.",
+    "Add the shredded cheese and stir until melted and smooth.",
+    "In a large mixing bowl, combine the bread cubes and cheese mixture. Stir until the bread is evenly coated.",
+    "Transfer the mixture to a 9x13-inch baking dish and dot the top with the remaining 2 tablespoons of butter.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "casserole",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-buttery-canadian-bread-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:20:12.093Z"
+}
