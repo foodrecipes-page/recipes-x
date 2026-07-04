@@ -1,0 +1,89 @@
+{
+  "slug": "x-treme-spanish-ground-sugar-patatas-bravas",
+  "title": "Patatas Bravas",
+  "description": "A classic Spanish tapas dish, Patatas Bravas consists of crispy fried potatoes in a spicy tomato sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "patatas",
+      "amount": "4-6 medium-sized potatoes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": "balances acidity"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium-high heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the diced tomato and cook until the tomatoes start to break down.",
+    "Add the spicy sauce, salt, sugar, and ground cumin. Stir well.",
+    "Meanwhile, peel the potatoes and cut them into 1-inch cubes.",
+    "Heat about 1/2 inch of olive oil in a separate pan over medium-high heat.",
+    "Fry the potato cubes until they're golden brown and crispy.",
+    "Drain the potatoes on paper towels and add them to the tomato sauce.",
+    "Toss the potatoes in the sauce until they're well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "tapas",
+    "potatoes",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-treme-spanish-ground-sugar-patatas-bravas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:48:40.913Z"
+}
