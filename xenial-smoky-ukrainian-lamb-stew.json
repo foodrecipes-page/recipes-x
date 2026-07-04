@@ -1,89 +1,86 @@
 {
   "slug": "xenial-smoky-ukrainian-lamb-stew",
-  "title": "Smoky Lamb Stew",
-  "description": "A hearty and flavorful stew made with tender lamb, smoky spices, and a hint of Ukrainian flair.",
-  "cuisine": "Ukrainian",
+  "title": "Ukrainian Lamb Stew",
+  "description": "A hearty and flavorful stew made with tender lamb, smoky spices, and vegetables. Perfect for a cold winter night.",
+  "cuisine": "Eastern European",
   "diet": [
-    "meat"
+    "meat",
+    "omnivore"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "Lamb shoulder",
       "amount": "1.5 pounds",
-      "notes": "cut into 1-inch cubes"
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop into bite-sized pieces"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Peel and chop into bite-sized pieces"
     },
     {
       "name": "Onion",
-      "amount": "1 medium",
-      "notes": "chopped"
+      "amount": "1 large",
+      "notes": "Chop into small pieces"
     },
     {
-      "name": "Carrot",
-      "amount": "2 medium",
-      "notes": "peeled and chopped"
+      "name": "Ukrainian stew spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Eastern European grocery stores"
     },
     {
-      "name": "Potato",
-      "amount": "2 large",
-      "notes": "peeled and chopped"
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Dissolve in 2 tablespoons of water"
     },
     {
-      "name": "Smoked paprika",
-      "amount": "2 teaspoons",
-      "notes": "smoky flavor"
-    },
-    {
-      "name": "Ukrainian dried thyme",
-      "amount": "1 teaspoon",
-      "notes": " adds depth"
-    },
-    {
-      "name": "Salt",
-      "amount": "1 teaspoon",
-      "notes": "to taste"
-    },
-    {
-      "name": "Black pepper",
-      "amount": "1/2 teaspoon",
-      "notes": "to taste"
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Optional, but adds depth of flavor"
     },
     {
       "name": "Water",
       "amount": "2 cups",
-      "notes": "stock or water"
+      "notes": "Add more as needed to achieve desired consistency"
     }
   ],
   "instructions": [
     "Heat oil in a large Dutch oven over medium-high heat.",
-    "Brown the lamb cubes in batches until browned on all sides, about 5 minutes.",
-    "Remove the lamb from the pot and set aside.",
-    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
-    "Add the chopped carrot and potato to the pot and cook for an additional 5 minutes.",
-    "Return the lamb to the pot and add the smoked paprika, thyme, salt, and pepper.",
-    "Pour in the water and bring to a boil.",
-    "Cover the pot and transfer to the oven.",
-    "Bake at 300°F for 2 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Add lamb cubes and cook until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté onions until softened, about 3-4 minutes.",
+    "Add carrots and potatoes, cook for an additional 5 minutes.",
+    "Add Ukrainian stew spice blend and cook for 1 minute, stirring constantly.",
+    "Add tomato paste and red wine (if using), stir to combine.",
+    "Return lamb to pot, add water, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 2-3 hours, or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh dill if desired."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 150,
-  "totalTimeMin": 170,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "lamb",
     "stew",
-    "ukrainian"
+    "ukrainian",
+    "european"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 35,
-    "carbs": 25,
-    "fat": 20
+    "calories": 550,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/xenial-smoky-ukrainian-lamb-stew",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T15:59:55.060Z"
+  "createdAt": "2026-07-02T16:37:18.211Z"
 }
