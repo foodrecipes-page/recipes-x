@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-dense-syrian-chickpeas-wrap",
+  "title": "Syrian Chickpea Wrap",
+  "description": "A flavorful and healthy wrap filled with chickpeas, perfect for a quick lunch or snack.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Dense Syrian Bread (Wrap)",
+      "amount": "1"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add the olive oil and sauté the chickpeas until lightly browned.",
+    "Season with salt and pepper to taste.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by placing the chickpea mixture on the wrap.",
+    "Sprinkle with cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "chickpea",
+    "wrap",
+    "lunch",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-syrian-chickpeas-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:58:00.539Z"
+}
