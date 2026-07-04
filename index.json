@@ -2368,14 +2368,15 @@
   },
   {
     "slug": "xenial-smoky-ukrainian-lamb-stew",
-    "title": "Smoky Lamb Stew",
+    "title": "Ukrainian Lamb Stew",
     "tags": [
       "lamb",
       "stew",
-      "ukrainian"
+      "ukrainian",
+      "european"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 170,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 140,
     "shard": "x"
   },
   {
