@@ -1,0 +1,83 @@
+{
+  "slug": "xtra-silky-vietnamese-chicken-ca-kho-to",
+  "title": "Vietnamese Chicken Stew",
+  "description": "A hearty and flavorful Vietnamese-inspired stew made with chicken, vegetables, and a rich broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vietnamese kho sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "ca",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "to",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "silky tofu",
+      "amount": "1/2 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add kho sauce, fish sauce, and sugar. Cook for 1 minute.",
+    "Add ca, to, and tofu. Cook for 2 minutes.",
+    "Add 2 cups of water. Bring to a boil, then reduce heat to low.",
+    "Simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-vietnamese-chicken-ca-kho-to",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:03:32.970Z"
+}
