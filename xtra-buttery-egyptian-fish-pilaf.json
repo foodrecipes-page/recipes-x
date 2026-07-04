@@ -1,0 +1,62 @@
+{
+  "slug": "xtra-buttery-egyptian-fish-pilaf",
+  "title": "Pan-Seared Fish with Egyptian Pilaf",
+  "description": "A flavorful and healthy meal featuring pan-seared fish and a side of aromatic Egyptian pilaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egyptian pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish",
+      "amount": "4 fillets (6 oz each)",
+      "notes": "Any firm white fish works well, such as tilapia or cod."
+    },
+    {
+      "name": "buttery",
+      "amount": "4 tbsp (1/2 stick)",
+      "notes": "Unsalted butter works best for this recipe."
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the fish fillets and pat them dry with paper towels.",
+    "Season the fish with salt and pepper.",
+    "Heat the buttery in a large skillet over medium-high heat.",
+    "Add the fish to the skillet and cook for 3-4 minutes on each side, or until it reaches an internal temperature of 145°F.",
+    "While the fish is cooking, prepare the Egyptian pilaf according to package instructions.",
+    "Serve the pan-seared fish with a side of Egyptian pilaf and a sprinkle of xtra.",
+    "Garnish with chopped fresh herbs, such as parsley or cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "pilaf",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-buttery-egyptian-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:27:45.947Z"
+}
