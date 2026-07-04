@@ -4106,16 +4106,14 @@
   },
   {
     "slug": "xtra-buttery-canadian-bread-casserole",
-    "title": "Xtra Buttery Canadian Bread Casserole",
+    "title": "Buttery Canadian Bread Casserole",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "easy-dinner",
-      "low-carb",
-      "one-pan"
+      "breakfast",
+      "casserole",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
