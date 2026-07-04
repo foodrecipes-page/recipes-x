@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-peppery-syrian-fish-poke",
+  "title": "Grilled Poke with Syrian Pepper",
+  "description": "A flavorful and healthy poke dish made with grilled fish, topped with a spicy Syrian pepper sauce and crunchy xtra.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "poke",
+      "amount": "400g",
+      "notes": "fresh, raw"
+    },
+    {
+      "name": "xtra",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "peppery",
+      "amount": "2 tsp",
+      "notes": "Syrian pepper"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Marinate the poke in a mixture of olive oil, lemon juice, and minced garlic for at least 30 minutes.",
+    "Preheat the grill to medium-high heat.",
+    "Grill the poke for 3-4 minutes per side, or until it reaches an internal temperature of 145°F (63°C).",
+    "Meanwhile, mix the crushed xtra and Syrian pepper to create the spicy sauce.",
+    "Once the poke is cooked, let it rest for a few minutes before slicing it into thin pieces.",
+    "Serve the grilled poke with the spicy sauce spooned over the top.",
+    "Garnish with additional xtra and Syrian pepper if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "grilled",
+    "poke",
+    "syrian pepper",
+    "xtra"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-peppery-syrian-fish-poke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:33:42.828Z"
+}
