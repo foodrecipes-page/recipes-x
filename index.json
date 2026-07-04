@@ -7908,17 +7908,15 @@
   },
   {
     "slug": "xtra-gooey-argentinian-dough-bake",
-    "title": "xtra gooey argentinian dough bake",
+    "title": "Argentinian Empanadas",
     "tags": [
       "argentinian",
-      "gluten-free",
-      "low-glycemic",
-      "pico-de-gallo",
-      "romantic",
-      "wood-fired"
+      "empanadas",
+      "beef",
+      "cheese"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 30,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
