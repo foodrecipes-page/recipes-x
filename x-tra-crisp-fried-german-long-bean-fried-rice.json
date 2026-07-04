@@ -1,0 +1,72 @@
+{
+  "slug": "x-tra-crisp-fried-german-long-bean-fried-rice",
+  "title": "Crispy German Fried Rice",
+  "description": "A German-inspired twist on the classic fried rice dish, topped with crispy onions and served with a side of steamed bean sprouts.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tra",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "onions, for garnish"
+    },
+    {
+      "name": "fried",
+      "amount": "1 cup",
+      "notes": "rice"
+    },
+    {
+      "name": "german",
+      "amount": "1 cup",
+      "notes": "sauerkraut"
+    },
+    {
+      "name": "long",
+      "amount": "1 cup",
+      "notes": "grains"
+    },
+    {
+      "name": "bean",
+      "amount": "1 cup",
+      "notes": "sprouts"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the onions and cook until crispy, about 3-4 minutes.",
+    "Add the cooked rice, sauerkraut, and grains to the wok.",
+    "Stir-fry until the ingredients are well combined, about 2-3 minutes.",
+    "Add the bean sprouts and stir-fry for another minute.",
+    "Transfer the fried rice to a serving platter and garnish with crispy onions.",
+    "Serve immediately and enjoy!",
+    "Note: You can customize this recipe by adding your favorite protein or spices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "fried-rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-crisp-fried-german-long-bean-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:04:55.915Z"
+}
