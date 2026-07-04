@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-fluffy-american-corn-pancakes",
+  "title": "Classic American Pancakes",
+  "description": "A simple and delicious breakfast recipe for fluffy pancakes. This American classic is sure to please both kids and adults alike.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "xtra large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn",
+      "amount": "1 tablespoon, for serving (optional)"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "In a separate bowl, whisk together eggs, milk, and melted butter.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with butter and maple syrup, if desired.",
+    "If desired, sprinkle with corn for added flavor and texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-american-corn-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:05:47.750Z"
+}
