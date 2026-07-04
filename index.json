@@ -815,16 +815,15 @@
   },
   {
     "slug": "x-treme-spanish-ground-sugar-patatas-bravas",
-    "title": "X-Treme Spanish Ground Sugar Patatas Bravas",
+    "title": "Patatas Bravas",
     "tags": [
-      "buddhist-temple-friendly",
-      "hangover-cure",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "spanish",
+      "tapas",
+      "potatoes",
+      "spicy"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -2338,17 +2337,14 @@
   },
   {
     "slug": "xenial-smoky-middle-eastern-renkon-lotus-root-tagine",
-    "title": "Xenial Smoky Middle Eastern Renkon Lotus Root Tagine",
+    "title": "Smoked Lotus Root Tagine",
     "tags": [
-      "comfort-food",
-      "dutch-oven",
-      "middle-eastern",
-      "one-pan",
-      "plant-based",
-      "smoky"
+      "lotus root",
+      "smoked paprika",
+      "vegetarian"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -10860,17 +10856,16 @@
   },
   {
     "slug": "xtra-spicy-syrian-beef-bowl",
-    "title": "Xtra Spicy Syrian Beef Bowl",
+    "title": "Spicy Beef Bowl",
     "tags": [
-      "beef-bowl",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
+      "beef",
       "spicy",
-      "weeknight"
+      "syrian",
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "syrian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
