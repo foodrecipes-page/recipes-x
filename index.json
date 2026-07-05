@@ -9938,17 +9938,15 @@
   },
   {
     "slug": "xtra-silky-venezuelan-orange-ceviche",
-    "title": "Xtra Silky Venezuelan Orange Ceviche",
+    "title": "Venezuelan-Style Ceviche",
     "tags": [
-      "gluten-free",
-      "quick-fix",
-      "raw-friendly",
-      "refreshing",
-      "south-american",
-      "vegan"
+      "ceviche",
+      "fish",
+      "venezuelan",
+      "snack"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -10689,15 +10687,14 @@
   },
   {
     "slug": "xtra-spicy-jamaican-ground-coriander-tagine",
-    "title": "Xtra Spicy Jamaican Ground Coriander Tagine",
+    "title": "Jamaican Tagine",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "north-african",
+      "vegetarian",
+      "lamb-free"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
