@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-gooey-thai-sticky-rice-khanom-krok",
+  "title": "Thai-Style Khanom Krok",
+  "description": "A popular Thai dessert, khanom krok is a steamed rice cake topped with coconut milk and sugar.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": "preferably sweet rice flour"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "xtra",
+      "amount": "1/4 teaspoon",
+      "notes": "salt or xtra to taste"
+    },
+    {
+      "name": "khanom",
+      "amount": "1/2 cup",
+      "notes": "coconut cream or khanom paste"
+    },
+    {
+      "name": "krok",
+      "amount": "1/4 cup",
+      "notes": "coconut oil or krok oil"
+    }
+  ],
+  "instructions": [
+    "Mix rice flour, coconut milk, sugar, and xtra in a bowl.",
+    "Add khanom paste and mix until combined.",
+    "Heat krok oil in a skillet over medium heat.",
+    "Pour batter into a khanom krok mold or a mini cast-iron skillet.",
+    "Steam for 5-7 minutes or until cooked through.",
+    "Serve with additional coconut milk and sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "thai",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-gooey-thai-sticky-rice-khanom-krok",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:20:09.346Z"
+}
