@@ -1062,17 +1062,15 @@
   },
   {
     "slug": "xanthous-springy-uruguayan-lentil-pilaf",
-    "title": "Xanthous Springy Uruguayan Lentil Pilaf",
+    "title": "Uruguayan Lentil Pilaf",
     "tags": [
-      "cedar-plank-cooked",
-      "lentil-based",
-      "satvik-friendly",
-      "spring-inspired",
-      "uruguayan-cuisine",
-      "vegetarian-option"
+      "lentil",
+      "pilaf",
+      "uruguayan",
+      "vegetarian"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -4373,17 +4371,15 @@
   },
   {
     "slug": "xtra-chewy-indian-chestnuts-aloo-gobi",
-    "title": "Xtra Chewy Indian Chestnuts Aloo Gobi",
+    "title": "Gobi Aloo Stir Fry",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "indian-food",
-      "post-workout",
-      "vegan-friendly",
-      "weeknight"
+      "indian",
+      "stir-fry",
+      "cauliflower",
+      "potatoes"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
@@ -10481,17 +10477,14 @@
   },
   {
     "slug": "xtra-special-british-monkfish-yorkshire-pudding",
-    "title": "Xtra Special British Monkfish Yorkshire Pudding",
+    "title": "Monkfish in a Yorkshire Pudding Crust",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "diabetic-friendly",
-      "low-carb",
-      "seafood-lovers",
-      "special-occasion"
+      "british",
+      "fish",
+      "pudding"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
