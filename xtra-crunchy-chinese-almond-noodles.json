@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-crunchy-chinese-almond-noodles",
+  "title": "Crunchy Asian Noodle Salad",
+  "description": "A quick and easy salad made with crunchy noodles, Asian-style flavors, and a refreshing crunch.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "crunchy noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "xtra veggies",
+      "amount": "2 cups",
+      "notes": "Chopped carrots, bell peppers, and snap peas"
+    },
+    {
+      "name": "chinese dressing",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Chop veggies and set aside.",
+    "In a large bowl, whisk together Chinese dressing and chopped cilantro.",
+    "Add cooked noodles, chopped veggies, and chopped almonds to the bowl.",
+    "Toss to combine and season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "salad",
+    "vegetarian",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-chinese-almond-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:07:27.684Z"
+}
