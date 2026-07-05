@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-spicy-polish-sausage-casserole",
+  "title": "Polish Sausage Xtra Spicy Casserole",
+  "description": "A hearty, spicy casserole made with polish sausage, xtra cheese, and a hint of spicy kick.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "polish sausage",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "xtra cheese",
+      "amount": "1 cup, shredded",
+      "notes": "divided"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 jar",
+      "notes": " polish sausage casserole mix"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": " sautéed"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, diced",
+      "notes": " sautéed"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook polish sausage in a large skillet over medium-high heat, breaking up with a spoon as it cooks. Drain on paper towels.",
+    "In the same skillet, sauté onion and bell pepper until tender.",
+    "In a large mixing bowl, combine casserole mix, cooked sausage, sautéed onion and bell pepper, and 3/4 cup of xtra cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with remaining 1/4 cup of xtra cheese.",
+    "Bake for 25-30 minutes, or until golden brown and bubbly.",
+    "Sprinkle with cayenne pepper, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "sausage",
+    "casserole",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-polish-sausage-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:52:27.161Z"
+}
