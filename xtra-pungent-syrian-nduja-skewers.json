@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-pungent-syrian-nduja-skewers",
+  "title": "Spicy Nduja Skewers",
+  "description": "A flavorful and spicy dish made with nduja sausage, perfect for grilling. Serve as an appetizer or snack.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nduja Sausage",
+      "amount": "4",
+      "notes": "Slice into 1-inch pieces"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Pungent Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for marinade"
+    },
+    {
+      "name": "Syrian Oregano",
+      "amount": "1 tsp",
+      "notes": "Dried oregano"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, and oregano.",
+    "Add nduja sausage to the marinade and mix well.",
+    "Alternate nduja sausage with vegetables on skewers.",
+    "Brush skewers with remaining marinade.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "appetizer",
+    "spicy",
+    "nduja"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-pungent-syrian-nduja-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:44:10.794Z"
+}
