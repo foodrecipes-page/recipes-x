@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-fluffy-portuguese-cod-pasta",
+  "title": "Baked Cod with Portuguese Pasta",
+  "description": "A simple and delicious recipe for baked cod served with a traditional Portuguese pasta dish.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Pasta (such as fettuccine or linguine)",
+      "amount": "8 oz",
+      "notes": "Dried or fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fluffy white breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or plain"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the cod fillets and pat them dry with a paper towel.",
+    "Season the cod with salt and pepper.",
+    "In a shallow dish, mix together the olive oil, lemon juice, and garlic.",
+    "Add the cod fillets to the dish and coat them evenly with the marinade.",
+    "Transfer the cod to a baking sheet lined with parchment paper.",
+    "Bake the cod in the preheated oven for 12-15 minutes, or until cooked through.",
+    "While the cod is baking, cook the pasta according to the package instructions.",
+    "Drain the pasta and set it aside.",
+    "In a separate pan, heat a tablespoon of olive oil over medium heat.",
+    "Add the breadcrumbs and cook, stirring constantly, until lightly toasted.",
+    "To serve, place the cooked pasta on a plate, top with a cod fillet, and sprinkle with toasted breadcrumbs and parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "fish",
+    "pasta",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-portuguese-cod-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:40:43.442Z"
+}
