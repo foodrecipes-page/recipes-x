@@ -1,0 +1,73 @@
+{
+  "slug": "xtra-crispy-egyptian-wonton-skin-gyoza",
+  "title": "Crispy Wonton Gyoza",
+  "description": "A fusion of Egyptian and Asian flavors, these crispy wonton gyoza make for a delicious snack or appetizer.",
+  "cuisine": "Middle Eastern-Asian Fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "1 package",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "Gyoza filling",
+      "amount": "1 package",
+      "notes": "you can also make your own"
+    },
+    {
+      "name": "Crispy egg mixture",
+      "amount": "2 eggs",
+      "notes": "beaten with a fork"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "1 tsp",
+      "notes": "a blend of paprika, cumin, and coriander"
+    },
+    {
+      "name": "Xtra crispy seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a small bowl, beat the eggs and mix with Egyptian spices and xtra crispy seasoning.",
+    "Place a wonton wrapper in the egg mixture and coat both sides evenly.",
+    "Place a tablespoon of gyoza filling in the center of the wrapper.",
+    "Fold the wrapper into a triangle and press the edges together to seal.",
+    "Fry the gyoza until golden brown and crispy, about 3-4 minutes per side.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "gyoza",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-egyptian-wonton-skin-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:35:16.062Z"
+}
