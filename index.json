@@ -4624,17 +4624,14 @@
   },
   {
     "slug": "xtra-creamy-american-suet-casserole",
-    "title": "Xtra Creamy American Suet Casserole",
+    "title": "Classic American Suet Pudding",
     "tags": [
-      "american-classic",
-      "casserole",
-      "comfort-food",
-      "lacto-vegetarian",
-      "post-workout",
-      "umami-rich"
+      "pudding",
+      "dessert",
+      "british"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": "British",
+    "totalTimeMin": 140,
     "shard": "x"
   },
   {
@@ -7959,17 +7956,14 @@
   },
   {
     "slug": "xtra-gooey-thai-sticky-rice-khanom-krok",
-    "title": "Thai Sticky Rice Khanom Krok",
+    "title": "Thai-Style Khanom Krok",
     "tags": [
       "dessert",
-      "dinner-party",
-      "high-carb",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "thai",
+      "rice"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 35,
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
