@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-peppery-saudi-arabian-lamb-stir-fry",
+  "title": "Traditional Saudi Lamb Kebabs",
+  "description": "A classic dish from Saudi Arabia, these lamb kebabs are marinated in a blend of spices and cooked to perfection. Serve with a side of rice or flatbread for a satisfying meal.",
+  "cuisine": "Saudi",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saudi",
+      "amount": "2 tablespoons",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "arabian",
+      "amount": "1 tablespoon",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "leg of lamb or lamb shoulder"
+    },
+    {
+      "name": "peppery",
+      "amount": "2 teaspoons",
+      "notes": "black pepper"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "stir",
+      "amount": "1",
+      "notes": "stir-fry pan"
+    },
+    {
+      "name": "fry",
+      "amount": "1",
+      "notes": "frying pan"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together the Saudi and arabian spice blends.",
+    "2. Trim any excess fat from the lamb and cut it into 1-inch cubes.",
+    "3. In a large bowl, combine the lamb cubes, Saudi-arabian spice blend, and black pepper. Mix well to coat the lamb evenly.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the lamb to marinate.",
+    "5. Preheat a grill or grill pan to medium-high heat. Thread the marinated lamb cubes onto skewers.",
+    "6. Brush the grill or grill pan with olive oil to prevent sticking.",
+    "7. Grill the lamb kebabs for 8-10 minutes, turning occasionally, until cooked through.",
+    "8. Serve the lamb kebabs hot with a side of rice or flatbread.",
+    "9. Garnish with fresh herbs, such as parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "saudi-food",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-peppery-saudi-arabian-lamb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:26:04.595Z"
+}
