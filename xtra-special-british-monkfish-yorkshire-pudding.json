@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-special-british-monkfish-yorkshire-pudding",
+  "title": "Monkfish in a Yorkshire Pudding Crust",
+  "description": "A traditional British dish where monkfish is wrapped in a Yorkshire pudding crust, resulting in a crispy exterior and a tender interior. This recipe serves 4 and is a great option for a weekend dinner.",
+  "cuisine": "British",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "special British seasonings",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "xtra butter, melted",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the monkfish fillets with the special British seasonings.",
+    "In a large bowl combine the flour and eggs, gradually add the milk, and mix until a smooth batter forms.",
+    "Pour the batter into a greased 9x13 inch baking dish.",
+    "Dip each monkfish fillet into the batter, coating evenly.",
+    "Place the battered monkfish fillets in the baking dish.",
+    "Drizzle with melted xtra butter.",
+    "Bake for 20 minutes, or until the Yorkshire pudding crust is golden brown and the fish is cooked through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fish",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-special-british-monkfish-yorkshire-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:26:38.023Z"
+}
