@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-fresh-tunisian-tomato-salad",
+  "title": "Tunisian Salad",
+  "description": "A refreshing salad inspired by Tunisian cuisine, made with fresh tomatoes, crunchy xtra, and a hint of salad.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh tomatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "xtra salad",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "fresh salad",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tunisian olives",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Wash and chop the tomatoes.",
+    "Chop the salad and olives.",
+    "In a large bowl, combine the chopped tomatoes, salad, and olives.",
+    "Drizzle with lemon juice and olive oil.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fresh-tunisian-tomato-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T07:56:50.993Z"
+}
