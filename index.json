@@ -5675,15 +5675,16 @@
   },
   {
     "slug": "xtra-crispy-korean-pancetta-skewers",
-    "title": "Xtra Crispy Korean Pancetta Skewers",
+    "title": "Korean BBQ Skewers with Crispy Pancetta",
     "tags": [
-      "grilled-meats",
-      "korean-fusion",
-      "mediterranean-inspired",
-      "party-food",
-      "quick-snacks"
+      "korean",
+      "bbq",
+      "skewers",
+      "pancetta",
+      "grill",
+      "vegetarian"
     ],
-    "cuisine": "Korean",
+    "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "x"
   },
@@ -10794,16 +10795,15 @@
   },
   {
     "slug": "xtra-spicy-polish-sausage-casserole",
-    "title": "Xtra Spicy Polish Sausage Casserole",
+    "title": "Polish Sausage Xtra Spicy Casserole",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "polish",
+      "sausage",
+      "casserole",
+      "spicy"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
