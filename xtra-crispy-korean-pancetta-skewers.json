@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-crispy-korean-pancetta-skewers",
+  "title": "Korean BBQ Skewers with Crispy Pancetta",
+  "description": "Sweet and spicy Korean BBQ sauce pairs perfectly with crispy pancetta and marinated vegetables in these mouth-watering skewers.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean BBQ sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pancetta",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "xtra large onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "xtra large bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "xtra large zucchini",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Korean",
+      "amount": "1 package",
+      "notes": "skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the onions, bell peppers, and zucchini into bite-sized pieces.",
+    "Alternate vegetables and pancetta on the skewers.",
+    "Brush the skewers with Korean BBQ sauce.",
+    "Grill the skewers for 8-10 minutes, or until the vegetables are tender.",
+    "During the last 2 minutes of cooking, brush the skewers with additional Korean BBQ sauce.",
+    "Remove the skewers from the grill and serve hot.",
+    "Sprinkle with crispy pancetta, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bbq",
+    "skewers",
+    "pancetta",
+    "grill",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-korean-pancetta-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:51:01.046Z"
+}
