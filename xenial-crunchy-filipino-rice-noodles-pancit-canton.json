@@ -1,0 +1,70 @@
+{
+  "slug": "xenial-crunchy-filipino-rice-noodles-pancit-canton",
+  "title": "Filipino-Style Pancit Stir Fry",
+  "description": "A classic Filipino noodle dish made with stir-fried vegetables and your choice of protein. This recipe is quick, easy, and delicious.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pancit",
+      "amount": "1 package (8 oz)"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Crunchy vegetables (carrots, cabbage, bean sprouts)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Xenial mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Filipino-style seasoning",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the crunchy vegetables and cook until they start to soften.",
+    "Add the xenial mushrooms and continue to cook until the vegetables are tender.",
+    "Add the pancit noodles and stir-fry for 2-3 minutes.",
+    "Season with salt, pepper, and Filipino-style seasoning.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "filipino",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-crunchy-filipino-rice-noodles-pancit-canton",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:31:20.108Z"
+}
