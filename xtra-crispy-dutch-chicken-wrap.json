@@ -1,0 +1,75 @@
+{
+  "slug": "xtra-crispy-dutch-chicken-wrap",
+  "title": "Crispy Dutch Chicken Wrap",
+  "description": "A delicious wrap filled with crispy fried chicken, topped with crunchy vegetables and creamy sauce. Perfect for a quick snack or lunch.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat",
+    "gluten",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch chicken breast",
+      "amount": "1",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "xtra crispy wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "xtra crispy chicken seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crispy lettuce",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "wrap sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a deep fryer to 350°F.",
+    "2. Cut the Dutch chicken breast into thin strips.",
+    "3. In a bowl, mix together xtra crispy chicken seasoning and a pinch of salt.",
+    "4. Toss the chicken strips in the seasoning mixture until evenly coated.",
+    "5. Fry the chicken in batches until golden brown and crispy, about 5 minutes.",
+    "6. Warm the xtra crispy wrap in the microwave for 10-15 seconds.",
+    "7. Assemble the wrap by placing the fried chicken on the wrap, then topping with crispy lettuce, sliced tomato, and a dollop of wrap sauce.",
+    "8. Fold the wrap and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wrap",
+    "lunch",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-dutch-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:38:00.507Z"
+}
