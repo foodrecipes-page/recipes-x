@@ -8964,19 +8964,15 @@
   },
   {
     "slug": "xtra-peppery-saudi-arabian-lamb-stir-fry",
-    "title": "Xtra Peppery Saudi-Arabian Lamb Stir-Fry",
+    "title": "Traditional Saudi Lamb Kebabs",
     "tags": [
-      "date-night",
-      "halal",
-      "high-protein",
+      "kebabs",
       "lamb",
-      "meat-lovers",
-      "saudi-arabian",
-      "spicy",
-      "stir-fry"
+      "saudi-food",
+      "grilled"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "cuisine": "Saudi",
+    "totalTimeMin": 23,
     "shard": "x"
   },
   {
