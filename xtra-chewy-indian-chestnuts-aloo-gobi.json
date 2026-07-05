@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-chewy-indian-chestnuts-aloo-gobi",
+  "title": "Gobi Aloo Stir Fry",
+  "description": "A delicious and easy-to-make Indian-inspired stir fry with cauliflower and potatoes.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower (gobi)",
+      "amount": "1 head, broken into florets"
+    },
+    {
+      "name": "potatoes (aloo)",
+      "amount": "2 medium, peeled and diced"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chewy garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add cauliflower and cook until tender, about 5 minutes.",
+    "Add potatoes and cook for another 5 minutes.",
+    "Add garam masala and season with salt and pepper.",
+    "Stir well and cook for an additional 2 minutes.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "stir-fry",
+    "cauliflower",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-chewy-indian-chestnuts-aloo-gobi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:27:43.718Z"
+}
