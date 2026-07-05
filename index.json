@@ -5549,17 +5549,15 @@
   },
   {
     "slug": "xtra-crispy-dutch-chicken-wrap",
-    "title": "Xtra Crispy Dutch Chicken Wrap",
+    "title": "Crispy Dutch Chicken Wrap",
     "tags": [
-      "chicken-recipes",
-      "citrusy-flavors",
-      "crispy-food",
-      "date-night",
-      "dutch-cuisine",
-      "kosher-friendly"
+      "chicken",
+      "wrap",
+      "lunch",
+      "snack"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -9079,17 +9077,15 @@
   },
   {
     "slug": "xtra-pungent-syrian-nduja-skewers",
-    "title": "Xtra Pungent Syrian Nduja Skewers",
+    "title": "Spicy Nduja Skewers",
     "tags": [
       "grilled",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
+      "appetizer",
       "spicy",
-      "weeknight"
+      "nduja"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
