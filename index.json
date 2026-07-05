@@ -5590,16 +5590,15 @@
   },
   {
     "slug": "xtra-crispy-egyptian-wonton-skin-gyoza",
-    "title": "xtra crispy egyptian wonton skin gyoza",
+    "title": "Crispy Wonton Gyoza",
     "tags": [
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
+      "fritters",
+      "gyoza",
       "snack",
-      "weeknight"
+      "appetizer"
     ],
-    "cuisine": "egyptian",
-    "totalTimeMin": 42,
+    "cuisine": "Middle Eastern-Asian Fusion",
+    "totalTimeMin": 18,
     "shard": "x"
   },
   {
@@ -6266,17 +6265,16 @@
   },
   {
     "slug": "xtra-crunchy-chinese-almond-noodles",
-    "title": "Xtra Crunchy Chinese Almond Noodles",
+    "title": "Crunchy Asian Noodle Salad",
     "tags": [
-      "adventurous-eating",
-      "asian-cuisine",
-      "chinese-food",
-      "noodle-recipes",
-      "vegan-friendly",
-      "vegetarian-options"
+      "asian",
+      "salad",
+      "vegetarian",
+      "easy",
+      "quick"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 10,
     "shard": "x"
   },
   {
