@@ -7191,17 +7191,15 @@
   },
   {
     "slug": "xtra-flaky-spanish-almond-empanadas",
-    "title": "Xtra Flaky Spanish Almond Empanadas",
+    "title": "Spanish Empanadas Recipe",
     "tags": [
-      "almond-based",
-      "baked-goods",
-      "filo-pastry",
-      "gluten-free",
-      "kid-friendly",
-      "spanish-food"
+      "spanish",
+      "empanadas",
+      "pastry",
+      "snack"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -7647,17 +7645,14 @@
   },
   {
     "slug": "xtra-fresh-tunisian-tomato-salad",
-    "title": "Xtra Fresh Tunisian Tomato Salad",
+    "title": "Tunisian Salad",
     "tags": [
-      "easy",
-      "fresh",
-      "lunch",
-      "pescatarian",
       "salad",
-      "tunisian"
+      "tunisian",
+      "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "tunisian",
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
