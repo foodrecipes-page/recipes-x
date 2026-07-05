@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-silky-venezuelan-orange-ceviche",
+  "title": "Venezuelan-Style Ceviche",
+  "description": "A refreshing and flavorful dish from Venezuela, made with fresh fish marinated in citrus juices and spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh halibut",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Silky soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Venezuelan orange juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Ceviche",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Xtra lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the halibut pieces, soy sauce (if using), orange juice, ceviche, and lime juice.",
+    "2. Stir gently to combine, being careful not to break up the fish.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to marinate.",
+    "4. Just before serving, stir in the chopped cilantro.",
+    "5. Taste and adjust the seasoning as needed.",
+    "6. Serve the ceviche chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "fish",
+    "venezuelan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-venezuelan-orange-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:59:07.436Z"
+}
