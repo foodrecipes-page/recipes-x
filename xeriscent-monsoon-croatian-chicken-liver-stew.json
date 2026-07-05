@@ -1,0 +1,78 @@
+{
+  "slug": "xeriscent-monsoon-croatian-chicken-liver-stew",
+  "title": "Croatian Chicken Stew",
+  "description": "A hearty and flavorful stew made with tender chicken, rich liver, and a blend of aromatic spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Liver",
+      "amount": "6 ounces",
+      "notes": "pork or beef liver as a substitute"
+    },
+    {
+      "name": "Croatian",
+      "amount": "2 teaspoons",
+      "notes": "dried thyme and paprika"
+    },
+    {
+      "name": "Monsoon",
+      "amount": "1 teaspoon",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "Xeriscent",
+      "amount": "1/2 teaspoon",
+      "notes": "ground cayenne pepper"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "beef broth or water as a substitute"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add liver and cook for 2 minutes.",
+    "Add Croatian, Monsoon, and Xeriscent. Cook for 1 minute.",
+    "Add Stew and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Season with Salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "chicken",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscent-monsoon-croatian-chicken-liver-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:44:54.498Z"
+}
