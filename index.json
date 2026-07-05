@@ -1476,19 +1476,15 @@
   },
   {
     "slug": "xenial-crunchy-filipino-rice-noodles-pancit-canton",
-    "title": "xenial crunchy Filipino rice noodles Pancit-Canton",
+    "title": "Filipino-Style Pancit Stir Fry",
     "tags": [
-      "festive",
+      "asian",
       "filipino",
-      "gluten-free",
-      "party",
-      "spring",
-      "summer",
-      "vegan",
-      "vegetarian"
+      "noodles",
+      "stir-fry"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -3544,13 +3540,11 @@
   },
   {
     "slug": "xeriscent-monsoon-croatian-chicken-liver-stew",
-    "title": "Xeriscent Monsoon Croatian Chicken Liver Stew",
+    "title": "Croatian Chicken Stew",
     "tags": [
       "croatian",
-      "high-protein",
-      "liver-stew",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "stew"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 45,
@@ -7483,17 +7477,15 @@
   },
   {
     "slug": "xtra-fluffy-portuguese-cod-pasta",
-    "title": "Xtra Fluffy Portuguese Cod Pasta",
+    "title": "Baked Cod with Portuguese Pasta",
     "tags": [
+      "portuguese",
       "fish",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
       "pasta",
-      "portuguese"
+      "baked"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
