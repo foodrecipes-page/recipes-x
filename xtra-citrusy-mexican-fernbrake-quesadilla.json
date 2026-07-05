@@ -1,0 +1,64 @@
+{
+  "slug": "xtra-citrusy-mexican-fernbrake-quesadilla",
+  "title": "Mexican Quesadilla",
+  "description": "A delicious Mexican-inspired quesadilla filled with xtra cheese, citrusy chicken, and fernbrake greens. Perfect for a quick and easy lunch or dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xtra cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "citrusy chicken breast",
+      "amount": "1 breast, sliced"
+    },
+    {
+      "name": "fernbrake greens",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "mexican tortillas",
+      "amount": "4-6 tortillas"
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with mexican seasoning and cook in a pan with olive oil until browned and cooked through.",
+    "In a separate pan, warm the tortillas over medium heat for 1-2 minutes on each side.",
+    "Assemble the quesadillas by placing a slice of chicken and some fernbrake greens onto half of each tortilla, then topping with xtra cheese.",
+    "Fold the tortillas in half and cook for an additional 2-3 minutes on each side, until the cheese is melted and the tortillas are crispy.",
+    "Cut into wedges and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "quesadilla",
+    "cheesy",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-citrusy-mexican-fernbrake-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:01:12.899Z"
+}
