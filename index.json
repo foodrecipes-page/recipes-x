@@ -4543,18 +4543,15 @@
   },
   {
     "slug": "xtra-citrusy-mexican-fernbrake-quesadilla",
-    "title": "Xtra Citrusy Mexican Fernbrake Quesadilla",
+    "title": "Mexican Quesadilla",
     "tags": [
+      "mexican",
+      "quesadilla",
       "cheesy",
-      "citrusy",
-      "fernbrake",
-      "gosari",
-      "lacto-vegetarian",
-      "mexican-food",
-      "wood-fired"
+      "chicken"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
