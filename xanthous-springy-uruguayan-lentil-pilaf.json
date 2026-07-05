@@ -1,0 +1,68 @@
+{
+  "slug": "xanthous-springy-uruguayan-lentil-pilaf",
+  "title": "Uruguayan Lentil Pilaf",
+  "description": "A hearty and flavorful Uruguayan-inspired lentil pilaf dish, perfect for a weeknight dinner. This recipe combines the nutty flavor of lentils with the aromatic spices of Uruguayan cuisine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentil",
+      "amount": "1 cup",
+      "notes": "red or brown lentils work well"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Xanthous",
+      "amount": "2 tbsp",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "Springy",
+      "amount": "1 tsp",
+      "notes": "ground cumin or other Uruguayan spice blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the xanthous in a large saucepan over medium heat.",
+    "Add the springy and cook, stirring constantly, for 1 minute.",
+    "Add the lentil and cook for 1-2 minutes, until fragrant.",
+    "Add the pilaf and stir to combine.",
+    "Bring the mixture to a simmer, then reduce heat to low and cover.",
+    "Cook for 20-25 minutes, until the lentil is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "pilaf",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-springy-uruguayan-lentil-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:46:27.859Z"
+}
