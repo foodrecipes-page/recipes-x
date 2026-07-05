@@ -1,0 +1,89 @@
+{
+  "slug": "xtra-spicy-jamaican-ground-coriander-tagine",
+  "title": "Jamaican Tagine",
+  "description": "A flavorful and aromatic tagine with Jamaican spices, perfect for a warm evening.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spicy xtra",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onions and garlic, cook until softened (5 minutes).",
+    "Add ground coriander, Jamaican seasoning, and tagine spice blend, stir (1 minute).",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add dried apricots, stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer (30 minutes).",
+    "Season with spicy xtra, adjust to taste.",
+    "Serve warm, garnished with fresh herbs (optional).",
+    "Note: Traditionally, tagines are cooked in clay pots with a conical lid. If using a saucepan, cover with a lid to trap steam.",
+    "Adjust cooking time and liquid as needed for your preferred consistency."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "lamb-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-jamaican-ground-coriander-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T09:36:34.268Z"
+}
