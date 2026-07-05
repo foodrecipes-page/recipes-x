@@ -4474,17 +4474,14 @@
   },
   {
     "slug": "xtra-chewy-ukrainian-meat-dumplings",
-    "title": "Xtra Chewy Ukrainian Meat Dumplings",
+    "title": "Ukrainian Meat Dumplings",
     "tags": [
+      "ukrainian",
       "comfort-food",
-      "high-protein",
-      "homemade",
-      "one-pan",
-      "traditional",
-      "weeknight"
+      "meat-dumplings"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -8452,16 +8449,15 @@
   },
   {
     "slug": "xtra-light-australian-pork-knuckle-braise",
-    "title": "Xtra Light Australian Pork Knuckle Braise",
+    "title": "Braised Australian Pork Knuckle",
     "tags": [
-      "australian-cuisine",
-      "braising-techniques",
-      "comfort-food",
-      "pork-recipes",
-      "special-occasion"
+      "australian",
+      "pork",
+      "braised",
+      "comfort-food"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 140,
+    "cuisine": "australian",
+    "totalTimeMin": 170,
     "shard": "x"
   },
   {
