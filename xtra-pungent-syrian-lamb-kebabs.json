@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-pungent-syrian-lamb-kebabs",
+  "title": "Syrian Lamb Kebabs",
+  "description": "A classic Syrian dish featuring marinated lamb kebabs grilled to perfection. Serve with a side of flatbread and your favorite vegetables.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Syrian",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Pungent",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "Xtra",
+      "amount": "1 tsp",
+      "notes": "cumin"
+    },
+    {
+      "name": "Xtra",
+      "amount": "1 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bulghur",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, garlic, cumin, paprika, salt, and black pepper.",
+    "Add the lamb to the bowl and mix until well coated with the marinade.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated lamb onto skewers.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Serve the lamb kebabs hot, garnished with chopped parsley and bulghur if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-pungent-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T05:30:05.003Z"
+}
