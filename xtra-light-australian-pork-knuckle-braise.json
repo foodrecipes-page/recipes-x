@@ -1,0 +1,93 @@
+{
+  "slug": "xtra-light-australian-pork-knuckle-braise",
+  "title": "Braised Australian Pork Knuckle",
+  "description": "A hearty, comforting dish featuring tender pork knuckle in a rich, flavorful sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian pork knuckle",
+      "amount": "1",
+      "notes": "about 1.5 kg"
+    },
+    {
+      "name": "Light oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Xtra beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Braise liquid",
+      "amount": "1 cup",
+      "notes": "red wine"
+    },
+    {
+      "name": "Australian herbs",
+      "amount": "2 sprigs",
+      "notes": "fresh thyme and rosemary"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (325°F).",
+    "Season the pork knuckle with salt and black pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear the pork knuckle until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside. Reduce heat to medium.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef broth, braise liquid, and herbs to the pot. Stir to combine.",
+    "Return the pork knuckle to the pot and bring the liquid to a simmer.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the pork for 2-1/2 to 3 hours, or until it's tender and falling off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the sauce and discard the solids.",
+    "Serve the pork with the braised sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "pork",
+    "braised",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 14,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-australian-pork-knuckle-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:48:09.263Z"
+}
