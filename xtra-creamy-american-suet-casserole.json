@@ -1,0 +1,65 @@
+{
+  "slug": "xtra-creamy-american-suet-casserole",
+  "title": "Classic American Suet Pudding",
+  "description": "A traditional British recipe made with suet and flour. Perfect for a hearty snack or dessert.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "100g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "xtra sugar",
+      "amount": "200g"
+    },
+    {
+      "name": "creamy milk",
+      "amount": "500ml"
+    },
+    {
+      "name": "american vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a large mixing bowl, rub the suet into the flour until it resembles breadcrumbs.",
+    "Add the sugar and mix until well combined.",
+    "Gradually add the milk and mix until a smooth batter is formed.",
+    "Add the vanilla extract and mix well.",
+    "Transfer the batter to a greased 1L pudding basin.",
+    "Cover the pudding with a piece of parchment paper and tie with string.",
+    "Place the pudding in a large saucepan and add enough hot water to come halfway up the side of the basin.",
+    "Bring the water to a boil, then cover the saucepan with a lid and simmer for 2 hours.",
+    "Remove the pudding from the water and let it cool for 10 minutes.",
+    "Serve the pudding warm, garnished with your choice of toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pudding",
+    "dessert",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-american-suet-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:20:11.764Z"
+}
