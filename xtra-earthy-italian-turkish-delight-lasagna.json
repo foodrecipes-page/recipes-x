@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-earthy-italian-turkish-delight-lasagna",
+  "title": "Italian Lasagna Delight",
+  "description": "A classic Italian dish with a twist of Turkish delight, layered with tender lasagna noodles and rich flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "earthly mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "delightful ricotta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "turkish delight",
+      "amount": "2 tbsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "italian seasonings",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced mushrooms and cook until tender, about 5 minutes.",
+    "Stir in the ricotta cheese, crushed Turkish delight, and Italian seasonings.",
+    "In a large bowl, combine the cooked noodles, mushroom mixture, and shredded mozzarella cheese.",
+    "Transfer the mixture to a 9x13-inch baking dish.",
+    "Top with shredded parmesan cheese and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes.",
+    "Let the lasagna rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-earthy-italian-turkish-delight-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:41:19.565Z"
+}
