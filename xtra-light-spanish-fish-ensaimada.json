@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-light-spanish-fish-ensaimada",
+  "title": "Baked Spanish Fish with Xtra Cheese Ensaimada Crust",
+  "description": "A delicious and satisfying Spanish-inspired dish featuring baked fish topped with a crispy ensaimada crust and melted xtra cheese. Perfect for a light and flavorful meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ensaimada Bread",
+      "amount": "1/2 loaf, cut into 1-inch cubes",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Fresh Fish Fillets",
+      "amount": "4",
+      "notes": "any firm white fish works, such as cod or tilapia"
+    },
+    {
+      "name": "Xtra Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "any extra-hard cheese works, such as manchego or parmesan"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "use for brushing ensaimada cubes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use for seasoning fish"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "use for seasoning fish"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "use for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the ensaimada bread cubes on the prepared baking sheet and brush with olive oil.",
+    "Season the fish fillets with salt and black pepper.",
+    "Place the fish fillets on top of the ensaimada bread cubes.",
+    "Sprinkle the shredded xtra cheese evenly over the fish fillets.",
+    "Bake in the preheated oven for 12-15 minutes or until the fish is cooked through and the ensaimada crust is golden brown.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "fish",
+    "gluten-free",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-spanish-fish-ensaimada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:38:15.292Z"
+}
