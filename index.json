@@ -113,17 +113,16 @@
   },
   {
     "slug": "x-tra-chocolatey-jamaican-oats-bake",
-    "title": "x-tra chocolatey jamaican oats bake",
+    "title": "Jamaican Chocolate Oat Bake",
     "tags": [
-      "chocolatey",
-      "dessert",
-      "easy-to-make",
-      "jamaican",
-      "oat-bake",
-      "weeknight"
+      "breakfast",
+      "caribbean",
+      "chocolate",
+      "oats",
+      "bake"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
