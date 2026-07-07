@@ -1,0 +1,73 @@
+{
+  "slug": "xanthy-rich-turkish-lamb-pilaf",
+  "title": "Turkish Lamb Pilaf",
+  "description": "A flavorful and aromatic Turkish-inspired dish made with lamb, rich spices, and fluffy pilaf. Perfect for a hearty dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Turkish Pilaf",
+      "amount": "250g",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Rich",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Xanthy",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Rich in a large saucepan over medium heat.",
+    "Add the Lamb and cook until browned, about 5 minutes.",
+    "Add the Turkish Pilaf and stir to combine.",
+    "Add the Xanthy, Salt, and Black Pepper, and stir to combine.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 20 minutes, or until the pilaf is fluffy and the Lamb is cooked through.",
+    "Serve hot.",
+    "Optional: garnish with fresh herbs, such as parsley or cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pilaf",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthy-rich-turkish-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:44:03.105Z"
+}
