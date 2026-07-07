@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-crispy-kenyan-swede-flatbread",
+  "title": "Crispy Kenyan Swede Fritters",
+  "description": "A delicious Kenyan-inspired dish made with swede, a type of root vegetable, that's crispy on the outside and tender on the inside.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "1 large"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Peel and grate the swede.",
+    "Heat the olive oil in a deep frying pan over medium-high heat.",
+    "Add the grated swede to the pan and fry until golden brown, about 5-7 minutes.",
+    "Using a slotted spoon, remove the swede from the oil and place on a paper towels to drain excess oil.",
+    "Season the swede with salt to taste.",
+    "Serve the crispy swede fritters with sliced flatbread and crispy fried onions.",
+    "Enjoy as a snack or side dish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "snack",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-kenyan-swede-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:03:37.836Z"
+}
