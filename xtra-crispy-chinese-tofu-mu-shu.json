@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-crispy-chinese-tofu-mu-shu",
+  "title": "Crispy Tofu Stir Fry",
+  "description": "A simple and delicious Chinese-inspired dish made with crispy tofu, mixed with xtra veggies.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g",
+      "notes": "cubed"
+    },
+    {
+      "name": "mu shu",
+      "amount": "1 package",
+      "notes": "dried"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "chopped scallions"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 teaspoon",
+      "notes": "soy sauce"
+    }
+  ],
+  "instructions": [
+    "Heat xtra in a large skillet over medium-high heat.",
+    "Add the cubed tofu and cook until golden brown, about 5 minutes.",
+    "Add the mu shu and cook for 1 minute, until fragrant.",
+    "Stir in the crispy scallions and chinese soy sauce.",
+    "Cook for an additional 2 minutes, until the flavors have melded together.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "tofu-dish",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-chinese-tofu-mu-shu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:14:24.067Z"
+}
