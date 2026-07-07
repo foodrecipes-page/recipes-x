@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-light-croatian-vegetable-stir-fry",
+  "title": "Croatian Vegetable Stir-Fry",
+  "description": "A quick and flavorful stir-fry made with Croatian vegetables and a hint of spice.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian vegetable mix",
+      "amount": "1 bag",
+      "notes": "Frozen"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": null
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add Croatian vegetable mix and cook until thawed and heated through.",
+    "Pour in stir-fry sauce and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "vegetarian",
+    "stir-fry",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-croatian-vegetable-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:12:33.976Z"
+}
