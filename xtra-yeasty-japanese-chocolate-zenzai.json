@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-yeasty-japanese-chocolate-zenzai",
+  "title": "Japanese-Style Yeast Bread",
+  "description": "A delicious and chewy bread, infused with the flavors of Japan. Perfect for sandwiches or toast.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yeasty",
+      "amount": "2 cups",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "xtra",
+      "amount": "3 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "japanese",
+      "amount": "1 cup",
+      "notes": "mochiko flour"
+    },
+    {
+      "name": "zenzai",
+      "amount": "1/4 cup",
+      "notes": "sugar"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "table salt"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine yeast, xtra, and zenzai.",
+    "2. Gradually add water and mix until a dough forms.",
+    "3. Knead the dough for 10 minutes until smooth.",
+    "4. Place the dough in a greased bowl and let rise for 1 hour.",
+    "5. Preheat oven to 375°F (190°C).",
+    "6. Punch down the dough and shape into a loaf.",
+    "7. Place the loaf in a greased loaf pan.",
+    "8. Bake for 35-40 minutes or until golden brown.",
+    "9. Let the bread cool for 10 minutes before slicing.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "bread",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-yeasty-japanese-chocolate-zenzai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T04:40:05.731Z"
+}
