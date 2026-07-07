@@ -1,0 +1,92 @@
+{
+  "slug": "xtra-sweet-japanese-tofu-shio-ramen",
+  "title": "Japanese Shio Ramen",
+  "description": "A Japanese-inspired ramen dish made with pork broth, topped with tofu and a variety of vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork bones",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm"
+    },
+    {
+      "name": "Shio",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine pork bones, water, and soy sauce.",
+    "2. Bring to a boil, then reduce heat to low and simmer for 4 hours.",
+    "3. Strain the broth through a fine-mesh sieve into a clean pot.",
+    "4. Add ramen noodles to the pot and cook according to package instructions.",
+    "5. Cut tofu into small cubes and cook in a pan with sesame oil until golden brown.",
+    "6. Add shio, sesame seeds, and miso paste to the pan and stir to combine.",
+    "7. Add cooked noodles to the pan and toss to combine.",
+    "8. Serve hot, garnished with green onions and additional shio if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sweet-japanese-tofu-shio-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:17:41.507Z"
+}
