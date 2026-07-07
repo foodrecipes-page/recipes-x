@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-crunchy-slovakian-nectarine-skewers",
+  "title": "Slovakian Grilled Nectarine Skewers",
+  "description": "A sweet and savory summer recipe featuring grilled nectarines, crunchy vegetables, and a hint of Slovakian spice.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarine",
+      "amount": "4",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "crunchy fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "skewers",
+      "amount": "12",
+      "notes": "wooden"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread nectarine slices, mint, and paprika onto skewers.",
+    "Brush both sides of skewers with olive oil.",
+    "Grill skewers for 2-3 minutes per side, or until nectarines are slightly charred.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "grilled",
+    "nectarine",
+    "vegetarian",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-slovakian-nectarine-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:53:03.397Z"
+}
