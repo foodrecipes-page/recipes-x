@@ -1,0 +1,87 @@
+{
+  "slug": "x-tra-spicy-galician-massaman-paste-salmorejo",
+  "title": "Galician-Style Pork with Spicy Massaman Sauce",
+  "description": "A twist on traditional Galician cuisine, this recipe combines the flavors of pork, Massaman curry paste, and spicy undertones.",
+  "cuisine": "galician",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 kg",
+      "notes": "boneless"
+    },
+    {
+      "name": "tra",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "spicy massaman curry paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tra",
+      "amount": "2 medium",
+      "notes": "potatoes, peeled and chopped"
+    },
+    {
+      "name": "tra",
+      "amount": "1 cup",
+      "notes": "white wine"
+    },
+    {
+      "name": "galician salmorejo",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 180°C (350°F).",
+    "2. Season pork shoulder with salt and pepper.",
+    "3. Heat tra in a large Dutch oven over medium-high heat.",
+    "4. Sear pork shoulder until browned on all sides, about 5 minutes.",
+    "5. Remove pork from pot and set aside.",
+    "6. Add onion and garlic to pot and cook until softened.",
+    "7. Stir in spicy Massaman curry paste and cook for 1 minute.",
+    "8. Add potatoes, white wine, and browned pork back to pot.",
+    "9. Cover pot and transfer to preheated oven.",
+    "10. Braise for 2 1/2 hours or until pork is tender.",
+    "11. Serve with galician salmorejo, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galician",
+    "pork",
+    "massaman",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-spicy-galician-massaman-paste-salmorejo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:56:10.647Z"
+}
