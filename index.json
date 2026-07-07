@@ -1113,16 +1113,14 @@
   },
   {
     "slug": "xanthy-rich-turkish-lamb-pilaf",
-    "title": "Xanthy Rich Turkish Lamb Pilaf",
+    "title": "Turkish Lamb Pilaf",
     "tags": [
-      "comfort-food",
-      "kosher-friendly",
-      "lamb-recipes",
-      "one-pot",
-      "turkish-cuisine"
+      "lamb",
+      "pilaf",
+      "turkish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -2771,17 +2769,14 @@
   },
   {
     "slug": "xenial-winey-filipino-noodles-pancit-canton",
-    "title": "Xenial Winey Filipino Noodles Pancit Canton",
+    "title": "Filipino-Style Noodle Stir-Fry",
     "tags": [
-      "filipino-cuisine",
-      "glassy-jelly-noodles",
-      "one-pan",
-      "raw-friendly",
-      "rosemary-flavored",
-      "wine-based"
+      "filipino",
+      "noodles",
+      "stir-fry"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "cuisine": "filipino",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -6463,18 +6458,16 @@
   },
   {
     "slug": "xtra-crunchy-slovakian-nectarine-skewers",
-    "title": "Xtra Crunchy Slovakian Nectarine Skewers",
+    "title": "Slovakian Grilled Nectarine Skewers",
     "tags": [
-      "citrusy",
-      "crunchy",
-      "diabetic-friendly",
-      "gluten-free",
-      "quick-fix",
       "slovakian",
-      "summer-snack"
+      "grilled",
+      "nectarine",
+      "vegetarian",
+      "healthy"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 23,
+    "cuisine": "European",
+    "totalTimeMin": 21,
     "shard": "x"
   },
   {
