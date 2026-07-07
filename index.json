@@ -11124,18 +11124,14 @@
   },
   {
     "slug": "xtra-sweet-xanthan-folded-thai-pork-pad-thai-fold",
-    "title": "Xtra Sweet Xanthan Folded Thai Pork Pad Thai Fold",
+    "title": "Thai Pork Pad Thai",
     "tags": [
-      "comfortfood",
-      "easysnack",
-      "snappy",
-      "thaifood",
-      "umami",
-      "veggieoption",
-      "weeknight"
+      "thai",
+      "pork",
+      "pad-thai"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -11715,14 +11711,15 @@
   },
   {
     "slug": "xvelvety-grass-algerian-dum",
-    "title": "XVelvety Grass Algerian Dum",
+    "title": "Algerian Dumplings with Herbs",
     "tags": [
-      "algerian-brunch",
-      "grassy-velvety",
-      "vegan-friendly"
+      "north-african",
+      "dumplings",
+      "herbs",
+      "snack"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
