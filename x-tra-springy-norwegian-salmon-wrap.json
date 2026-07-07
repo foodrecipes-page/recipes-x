@@ -1,0 +1,73 @@
+{
+  "slug": "x-tra-springy-norwegian-salmon-wrap",
+  "title": "Pan-Seared Salmon with Norweigan Wrap",
+  "description": "A simple and delicious recipe featuring pan-seared salmon served with a crispy Norwegian wrap.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "wrap",
+      "amount": "4 Norwegian wraps"
+    },
+    {
+      "name": "x",
+      "amount": "2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "tra",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "springy",
+      "amount": "1 cup",
+      "notes": "spring mix"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1 cup",
+      "notes": "pickled red onion"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the salmon fillets with salt and pepper.",
+    "3. Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "4. Sear the salmon for 2-3 minutes per side, or until browned.",
+    "5. Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "6. Meanwhile, toast the Norwegian wraps in the oven for 2-3 minutes, or until crispy.",
+    "7. Assemble the wraps by placing a piece of salmon on each, followed by a spoonful of spring mix and pickled red onion.",
+    "8. Drizzle with x (if using).",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "scandinavian",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-springy-norwegian-salmon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:57:39.208Z"
+}
