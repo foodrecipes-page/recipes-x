@@ -1,0 +1,84 @@
+{
+  "slug": "xenial-earthy-irish-callaloo-stew",
+  "title": "Hearty Stew",
+  "description": "A comforting and flavorful stew made with tender Irish stewing beef, earthy potatoes, and a hint of xenial spices.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish stewing beef",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Callaloo",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Earth potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Xenial spices",
+      "amount": "1 teaspoon",
+      "notes": "a blend of thyme, rosemary, and bay leaves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dredging meat"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef with salt and pepper.",
+    "Dredge the beef in flour, shaking off excess.",
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the callaloo, potatoes, and xenial spices to the pot.",
+    "Pour in enough beef broth to cover the ingredients and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the beef is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef stew",
+    "irish stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-earthy-irish-callaloo-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:36:16.299Z"
+}
