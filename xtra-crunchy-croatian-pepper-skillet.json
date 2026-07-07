@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-crunchy-croatian-pepper-skillet",
+  "title": "Croatian Skillet Hash",
+  "description": "A hearty breakfast skillet filled with Croatian sausage, potatoes, and vegetables, perfect for a cold morning.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croatian sausage (krkovaca)",
+      "amount": "1 pound",
+      "notes": "Slice into bite-sized pieces"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Xtra pepper",
+      "amount": "1/2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Crunchy bell pepper",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Skillet oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet oil in a large cast-iron skillet over medium-high heat.",
+    "Add the Croatian sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the diced potatoes, sliced onion, and diced bell pepper to the skillet.",
+    "Cook, stirring occasionally, until the vegetables are tender, about 10 minutes.",
+    "Return the cooked sausage to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Cook's note: This recipe can be made ahead and refrigerated overnight, then reheated in the morning."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "skillet",
+    "croatian",
+    "sausages",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-croatian-pepper-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:26:44.450Z"
+}
