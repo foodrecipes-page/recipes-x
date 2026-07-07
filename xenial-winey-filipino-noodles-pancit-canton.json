@@ -1,0 +1,70 @@
+{
+  "slug": "xenial-winey-filipino-noodles-pancit-canton",
+  "title": "Filipino-Style Noodle Stir-Fry",
+  "description": "A delicious and easy-to-make dish inspired by Filipino cuisine, featuring stir-fried noodles, vegetables, and your choice of protein.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pancit (rice noodles)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Xenial vegetables (bell peppers, carrots, onions)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Winey soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Canton-style stir-fry sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped vegetables and cook until they start to soften, about 2-3 minutes.",
+    "Add the noodles, soy sauce, and stir-fry sauce. Stir-fry for about 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-winey-filipino-noodles-pancit-canton",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:58:26.712Z"
+}
