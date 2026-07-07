@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-fresh-norwegian-chicken-skewers",
+  "title": "Norwegian Chicken Skewers",
+  "description": "Grilled chicken skewers with a smoky Norwegian flavor, perfect for a summer evening. Serve with a side of tangy xtra sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Fresh lemongrass",
+      "amount": "4 stalks",
+      "notes": null
+    },
+    {
+      "name": "Xtra sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Norwegian smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Norwegian feta cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together lemongrass, smoked paprika, and xtra sauce.",
+    "3. Cut chicken into 1-inch pieces and thread onto skewers.",
+    "4. Brush chicken with lemongrass mixture and season with salt and pepper.",
+    "5. Grill chicken for 8-10 minutes, or until cooked through.",
+    "6. Garnish with parsley and feta cheese (if using).",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "skewers",
+    "norwegian",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fresh-norwegian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:36:07.316Z"
+}
