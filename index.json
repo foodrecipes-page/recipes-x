@@ -666,18 +666,15 @@
   },
   {
     "slug": "x-tra-springy-norwegian-salmon-wrap",
-    "title": "x-tra springy norwegian salmon wrap",
+    "title": "Pan-Seared Salmon with Norweigan Wrap",
     "tags": [
-      "brunch-option",
-      "dairy-free",
-      "high-protein",
-      "keto-friendly",
-      "one-pan",
-      "spring-recipe",
-      "weeknight"
+      "salmon",
+      "scandinavian",
+      "gluten-free",
+      "pescatarian"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 25,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
@@ -1599,17 +1596,14 @@
   },
   {
     "slug": "xenial-earthy-irish-callaloo-stew",
-    "title": "Xenial Earthy Irish Callaloo Stew",
+    "title": "Hearty Stew",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "hearty-stew",
-      "irish-cuisine",
-      "lazy-sunday",
-      "one-pot"
+      "beef stew",
+      "irish stew",
+      "comfort food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 150,
+    "totalTimeMin": 180,
     "shard": "x"
   },
   {
@@ -4989,17 +4983,15 @@
   },
   {
     "slug": "xtra-creamy-vietnamese-ground-beef-noodles",
-    "title": "Xtra Creamy Vietnamese Ground Beef Noodles",
+    "title": "Vietnamese Beef Noodle Stir Fry",
     "tags": [
-      "diabetic-friendly",
-      "ground-beef",
-      "kid-friendly",
-      "noodle-dish",
-      "one-pot",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "beef",
+      "noodles",
+      "stir-fry"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -8448,17 +8440,15 @@
   },
   {
     "slug": "xtra-light-croatian-vegetable-stir-fry",
-    "title": "Xtra Light Croatian Vegetable Stir fry",
+    "title": "Croatian Vegetable Stir-Fry",
     "tags": [
-      "flexitarian",
-      "healthy",
-      "one-pot",
-      "stir-fry",
+      "croatian",
       "vegetarian",
-      "weeknight"
+      "stir-fry",
+      "quick"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 52,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -11614,17 +11604,14 @@
   },
   {
     "slug": "xtra-yeasty-japanese-chocolate-zenzai",
-    "title": "Xtra Yeasty Japanese Chocolate Zenzai",
+    "title": "Japanese-Style Yeast Bread",
     "tags": [
-      "chocolate-lovers",
-      "dessert-recipes",
-      "gluten-free",
-      "japanese-inspired",
-      "quick-fix",
-      "yeast-based"
+      "japanese",
+      "bread",
+      "yeast"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 60,
     "shard": "x"
   },
   {
