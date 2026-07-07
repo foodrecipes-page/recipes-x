@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-creamy-vietnamese-ground-beef-noodles",
+  "title": "Vietnamese Beef Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with ground beef, noodles, and Vietnamese-inspired seasonings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 package",
+      "notes": "Rice noodles or egg noodles work well"
+    },
+    {
+      "name": "Xtra Hot Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Creamy Peanut Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "In a large skillet, heat sesame oil over medium-high heat.",
+    "Add garlic and ginger and cook until fragrant, about 1 minute.",
+    "Add ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add soy sauce, fish sauce, and peanut butter to the skillet and stir to combine.",
+    "Add cooked noodles to the skillet and stir to combine with the sauce and beef.",
+    "Add hot sauce to taste and stir to combine.",
+    "Serve hot and garnish with sesame seeds and chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-vietnamese-ground-beef-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:57:40.934Z"
+}
