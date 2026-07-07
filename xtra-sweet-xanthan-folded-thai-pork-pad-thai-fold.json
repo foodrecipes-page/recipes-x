@@ -1,0 +1,81 @@
+{
+  "slug": "xtra-sweet-xanthan-folded-thai-pork-pad-thai-fold",
+  "title": "Thai Pork Pad Thai",
+  "description": "A classic stir-fry dish from Thailand, made with pork, rice noodles, and a sweet and sour sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "folded rice noodles",
+      "amount": "1 cup",
+      "notes": "cooked according to package"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sweet red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "pad thai sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes.",
+    "Remove the pork from the wok and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the wok.",
+    "Add the sliced sweet red bell pepper and cook until tender, about 2-3 minutes.",
+    "Add the cooked rice noodles to the wok and stir to combine with the vegetables.",
+    "Add the cooked pork back into the wok and stir to combine.",
+    "Add the pad thai sauce and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Stir in the chopped thai basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "pork",
+    "pad-thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sweet-xanthan-folded-thai-pork-pad-thai-fold",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:18:32.030Z"
+}
