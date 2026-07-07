@@ -622,17 +622,15 @@
   },
   {
     "slug": "x-tra-spicy-galician-massaman-paste-salmorejo",
-    "title": "X-tra Spicy Galician Massaman-Paste Salmorejo",
+    "title": "Galician-Style Pork with Spicy Massaman Sauce",
     "tags": [
       "galician",
-      "low-sodium",
-      "one-pan",
-      "spicy",
-      "unique",
-      "vegetarian"
+      "pork",
+      "massaman",
+      "spicy"
     ],
     "cuisine": "galician",
-    "totalTimeMin": 35,
+    "totalTimeMin": 170,
     "shard": "x"
   },
   {
@@ -5518,17 +5516,14 @@
   },
   {
     "slug": "xtra-crispy-chinese-tofu-mu-shu",
-    "title": "Xtra Crispy Chinese Tofu Mu Shu",
+    "title": "Crispy Tofu Stir Fry",
     "tags": [
-      "chinese-food",
-      "high-protein",
-      "one-pan",
-      "plant-based",
-      "post-workout",
-      "weeknight"
+      "chinese-cuisine",
+      "tofu-dish",
+      "vegetarian-options"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -5657,17 +5652,14 @@
   },
   {
     "slug": "xtra-crispy-kenyan-swede-flatbread",
-    "title": "Xtra Crispy Kenyan Swede Flatbread",
+    "title": "Crispy Kenyan Swede Fritters",
     "tags": [
-      "crisp",
-      "flatbread",
-      "high-protein",
       "kenyan",
-      "nutty",
-      "pescatarian"
+      "snack",
+      "veggie"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 10,
     "shard": "x"
   },
   {
@@ -7610,17 +7602,16 @@
   },
   {
     "slug": "xtra-fresh-norwegian-chicken-skewers",
-    "title": "Xtra Fresh Norwegian Chicken Skewers",
+    "title": "Norwegian Chicken Skewers",
     "tags": [
-      "grilled-chicken",
-      "healthy-dinner",
-      "low-carb",
-      "norwegian-cuisine",
-      "post-workout",
-      "thai-inspired"
+      "grilled",
+      "chicken",
+      "skewers",
+      "norwegian",
+      "smoked"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -11219,17 +11210,14 @@
   },
   {
     "slug": "xtra-tangy-korean-pork-anju-jjigae",
-    "title": "Xtra Tangy Korean Pork Anju Jjigae",
+    "title": "Korean BBQ Pork Jjigae",
     "tags": [
-      "anju",
-      "creamy",
-      "keto-friendly",
-      "korean-food",
-      "one-pot",
-      "tangy"
+      "korean",
+      "bbq",
+      "stew"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
