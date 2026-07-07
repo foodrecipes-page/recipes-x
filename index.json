@@ -11024,16 +11024,14 @@
   },
   {
     "slug": "xtra-sweet-japanese-tofu-shio-ramen",
-    "title": "Xtra Sweet Japanese Tofu Shio Ramen",
+    "title": "Japanese Shio Ramen",
     "tags": [
-      "japanese-cuisine",
-      "noodle-soup",
-      "one-pot",
-      "vegetarian-friendly",
-      "weeknight-dinner"
+      "ramen",
+      "japanese",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 255,
     "shard": "x"
   },
   {
