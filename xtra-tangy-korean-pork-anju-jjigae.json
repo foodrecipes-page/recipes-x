@@ -1,0 +1,69 @@
+{
+  "slug": "xtra-tangy-korean-pork-anju-jjigae",
+  "title": "Korean BBQ Pork Jjigae",
+  "description": "A spicy Korean-inspired pork stew served with a side of steamed rice. This dish combines the flavors of korean chili flakes and tangy soy sauce to create a bold and savory taste experience.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "anju",
+      "amount": "2 cups",
+      "notes": " Korean chili flakes"
+    },
+    {
+      "name": "jjigae",
+      "amount": "1 cup",
+      "notes": " Korean chili paste"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tbsp",
+      "notes": " vegetable oil"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tbsp",
+      "notes": " soy sauce"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add pork and cook until browned, about 3-4 minutes.",
+    "Add anju, jjigae, soy sauce, and water to the pan.",
+    "Bring to a boil, then reduce heat to low and simmer for 15-20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bbq",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tangy-korean-pork-anju-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:52:13.136Z"
+}
