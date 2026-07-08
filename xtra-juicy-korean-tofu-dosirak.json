@@ -1,0 +1,94 @@
+{
+  "slug": "xtra-juicy-korean-tofu-dosirak",
+  "title": "Korean-Style Dosirak Tofu Bowl",
+  "description": "A flavorful and healthy Korean-inspired bowl filled with marinated tofu, crunchy vegetables, and spicy gochujang sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Juicy Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Dosirak rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sliced toasted sesame seeds",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the dosirak rice according to package instructions.",
+    "In a large bowl, whisk together gochujang, soy sauce, rice vinegar, and sesame oil.",
+    "Add the cubed tofu to the marinade and toss to coat. Let it sit for at least 30 minutes.",
+    "Preheat a non-stick skillet or grill pan over medium-high heat. Remove the tofu from the marinade, letting any excess liquid drip off.",
+    "Add the tofu to the skillet and cook for 3-4 minutes per side, until golden brown and crispy.",
+    "In a separate pan, toast the sesame seeds over low heat, stirring frequently, until lightly browned.",
+    "To assemble the bowls, place a scoop of cooked dosirak rice on the bottom, followed by the marinated tofu, sliced green onions, toasted sesame seeds, and cucumber slices.",
+    "Drizzle the remaining marinade over the top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "tofu",
+    "rice-bowl",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-juicy-korean-tofu-dosirak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:34:45.559Z"
+}
