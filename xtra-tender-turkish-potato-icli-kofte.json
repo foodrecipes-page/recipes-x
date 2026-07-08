@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-tender-turkish-potato-icli-kofte",
+  "title": "Turkish Kofte Kebab with Potato and Icli",
+  "description": "A traditional Turkish kofte kebab recipe with crispy potato wedges and spicy icli sauce, perfect for a flavorful dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish Kofte Mix",
+      "amount": "1 package",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Cut into wedges"
+    },
+    {
+      "name": "Icli Sauce",
+      "amount": "1/2 cup",
+      "notes": "Spicy Turkish hot sauce"
+    },
+    {
+      "name": "Tender Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing potatoes"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning kofte and potatoes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak potato wedges in cold water for 30 minutes.",
+    "Drain and pat dry potato wedges with paper towels.",
+    "Thread Turkish Kofte Mix onto skewers.",
+    "Brush potato wedges with olive oil and season with salt.",
+    "Grill potato wedges for 10-12 minutes or until crispy.",
+    "Grill kofte for 8-10 minutes or until cooked through.",
+    "Serve kofte with grilled potato wedges and Icli Sauce on the side.",
+    "Garnish with chopped onion and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kofte",
+    "kebab",
+    "potato",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tender-turkish-potato-icli-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:53:44.351Z"
+}
