@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-crunchy-thai-egg-noodles-pad-see-ew",
+  "title": "Crunchy Pad Thai",
+  "description": "A classic Thai dish made with stir-fried noodles, vegetables, and a sweet and sour sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Noodles",
+      "amount": "1 package",
+      "notes": "Rice stick noodles"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "Chopped peanuts"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "Beaten eggs"
+    },
+    {
+      "name": "Xtra",
+      "amount": "1 tablespoon",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "Thai",
+      "amount": "2 tablespoons",
+      "notes": "Tamarind paste"
+    },
+    {
+      "name": "See",
+      "amount": "2 cups",
+      "notes": "Bean sprouts"
+    },
+    {
+      "name": "Ew",
+      "amount": "1 cup",
+      "notes": "Sliced bell peppers"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions.",
+    "In a small bowl, whisk together the tamarind paste, vegetable oil, and 2 tablespoons of water.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped peanuts and cook for 2-3 minutes, or until fragrant.",
+    "Push the peanuts to one side of the skillet.",
+    "Add the beaten eggs to the other side of the skillet and scramble them until cooked through.",
+    "Mix the eggs with the peanuts.",
+    "Add the cooked noodles, bean sprouts, and sliced bell peppers to the skillet.",
+    "Pour the tamarind sauce over the top and stir-fry for 2-3 minutes, or until the noodles are well coated.",
+    "Serve hot and garnish with chopped peanuts and bean sprouts.",
+    "Cook time: 15 minutes.",
+    "Total time: 20 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pad-thai",
+    "thai-cuisine",
+    "noodle-dish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-thai-egg-noodles-pad-see-ew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:51:42.609Z"
+}
