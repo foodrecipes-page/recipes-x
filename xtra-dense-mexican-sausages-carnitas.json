@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-dense-mexican-sausages-carnitas",
+  "title": "Carnitas Tacos",
+  "description": "A flavorful Mexican-inspired dish featuring slow-cooked pork carnitas, served in crunchy tacos with fresh toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 (2-pound) piece",
+      "notes": "You can also use pork belly"
+    },
+    {
+      "name": "Lard or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For frying the carnitas"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dense tortillas",
+      "amount": "8-10",
+      "notes": "For tacos"
+    },
+    {
+      "name": "Mexican xtra",
+      "amount": "1 cup",
+      "notes": "Sliced radishes, lime wedges, cilantro, and queso fresco for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the lard or oil over medium heat.",
+    "Add the sliced onion and cook until it's translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the pork shoulder and cook until it's browned on all sides.",
+    "Transfer the Dutch oven to the preheated oven and cook for 2 1/2 hours, or until the pork is tender and easily shreds with a fork.",
+    "Using two forks, shred the pork into bite-sized pieces.",
+    "Heat 1-2 tablespoons of lard or oil in a large skillet over medium heat.",
+    "Add the shredded pork to the skillet and cook until it's crispy and golden brown.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the carnitas onto a tortilla, followed by your desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "carnitas",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-mexican-sausages-carnitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:19:54.917Z"
+}
