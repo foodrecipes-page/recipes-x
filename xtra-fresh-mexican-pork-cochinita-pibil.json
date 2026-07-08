@@ -1,0 +1,96 @@
+{
+  "slug": "xtra-fresh-mexican-pork-cochinita-pibil",
+  "title": "Cochinita Pibil tacos",
+  "description": "Traditional Yucatecan dish slow-cooked in citrus juice and spices, served in tacos with fresh toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "fresh orange juice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "Mexican chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 bunch",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a blender, combine orange and lime juice, oregano, garlic, chili powder, cinnamon and cayenne pepper. Blend until smooth.",
+    "Place the pork shoulder in a large ziplock bag. Pour the marinade over the pork and seal the bag.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the pork from the marinade and cook for 5-7 minutes per side, or until slightly charred.",
+    "Transfer the pork to a baking dish and roast in the oven for 20-25 minutes, or until the internal temperature reaches 160°F (71°C).",
+    "Shred the pork with two forks and serve with tortillas, fresh cilantro, and your desired toppings.",
+    "To make the pibil sauce, combine 1 cup of the marinade with 1 cup of chicken broth in a saucepan. Bring to a boil and then reduce heat to a simmer.",
+    "Simmer for 10-15 minutes or until the sauce has thickened slightly. Serve over the shredded pork."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "tacos",
+    "cochinita-pibil"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 34,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fresh-mexican-pork-cochinita-pibil",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:59:43.957Z"
+}
