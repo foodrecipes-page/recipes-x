@@ -1,0 +1,81 @@
+{
+  "slug": "xtra-indulgent-mexican-muffin-chilaquiles",
+  "title": "Mexican Chilaquiles Muffins",
+  "description": "A twist on traditional chilaquiles, this recipe combines the flavors of Mexico with the convenience of a muffin.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "xtra corn tortillas",
+      "amount": "4-5",
+      "notes": "preferably day-old tortillas"
+    },
+    {
+      "name": "indulgent cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "mexican salsa",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "muffin mix",
+      "amount": "1 box",
+      "notes": "your favorite brand"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "any percentage"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Tear the corn tortillas into small pieces and set aside.",
+    "In a large bowl, whisk together the muffin mix, eggs, milk, cumin, and salt.",
+    "Add the shredded cheese, salsa, and torn tortillas to the bowl and stir until well combined.",
+    "Divide the batter evenly among a dozen muffin cups.",
+    "Bake for 18-20 minutes, or until the muffins are golden brown and a toothpick inserted into the center comes out clean.",
+    "Allow the muffins to cool in the pan for 5 minutes before transferring them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "muffins"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-indulgent-mexican-muffin-chilaquiles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:55:13.629Z"
+}
