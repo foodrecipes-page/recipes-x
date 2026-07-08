@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-silky-chinese-white-yam-scallion-pancake",
+  "title": "Scallion Pancake Stir Fry",
+  "description": "A crispy pancake stir fry with scallions and a side of yam. A twist on the traditional Chinese dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pancake",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "scallion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "yam",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "chinese soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "silky sesame oil",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "white pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the yam slices and cook until crispy, about 5 minutes. Set aside.",
+    "In the same skillet, add another tablespoon of olive oil.",
+    "Add the chopped scallions and cook until softened, about 2 minutes.",
+    "Add the cooked yam slices back into the skillet.",
+    "Add the pancake, breaking it into pieces, and stir-fry everything together.",
+    "Add the soy sauce, sesame oil, and white pepper. Stir-fry for another 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "pancake"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-chinese-white-yam-scallion-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:28:05.859Z"
+}
