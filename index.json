@@ -6361,16 +6361,14 @@
   },
   {
     "slug": "xtra-crunchy-kerala-vegetables-gulab-jamun",
-    "title": "Xtra Crunchy Kerala Vegetables Gulab Jamun",
+    "title": "Kerala Vegetable Stew",
     "tags": [
-      "crunchy",
-      "kerala",
-      "shojin-friendly",
-      "sick-day",
-      "spicy",
-      "vegetable"
+      "indian",
+      "vegetarian",
+      "stew",
+      "lunch"
     ],
-    "cuisine": "Kerala",
+    "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "x"
   },
@@ -6487,17 +6485,16 @@
   },
   {
     "slug": "xtra-crunchy-thai-egg-noodles-pad-see-ew",
-    "title": "Xtra Crunchy Thai Egg Noodles Pad See Ew",
+    "title": "Crunchy Pad Thai",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "low-glycemic",
+      "pad-thai",
+      "thai-cuisine",
       "noodle-dish",
-      "stir-fry",
-      "thai-food"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -11370,17 +11367,16 @@
   },
   {
     "slug": "xtra-tender-turkish-potato-icli-kofte",
-    "title": "Xtra Tender Turkish Potato Icli Kofte",
+    "title": "Turkish Kofte Kebab with Potato and Icli",
     "tags": [
-      "jain-friendly",
-      "potato-starch",
-      "quick-fix",
-      "sous-vide",
-      "turkish-cuisine",
-      "vegetarian"
+      "turkish",
+      "kofte",
+      "kebab",
+      "potato",
+      "spicy"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 38,
     "shard": "x"
   },
   {
