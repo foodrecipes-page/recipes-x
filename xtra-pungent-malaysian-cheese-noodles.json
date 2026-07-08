@@ -1,0 +1,69 @@
+{
+  "slug": "xtra-pungent-malaysian-cheese-noodles",
+  "title": "Spicy Malaysian Noodle Soup",
+  "description": "A flavorful and spicy noodle soup inspired by the flavors of Malaysia. Perfect for a quick and easy dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xtra",
+      "amount": "2 cups",
+      "notes": "vegetable broth"
+    },
+    {
+      "name": "pungent",
+      "amount": "1 small onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "malaysian",
+      "amount": "1 tablespoon Malaysian curry paste",
+      "notes": "-"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup rice noodles",
+      "notes": "-"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup coconut milk",
+      "notes": "-"
+    }
+  ],
+  "instructions": [
+    "Bring the xtra to a boil in a large pot.",
+    "Add the pungent and cook until softened.",
+    "Add the malaysian and cook for 1 minute.",
+    "Add the noodles and cook according to package instructions.",
+    "Stir in the cheese and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with chopped herbs if desired.",
+    "Optional: add protein such as chicken or tofu for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "spicy",
+    "malaysian",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-pungent-malaysian-cheese-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:46:56.463Z"
+}
