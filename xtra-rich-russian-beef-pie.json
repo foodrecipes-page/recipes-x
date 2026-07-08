@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-rich-russian-beef-pie",
+  "title": "Rich Beef and Russian Pie",
+  "description": "A hearty beef pie with a rich flavor and a touch of Russian twist. Perfect for a cold evening.",
+  "cuisine": "Russian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Ground beef is recommended"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Russian Seasoning",
+      "amount": "1 tsp",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Pie Crust",
+      "amount": "1",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, heat some oil and cook the beef until browned, breaking it up into small pieces.",
+    "Add the Russian seasoning to the beef and stir to combine.",
+    "In a separate bowl, mix together the flour and water to make a thick paste.",
+    "Add the egg to the flour mixture and mix well.",
+    "Roll out the pie crust and place it in a pie dish.",
+    "Fill the pie crust with the beef mixture and top with the flour mixture.",
+    "Cover the pie with another pie crust or a sheet of aluminum foil.",
+    "Bake the pie for 35-40 minutes or until the crust is golden brown.",
+    "Remove the foil or top crust and bake for an additional 5-10 minutes.",
+    "Let the pie cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pie",
+    "russian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-russian-beef-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:40:40.465Z"
+}
