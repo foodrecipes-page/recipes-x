@@ -1803,16 +1803,14 @@
   },
   {
     "slug": "xenial-hearty-portuguese-beef-stew",
-    "title": "Xenial Hearty Portuguese Beef Stew",
+    "title": "Hearty Beef Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "hearty-stew",
-      "one-pot",
-      "portuguese-cuisine"
+      "beef-stew",
+      "portuguese-cuisine",
+      "comfort-food"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 180,
+    "cuisine": "portuguese",
+    "totalTimeMin": 165,
     "shard": "x"
   },
   {
@@ -6649,17 +6647,15 @@
   },
   {
     "slug": "xtra-dense-mexican-sausages-carnitas",
-    "title": "Xtra Dense Mexican Sausages Carnitas",
+    "title": "Carnitas Tacos",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "mexican-food",
-      "one-pan",
-      "weeknight"
+      "mexican",
+      "tacos",
+      "carnitas",
+      "pork"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 140,
+    "totalTimeMin": 180,
     "shard": "x"
   },
   {
@@ -8075,16 +8071,14 @@
   },
   {
     "slug": "xtra-indulgent-mexican-muffin-chilaquiles",
-    "title": "Xtra Indulgent Mexican Muffin Chilaquiles",
+    "title": "Mexican Chilaquiles Muffins",
     "tags": [
-      "breakfast-recipe",
-      "coconut-cream-based",
-      "gluten-free-option",
-      "mexican-inspired",
-      "vegetarian-friendly"
+      "mexican",
+      "breakfast",
+      "muffins"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -11154,17 +11148,16 @@
   },
   {
     "slug": "xtra-tangy-indian-redcurrant-curry",
-    "title": "Xtra Tangy Indian Redcurrant Curry",
+    "title": "Tangy Redcurrant Chicken Curry",
     "tags": [
-      "crunchy",
-      "indian-cuisine",
-      "one-pot",
-      "tangy",
-      "vegan",
-      "weeknight"
+      "curry",
+      "indian",
+      "chicken",
+      "redcurrant",
+      "tangy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
