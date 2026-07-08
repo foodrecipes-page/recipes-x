@@ -1,0 +1,83 @@
+{
+  "slug": "xeriscent-smoked-japanese-black-pudding-satay",
+  "title": "Smoked Sausage Satay",
+  "description": "A Japanese-inspired street food dish from Southeast Asia, with a twist of smoked sausage.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked sausages",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Xeriscent fruit",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Japanese rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Satay sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut smoked sausages into 1-inch slices.",
+    "Thread sausages onto skewers.",
+    "Grill skewers for 5-7 minutes per side, or until cooked through.",
+    "While skewers are grilling, mix xeriscent fruit with Japanese rice vinegar, black pepper, and lime juice.",
+    "Brush mixture onto skewers during last minute of grilling.",
+    "Serve skewers hot with satay sauce, coconut milk, and chopped cilantro on the side.",
+    "Garnish with additional xeriscent fruit, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "grilled",
+    "sausages",
+    "satay",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscent-smoked-japanese-black-pudding-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:35:43.393Z"
+}
