@@ -1,0 +1,92 @@
+{
+  "slug": "xenial-hearty-portuguese-beef-stew",
+  "title": "Hearty Beef Stew",
+  "description": "A comforting, slow-cooked stew perfect for a chilly evening. This recipe serves a crowd and is packed with tender beef and hearty vegetables.",
+  "cuisine": "portuguese",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 pounds beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "2 medium carrots",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "2 medium potatoes",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1 cup",
+      "notes": "warmed"
+    },
+    {
+      "name": "1 tablespoon tomato paste",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": "1",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large Dutch oven over medium-high heat.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until they're softened and lightly browned.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the pot and cook for 2-3 minutes.",
+    "Stir in the warmed beef broth, tomato paste, and thyme.",
+    "Return the browned beef to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and discard the bay leaf.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "portuguese-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-hearty-portuguese-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:23:27.179Z"
+}
