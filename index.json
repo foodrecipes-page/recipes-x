@@ -7549,17 +7549,15 @@
   },
   {
     "slug": "xtra-fresh-mexican-pork-cochinita-pibil",
-    "title": "Xtra Fresh Mexican Pork Cochinita Pibil",
+    "title": "Cochinita Pibil tacos",
     "tags": [
-      "cochinita-pibil",
-      "gluten-free",
-      "macrobiotic",
       "mexican",
-      "one-pot",
-      "pork"
+      "pork",
+      "tacos",
+      "cochinita-pibil"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 180,
+    "totalTimeMin": 70,
     "shard": "x"
   },
   {
@@ -9219,13 +9217,12 @@
   },
   {
     "slug": "xtra-rich-russian-beef-pie",
-    "title": "Xtra Rich Russian Beef Pie",
+    "title": "Rich Beef and Russian Pie",
     "tags": [
-      "beef-recipes",
-      "brunch-ideas",
-      "iron-teppan-recipes",
-      "pie-recipes",
-      "russian-cuisine"
+      "beef",
+      "pie",
+      "russian",
+      "comfort-food"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 55,
