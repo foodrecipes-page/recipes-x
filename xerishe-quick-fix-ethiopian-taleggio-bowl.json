@@ -1,0 +1,71 @@
+{
+  "slug": "xerishe-quick-fix-ethiopian-taleggio-bowl",
+  "title": "Quick Ethiopian Bowl",
+  "description": "A flavorful and nutritious bowl dish inspired by Ethiopian cuisine, combining the savory taste of taleggio cheese with the spice of the fix spice blend.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "1 block (8 oz)"
+    },
+    {
+      "name": "Quick fix spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "any large, shallow bowl"
+    },
+    {
+      "name": "Xerishe",
+      "amount": "1 cup cooked",
+      "notes": "replace with any type of cooked grain"
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "1 tsp",
+      "notes": "Ethiopian red pepper spice or berbere"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. Slice the taleggio cheese into thin pieces.",
+    "3. In the bowl, combine cooked xerishe, sliced cheese, Ethiopian spice, and a drizzle of olive oil (if using).",
+    "4. Serve immediately and enjoy!",
+    "5. Optional: add a dollop of your favorite yogurt or sauce on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "lunch",
+    "ethiopian",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerishe-quick-fix-ethiopian-taleggio-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:05:38.562Z"
+}
