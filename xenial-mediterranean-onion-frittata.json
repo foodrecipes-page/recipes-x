@@ -1,0 +1,59 @@
+{
+  "slug": "xenial-mediterranean-onion-frittata",
+  "title": "Mediterranean Frittata",
+  "description": "A flavorful frittata inspired by the Mediterranean, perfect for a satisfying breakfast or brunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "xenial",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1/4 cup, chopped fresh herbs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "frittata",
+      "amount": "8 eggs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat a tablespoon of oil over medium heat. Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the xenial and Mediterranean herbs to the skillet and cook for an additional 2-3 minutes.",
+    "In a large bowl, whisk together the eggs and a pinch of salt. Pour the egg mixture over the onion and herb mixture in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata from the skillet and slide it onto a plate.",
+    "Cut the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "breakfast",
+    "frittata",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-mediterranean-onion-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T05:40:21.111Z"
+}
