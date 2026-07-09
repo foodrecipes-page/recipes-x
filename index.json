@@ -511,17 +511,15 @@
   },
   {
     "slug": "x-tra-romantic-mexican-butternut-squash-tagine",
-    "title": "X-tra Romantic Mexican Butternut Squash Tagine",
+    "title": "Butternut Squash Tagine",
     "tags": [
-      "jain-friendly",
-      "mexican",
-      "one-pot",
-      "romantic",
-      "special-occasion",
-      "vegetarian"
+      "vegetarian",
+      "morrocan",
+      "stew",
+      "winter"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 70,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -3508,16 +3506,14 @@
   },
   {
     "slug": "xeriscent-light-saudi-arabian-chicken-drumsticks-paella",
-    "title": "xeriscent light saudi-arabian chicken drumsticks paella",
+    "title": "Saudi Chicken Paella Drumsticks",
     "tags": [
-      "halal",
-      "high-protein",
-      "one-pan",
-      "saudi-arabian",
-      "weeknight"
+      "chicken",
+      "mideast",
+      "spicy"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 65,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -11711,18 +11707,16 @@
   },
   {
     "slug": "xxtra-crispy-vietnamese-bacon-bun-thit-nuong",
-    "title": "Xxtra Crispy Vietnamese Bacon Bun Thit Nuong",
+    "title": "Vietnamese-Style Grilled Pork Bun",
     "tags": [
-      "bacon",
-      "cheese",
-      "comfort-food",
-      "grilled",
-      "one-pan",
       "vietnamese",
-      "weeknight"
+      "grilled-pork",
+      "baguette",
+      "pickled-vegetables",
+      "fresh-herbs"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
