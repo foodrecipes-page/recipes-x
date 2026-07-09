@@ -1,0 +1,83 @@
+{
+  "slug": "xtra-hearty-syrian-white-bean-stew",
+  "title": "Hearty Syrian Stew",
+  "description": "A flavorful and comforting stew made with tender beef and a blend of aromatic spices, perfect for a cold evening.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stew beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Hearty Beef Broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Syrian Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "White Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bean",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until onion is translucent, about 5 minutes.",
+    "Add spice blend and cook for 1 minute.",
+    "Add broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "Add beans and tomato paste and simmer for an additional 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-hearty-syrian-white-bean-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:51:00.737Z"
+}
