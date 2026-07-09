@@ -1,0 +1,92 @@
+{
+  "slug": "xtra-nutty-ethiopian-thai-eggplant-gored-gored",
+  "title": "Spicy Thai Eggplant Curry",
+  "description": "A flavorful and spicy Thai curry made with eggplant, gored and other ingredients. Perfect for a quick dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Make sure to choose a gluten-free paste"
+    },
+    {
+      "name": "Gored",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat for richer flavor"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Can be substituted with soy sauce for vegan option"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Fresh leaves for garnish"
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 small",
+      "notes": "Diced for added heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add Thai red curry paste and cook for 1 minute.",
+    "Add Gored and cook until it starts to soften.",
+    "Add eggplant and cook until it starts to soften.",
+    "Pour in coconut milk and stir to combine.",
+    "Add fish sauce, brown sugar, and red pepper.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and let it cook for 10-15 minutes.",
+    "Stir in Thai basil.",
+    "Season with salt to taste.",
+    "Serve over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "eggplant",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-nutty-ethiopian-thai-eggplant-gored-gored",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:01:47.400Z"
+}
