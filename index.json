@@ -9333,17 +9333,14 @@
   },
   {
     "slug": "xtra-roasted-jamaican-frankfurter-bowl",
-    "title": "Xtra Roasted Jamaican Frankfurter Bowl",
+    "title": "Jamaican Roasted Sausage Bowl",
     "tags": [
-      "bento-box",
-      "diabetic-friendly",
-      "jamaican-cuisine",
-      "low-carb",
-      "meal-prep",
-      "roasted-vegetables"
+      "sausage",
+      "quinoa",
+      "jamaican"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -11032,16 +11029,14 @@
   },
   {
     "slug": "xtra-sweet-middle-eastern-eggs-shakshuka",
-    "title": "Xtra Sweet Middle Eastern Eggs Shakshuka",
+    "title": "Shakshuka with Middle Eastern Spices",
     "tags": [
-      "grilled",
-      "middle-eastern",
-      "one-pan",
-      "plant-based",
-      "snack",
-      "vegetarian"
+      "breakfast",
+      "middle eastern",
+      "eggs",
+      "shakshuka"
     ],
-    "cuisine": "Middle Eastern",
+    "cuisine": "middle eastern",
     "totalTimeMin": 35,
     "shard": "x"
   },
