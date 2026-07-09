@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-sweet-middle-eastern-eggs-shakshuka",
+  "title": "Shakshuka with Middle Eastern Spices",
+  "description": "A flavorful twist on the classic North African dish, featuring eggs poached in a spicy tomato sauce with Middle Eastern flair.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sweet onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "eastern spices",
+      "amount": "1 tsp",
+      "notes": "ground cumin, ground coriander, smoked paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "shakshuka",
+      "amount": "1 can",
+      "notes": "crushed tomatoes with garlic and chili peppers"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a cast-iron skillet over medium heat.",
+    "Add the chopped onions and cook, stirring occasionally, until they are softened and lightly browned.",
+    "Add the crushed tomatoes, spices, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, stirring occasionally.",
+    "Create 4 wells in the sauce and crack an egg into each well.",
+    "Transfer the skillet to the oven and bake at 400°F (200°C) for 15-20 minutes, or until the eggs are cooked to your desired doneness.",
+    "Serve the shakshuka hot, garnished with fresh herbs and crusty bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "middle eastern",
+    "eggs",
+    "shakshuka"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sweet-middle-eastern-eggs-shakshuka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:36:50.436Z"
+}
