@@ -2815,17 +2815,16 @@
   },
   {
     "slug": "xenial-yeasty-moroccan-lamb-bissara",
-    "title": "Xenial Yeasty Moroccan Lamb Bissara",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "fondue-pot",
-      "lamb",
       "moroccan",
-      "passion-fruit",
-      "romantic",
-      "yeasty"
+      "lamb",
+      "tagine",
+      "stew",
+      "hearty"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 120,
+    "totalTimeMin": 170,
     "shard": "x"
   },
   {
@@ -7426,16 +7425,17 @@
   },
   {
     "slug": "xtra-fluffy-saudi-arabian-lamb-biryani",
-    "title": "Xtra Fluffy Saudi Arabian Lamb Biryani",
+    "title": "Saudian Lamb Biryani",
     "tags": [
-      "comfort-food",
-      "lamb-based",
+      "saudian",
+      "lamb",
+      "biryani",
       "middle-eastern",
-      "one-pot",
-      "special-occasion"
+      "arabian",
+      "fluffy"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 150,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 75,
     "shard": "x"
   },
   {
