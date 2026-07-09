@@ -2285,14 +2285,12 @@
   },
   {
     "slug": "xenial-slovakian-ackee-dumplings",
-    "title": "Xenial Slovakian Ackee Dumplings",
+    "title": "Slovakian Ackee Dumplings",
     "tags": [
-      "comfort-food",
-      "dumplings",
-      "midnight",
-      "plant-based",
+      "breakfast",
       "slovakian",
-      "vegan"
+      "ackee",
+      "dumplings"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 25,
