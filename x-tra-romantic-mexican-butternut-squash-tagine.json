@@ -1,0 +1,66 @@
+{
+  "slug": "x-tra-romantic-mexican-butternut-squash-tagine",
+  "title": "Butternut Squash Tagine",
+  "description": "A hearty and flavorful Moroccan stew made with butternut squash and aromatic spices. Perfect for a cold winter night.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tra",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Romantic",
+      "amount": "1 teaspoon ground cinnamon"
+    },
+    {
+      "name": "Mexican",
+      "amount": "1/2 teaspoon ground cumin"
+    },
+    {
+      "name": "Squash",
+      "amount": "1/2 teaspoon ground coriander"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1/4 teaspoon ground turmeric"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional 1 minute.",
+    "Add the butternut squash, cumin, coriander, and turmeric. Cook for 5 minutes.",
+    "Add the tomatoes, stock, and honey. Bring to a boil, then cover and simmer for 20-25 minutes, or until the squash is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "morrocan",
+    "stew",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-romantic-mexican-butternut-squash-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:55:33.413Z"
+}
