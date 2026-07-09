@@ -1,0 +1,63 @@
+{
+  "slug": "xenial-slovakian-ackee-dumplings",
+  "title": "Slovakian Ackee Dumplings",
+  "description": "A unique Slovakian-inspired breakfast dish featuring ackee-filled dumplings. A delicious and exotic start to your day.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Slovakian dumplings",
+      "amount": "12-15 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Ackee",
+      "amount": "1 can (drained and chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Xenial butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Carefully add the Slovakian dumplings to the boiling water and cook for 5-7 minutes.",
+    "While the dumplings cook, heat the xenial butter in a pan over medium heat.",
+    "Add the chopped ackee to the pan and cook for 2-3 minutes, stirring occasionally.",
+    "Once the dumplings are cooked, remove them from the water with a slotted spoon.",
+    "Add the cooked dumplings to the pan with the ackee mixture and toss to combine.",
+    "Season with salt to taste.",
+    "Serve the ackee-filled dumplings hot, garnished with additional xenial butter if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "slovakian",
+    "ackee",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-slovakian-ackee-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:06:37.112Z"
+}
