@@ -1,0 +1,61 @@
+{
+  "slug": "xtra-roasted-jamaican-frankfurter-bowl",
+  "title": "Jamaican Roasted Sausage Bowl",
+  "description": "A flavorful and spicy bowl filled with Jamaican roasted sausages, roasted vegetables, and served over a bed of quinoa.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "4",
+      "notes": "Jamaican-style sausages"
+    },
+    {
+      "name": "Xtra",
+      "amount": "1 cup",
+      "notes": "Quinoa"
+    },
+    {
+      "name": "Roasted",
+      "amount": "2 cups",
+      "notes": "Mixed roasted vegetables (bell peppers, onions, carrots)"
+    },
+    {
+      "name": "Jamaican",
+      "amount": "2 tbsp",
+      "notes": "Jamaican jerk seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the quinoa according to package instructions.",
+    "Toss the mixed vegetables with 1 tbsp of olive oil and Jamaican jerk seasoning. Spread on a baking sheet and roast in the oven for 20 minutes.",
+    "Cook the Jamaican sausages in a skillet over medium-high heat until browned on both sides.",
+    "Serve the sausages over the cooked quinoa and roasted vegetables.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausage",
+    "quinoa",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-roasted-jamaican-frankfurter-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:31:00.777Z"
+}
