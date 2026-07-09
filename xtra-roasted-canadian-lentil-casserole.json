@@ -1,0 +1,92 @@
+{
+  "slug": "xtra-roasted-canadian-lentil-casserole",
+  "title": "Canadian Lentil Casserole",
+  "description": "A hearty, comforting casserole filled with lentils, vegetables, and Canadian bacon.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Canadian Bacon",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook Canadian Bacon in a pan until browned, then set aside.",
+    "In the same pan, add Xtra Virgin Olive Oil and sauté the chopped Onion, Mushroom, Carrot, and Celery until tender.",
+    "Add the cooked Canadian Bacon, Lentil, diced Tomato, Salt, and Black Pepper to the pan and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with Casserole and bake for 25-30 minutes, or until hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "casserole",
+    "canadian-bacon",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-roasted-canadian-lentil-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:22:30.166Z"
+}
