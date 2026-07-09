@@ -1,0 +1,95 @@
+{
+  "slug": "xenial-yeasty-moroccan-lamb-bissara",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A hearty and aromatic stew originating from Morocco, typically cooked in a clay pot called a tagine. This recipe serves four and is best served with couscous.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 (1.5 kg)",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "Bissara",
+      "amount": "1 can (400g)",
+      "notes": "chickpea stew"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large clay or heavy pot, heat the oil over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the bissara, cumin, cinnamon, paprika, and salt. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until it is tender and falls apart easily.",
+    "Serve the lamb hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-yeasty-moroccan-lamb-bissara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:29:53.823Z"
+}
