@@ -1,0 +1,85 @@
+{
+  "slug": "xxtra-crispy-vietnamese-bacon-bun-thit-nuong",
+  "title": "Vietnamese-Style Grilled Pork Bun",
+  "description": "A flavorful Vietnamese-inspired dish featuring marinated grilled pork served in a crispy baguette with fresh herbs and pickled vegetables.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bun",
+      "amount": "4-6"
+    },
+    {
+      "name": "Thit Nuong",
+      "amount": "1 lb",
+      "notes": "Vietnamese-style marinated pork"
+    },
+    {
+      "name": "Vietnamese",
+      "amount": "2 tbsp",
+      "notes": "Fish sauce and lime juice marinade"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1/4 cup",
+      "notes": "Pickled carrots and daikon"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced Chilies",
+      "amount": "2"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a small bowl, whisk together fish sauce, lime juice, and 2 tbsp of water. Add the sliced pork and marinate for at least 30 minutes.",
+    "Grill the pork for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast the baguette by grilling it for 2-3 minutes or until lightly browned.",
+    "Assemble the sandwich by spreading mayonnaise on the bottom half of the baguette. Add sliced pork, crispy pickled carrots and daikon, fresh herbs, and sliced chilies.",
+    "Top with the top half of the baguette and serve immediately.",
+    "If using bacon, cook it in a pan until crispy and add it to the sandwich.",
+    "Optional: Add a fried egg to the sandwich for extra protein.",
+    "Serve with additional pickled carrots and daikon on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled-pork",
+    "baguette",
+    "pickled-vegetables",
+    "fresh-herbs"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "60g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xxtra-crispy-vietnamese-bacon-bun-thit-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:25:26.719Z"
+}
