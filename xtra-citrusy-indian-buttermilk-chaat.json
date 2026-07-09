@@ -1,0 +1,78 @@
+{
+  "slug": "xtra-citrusy-indian-buttermilk-chaat",
+  "title": "Chaat Buttermilk Raita",
+  "description": "A refreshing Indian-inspired yogurt-based side dish perfect for balancing spicy chaat recipes. With the tanginess of buttermilk and citrusy flavors.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chaas",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat yogurt"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together chaas, yogurt, cumin, coriander, and ginger.",
+    "Add the grated cucumber, salt, and lemon juice. Mix well.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Serve chilled, garnished with additional cumin, coriander, or lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "raita",
+    "side-dish",
+    "dairy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-citrusy-indian-buttermilk-chaat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:22:37.970Z"
+}
