@@ -4491,17 +4491,16 @@
   },
   {
     "slug": "xtra-citrusy-indian-buttermilk-chaat",
-    "title": "Xtra Citrusy Indian Buttermilk Chaat",
+    "title": "Chaat Buttermilk Raita",
     "tags": [
-      "buttermilk-recipes",
-      "citrus-recipes",
-      "gluten-free-snacks",
-      "indian-recipes",
-      "refreshing-snacks",
-      "vegetarian-snacks"
+      "indian",
+      "raita",
+      "side-dish",
+      "dairy",
+      "easy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -7997,16 +7996,14 @@
   },
   {
     "slug": "xtra-hearty-syrian-white-bean-stew",
-    "title": "Xtra Hearty Syrian White Bean Stew",
+    "title": "Hearty Syrian Stew",
     "tags": [
-      "flexitarian-friendly",
-      "hearty-stew",
-      "one-pot",
-      "syrian-cuisine",
-      "weeknight-meal"
+      "beef",
+      "stew",
+      "middle eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 140,
     "shard": "x"
   },
   {
@@ -9296,17 +9293,15 @@
   },
   {
     "slug": "xtra-roasted-canadian-lentil-casserole",
-    "title": "Xtra Roasted Canadian Lentil Casserole",
+    "title": "Canadian Lentil Casserole",
     "tags": [
-      "canadian",
-      "high-protein",
-      "macrobiotic",
-      "one-pan",
-      "post-workout",
+      "lentil",
+      "casserole",
+      "canadian-bacon",
       "vegetarian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
