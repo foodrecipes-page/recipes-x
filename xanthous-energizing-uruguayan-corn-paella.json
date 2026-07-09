@@ -1,0 +1,84 @@
+{
+  "slug": "xanthous-energizing-uruguayan-corn-paella",
+  "title": "Uruguayan Paella with Corn",
+  "description": "A twist on the classic Spanish dish, this Uruguayan paella combines saffron-infused rice with corn and a hint of energizing spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xanthous rice",
+      "amount": "1 cup",
+      "notes": "preferably Spanish or Uruguayan variety"
+    },
+    {
+      "name": "uruguayan chorizo",
+      "amount": "1 cup",
+      "notes": "substitute with Spanish chorizo if Uruguayan not available"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "energizing paprika",
+      "amount": "1 tsp",
+      "notes": "adds a warm, slightly sweet flavor"
+    },
+    {
+      "name": "paella spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most Latin American markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the minced garlic and chopped onion and sauté until softened.",
+    "Add the Uruguayan chorizo and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the paella spice blend and energizing paprika and stir to combine.",
+    "Add the xanthous rice and cook for 1-2 minutes, stirring constantly.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the corn kernels and cook for an additional 2-3 minutes.",
+    "Serve the paella hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "paella",
+    "corn",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-energizing-uruguayan-corn-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:43:09.717Z"
+}
