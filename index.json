@@ -966,13 +966,11 @@
   },
   {
     "slug": "xanthous-energizing-uruguayan-corn-paella",
-    "title": "Xanthous Energizing Uruguayan Corn Paella",
+    "title": "Uruguayan Paella with Corn",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "smoky",
-      "south-american",
+      "uruguayan",
+      "paella",
+      "corn",
       "vegetarian"
     ],
     "cuisine": "Uruguayan",
@@ -1985,16 +1983,15 @@
   },
   {
     "slug": "xenial-mediterranean-onion-frittata",
-    "title": "Xenial Mediterranean Onion Frittata",
+    "title": "Mediterranean Frittata",
     "tags": [
-      "brunch-ideas",
-      "gluten-free",
-      "mediterranean-inspired",
-      "ramekin-recipes",
-      "vegetarian-friendly"
+      "mediterranean",
+      "breakfast",
+      "frittata",
+      "eggs"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
