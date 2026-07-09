@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-fluffy-saudi-arabian-lamb-biryani",
+  "title": "Saudian Lamb Biryani",
+  "description": "A flavorful and aromatic dish originating from Saudi Arabia, showcasing the rich taste of lamb and the essence of spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Bone-in for better flavor"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": "Long-grain rice perfect for biryani"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Fluffy Onions",
+      "amount": "2 medium",
+      "notes": "Sliced for added flavor"
+    },
+    {
+      "name": "Arabian Spices",
+      "amount": "1 tsp",
+      "notes": "Blend of Middle Eastern spices for authentic taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning the lamb and rice"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For cooking the rice and lamb"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat. Brown the lamb on all sides, then set aside.",
+    "In the same pan, add sliced onions and cook until they're lightly browned.",
+    "Add the Arabian Spices and cook for 1 minute, stirring constantly.",
+    "Add the browned lamb back to the pan and stir to coat with the spice mixture.",
+    "In a separate pot, bring the water to a boil. Add the rice and cook until it's almost done.",
+    "In a large saucepan, create a layer of rice, followed by a layer of lamb, and then a layer of onions.",
+    "Repeat the layers until all ingredients are used up, finishing with a layer of rice on top.",
+    "Cover the saucepan with a tight-fitting lid and cook over low heat for 20-25 minutes.",
+    "Remove the lid and fluff the rice with a fork to separate the grains.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudian",
+    "lamb",
+    "biryani",
+    "middle-eastern",
+    "arabian",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-saudi-arabian-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:17:17.847Z"
+}
