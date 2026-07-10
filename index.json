@@ -4900,17 +4900,14 @@
   },
   {
     "slug": "xtra-creamy-uruguayan-beef-stir-fry",
-    "title": "Xtra Creamy Uruguayan Beef Stir Fry",
+    "title": "Uruguayan Beef Stir Fry",
     "tags": [
-      "beef-recipes",
-      "creamy-sauce",
-      "gluten-free",
-      "one-pan",
-      "south-american",
+      "beef",
+      "uruguayan",
       "stir-fry"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
