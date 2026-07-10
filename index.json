@@ -1489,17 +1489,15 @@
   },
   {
     "slug": "xenial-dense-greek-portobello-mushrooms-pilaf",
-    "title": "Xenial Dense Greek Portobello Mushrooms Pilaf",
+    "title": "Mushroom Stuffed Portobellos",
     "tags": [
-      "greek-cuisine",
-      "lacto-vegetarian",
-      "mushroom-recipes",
-      "one-pot",
-      "romantic-dinner",
-      "sake-infused"
+      "mushroom",
+      "vegetarian",
+      "portobello",
+      "stuffed"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -6454,17 +6452,15 @@
   },
   {
     "slug": "xtra-crunchy-spanish-bresaola-wrap",
-    "title": "Xtra Crunchy Spanish Bresaola Wrap",
+    "title": "Crunchy Bresaola Wrap",
     "tags": [
-      "crunchy",
-      "easy-lunch",
-      "gluten-free",
-      "low-fat",
-      "nutty",
-      "spanish-cuisine"
+      "italian",
+      "beef",
+      "snack",
+      "wrap"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 20,
+    "cuisine": "Italian",
+    "totalTimeMin": 10,
     "shard": "x"
   },
   {
