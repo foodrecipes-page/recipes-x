@@ -286,18 +286,15 @@
   },
   {
     "slug": "x-tra-crispy-fried-korean-bananas-fritters",
-    "title": "X-tra Crispy Fried Korean Bananas Fritters",
+    "title": "Korean-Style Fried Banana Fritters",
     "tags": [
-      "dessert",
-      "easy-to-make",
-      "fried",
       "korean",
-      "solo-dinner",
-      "vegetarian-options",
-      "weeknight"
+      "fried",
+      "dessert",
+      "fritters"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
@@ -1529,17 +1526,14 @@
   },
   {
     "slug": "xenial-dense-polish-bread-bake",
-    "title": "Xenial Dense Polish Bread Bake",
+    "title": "Polish Bread Bake",
     "tags": [
-      "dense-bread",
-      "fondue-pot",
-      "low-sodium",
-      "polish-cuisine",
-      "romantic-dish",
-      "thai-influenced"
+      "rustic",
+      "bread",
+      "polish"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 65,
+    "cuisine": "polish",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
