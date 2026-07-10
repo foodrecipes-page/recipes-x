@@ -2646,16 +2646,15 @@
   },
   {
     "slug": "xenial-tuscan-fish-flatbread",
-    "title": "Xenial Tuscan Fish Flatbread",
+    "title": "Grilled Fish with Tuscan Herbs Flatbread",
     "tags": [
-      "fish",
-      "high-protein",
-      "kosher",
-      "tuscan",
-      "weeknight"
+      "italian",
+      "seafood",
+      "grilled",
+      "flatbread"
     ],
-    "cuisine": "Tuscan",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -6089,16 +6088,15 @@
   },
   {
     "slug": "xtra-crumbly-japanese-bryndza-cheese-miso-ramen",
-    "title": "Xtra Crumbly Japanese Bryndza Cheese Miso Ramen",
+    "title": "Crunchy Ramen with Miso Baked Cheese",
     "tags": [
-      "brunch-ideas",
-      "cheesy-goodness",
-      "flexitarian-friendly",
-      "japanese-inspired",
-      "ramen-lovers"
+      "ramen",
+      "cheese",
+      "miso",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
