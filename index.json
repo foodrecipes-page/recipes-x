@@ -3144,18 +3144,15 @@
   },
   {
     "slug": "xeriscape-grilled-filipino-beef-bistek",
-    "title": "xeriscape grilled filipino beef bistek",
+    "title": "Filipino-Style Grilled Beef Bistek",
     "tags": [
       "beef",
-      "filipino",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "sugar-snap-peas",
-      "weeknight"
+      "filipino",
+      "bistek"
     ],
     "cuisine": "filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "x"
   },
   {
@@ -9427,16 +9424,15 @@
   },
   {
     "slug": "xtra-romantic-argentinian-chicken-empanadas",
-    "title": "Xtra Romantic Argentinian Chicken Empanadas",
+    "title": "Argentinian Chicken Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "chicken-recipes",
-      "coconut-cream-recipes",
-      "empanada-recipes",
-      "romantic-dinners"
+      "argentinian",
+      "chicken",
+      "empanadas",
+      "snack"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
