@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-crumbly-japanese-bryndza-cheese-miso-ramen",
+  "title": "Crunchy Ramen with Miso Baked Cheese",
+  "description": "A unique fusion of Japanese and Western flavors, this crunchy ramen dish combines the savory taste of miso with the melted goodness of baked cheese.",
+  "cuisine": "Japanese",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "xtra Crispy Ramen Noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "bryndza Cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Ramen Broth",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "crumbly Sesame Seeds",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Cook ramen noodles according to package instructions.",
+    "In a saucepan, mix miso paste with ramen broth and heat until dissolved.",
+    "In a baking dish, place a layer of cooked noodles, followed by a layer of miso broth.",
+    "Top with bryndza cheese and sprinkle with sesame seeds.",
+    "Bake in the oven for 10-12 minutes, or until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "cheese",
+    "miso",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crumbly-japanese-bryndza-cheese-miso-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:34:51.963Z"
+}
