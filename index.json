@@ -1261,17 +1261,15 @@
   },
   {
     "slug": "xenial-bitter-german-morbier-casserole",
-    "title": "Xenial Bitter German Morbier Casserole",
+    "title": "German Casserole with Morbier and Bitter Greens",
     "tags": [
-      "bitter-dishes",
-      "cheese-pull",
-      "date-night",
-      "german-cuisine",
-      "one-pan",
-      "paleo-friendly"
+      "german",
+      "casserole",
+      "morbier",
+      "bitter-greens"
     ],
     "cuisine": "German",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -6689,17 +6687,15 @@
   },
   {
     "slug": "xtra-dense-portuguese-daikon-stew",
-    "title": "Xtra Dense Portuguese Daikon Stew",
+    "title": "Hearty Beef Stew",
     "tags": [
-      "comfort-food",
-      "hearty-dish",
-      "kosher-friendly",
-      "one-pot",
-      "portuguese-cuisine",
-      "winter-stew"
+      "beef",
+      "stew",
+      "portuguese",
+      "lunch"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "cuisine": "portuguese",
+    "totalTimeMin": 170,
     "shard": "x"
   },
   {
