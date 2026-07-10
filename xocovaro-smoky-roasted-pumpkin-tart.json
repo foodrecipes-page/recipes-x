@@ -1,0 +1,71 @@
+{
+  "slug": "xocovaro-smoky-roasted-pumpkin-tart",
+  "title": "Pumpkin Tart with Spiced Xoconostle",
+  "description": "A sweet and savory dessert featuring the flavors of pumpkin and xoconostle, topped with a crumbly crust.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "1 cup, cooked and mashed"
+    },
+    {
+      "name": "Xoconostle",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Roasted Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Tart Pastry Dough",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the tart pastry dough and place it in a 9-inch tart pan.",
+    "In a medium bowl, mix together the pumpkin, xoconostle, smoked paprika, and roasted cinnamon.",
+    "Pour the pumpkin mixture into the tart shell.",
+    "Sprinkle the granulated sugar over the top of the pumpkin mixture.",
+    "Drizzle the melted butter over the sugar.",
+    "Bake for 40-45 minutes, or until the crust is golden brown and the filling is set.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "pumpkin",
+    "xoconostle",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xocovaro-smoky-roasted-pumpkin-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:08:37.375Z"
+}
