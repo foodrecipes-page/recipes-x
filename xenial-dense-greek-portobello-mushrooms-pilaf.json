@@ -1,0 +1,79 @@
+{
+  "slug": "xenial-dense-greek-portobello-mushrooms-pilaf",
+  "title": "Mushroom Stuffed Portobellos",
+  "description": "A hearty and flavorful vegetarian main dish featuring portobello mushrooms stuffed with a mixture of sautéed mushrooms, pilaf, and spices.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large portobello mushrooms",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 cup xenial mushrooms",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1 cup cooked pilaf",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    },
+    {
+      "name": "Optional: feta cheese, chopped fresh parsley",
+      "amount": null,
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Clean and prepare the portobello mushrooms by removing the stems and gills.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Sauté the xenial mushrooms and garlic until softened, about 5 minutes.",
+    "Add the cooked pilaf to the skillet and stir to combine.",
+    "Stuff each portobello mushroom cap with the pilaf mixture.",
+    "Season with salt and pepper to taste.",
+    "Place the stuffed mushrooms on a baking sheet and bake for 15-20 minutes, or until tender.",
+    "Garnish with feta cheese and chopped parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom",
+    "vegetarian",
+    "portobello",
+    "stuffed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-dense-greek-portobello-mushrooms-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:26:21.201Z"
+}
