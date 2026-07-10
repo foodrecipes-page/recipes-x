@@ -1,0 +1,84 @@
+{
+  "slug": "xenial-bitter-german-morbier-casserole",
+  "title": "German Casserole with Morbier and Bitter Greens",
+  "description": "A hearty German-inspired casserole featuring Morbier cheese and a tangy bitter greens mix.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "8 ounces",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Casserole bread",
+      "amount": "1 cup",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Bitter greens",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "German sausages",
+      "amount": "4",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the German sausages in a pan over medium heat until browned.",
+    "Add the sliced onion to the pan and cook until softened.",
+    "Add the minced garlic to the pan and cook for 1 minute.",
+    "In a separate bowl, mix together the sliced Morbier cheese and cubed casserole bread.",
+    "In a 9x13 inch baking dish, create a layer of the cooked sausage mixture.",
+    "Top with a layer of the Morbier cheese and casserole bread mixture.",
+    "Repeat the layers one more time, ending with a layer of cheese on top.",
+    "Bake in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and top with chopped bitter greens.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "morbier",
+    "bitter-greens"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-bitter-german-morbier-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:45:28.771Z"
+}
