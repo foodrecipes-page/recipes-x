@@ -8137,13 +8137,12 @@
   },
   {
     "slug": "xtra-juicy-french-chicken-gratin",
-    "title": "Xtra Juicy French Chicken Gratin",
+    "title": "Creamy Chicken and Potato Gratin",
     "tags": [
-      "french-cuisine",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "chicken",
+      "potatoes",
+      "gratin",
+      "french"
     ],
     "cuisine": "French",
     "totalTimeMin": 60,
@@ -9779,18 +9778,16 @@
   },
   {
     "slug": "xtra-silky-peruvian-portobello-mushrooms-anticuchos",
-    "title": "Xtra Silky Peruvian Portobello Mushrooms Anticuchos",
+    "title": "Grilled Portobello Mushroom Skewers with Peruvian Anticuchos",
     "tags": [
-      "lamination-puff-pastry",
-      "monicuchos-inspired",
-      "mushroom-recipes",
-      "ovo-vegetarian-friendly",
-      "peruvian-cuisine",
-      "shaoxing-wine-recipes",
-      "vegetarian-dishes"
+      "grilled",
+      "mushrooms",
+      "antichuchos",
+      "peruvian",
+      "summer"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -10067,17 +10064,14 @@
   },
   {
     "slug": "xtra-smoky-french-emmentaler-cheese-gratin",
-    "title": "Xtra Smoky French Emmentaler Cheese Gratin",
+    "title": "Smoky French Gratin",
     "tags": [
-      "french-cuisine",
-      "one-pan",
-      "shojin-friendly",
-      "smoky-flavors",
-      "vegetarian-friendly",
-      "weeknight-meal"
+      "comfort-food",
+      "cheesy",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
