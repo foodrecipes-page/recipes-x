@@ -1,0 +1,79 @@
+{
+  "slug": "xenial-tuscan-fish-flatbread",
+  "title": "Grilled Fish with Tuscan Herbs Flatbread",
+  "description": "A light and flavorful dish featuring grilled fish topped with a homemade Tuscan herbs flatbread.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tuscan Herbs",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "2 leaves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Season the fish with salt and Tuscan herbs.",
+    "Grill the fish for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, toast the flatbread on the grill for 1-2 minutes per side.",
+    "In a small bowl, mix together olive oil and garlic.",
+    "Brush the garlic mixture onto the toasted flatbread.",
+    "Top the flatbread with grilled fish and fresh basil.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "seafood",
+    "grilled",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-tuscan-fish-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:58:04.373Z"
+}
