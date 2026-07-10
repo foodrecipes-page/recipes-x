@@ -1,0 +1,79 @@
+{
+  "slug": "x-tra-crispy-fried-korean-bananas-fritters",
+  "title": "Korean-Style Fried Banana Fritters",
+  "description": "Crispy and sweet banana fritters with a hint of Korean spice.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "x",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "tra",
+      "amount": "1/2 cup",
+      "notes": "cornstarch"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup",
+      "notes": "corn flakes, crushed"
+    },
+    {
+      "name": "fried",
+      "amount": "1 cup",
+      "notes": "vegetable oil for frying"
+    },
+    {
+      "name": "korean",
+      "amount": "1/4 cup",
+      "notes": "gochujang sauce"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "granulated"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, and sugar.",
+    "In a separate bowl, mash the bananas and mix with crushed corn flakes.",
+    "Add the gochujang sauce to the banana mixture and stir until combined.",
+    "Add the dry ingredients to the banana mixture and stir until just combined.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Using a spoon, drop small balls of the banana mixture into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, until golden brown.",
+    "Using a slotted spoon, remove the fritters from the oil and place on paper towels to drain excess oil.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fried",
+    "dessert",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-crispy-fried-korean-bananas-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:51:09.665Z"
+}
