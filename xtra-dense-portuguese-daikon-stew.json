@@ -1,0 +1,92 @@
+{
+  "slug": "xtra-dense-portuguese-daikon-stew",
+  "title": "Hearty Beef Stew",
+  "description": "A rich and flavorful stew made with tender beef and a variety of vegetables.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "daikon",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "stew seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced onion and cook until browned, about 5 minutes.",
+    "Add the sliced daikon and cook for another 5 minutes.",
+    "Add the beef stew meat and cook until browned on all sides, about 5 minutes.",
+    "Add the sliced carrots and potatoes, beef broth, tomato paste, stew seasoning, salt, and pepper.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the meat is tender.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "stew",
+    "portuguese",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-portuguese-daikon-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:58:21.161Z"
+}
