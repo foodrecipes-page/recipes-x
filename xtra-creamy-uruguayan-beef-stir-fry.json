@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-creamy-uruguayan-beef-stir-fry",
+  "title": "Uruguayan Beef Stir Fry",
+  "description": "A quick and flavorful stir fry dish inspired by Uruguayan cuisine, featuring tender beef and savory vegetables.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "uruguayan seasoning blend",
+      "amount": "1 tsp",
+      "notes": "available at most spice stores"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the Uruguayan seasoning blend and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors are well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "uruguayan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-uruguayan-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:33:43.535Z"
+}
