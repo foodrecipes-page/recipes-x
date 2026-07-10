@@ -1,0 +1,70 @@
+{
+  "slug": "xtra-crunchy-spanish-bresaola-wrap",
+  "title": "Crunchy Bresaola Wrap",
+  "description": "A simple and flavorful wrap filled with crunchy vegetables and cured bresaola. Perfect for a quick snack or light meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "6 oz",
+      "notes": "Cured beef"
+    },
+    {
+      "name": "Xtra",
+      "amount": "2 tbsp",
+      "notes": "Olive oil"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "Shredded lettuce"
+    },
+    {
+      "name": "Spanish",
+      "amount": "1/2 cup",
+      "notes": "Chopped red onion"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    }
+  ],
+  "instructions": [
+    "1. Slice the bresaola into thin strips.",
+    "2. In a small bowl, mix together the xtra and a pinch of salt.",
+    "3. In a large bowl, combine the crunchy, spanish, and a squeeze of lemon juice.",
+    "4. Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Spread the xtra mixture onto the wrap, leaving a small border around the edges.",
+    "6. Arrange the bresaola slices on top of the xtra mixture.",
+    "7. Add the crunchy mixture on top of the bresaola.",
+    "8. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "9. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "beef",
+    "snack",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-spanish-bresaola-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:25:34.571Z"
+}
