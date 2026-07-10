@@ -1,0 +1,75 @@
+{
+  "slug": "xeriscape-grilled-filipino-beef-bistek",
+  "title": "Filipino-Style Grilled Beef Bistek",
+  "description": "A classic Filipino dish, this grilled beef bistek is marinated in a mixture of soy sauce, vinegar, and black pepper, then grilled to perfection. This dish is best served with steamed rice.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic (minced)",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion (thinly sliced)",
+      "amount": "1 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine soy sauce, vinegar, and black pepper. Mix well.",
+    "Add the sliced beef to the marinade and mix until the beef is well coated.",
+    "Let the beef marinate for at least 30 minutes.",
+    "Preheat the grill to medium-high heat.",
+    "Remove the beef from the marinade and grill for 3-4 minutes per side, or until the beef is cooked to your desired level of doneness.",
+    "Transfer the beef to a cutting board and let it rest for 5 minutes.",
+    "Slice the beef against the grain into thin strips.",
+    "Serve the beef with a side of steamed rice and sautéed onions and garlic.",
+    "Optional: Serve with a side of grilled vegetables, such as bell peppers and onions.",
+    "Optional: Serve with a side of steamed broccoli or other steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "filipino",
+    "bistek"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-grilled-filipino-beef-bistek",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:38:19.269Z"
+}
