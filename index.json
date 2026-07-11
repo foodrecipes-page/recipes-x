@@ -1773,18 +1773,15 @@
   },
   {
     "slug": "xenial-hearty-moroccan-beef-tagine",
-    "title": "Xenial Hearty Moroccan Beef Tagine",
+    "title": "Moroccan Beef Tagine",
     "tags": [
       "beef",
-      "comfort-food",
-      "hearty",
       "moroccan",
-      "one-pot",
-      "slow-cooked",
-      "tagine"
+      "tagine",
+      "hearty"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "x"
   },
   {
@@ -2029,17 +2026,14 @@
   },
   {
     "slug": "xenial-molten-egyptian-cheese-curds-tagine",
-    "title": "Xenial Molten Egyptian Cheese Curds Tagine",
+    "title": "Xenial Cheese Tagine",
     "tags": [
-      "comfort-food",
-      "herbal",
-      "low-calorie",
-      "middle-eastern",
-      "one-pot",
+      "north-african",
+      "cheese",
       "vegetarian"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -3767,15 +3761,15 @@
   },
   {
     "slug": "xoaxing-spanish-potato-crumble",
-    "title": "Xoaxing Spanish Potato Crumble",
+    "title": "Spanish Crumble Potatoes",
     "tags": [
-      "crumbly",
-      "nostalgic",
-      "pescatarian-friendly",
-      "savory"
+      "potatoes",
+      "spanish",
+      "sides",
+      "vegetarian"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 25,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -8316,16 +8310,15 @@
   },
   {
     "slug": "xtra-lazy-jamaican-hind-shank-stew",
-    "title": "Xtra Lazy Jamaican Hind Shank Stew",
+    "title": "Braised Jamaican Stew",
     "tags": [
-      "comfort-food",
-      "jamaican-cuisine",
-      "lazy-sunday",
-      "mediterranean-inspired",
-      "one-pot"
+      "beef",
+      "stew",
+      "jamaican",
+      "comfort-food"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "x"
   },
   {
@@ -9946,17 +9939,15 @@
   },
   {
     "slug": "xtra-smoky-british-mentaiko-stir-fry",
-    "title": "Xtra Smoky British Mentaiko Stir fry",
+    "title": "Mentaiko Stir Fry",
     "tags": [
-      "british-cuisine",
-      "meal-prep",
-      "one-pan",
-      "raw-friendly",
-      "smoky",
+      "mentaiko",
+      "british",
+      "vegetarian",
       "stir-fry"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
