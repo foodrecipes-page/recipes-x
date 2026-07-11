@@ -1,0 +1,73 @@
+{
+  "slug": "xtra-smoky-venezuelan-taleggio-empanadas",
+  "title": "Smoky Empanada Stuffed with Taleggio Cheese",
+  "description": "A twist on traditional empanadas, these smoky bites are filled with creamy taleggio cheese.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Venezuelan empanada dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Smoky xtra",
+      "amount": "2 tbsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the empanada dough and cut out circles.",
+    "Place a spoonful of taleggio cheese in the center of each circle.",
+    "Sprinkle with smoky xtra, salt, and black pepper.",
+    "Fold the dough in half to form a triangle and press the edges to seal.",
+    "Brush the tops with olive oil.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanada",
+    "cheese",
+    "latin-american",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-venezuelan-taleggio-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T18:36:17.030Z"
+}
