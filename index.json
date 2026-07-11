@@ -5800,17 +5800,16 @@
   },
   {
     "slug": "xtra-crispy-peruvian-chicken-skillet",
-    "title": "Xtra Crispy Peruvian Chicken Skillet",
+    "title": "Peruvian Chicken Skillet",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "mediterranean-inspired",
-      "one-pan",
-      "weeknight"
+      "peruvian",
+      "chicken",
+      "skillet",
+      "easy",
+      "latin"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -10238,18 +10237,15 @@
   },
   {
     "slug": "xtra-smoky-venezuelan-taleggio-empanadas",
-    "title": "Xtra Smoky Venezuelan Taleggio Empanadas",
+    "title": "Smoky Empanada Stuffed with Taleggio Cheese",
     "tags": [
-      "cheesy",
-      "fluffy",
-      "garlicky",
-      "kosher-friendly",
+      "empanada",
+      "cheese",
       "latin-american",
-      "midnight-craving",
-      "smoky"
+      "snack"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
