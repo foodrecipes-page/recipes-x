@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-juicy-dutch-black-olives-toast",
+  "title": "Black Olive Toast",
+  "description": "A simple yet flavorful toast dish topped with juicy black olives and a hint of Dutch flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "xtra toast",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "juicy black olives",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "dutch cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Toast the bread slices in a toaster or oven until lightly browned.",
+    "In a small bowl, mix together the black olives and Dutch cheese.",
+    "Drizzle the olive oil over the toasted bread slices.",
+    "Top each bread slice with the olive and cheese mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-juicy-dutch-black-olives-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:59:30.506Z"
+}
