@@ -1,0 +1,75 @@
+{
+  "slug": "xylophone-crisp-xanthic-xerophytic-feta-x-treme-quesadilla",
+  "title": "Treme Feta Quesadilla",
+  "description": "A twist on the classic quesadilla, this recipe incorporates the flavors of New Orleans with a tangy feta cheese and crispy crunch.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Quesadilla tortilla",
+      "amount": "4-6",
+      "notes": "whole wheat or corn tortillas"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Crisp lettuce",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Treme spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "Shred the feta cheese and set aside.",
+    "In a small bowl, mix together the treme spice blend, red onion, and chopped cilantro.",
+    "Place a tortilla in the skillet and sprinkle a quarter of the feta cheese on half of the tortilla.",
+    "Top with the treme spice blend mixture and fold the tortilla in half.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with the remaining tortillas and filling ingredients.",
+    "Cut into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "feta",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xylophone-crisp-xanthic-xerophytic-feta-x-treme-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:03:44.470Z"
+}
