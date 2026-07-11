@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-smoky-british-mentaiko-stir-fry",
+  "title": "Mentaiko Stir Fry",
+  "description": "A British-inspired stir fry dish featuring smoky mentaiko for a unique twist.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mentaiko",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "British Broccoli",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Stir-Fry Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "British Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fry",
+      "amount": "",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a wok over medium-high heat.",
+    "Add the British garlic and sauté for 1 minute.",
+    "Add the British broccoli and stir-fry for 3-4 minutes.",
+    "Add the mentaiko and stir-fry for an additional 2-3 minutes.",
+    "Season with soy sauce, salt, and pepper.",
+    "Serve garnished with a British fry."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mentaiko",
+    "british",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-british-mentaiko-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:25:25.303Z"
+}
