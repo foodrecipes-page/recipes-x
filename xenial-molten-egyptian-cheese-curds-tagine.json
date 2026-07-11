@@ -1,0 +1,75 @@
+{
+  "slug": "xenial-molten-egyptian-cheese-curds-tagine",
+  "title": "Xenial Cheese Tagine",
+  "description": "A hearty and flavorful tagine dish featuring xenial cheese and egyptian spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xenial cheese",
+      "amount": "250g",
+      "notes": "crumbly cheese"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "2 tsp",
+      "notes": "mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "molten honey",
+      "amount": "2 tbsp",
+      "notes": "warm and runny honey"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 large",
+      "notes": "traditional North African clay pot"
+    },
+    {
+      "name": "curds",
+      "amount": "100g",
+      "notes": "extra creamy cheese curds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In the tagine, heat the olive oil and brown the onions until caramelized.",
+    "Add the xenial cheese, egyptian spices, and molten honey to the tagine.",
+    "Stir in the curds and cook for 5 minutes.",
+    "Transfer the tagine to the preheated oven and bake for 20 minutes.",
+    "Serve hot, garnished with additional egyptian spices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-molten-egyptian-cheese-curds-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:34:13.188Z"
+}
