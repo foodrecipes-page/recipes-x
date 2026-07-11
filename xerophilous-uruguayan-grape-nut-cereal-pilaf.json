@@ -1,0 +1,67 @@
+{
+  "slug": "xerophilous-uruguayan-grape-nut-cereal-pilaf",
+  "title": "Grape Pilaf with Cereal Crunch",
+  "description": "A sweet twist on traditional pilaf, featuring grapes and a crunchy cereal topping.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "xerophilous wheat",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "uruguayan pilaf mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red grapes",
+      "amount": "1 cup, halved",
+      "notes": ""
+    },
+    {
+      "name": "crunchy cereal",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "nut (walnut or almond)",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large saucepan over medium heat.",
+    "Add 1 tablespoon of oil and sauté the xerophilous wheat until lightly toasted.",
+    "Add the uruguayan pilaf mix and cook according to package instructions.",
+    "Stir in the halved grapes and cook for an additional 2 minutes.",
+    "Transfer the pilaf to a serving dish and top with chopped nut and crunchy cereal.",
+    "Serve warm or at room temperature.",
+    "Optional: Garnish with additional grapes and cereal for a colorful presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "healthy",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerophilous-uruguayan-grape-nut-cereal-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:37:31.498Z"
+}
