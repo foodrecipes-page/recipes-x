@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-rich-german-sausage-stew",
+  "title": "German Sausage Stew",
+  "description": "A hearty German-inspired stew made with rich sausage and hearty vegetables. Perfect for a cold winter's night.",
+  "cuisine": "German",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch slices"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Xtra rich beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Stew",
+      "amount": "1 can",
+      "notes": "14.5 oz, diced tomatoes"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add sausage and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion to pot and cook until softened, about 5 minutes.",
+    "Add carrot and potato to pot and cook for 5 minutes.",
+    "Add beef broth, diced tomatoes, and browned sausage to pot. Stir to combine.",
+    "Bring stew to a boil, then reduce heat to low and simmer, covered, until vegetables are tender, about 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "stew",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-german-sausage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T16:15:47.221Z"
+}
