@@ -1,0 +1,95 @@
+{
+  "slug": "xeriscent-comforting-algerian-rice-pilaf",
+  "title": "Algerian Comforting Rice Pilaf",
+  "description": "A hearty and flavorful Algerian-inspired rice pilaf that's perfect for a comforting meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Xeriscent herb",
+      "amount": "2 tablespoons",
+      "notes": "Chopped fresh Xeriscent herb"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "White or brown rice"
+    },
+    {
+      "name": "Algerian pilaf spice blend",
+      "amount": "1 teaspoon",
+      "notes": "Available at Middle Eastern markets or online"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking the rice"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "Slivered"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced carrots and cook for 5 minutes.",
+    "Add the rice and stir to coat with oil and mix with vegetables.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the water is absorbed.",
+    "Stir in the chopped Xeriscent herb, Algerian pilaf spice blend, salt, and black pepper.",
+    "Transfer the pilaf to a serving dish and sprinkle with slivered almonds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comforting",
+    "rice-pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscent-comforting-algerian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:12:53.465Z"
+}
