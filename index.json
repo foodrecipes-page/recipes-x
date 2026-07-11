@@ -2994,17 +2994,15 @@
   },
   {
     "slug": "xeris-crispy-greek-grain-pilaf",
-    "title": "Xeris Crispy Greek Grain Pilaf",
+    "title": "Crunchy Greek Pilaf",
     "tags": [
-      "easy-meals",
-      "grain-bowl",
-      "greek-cuisine",
-      "mediterranean-diet",
-      "one-pan",
-      "vegetarian-friendly"
+      "greek",
+      "crunchy",
+      "pilaf",
+      "easy-dinner"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 8,
     "shard": "x"
   },
   {
@@ -5197,18 +5195,14 @@
   },
   {
     "slug": "xtra-crisp-saudi-arabian-chicken-wrap",
-    "title": "Xtra Crisp Saudi-Arabian Chicken Wrap",
+    "title": "Saudi Arabian Chicken Wrap",
     "tags": [
-      "breakfast",
-      "clay-pot",
-      "high-protein",
-      "lunch",
-      "saudi-arabian-food",
-      "tandoor",
-      "weeknight-recipe"
+      "chicken",
+      "wrap",
+      "saudi-arabian"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 25,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
