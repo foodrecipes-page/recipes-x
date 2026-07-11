@@ -5561,16 +5561,14 @@
   },
   {
     "slug": "xtra-crispy-jamaican-yams-skewers",
-    "title": "Xtra Crispy Jamaican Yams Skewers",
+    "title": "Jamaican Jerk Yam Skewers",
     "tags": [
-      "air-fryer",
-      "jamaican-cuisine",
-      "spicy-food",
-      "street-food",
-      "vegan-option"
+      "grilling",
+      "jamaican",
+      "skewers"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 34,
+    "cuisine": "caribbean",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -7676,17 +7674,16 @@
   },
   {
     "slug": "xtra-garlicky-mediterranean-chicken-sandwich",
-    "title": "Xtra Garlicky Mediterranean Chicken Sandwich",
+    "title": "Garlicky Chicken Sandwich",
     "tags": [
-      "chicken-sandwich",
-      "double-fry",
-      "garlicky",
-      "kfc-inspired",
-      "low-sodium",
-      "mediterranean"
+      "chicken",
+      "garlic",
+      "mediterranean",
+      "sandwich",
+      "easy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
@@ -8097,15 +8094,14 @@
   },
   {
     "slug": "xtra-juicy-dutch-black-olives-toast",
-    "title": "Xtra Juicy Dutch Black Olives Toast",
+    "title": "Black Olive Toast",
     "tags": [
-      "dutch-cuisine",
-      "easy-to-make",
-      "midnight-craving",
-      "quick-snack",
-      "vegetarian-friendly"
+      "italian",
+      "snack",
+      "easy",
+      "quick"
     ],
-    "cuisine": "Dutch",
+    "cuisine": "Italian",
     "totalTimeMin": 15,
     "shard": "x"
   },
@@ -10573,17 +10569,15 @@
   },
   {
     "slug": "xtra-spicy-japanese-chicken-stir-fry",
-    "title": "Xtra Spicy Japanese Chicken Stir-fry",
+    "title": "Spicy Chicken Stir Fry",
     "tags": [
-      "high-protein",
-      "japanese",
-      "one-pan",
-      "spicy",
+      "chicken",
       "stir-fry",
-      "weeknight"
+      "japanese",
+      "spicy"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
