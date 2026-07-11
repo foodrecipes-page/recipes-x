@@ -989,17 +989,15 @@
   },
   {
     "slug": "xanthous-juicy-croatian-plum-dumplings",
-    "title": "Xanthous Juicy Croatian Plum Dumplings",
+    "title": "Slovenian Plum Dumplings",
     "tags": [
-      "ayurvedic-sattvic",
-      "croatian-dessert",
-      "jammy-plums",
-      "pink-food",
-      "steamed-dumplings",
-      "vegan-friendly"
+      "slovenian",
+      "dessert",
+      "plum",
+      "dumplings"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "cuisine": "Slovenian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -1646,14 +1644,11 @@
   },
   {
     "slug": "xenial-flaky-greek-phyllo-baklava",
-    "title": "Xenial Flaky Greek Phyllo Baklava",
+    "title": "Greek Baklava",
     "tags": [
-      "egg-free",
-      "flaky-pastry",
-      "greek-dessert",
-      "umami-rich",
-      "vegetarian",
-      "weeknight"
+      "greeksnacks",
+      "sweetpastries",
+      "traditionalgreece"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 65,
