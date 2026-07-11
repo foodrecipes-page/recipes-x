@@ -1,0 +1,67 @@
+{
+  "slug": "x-treme-bitter-german-kanten-agar-pilaf",
+  "title": "German Kanten Pudding",
+  "description": "A traditional German dessert made with kanten, a type of gelatin derived from algae. It's a refreshing, light treat perfect for warm weather.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kanten",
+      "amount": "20g"
+    },
+    {
+      "name": "agur",
+      "amount": "200ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups, cooked"
+    },
+    {
+      "name": "german honey",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Combine kanten and agur in a saucepan.",
+    "Whisk until kanten dissolves.",
+    "Add diced bitter melon and cooked pilaf to the saucepan.",
+    "Bring to a boil over medium heat.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Remove from heat and stir in german honey.",
+    "Pour into individual serving cups or a large serving dish.",
+    "Refrigerate until set, about 3-4 hours.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "pudding",
+    "gelatin",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-treme-bitter-german-kanten-agar-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:34:43.448Z"
+}
