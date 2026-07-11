@@ -1,0 +1,91 @@
+{
+  "slug": "xtra-lazy-jamaican-hind-shank-stew",
+  "title": "Braised Jamaican Stew",
+  "description": "A hearty and flavorful stew originating from Jamaica, made with tender beef and rich spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "omnivore",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef hind shank",
+      "amount": "2 lbs",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican scotch bonnet peppers",
+      "amount": "2",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown beef in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove browned beef from pot, set aside.",
+    "Reduce heat to medium, add more oil if necessary.",
+    "Add onions and cook until they start to caramelize, about 8 minutes.",
+    "Add garlic, scotch bonnet peppers, and cook for 1 minute.",
+    "Add stew, salt, black pepper, and brown sugar. Stir to combine.",
+    "Return browned beef to pot, bring to a boil.",
+    "Cover, transfer to oven, and braise at 300°F (150°C) for 2 1/2 hours, or until beef is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "jamaican",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-lazy-jamaican-hind-shank-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:22:36.501Z"
+}
