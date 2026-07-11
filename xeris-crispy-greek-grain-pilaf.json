@@ -1,0 +1,60 @@
+{
+  "slug": "xeris-crispy-greek-grain-pilaf",
+  "title": "Crunchy Greek Pilaf",
+  "description": "A flavorful and crunchy pilaf dish inspired by Greek cuisine, made with crispy ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek pilaf",
+      "amount": "1 cup",
+      "notes": "preferably pre-cooked"
+    },
+    {
+      "name": "Crispy grain",
+      "amount": "1/2 cup",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Xeris (dried herbs)",
+      "amount": "1 tsp",
+      "notes": "optional for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add the pre-cooked Greek pilaf and stir to combine with the oil.",
+    "Add the crispy grain and stir-fry for 2-3 minutes, until well combined.",
+    "Add the dried herbs (if using) and season to taste.",
+    "Transfer the mixture to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "crunchy",
+    "pilaf",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeris-crispy-greek-grain-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:43:08.581Z"
+}
