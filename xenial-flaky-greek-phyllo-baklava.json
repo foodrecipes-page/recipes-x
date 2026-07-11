@@ -1,0 +1,80 @@
+{
+  "slug": "xenial-flaky-greek-phyllo-baklava",
+  "title": "Greek Baklava",
+  "description": "A traditional Greek pastry made with layers of phyllo, nuts, and honey.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Phyllo",
+      "amount": "1 package (usually 16-20 sheets)"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Thaw phyllo according to package instructions.",
+    "Layer 4 sheets of phyllo in a 9x13 inch baking dish.",
+    "Mix nuts, honey, yogurt, vanilla, cinnamon, cloves, and salt in a bowl.",
+    "Spread the nut mixture evenly over the phyllo.",
+    "Layer another 4 sheets of phyllo on top.",
+    "Brush melted butter over the top layer of phyllo.",
+    "Repeat the layers two more times, ending with a layer of phyllo on top.",
+    "Cut the baklava into diamond shapes and bake for 45-50 minutes.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greeksnacks",
+    "sweetpastries",
+    "traditionalgreece"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-flaky-greek-phyllo-baklava",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:32:12.465Z"
+}
