@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-bitter-ethiopian-apricot-dabo",
+  "title": "Ethiopian-Inspired Dabo Stew",
+  "description": "A hearty stew made with tender dabo, flavorful spices, and a hint of apricot sweetness.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dabo",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Apricot jam",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Xtra olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bitter melon",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add dabo and cook until browned, 5 minutes.",
+    "Add bitter melon and cook until tender, 5 minutes.",
+    "Add spices and apricot jam, stir to combine.",
+    "Bring to a boil, then reduce heat and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Serve with injera or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "dabo",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bitter-ethiopian-apricot-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:10:19.418Z"
+}
