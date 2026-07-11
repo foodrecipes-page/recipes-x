@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-garlicky-mediterranean-chicken-sandwich",
+  "title": "Garlicky Chicken Sandwich",
+  "description": "A flavorful chicken sandwich with a garlicky twist, perfect for a quick lunch or dinner.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlicky Mediterranean Bread",
+      "amount": "4 slices",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 cups",
+      "notes": "shredded or chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "Season chicken breasts with salt, pepper, and garlic powder.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast Mediterranean bread slices.",
+    "Assemble sandwiches by spreading mayonnaise on toasted bread, then adding grilled chicken, lettuce, tomato, and red onion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "garlic",
+    "mediterranean",
+    "sandwich",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-garlicky-mediterranean-chicken-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:18:46.229Z"
+}
