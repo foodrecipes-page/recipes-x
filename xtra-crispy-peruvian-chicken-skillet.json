@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-crispy-peruvian-chicken-skillet",
+  "title": "Peruvian Chicken Skillet",
+  "description": "A flavorful and spicy Peruvian chicken dish, made with crispy chicken and served in a skillet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Peruvian skillet seasoning",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "crispy potatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the Peruvian skillet seasoning and stir to combine.",
+    "Add the diced potatoes and cherry tomatoes, and stir to combine.",
+    "Cook for an additional 10-12 minutes, or until the potatoes are crispy and the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "skillet",
+    "easy",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-peruvian-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:56:38.062Z"
+}
