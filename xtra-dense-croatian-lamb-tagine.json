@@ -1,0 +1,92 @@
+{
+  "slug": "xtra-dense-croatian-lamb-tagine",
+  "title": "Croatian Lamb Tagine",
+  "description": "A hearty, slow-cooked stew originating from Croatian cuisine, made with tender lamb and flavorful spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dense, sweet onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a Dutch oven over medium-high heat.",
+    "Add the lamb and brown on all sides, about 5 minutes. Remove the lamb and set aside.",
+    "Add the onions to the pot and cook until they start to caramelize, about 10 minutes.",
+    "Add the paprika, cumin, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the lamb back to the pot and add the tagine spice blend. Stir to combine.",
+    "Transfer the pot to the oven and cook for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in the chopped parsley and serve hot with lemon wedges on the side.",
+    "Serve with couscous or over rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "croatian",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-croatian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:19:13.312Z"
+}
