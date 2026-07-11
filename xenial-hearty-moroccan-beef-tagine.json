@@ -1,0 +1,102 @@
+{
+  "slug": "xenial-hearty-moroccan-beef-tagine",
+  "title": "Moroccan Beef Tagine",
+  "description": "A hearty and flavorful Moroccan-inspired beef stew cooked in a tagine, perfect for a chilly evening.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "beef",
+    "pork-free",
+    "lamb-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large tagine or Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned, about 5 minutes per batch. Remove the browned beef from the pot and set aside.",
+    "Reduce the heat to medium and add the chopped onion to the pot. Cook until the onion is softened and lightly browned, about 10 minutes.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Add the cumin, cinnamon, cayenne pepper (if using), salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the browned beef back to the pot and stir to coat with the spice mixture.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Stir in the chopped parsley and serve hot over couscous or rice.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "moroccan",
+    "tagine",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-hearty-moroccan-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:15:42.781Z"
+}
