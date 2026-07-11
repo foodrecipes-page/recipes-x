@@ -1,0 +1,61 @@
+{
+  "slug": "xtra-crisp-saudi-arabian-chicken-wrap",
+  "title": "Saudi Arabian Chicken Wrap",
+  "description": "A flavorful and spicy chicken wrap inspired by the cuisine of Saudi Arabia. This dish is perfect for a quick and easy meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "saudi arabian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arabian flatbread",
+      "amount": "1 wrap"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the Saudi Arabian spice blend, xtra-virgin olive oil, and a pinch of salt.",
+    "Add the chicken breast to the bowl and toss to coat with the spice mixture.",
+    "Heat a large skillet over medium-high heat. Add the chicken breast and cook for 5-6 minutes per side, or until cooked through.",
+    "Once the chicken is cooked, let it rest for a few minutes before slicing it thinly.",
+    "Warm the Arabian flatbread in the microwave for 10-15 seconds.",
+    "Assemble the wrap by placing a few slices of the cooked chicken on the flatbread, followed by a handful of crisp lettuce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "wrap",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-saudi-arabian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:53:47.474Z"
+}
