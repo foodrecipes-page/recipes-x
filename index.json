@@ -742,18 +742,16 @@
   },
   {
     "slug": "x-treme-bitter-german-kanten-agar-pilaf",
-    "title": "X-treme Bitter German Kanten-Agar Pilaf",
+    "title": "German Kanten Pudding",
     "tags": [
-      "bitter",
-      "crispy",
       "german",
-      "gluten-free",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "dessert",
+      "pudding",
+      "gelatin",
+      "vegan"
     ],
     "cuisine": "German",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
