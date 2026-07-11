@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-spicy-gooey-german-cheese-quesadilla",
+  "title": "German Quesadilla",
+  "description": "A twist on the classic quesadilla with a German-inspired cheese and meat combination.",
+  "cuisine": "German",
+  "diet": [
+    "serves-4"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quesadilla tortilla",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "German sausage",
+      "amount": "12 oz",
+      "notes": "Pre-cooked and sliced"
+    },
+    {
+      "name": "Cheese",
+      "amount": "8 oz",
+      "notes": "A mix of cheddar and mozzarella"
+    },
+    {
+      "name": "X-tra cheese",
+      "amount": "4 oz",
+      "notes": "Extra sharp cheddar, shredded"
+    },
+    {
+      "name": "Gooey cheese sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Slice the German sausage into thin rounds.",
+    "3. In a large skillet, sauté the sliced sausage over medium heat until lightly browned.",
+    "4. In a separate pan, warm the quesadilla tortillas over medium heat for 30 seconds on each side.",
+    "5. Place a tortilla in the pan and sprinkle with German sausage, cheese, and x-tra cheese.",
+    "6. Fold the tortilla in half and cook for 2-3 minutes or until the cheese is melted and the tortilla is crispy.",
+    "7. Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy.",
+    "8. Repeat with the remaining tortillas and filling ingredients.",
+    "9. Cut the quesadillas into wedges and serve hot with gooey cheese sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "quesadilla",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-gooey-german-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:41:48.639Z"
+}
