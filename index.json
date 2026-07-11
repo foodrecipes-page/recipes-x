@@ -3471,14 +3471,12 @@
   },
   {
     "slug": "xeriscent-comforting-algerian-rice-pilaf",
-    "title": "Xeriscent Comforting Algerian Rice Pilaf",
+    "title": "Algerian Comforting Rice Pilaf",
     "tags": [
       "algerian",
-      "comfort-food",
-      "easy-meal",
-      "one-pan",
+      "comforting",
       "rice-pilaf",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 35,
@@ -6555,17 +6553,14 @@
   },
   {
     "slug": "xtra-dense-croatian-lamb-tagine",
-    "title": "Xtra Dense Croatian Lamb Tagine",
+    "title": "Croatian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "croatian",
       "lamb",
-      "one-pot",
-      "satvik",
-      "tagine"
+      "croatian",
+      "slow-cooked"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "x"
   },
   {
