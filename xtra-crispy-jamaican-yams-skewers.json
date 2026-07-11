@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-crispy-jamaican-yams-skewers",
+  "title": "Jamaican Jerk Yam Skewers",
+  "description": "Sweet and spicy yam skewers with a Jamaican twist, perfect for grilling. This dish is great for a quick and easy dinner.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yams",
+      "amount": "1 lb (450g)",
+      "notes": ""
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tbsp (30g)",
+      "notes": "jamaican jerk seasoning"
+    },
+    {
+      "name": "xtra",
+      "amount": "1/4 cup (60g)",
+      "notes": "olive oil"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": ""
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup (30g)",
+      "notes": "crispy onions, chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the yams into 1-inch (2.5 cm) cubes.",
+    "Thread the yam cubes onto the skewers.",
+    "Drizzle with xtra and sprinkle with jamaican.",
+    "Season with salt and pepper to taste.",
+    "If using crispy, sprinkle on top.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilling",
+    "jamaican",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-jamaican-yams-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:16:00.356Z"
+}
