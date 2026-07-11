@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-spicy-japanese-chicken-stir-fry",
+  "title": "Spicy Chicken Stir Fry",
+  "description": "Savory and spicy, this chicken stir fry is a quick and easy meal to make. Serve over rice for a well-rounded dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "spicy",
+      "amount": "1 teaspoon sriracha sauce",
+      "notes": null
+    },
+    {
+      "name": "japanese",
+      "amount": "2 cloves garlic, minced",
+      "notes": null
+    },
+    {
+      "name": "chicken",
+      "amount": "1 cup mixed stir-fry vegetables (bell peppers, carrots, broccoli)",
+      "notes": null
+    },
+    {
+      "name": "japanese",
+      "amount": "1 tablespoon soy sauce",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "5. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "6. Add the mixed stir-fry vegetables to the skillet and cook until tender, about 3-4 minutes.",
+    "7. Add the cooked chicken back into the skillet and stir in the soy sauce.",
+    "8. Cook for an additional 1-2 minutes, until the chicken is coated in the sauce.",
+    "9. Season with salt and black pepper to taste.",
+    "10. Serve hot over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "japanese",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-japanese-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:10:21.691Z"
+}
