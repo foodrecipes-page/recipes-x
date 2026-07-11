@@ -9092,16 +9092,16 @@
   },
   {
     "slug": "xtra-rich-german-sausage-stew",
-    "title": "Xtra Rich German Sausage Stew",
+    "title": "German Sausage Stew",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "german",
+      "sausage",
+      "stew",
+      "beef",
+      "comfort-food"
     ],
     "cuisine": "German",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -10430,18 +10430,14 @@
   },
   {
     "slug": "xtra-spicy-gooey-german-cheese-quesadilla",
-    "title": "Xtra Spicy Gooey German Cheese Quesadilla",
+    "title": "German Quesadilla",
     "tags": [
-      "cheesy",
       "german",
-      "one-pan",
-      "plant-based",
-      "spicy",
-      "vegan",
-      "weeknight"
+      "quesadilla",
+      "sausage"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 21,
+    "cuisine": "German",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
