@@ -1,0 +1,62 @@
+{
+  "slug": "xtra-buttery-russian-seed-pilaf",
+  "title": "Pilaf with Russian Twist",
+  "description": "A flavorful pilaf dish, enhanced with the subtle flavors of Russian cuisine.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Russian pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "buttery sauce mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "seedless cucumber",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pilaf and cook for 2-3 minutes, until lightly toasted.",
+    "Add the buttery sauce mix and stir to combine. Cook for an additional 2 minutes.",
+    "Stir in the diced cucumber and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Transfer the pilaf mixture to a serving dish and garnish with chopped fresh dill.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "vegetarian",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-buttery-russian-seed-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:09:52.548Z"
+}
