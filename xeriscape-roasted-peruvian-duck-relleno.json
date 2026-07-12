@@ -1,0 +1,84 @@
+{
+  "slug": "xeriscape-roasted-peruvian-duck-relleno",
+  "title": "Peruvian-Style Roasted Duck with Relleno",
+  "description": "A fusion dish featuring roasted duck, Peruvian spices, and a flavorful relleno filling.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck",
+      "amount": "1 whole (3-4 lbs)"
+    },
+    {
+      "name": "Relleno filling (see below)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the duck and pat dry with paper towels.",
+    "In a small bowl, mix together lime juice, aji amarillo peppers, garlic, cumin, coriander, salt, and black pepper.",
+    "Rub the spice mixture all over the duck, making sure to get some under the skin as well.",
+    "Stuff the relleno filling into the duck's cavity.",
+    "Drizzle olive oil over the duck and place it in a roasting pan.",
+    "Roast the duck in the preheated oven for 45-50 minutes, or until the skin is crispy and golden brown.",
+    "Let the duck rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "roasted",
+    "duck",
+    "relleno"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-roasted-peruvian-duck-relleno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:50:11.835Z"
+}
