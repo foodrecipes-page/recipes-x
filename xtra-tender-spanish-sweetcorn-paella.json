@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-tender-spanish-sweetcorn-paella",
+  "title": "Spanish Paella with Sweetcorn",
+  "description": "A delicious and traditional Spanish dish featuring sautéed ingredients and a flavorful paella rice. Serve with a side of garlic bread or a green salad for a well-rounded meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xtra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tender Sweet Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Spanish Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sweetcorn Kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Paella Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chopped onions and cook until translucent, about 5 minutes.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the sweetcorn kernels and cook for an additional 2 minutes.",
+    "Add the paella rice and stir to combine with the vegetables and spices.",
+    "Add the diced tomatoes, vegetable broth, and salt. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove the paella from the heat and let it rest for 5 minutes before serving.",
+    "Serve hot, garnished with lemon wedges and fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "paella",
+    "sweetcorn"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tender-spanish-sweetcorn-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:29:30.384Z"
+}
