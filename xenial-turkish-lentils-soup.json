@@ -1,0 +1,104 @@
+{
+  "slug": "xenial-turkish-lentils-soup",
+  "title": "Lentil Soup",
+  "description": "A hearty and comforting lentil soup, perfect for a chilly evening. This Turkish-inspired dish is made with red lentils and a blend of aromatic spices.",
+  "cuisine": "turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, and celery and cook until the vegetables are tender, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, coriander, turmeric, and cayenne pepper (if using) and cook for 1 minute.",
+    "Add red lentils, salt, and black pepper. Stir to combine.",
+    "Add water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the lentils are tender, about 30 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "soup",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-turkish-lentils-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:42:03.130Z"
+}
