@@ -4142,17 +4142,14 @@
   },
   {
     "slug": "xtra-buttery-russian-seed-pilaf",
-    "title": "Xtra Buttery Russian Seed Pilaf",
+    "title": "Pilaf with Russian Twist",
     "tags": [
-      "cauliflower-rice",
-      "gluten-free",
-      "keto-friendly",
-      "one-pan",
-      "russian-cuisine",
-      "seed-based"
+      "pilaf",
+      "vegetarian",
+      "russian-cuisine"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -4373,17 +4370,15 @@
   },
   {
     "slug": "xtra-chewy-mexican-provola-elote",
-    "title": "Xtra Chewy Mexican Provola Elote",
+    "title": "Grilled Elote with Provolone",
     "tags": [
-      "broiled-vegetables",
-      "chewy-snacks",
-      "elote-recipes",
-      "mexican-street-food",
-      "monsoon-recipes",
-      "plant-based"
+      "mexican",
+      "corn",
+      "grilled",
+      "cheese"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 27,
+    "totalTimeMin": 17,
     "shard": "x"
   },
   {
@@ -6204,17 +6199,14 @@
   },
   {
     "slug": "xtra-crunchy-croatian-shiitake-mushrooms-skewers",
-    "title": "Xtra Crunchy Croatian Shiitake Mushrooms Skewers",
+    "title": "Shiitake and Mushroom Skewers with Croatian Spice",
     "tags": [
-      "croatian-cuisine",
-      "gluten-free",
-      "grilled-vegetables",
-      "mushroom-lovers",
-      "vegan",
-      "vegetarian"
+      "grilled",
+      "vegetarian",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
