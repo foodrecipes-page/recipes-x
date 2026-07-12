@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-dense-australian-lamb-biryani",
+  "title": "Australian Lamb Biryani",
+  "description": "A flavorful and aromatic lamb biryani dish inspired by Australian cuisine, with a rich blend of spices and herbs.",
+  "cuisine": "australian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb",
+      "amount": "1 pound, boneless and cut into small pieces"
+    },
+    {
+      "name": "xtra long-grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "spices",
+      "amount": "2 tablespoons, mixed (curry powder, cumin powder, coriander powder)",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "dense tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "biryani masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and ginger; sauté until onion is translucent.",
+    "Add lamb; cook until browned, breaking it up into small pieces.",
+    "Add spices, tomato paste, and biryani masala; cook for 1 minute.",
+    "Add water and bring to a boil.",
+    "Add rice and stir gently to combine.",
+    "Reduce heat to low, cover, and cook for 20 minutes or until rice is cooked and fluffy.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "biryani",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-australian-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:06:43.752Z"
+}
