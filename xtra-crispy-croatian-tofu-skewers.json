@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-crispy-croatian-tofu-skewers",
+  "title": "Croatian Tofu Skewers",
+  "description": "A fusion of Croatian and Asian flavors, these skewers make for a quick and easy dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "croatian",
+      "amount": "2 tablespoons",
+      "notes": "paprika"
+    },
+    {
+      "name": "xtra",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "crushed potato chips (optional)"
+    },
+    {
+      "name": "skewers",
+      "amount": "1 package (20-30 bamboo skewers)",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread tofu and onion onto skewers, leaving space between each piece.",
+    "3. In a small bowl, mix together cumin, paprika, salt, and pepper.",
+    "4. Brush skewers with olive oil and sprinkle with spice mixture.",
+    "5. Grill skewers for 8-10 minutes, turning occasionally.",
+    "6. Serve hot, garnished with crushed potato chips (if using).",
+    "7. Optional: serve with a side of your favorite Croatian salad or bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "skewers",
+    "grilled",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-croatian-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:36:25.003Z"
+}
