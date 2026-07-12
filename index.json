@@ -1789,18 +1789,15 @@
   },
   {
     "slug": "xenial-hearty-russian-mushroom-pilaf",
-    "title": "Xenial Hearty Russian Mushroom Pilaf",
+    "title": "Hearty Russian Pilaf with Mushrooms",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "mushroom",
-      "one-pot",
-      "pilaf",
       "russian",
-      "vegan"
+      "mushroom",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -2796,17 +2793,14 @@
   },
   {
     "slug": "xenial-yeasty-slovakian-cannellini-beans-casserole",
-    "title": "Xenial Yeasty Slovakian Cannellini Beans Casserole",
+    "title": "Slovakian Bean Casserole",
     "tags": [
-      "cannellini-beans",
-      "gluten-free",
-      "one-pan",
       "slovakian",
-      "vegetarian",
-      "weeknight"
+      "bean-casserole",
+      "yeast-based"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -3154,18 +3148,15 @@
   },
   {
     "slug": "xeriscape-roasted-peruvian-duck-relleno",
-    "title": "Xeriscape Roasted Peruvian Duck Relleno",
+    "title": "Peruvian-Style Roasted Duck with Relleno",
     "tags": [
-      "comfort-food",
-      "dinner",
-      "gluten-free",
-      "keto",
-      "one-pan",
       "peruvian",
-      "roasted-duck"
+      "roasted",
+      "duck",
+      "relleno"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 72,
+    "totalTimeMin": 80,
     "shard": "x"
   },
   {
@@ -4954,18 +4945,16 @@
   },
   {
     "slug": "xtra-crisp-canadian-cannellini-beans-casserole",
-    "title": "Xtra Crisp Canadian Cannellini Beans Casserole",
+    "title": "Canadian Casserole",
     "tags": [
-      "canadian-cuisine",
-      "casseroles",
-      "clay-pot-cooking",
-      "comfort-food",
-      "crunchy-top",
-      "hearty-dishes",
-      "one-pot-meals"
+      "breakfast",
+      "lunch",
+      "casserole",
+      "bacon",
+      "cheese"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "cuisine": "North American",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -9693,17 +9682,15 @@
   },
   {
     "slug": "xtra-silky-peruvian-grape-leaves-dumplings",
-    "title": "Xtra Silky Peruvian Grape Leaves Dumplings",
+    "title": "Peruvian Grape Dumpling Soup",
     "tags": [
-      "diabetic-friendly",
-      "dumplings",
-      "gluten-free",
-      "peruvian-cuisine",
-      "snack-ideas",
-      "wine-infused"
+      "soup",
+      "dinner",
+      "peruvian",
+      "dumplings"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "cuisine": "peruvian",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
