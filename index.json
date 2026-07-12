@@ -1947,16 +1947,15 @@
   },
   {
     "slug": "xenial-malty-turkish-mincemeat-kazandibi",
-    "title": "Xenial Malty Turkish Mincemeat Kazandibi",
+    "title": "Kazandibi with Mincemeat and Turkish Spices",
     "tags": [
-      "cozy-dessert",
-      "malty-goodness",
-      "mincemeat-treat",
-      "paleo-friendly",
-      "turkish-dessert"
+      "dessert",
+      "turkish",
+      "sweet",
+      "savory"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -11196,17 +11195,15 @@
   },
   {
     "slug": "xtra-tender-spanish-sweetcorn-paella",
-    "title": "Xtra Tender Spanish Sweetcorn Paella",
+    "title": "Spanish Paella with Sweetcorn",
     "tags": [
-      "easy-paella",
-      "gluten-free",
-      "low-fat",
-      "one-pan",
-      "spanish-food",
-      "weeknight"
+      "spanish",
+      "vegetarian",
+      "paella",
+      "sweetcorn"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
