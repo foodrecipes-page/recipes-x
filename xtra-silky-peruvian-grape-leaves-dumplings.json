@@ -1,0 +1,73 @@
+{
+  "slug": "xtra-silky-peruvian-grape-leaves-dumplings",
+  "title": "Peruvian Grape Dumpling Soup",
+  "description": "A hearty and flavorful soup made with dumplings, grape puree, and a hint of Peruvian spices.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dumplings",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "grape",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "leaves",
+      "amount": "1 bunch",
+      "notes": "fresh cilantro"
+    },
+    {
+      "name": "peruvian spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the grape puree and Peruvian spice blend. Stir to combine.",
+    "Add the dumplings to the pot and cook for 5 minutes.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the chopped cilantro and season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "dinner",
+    "peruvian",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-peruvian-grape-leaves-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:09:08.423Z"
+}
