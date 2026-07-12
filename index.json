@@ -1707,18 +1707,16 @@
   },
   {
     "slug": "xenial-garlicky-greek-pork-back-ribs-avgolemono",
-    "title": "Xenial Garlicky Greek Pork Back Ribs Avgolemono",
+    "title": "Crispy Xenial Pork Ribs with Avgolemono Glaze",
     "tags": [
+      "pork",
+      "greek",
       "avgolemono",
-      "bone-in",
-      "garlicky",
-      "greek-food",
-      "halal-friendly",
-      "pork-ribs",
-      "weeknight"
+      "gluten-free",
+      "comfort-food"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 70,
+    "totalTimeMin": 230,
     "shard": "x"
   },
   {
@@ -4739,17 +4737,15 @@
   },
   {
     "slug": "xtra-creamy-kenyan-fideo-noodles",
-    "title": "Xtra Creamy Kenyan Fideo Noodles",
+    "title": "Creamy Kenyan Fideo Noodle Stir Fry",
     "tags": [
-      "comfort-food",
-      "creamy-sauce",
-      "fideo-noodles",
-      "kenyan-cuisine",
-      "one-pot",
-      "weeknight"
+      "kenyan",
+      "creamy",
+      "stir-fry",
+      "noodles"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 18,
     "shard": "x"
   },
   {
@@ -6495,17 +6491,15 @@
   },
   {
     "slug": "xtra-dense-australian-lamb-biryani",
-    "title": "Xtra Dense Australian Lamb Biryani",
+    "title": "Australian Lamb Biryani",
     "tags": [
-      "australian-cuisine",
-      "high-protein",
-      "lamb-based",
-      "macrobiotic-friendly",
-      "one-pan",
-      "weeknight"
+      "australian",
+      "lamb",
+      "biryani",
+      "spicy"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 150,
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
