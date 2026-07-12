@@ -1,0 +1,88 @@
+{
+  "slug": "x-festive-korean-sauerkraut-wrap",
+  "title": "Korean-Style Pork Wrap",
+  "description": "A flavorful and spicy Korean-inspired wrap filled with marinated pork, sauerkraut, and crunchy slaw.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Festive Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sour kimchi, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large flour tortilla",
+      "amount": "1"
+    },
+    {
+      "name": "Green onion, thinly sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cucumber, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Crunchy slaw (store-bought or homemade)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together chili flakes, sesame oil, and 2 tablespoons of water to make the marinade.",
+    "2. Add the pork shoulder to the marinade and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat a grill or grill pan to medium-high heat. Remove the pork from the marinade, letting any excess liquid drip off.",
+    "4. Grill the pork for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "5. Let the pork rest for 5 minutes before slicing it thinly against the grain.",
+    "6. Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "7. Assemble the wrap by spreading a layer of sauerkraut on the tortilla, followed by sliced pork, chopped kimchi, cucumber, green onion, and a sprinkle of toasted sesame seeds.",
+    "8. Top with crunchy slaw and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "wrap",
+    "pork",
+    "sauerkraut"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-festive-korean-sauerkraut-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:35:14.189Z"
+}
