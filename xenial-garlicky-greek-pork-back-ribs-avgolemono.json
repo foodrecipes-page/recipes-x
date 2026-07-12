@@ -1,0 +1,77 @@
+{
+  "slug": "xenial-garlicky-greek-pork-back-ribs-avgolemono",
+  "title": "Crispy Xenial Pork Ribs with Avgolemono Glaze",
+  "description": "A twist on traditional Greek cuisine, these crispy pork ribs are smothered in a tangy avgolemono glaze, perfect for a comforting meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 pounds",
+      "notes": "meat should be membrane removed"
+    },
+    {
+      "name": "avgolemono glaze (see below)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "xenial seasoning blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a small bowl, whisk together xenial seasoning blend and olive oil.",
+    "Apply the mixture evenly to both sides of the ribs, making sure they are fully coated.",
+    "Place the ribs in a single layer on a baking sheet lined with parchment paper.",
+    "Bake for 2 hours, or until the ribs are tender and easily fall off the bone.",
+    "While the ribs are baking, prepare the avgolemono glaze.",
+    "In a medium saucepan, combine lemon juice, water, and minced garlic.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the ribs from the oven and brush the avgolemono glaze evenly over both sides of the ribs.",
+    "Return the ribs to the oven and bake for an additional 10-15 minutes, or until the glaze has caramelized.",
+    "Remove the ribs from the oven and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "greek",
+    "avgolemono",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-garlicky-greek-pork-back-ribs-avgolemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:11:22.183Z"
+}
