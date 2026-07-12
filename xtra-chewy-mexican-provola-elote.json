@@ -1,0 +1,64 @@
+{
+  "slug": "xtra-chewy-mexican-provola-elote",
+  "title": "Grilled Elote with Provolone",
+  "description": "A Mexican-inspired grilled corn dish topped with melted provolone cheese. Perfect for a summer evening.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "elote",
+      "amount": "2 ears"
+    },
+    {
+      "name": "provolo",
+      "amount": "1 ball",
+      "notes": "mild, mozzarella-style cheese"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Shuck and silk the elote, leaving the kernels intact.",
+    "Brush the elote with olive oil and season with salt and pepper.",
+    "Grill the elote for 10-12 minutes, turning occasionally.",
+    "Meanwhile, slice the provolone into 1/4-inch thick rounds.",
+    "Once the elote is cooked, remove from grill and top with a round of provolone.",
+    "Return the elote to the grill and cook for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "corn",
+    "grilled",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-chewy-mexican-provola-elote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:26:03.354Z"
+}
