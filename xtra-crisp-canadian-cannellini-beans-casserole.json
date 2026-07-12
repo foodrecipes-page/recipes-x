@@ -1,0 +1,69 @@
+{
+  "slug": "xtra-crisp-canadian-cannellini-beans-casserole",
+  "title": "Canadian Casserole",
+  "description": "A hearty, comforting casserole featuring Canadian bacon, cannellini beans, and a crunchy topping.",
+  "cuisine": "North American",
+  "diet": [
+    "gluten-free",
+    "vegetarian-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "1 pound"
+    },
+    {
+      "name": "cannellini beans",
+      "amount": "1 (15 ounce) can, drained and rinsed"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 (12 ounce) package"
+    },
+    {
+      "name": "xtra sharp cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "crisp bacon",
+      "amount": "4 slices, crumbled"
+    },
+    {
+      "name": "beans",
+      "amount": "1 (15 ounce) can, drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook Canadian bacon in a skillet over medium-high heat until browned and crispy.",
+    "In a separate pot, heat cannellini beans over medium heat until warmed through.",
+    "In a large mixing bowl, combine cooked bacon, beans, and casserole.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top with shredded cheddar cheese and crumbled bacon.",
+    "Bake in preheated oven for 25-30 minutes or until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "casserole",
+    "bacon",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-canadian-cannellini-beans-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:31:12.137Z"
+}
