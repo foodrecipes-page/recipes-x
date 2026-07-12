@@ -2720,17 +2720,13 @@
   },
   {
     "slug": "xenial-vietnamese-nectarines-bun-thit-nuong",
-    "title": "Xenial Vietnamese Nectarines Bun Thit Nuong",
+    "title": "Vietnamese-Style Grilled Pork with Nectarine Salsa",
     "tags": [
-      "fluffy",
-      "fondue-pot",
-      "kosher-friendly",
-      "quick-dinner",
-      "romantic",
-      "sour",
-      "vegetable-oil"
+      "vietnamese",
+      "grilled-pork",
+      "nectarine-salsa"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vietnamese",
     "totalTimeMin": 35,
     "shard": "x"
   },
