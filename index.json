@@ -28,15 +28,15 @@
   },
   {
     "slug": "x-festive-korean-sauerkraut-wrap",
-    "title": "Festive Korean Sauerkraut Wrap",
+    "title": "Korean-Style Pork Wrap",
     "tags": [
       "korean",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "wrap",
+      "pork",
+      "sauerkraut"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 23,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -2589,17 +2589,15 @@
   },
   {
     "slug": "xenial-turkish-lentils-soup",
-    "title": "Xenial Turkish Lentils Soup",
+    "title": "Lentil Soup",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "ovo-vegetarian-friendly",
-      "quick",
-      "simple",
-      "weeknight"
+      "lentil",
+      "soup",
+      "turkish",
+      "vegetarian"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "cuisine": "turkish",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -5434,17 +5432,15 @@
   },
   {
     "slug": "xtra-crispy-croatian-tofu-skewers",
-    "title": "Xtra Crispy Croatian Tofu Skewers",
+    "title": "Croatian Tofu Skewers",
     "tags": [
-      "croatian",
-      "grilled",
-      "keto-friendly",
-      "skewers",
       "tofu",
-      "vegetarian"
+      "skewers",
+      "grilled",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 23,
     "shard": "x"
   },
   {
