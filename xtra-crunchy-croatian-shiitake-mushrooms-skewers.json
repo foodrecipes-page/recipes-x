@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-crunchy-croatian-shiitake-mushrooms-skewers",
+  "title": "Shiitake and Mushroom Skewers with Croatian Spice",
+  "description": "A flavorful vegetarian dish featuring marinated shiitake and button mushrooms, grilled to perfection on skewers with a hint of Croatian spice. Perfect as a quick and easy dinner or lunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup",
+      "notes": "stemmed"
+    },
+    {
+      "name": "Button mushrooms",
+      "amount": "1 cup",
+      "notes": "button"
+    },
+    {
+      "name": "Croatian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most European markets"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crunchy onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together olive oil, Croatian spice blend, and a pinch of salt.",
+    "Add the shiitake and button mushrooms to the bowl, tossing to coat with the marinade.",
+    "Thread the marinated mushrooms onto the skewers, leaving a small space between each piece.",
+    "Brush the tops of the skewers with additional olive oil.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the mushrooms are tender and lightly charred.",
+    "Serve hot, garnished with crunchy onion and additional Croatian spice blend if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-croatian-shiitake-mushrooms-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:31:20.675Z"
+}
