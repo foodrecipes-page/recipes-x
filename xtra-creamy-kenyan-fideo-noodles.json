@@ -1,0 +1,75 @@
+{
+  "slug": "xtra-creamy-kenyan-fideo-noodles",
+  "title": "Creamy Kenyan Fideo Noodle Stir Fry",
+  "description": "A fusion dish combining Kenyan flavors with a creamy fideo noodle stir fry. Serve as a quick and easy dinner option.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan fideo noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Creamy sauce (store-bought or homemade)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cook the Kenyan fideo noodles according to the package instructions.",
+    "2. In a pan, heat the xtra virgin olive oil over medium heat and add the sliced onion and bell pepper.",
+    "3. Cook for 3-4 minutes, or until the vegetables are tender.",
+    "4. Add the minced garlic and cook for an additional minute.",
+    "5. Stir in the creamy sauce and chili flakes.",
+    "6. Return the cooked noodles to the pan and toss with the creamy sauce mixture.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "creamy",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-kenyan-fideo-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:47:00.395Z"
+}
