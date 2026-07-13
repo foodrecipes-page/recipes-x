@@ -1,0 +1,57 @@
+{
+  "slug": "xerisic-russian-egg-omelette",
+  "title": "Russian Omelette",
+  "description": "A classic Russian omelette made with eggs, Russian sausage, and xerisic for added flavor.",
+  "cuisine": "Russian",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Russian sausage",
+      "amount": "2 slices",
+      "notes": "Cooked and diced"
+    },
+    {
+      "name": "xerisic",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together.",
+    "Heat 1 tablespoon of oil in a non-stick pan over medium heat.",
+    "Add the cooked sausage and xerisic to the pan and stir to combine.",
+    "Pour the eggs over the sausage and xerisic mixture.",
+    "Cook the omelette for 2-3 minutes, until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Continue cooking for another 2-3 minutes, until the eggs are almost set.",
+    "Slide the omelette out of the pan onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "omelette",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisic-russian-egg-omelette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:21:24.292Z"
+}
