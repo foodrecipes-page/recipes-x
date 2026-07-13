@@ -1,0 +1,62 @@
+{
+  "slug": "xtra-crisp-tunisian-petit-pois-tagine",
+  "title": "Tunisian Vegetable Tagine",
+  "description": "A flavorful stew made with a variety of colorful vegetables, inspired by the traditional cuisine of Tunisia. This dish is perfect for a weeknight dinner, as it's relatively quick to prepare and cooks in under an hour.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crisp red onion",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "petit pois",
+      "amount": "1 cup, fresh"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 large, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a large clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until it's softened and lightly browned, about 10 minutes.",
+    "Add the Tunisian spice blend and stir to combine. Cook for 1 minute.",
+    "Add the fresh peas and chopped tagine. Stir to combine. Cook for 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-tunisian-petit-pois-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:42:03.327Z"
+}
