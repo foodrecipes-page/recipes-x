@@ -1,0 +1,92 @@
+{
+  "slug": "xtra-flaky-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A rich and flavorful stew originating from Tunisia, made with tender lamb and fragrant spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tagine",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add garlic, onion, and Tunisian spice blend; cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add diced tomatoes and chicken broth; bring to a boil.",
+    "Reduce heat to low and simmer, covered, until lamb is tender, about 1 1/2 hours.",
+    "Season with flaky sea salt and serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "lamb",
+    "north-african-cuisine",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:35:16.950Z"
+}
