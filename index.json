@@ -626,18 +626,14 @@
   },
   {
     "slug": "x-tra-spicy-neapolitan-apricots-cassata-siciliana",
-    "title": "x-tra Spicy Neapolitan Apricots Cassata Siciliana",
+    "title": "Siciliana Apricot Cassata",
     "tags": [
-      "cassata",
-      "halal-friendly",
-      "italian-desserts",
-      "neapolitan-cuisine",
-      "sous-vide",
-      "spicy-food",
+      "italian",
+      "dessert",
       "sunday-dinner"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 150,
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
@@ -4581,17 +4577,15 @@
   },
   {
     "slug": "xtra-creamy-brazilian-chicken-casserole",
-    "title": "Xtra Creamy Brazilian Chicken Casserole",
+    "title": "Brazilian Chicken Casserole",
     "tags": [
-      "brazilian-food",
-      "chicken-casserole",
-      "comfort-food",
-      "low-sodium",
-      "meal-prep",
-      "one-pot"
+      "chicken",
+      "casserole",
+      "brazilian",
+      "cheesy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -9446,13 +9440,12 @@
   },
   {
     "slug": "xtra-shaggy-mexican-poppy-horchata",
-    "title": "Xtra Shaggy Mexican Poppy Horchata",
+    "title": "Cinnamon Horchata Cake",
     "tags": [
-      "gluten-free",
-      "horchata",
       "mexican",
-      "one-pan",
-      "weeknight"
+      "horchata",
+      "cake",
+      "dessert"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 40,
