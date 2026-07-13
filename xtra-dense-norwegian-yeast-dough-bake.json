@@ -1,0 +1,69 @@
+{
+  "slug": "xtra-dense-norwegian-yeast-dough-bake",
+  "title": "Homemade Norwegian Flatbread",
+  "description": "A delicious and authentic Norwegian flatbread recipe made with simple ingredients. Best served with cheese, meats, or as a side.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dense dough",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a large mixing bowl.",
+    "Gradually add water and mix until a dough forms.",
+    "Knead dough for 10 minutes until smooth.",
+    "Place dough in a greased bowl, cover, and let rise for 1 hour.",
+    "Preheat oven to 425°F (220°C).",
+    "Punch down dough and roll out to 1/4 inch thickness.",
+    "Place dough on a baking sheet and bake for 15-20 minutes.",
+    "Brush with dense dough for a crispy crust (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "flatbread",
+    "norwegian",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-norwegian-yeast-dough-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:30:00.124Z"
+}
