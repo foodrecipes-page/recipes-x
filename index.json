@@ -7072,17 +7072,15 @@
   },
   {
     "slug": "xtra-flaky-tunisian-lamb-tagine",
-    "title": "Xtra Flaky Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "flaky-pastry",
-      "lamb-recipes",
-      "special-occasion",
-      "tomato-sauce",
-      "tunisian-cuisine",
-      "yuzu-recipes"
+      "stew",
+      "lamb",
+      "north-african-cuisine",
+      "slow-cooker"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 70,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "x"
   },
   {
