@@ -1,0 +1,63 @@
+{
+  "slug": "x-tra-crisp-irish-baguette-pizza",
+  "title": "Irish Pizza Baguette",
+  "description": "A twist on traditional pizza with the added crunch of a crispy baguette.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tra",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crisp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "irish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "baguette",
+      "amount": "1"
+    },
+    {
+      "name": "pizza",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the baguette in half lengthwise.",
+    "Spread the tra evenly over the baguette.",
+    "Sprinkle the crisp over the tra.",
+    "Add the irish on top.",
+    "Place the pizza on top of the irish.",
+    "Bake for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "pizza",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-crisp-irish-baguette-pizza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:42:58.703Z"
+}
