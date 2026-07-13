@@ -3543,18 +3543,14 @@
   },
   {
     "slug": "xerisic-russian-egg-omelette",
-    "title": "Xerisic Russian Egg Omelette",
+    "title": "Russian Omelette",
     "tags": [
       "breakfast",
-      "brunch",
-      "easy",
-      "eggs",
-      "healthy",
-      "low-calorie",
+      "omelette",
       "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -7797,14 +7793,12 @@
   },
   {
     "slug": "xtra-gooey-mediterranean-shrimp-toast",
-    "title": "Xtra Gooey Mediterranean Shrimp Toast",
+    "title": "Shrimp Toast",
     "tags": [
-      "comfort-food",
-      "high-protein",
       "mediterranean",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "shrimp",
+      "appetizer",
+      "easy"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 22,
@@ -7974,17 +7968,15 @@
   },
   {
     "slug": "xtra-indulgent-ukrainian-tomato-dumplings",
-    "title": "Xtra Indulgent Ukrainian Tomato Dumplings",
+    "title": "Delicious Ukrainian Dumplings",
     "tags": [
-      "cold-weather",
+      "ukrainian",
+      "dumplings",
       "comfort-food",
-      "hearty",
-      "one-pot",
-      "ukrainian-cuisine",
-      "vegetarian-friendly"
+      "homemade"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
