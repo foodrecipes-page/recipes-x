@@ -5208,15 +5208,13 @@
   },
   {
     "slug": "xtra-crisp-tunisian-petit-pois-tagine",
-    "title": "Xtra Crisp Tunisian Petit Pois Tagine",
+    "title": "Tunisian Vegetable Tagine",
     "tags": [
-      "crisp-texture",
-      "malty-flavor",
-      "ovo-vegetarian",
-      "ramekin-recipe",
-      "tunisian-cuisine"
+      "vegetarian",
+      "gluten-free",
+      "north-african"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "x"
   },
