@@ -1,0 +1,80 @@
+{
+  "slug": "x-tra-spicy-neapolitan-apricots-cassata-siciliana",
+  "title": "Siciliana Apricot Cassata",
+  "description": "A Sicilian-inspired dessert featuring a moist cassata cake, topped with sweet apricots in a spicy syrup.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cassata",
+      "amount": "1 (7-inch) round cake"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apricots",
+      "amount": "1 cup, dried"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tra",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "neapolitan",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "x",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "spicy",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Prepare the cassata cake according to package instructions.",
+    "In a saucepan, combine sugar, water, tra, neapolitan, x, and spicy. Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Add dried apricots to the saucepan and cook for an additional 2 minutes.",
+    "Let the apricot syrup cool to room temperature.",
+    "Once the cassata cake is cool, slice it in half horizontally.",
+    "Drizzle the apricot syrup over the bottom half of the cake.",
+    "Top with the top half of the cake.",
+    "Dust with powdered sugar, if desired.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "sunday-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-spicy-neapolitan-apricots-cassata-siciliana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:35:57.725Z"
+}
