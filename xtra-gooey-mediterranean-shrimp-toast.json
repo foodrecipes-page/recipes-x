@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-gooey-mediterranean-shrimp-toast",
+  "title": "Shrimp Toast",
+  "description": "A Mediterranean-inspired appetizer featuring succulent shrimp on toasted bread.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gooey Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Mediterranean Oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Shrimp",
+      "amount": "12 large, peeled and deveined",
+      "notes": null
+    },
+    {
+      "name": "Toast",
+      "amount": "4 slices, crusty bread",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small bowl, mix together olive oil, oregano, and a pinch of salt.",
+    "3. Place shrimp on a baking sheet lined with parchment paper, drizzle with olive oil mixture, and toss to coat.",
+    "4. Bake shrimp in the preheated oven for 8-10 minutes, or until pink and fully cooked.",
+    "5. Meanwhile, toast bread slices in the oven for 2-3 minutes, or until lightly browned.",
+    "6. Top each toasted bread slice with a cooked shrimp, followed by a sprinkle of gooey cheese.",
+    "7. Transfer toasts to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "shrimp",
+    "appetizer",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-gooey-mediterranean-shrimp-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:24:01.386Z"
+}
