@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-spicy-malaysian-shrimp-curry",
+  "title": "Spicy Malaysian Shrimp Curry",
+  "description": "A flavorful and spicy curry dish originating from Malaysia, featuring succulent shrimp and a blend of aromatic spices.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Medium shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Malaysian curry paste",
+      "amount": "2 tablespoons",
+      "notes": "use a reputable brand"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Xtra-hot red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "balance sweetness"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side. Set aside.",
+    "In the same skillet, add curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add fish sauce, brown sugar, and xtra-hot red pepper flakes. Stir to combine.",
+    "Add cooked shrimp back into the skillet and stir to coat with the curry sauce.",
+    "Serve over cooked rice and garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "curry",
+    "malaysian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-malaysian-shrimp-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:11:44.190Z"
+}
