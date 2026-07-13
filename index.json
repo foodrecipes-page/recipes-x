@@ -10538,17 +10538,15 @@
   },
   {
     "slug": "xtra-spicy-malaysian-shrimp-curry",
-    "title": "Xtra Spicy Malaysian Shrimp Curry",
+    "title": "Spicy Malaysian Shrimp Curry",
     "tags": [
-      "high-protein",
-      "malaysian",
-      "one-pan",
       "seafood",
-      "spicy",
-      "weeknight"
+      "curry",
+      "malaysian",
+      "spicy"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "malaysian",
+    "totalTimeMin": 27,
     "shard": "x"
   },
   {
