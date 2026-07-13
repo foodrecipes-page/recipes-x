@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-smoky-british-salmon-skewers",
+  "title": "Smoked Salmon Skewers",
+  "description": "A simple yet elegant British-inspired dish featuring smoked salmon on skewers, perfect for a light lunch or dinner.",
+  "cuisine": "British",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "1 (8 oz) package"
+    },
+    {
+      "name": "British Xtra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12 wooden skewers, soaked in water for 30 minutes"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread 2-3 pieces of smoked salmon onto each skewer, leaving a small space between each piece.",
+    "In a small bowl, whisk together olive oil, lemon juice, and garlic.",
+    "Brush the mixture evenly onto both sides of the salmon.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 2-3 minutes per side, or until cooked through.",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked salmon",
+    "salmon",
+    "british cuisine",
+    "easy recipe"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-british-salmon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:56:04.926Z"
+}
