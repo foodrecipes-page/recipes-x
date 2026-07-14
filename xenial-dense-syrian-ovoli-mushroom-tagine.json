@@ -1,0 +1,82 @@
+{
+  "slug": "xenial-dense-syrian-ovoli-mushroom-tagine",
+  "title": "Tagine Chicken with Mushrooms",
+  "description": "A flavorful North African-inspired stew made with chicken, mushrooms, and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "pork-free",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1",
+      "notes": "ovolli"
+    },
+    {
+      "name": "mushroom, sliced",
+      "amount": "1 lb",
+      "notes": "syrian"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add onion and cook until softened, 5 minutes.",
+    "Add mushroom and cook until browned, 5 minutes.",
+    "Add chicken and cook until browned, 5 minutes.",
+    "Add spice blend, broth, and apricots.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, until chicken is cooked through, 20 minutes.",
+    "Stir in parsley and season to taste.",
+    "Serve over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "chicken",
+    "mushroom",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-dense-syrian-ovoli-mushroom-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T12:13:35.542Z"
+}
