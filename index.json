@@ -6828,16 +6828,15 @@
   },
   {
     "slug": "xtra-flaky-british-broad-beans-pie",
-    "title": "Xtra Flaky British Broad Beans Pie",
+    "title": "Traditional British Bean Pie",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "flaky-pastry",
-      "high-protein",
-      "paleo-friendly"
+      "british",
+      "bean-pie",
+      "homemade",
+      "vegetarian"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "x"
   },
   {
