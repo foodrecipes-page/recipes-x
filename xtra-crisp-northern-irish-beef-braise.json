@@ -1,0 +1,94 @@
+{
+  "slug": "xtra-crisp-northern-irish-beef-braise",
+  "title": "Northern Irish Braised Beef",
+  "description": "Tender beef in a rich, flavorful sauce, inspired by Northern Irish cuisine.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 lbs (675g)",
+      "notes": ""
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups (475ml)",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup (235ml)",
+      "notes": ""
+    },
+    {
+      "name": "crisp bacon",
+      "amount": "6 slices",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef with salt and pepper.",
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are softened, about 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Add the broth, wine, and browned beef back to the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the beef for 2 1/2 hours, or until it is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Skim off any excess fat from the surface of the sauce.",
+    "Slice the beef against the grain and serve it with the sauce spooned over the top.",
+    "Garnish with crisp bacon and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "braising",
+    "northern-irish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "40g",
+    "carbs": "20g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-northern-irish-beef-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:16:00.085Z"
+}
