@@ -55,18 +55,14 @@
   },
   {
     "slug": "x-quick-croatian-fix-bisque",
-    "title": "x-quick Croatian fix Bisque",
+    "title": "Croatian Quick Fix Soup",
     "tags": [
-      "bouncy-qq",
-      "croatian-cuisine",
-      "easy-to-make",
-      "healthy",
-      "low-fat",
-      "miso",
-      "turmeric"
+      "soup",
+      "croatian",
+      "lunch"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -1515,17 +1511,16 @@
   },
   {
     "slug": "xenial-dense-syrian-ovoli-mushroom-tagine",
-    "title": "Xenial Dense Syrian Ovoli Mushroom Tagine",
+    "title": "Tagine Chicken with Mushrooms",
     "tags": [
-      "cold-weather",
-      "gluten-free",
-      "mushroom-based",
-      "one-pot",
-      "syrian-cuisine",
-      "vegetarian-friendly"
+      "north-african",
+      "chicken",
+      "mushroom",
+      "stew",
+      "dinner"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
