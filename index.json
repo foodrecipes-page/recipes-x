@@ -1358,17 +1358,14 @@
   },
   {
     "slug": "xenial-comforting-algerian-vegetable-tagine",
-    "title": "Xenial Comforting Algerian Vegetable Tagine",
+    "title": "Braised Vegetable Tagine",
     "tags": [
-      "algerian-cuisine",
-      "comfort-food",
-      "fodmap-friendly",
-      "gluten-free",
-      "one-pot",
-      "vegetarian"
+      "vegetarian",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "algerian",
+    "totalTimeMin": 55,
     "shard": "x"
   },
   {
