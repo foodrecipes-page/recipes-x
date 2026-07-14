@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-smoky-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers",
+  "description": "Grilled chicken skewers with smoky flavor, inspired by Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": "adds smoky flavor"
+    },
+    {
+      "name": "brazilian-style seasoning",
+      "amount": "1 teaspoon",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together olive oil, smoky paprika, brazilian-style seasoning, and garlic.",
+    "Brush the mixture onto both sides of the chicken.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through.",
+    "Let skewers rest for 2-3 minutes before serving.",
+    "Garnish with chopped cilantro and serve with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "brazilian",
+    "skewers",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:55:40.423Z"
+}
