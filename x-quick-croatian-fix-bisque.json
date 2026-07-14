@@ -1,0 +1,59 @@
+{
+  "slug": "x-quick-croatian-fix-bisque",
+  "title": "Croatian Quick Fix Soup",
+  "description": "A hearty and comforting soup made with Croatian ingredients, perfect for a quick and easy meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "x",
+      "amount": "2 cups"
+    },
+    {
+      "name": "quick",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "bisque",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "croatian fix",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the diced quick and cook until tender, about 5 minutes.",
+    "Add the Croatian fix and cook for 1 minute.",
+    "Pour in the bisque and bring to a simmer.",
+    "Add the x and stir to combine.",
+    "Reduce heat to low and let simmer for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "croatian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-quick-croatian-fix-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:02:55.851Z"
+}
