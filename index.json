@@ -679,15 +679,15 @@
   },
   {
     "slug": "x-tra-sweet-turkish-cassaba-tagine",
-    "title": "x-tra sweet turkish cassaba tagine",
+    "title": "Spiced Cassaba and Sweet Tra Stew",
     "tags": [
-      "comfort-food",
-      "one-pan",
-      "turkish",
-      "weeknight"
+      "moroccan",
+      "stew",
+      "cassaba",
+      "sweet-tra"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 70,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -2286,17 +2286,15 @@
   },
   {
     "slug": "xenial-smoky-slovakian-cheese-casserole",
-    "title": "Xenial Smoky Slovakian Cheese Casserole",
+    "title": "Slovakian Smoky Casserole with Xenial Twist",
     "tags": [
-      "cheesy",
-      "clay-pot",
-      "comfort-food",
-      "nut-free",
+      "casserole",
       "slovakian",
-      "smoky"
+      "smoky",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
