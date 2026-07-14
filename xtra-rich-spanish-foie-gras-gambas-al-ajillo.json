@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-rich-spanish-foie-gras-gambas-al-ajillo",
+  "title": "Spanish Gambas with Garlic Butter",
+  "description": "A quick and flavorful tapas dish featuring succulent shrimp and a rich garlic butter sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Gluten-free",
+    "Seafood-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gambas (shrimp)",
+      "amount": "12 large shrimp, peeled and deveined",
+      "notes": ""
+    },
+    {
+      "name": "Spanish al Ajillo (garlic butter)",
+      "amount": "4 tablespoons unsalted butter, softened",
+      "notes": ""
+    },
+    {
+      "name": "Spanish al (chili pepper)",
+      "amount": "1-2 teaspoons, minced",
+      "notes": ""
+    },
+    {
+      "name": "Spanish rich (olive oil)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced chili pepper and cook for 1 minute.",
+    "Add the garlic butter and cook for an additional minute, until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "seafood",
+    "tapas",
+    "garlic-butter"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-spanish-foie-gras-gambas-al-ajillo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:37:08.603Z"
+}
