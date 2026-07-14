@@ -1,0 +1,78 @@
+{
+  "slug": "xtra-creamy-uruguayan-feta-bowl",
+  "title": "Creamy Feta Bowl",
+  "description": "A simple and delicious Uruguayan-inspired bowl filled with creamy sauce, crispy feta, and a crunchy topping.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender, combine Greek yogurt, crumbled feta, and a pinch of salt. Blend until smooth.",
+    "Heat xtra virgin olive oil in a small saucepan over medium heat.",
+    "Pour the yogurt mixture over the hot oil and stir until combined.",
+    "Taste and adjust seasoning as needed.",
+    "Spoon the creamy sauce into a bowl.",
+    "Garnish with chopped cilantro and a sprinkle of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "creamy",
+    "feta",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-uruguayan-feta-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:50:45.037Z"
+}
