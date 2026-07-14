@@ -1,0 +1,65 @@
+{
+  "slug": "xenial-briny-norwegian-lamb-kebabs",
+  "title": "Norwegian Lamb Kebabs with Briny Glaze",
+  "description": "A flavorful and savory dish, perfect for a summer evening or a special occasion. The combination of lamb and briny glaze creates a unique and unforgettable taste experience.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch pieces",
+      "amount": "1 pound",
+      "notes": "Make sure the lamb is at room temperature before cooking"
+    },
+    {
+      "name": "Xenial olive oil",
+      "amount": "1/4 cup",
+      "notes": "Use a high-quality olive oil for the best flavor"
+    },
+    {
+      "name": "Norwegian kebab seasoning",
+      "amount": "2 tablespoons",
+      "notes": "You can adjust the amount of seasoning to your liking"
+    },
+    {
+      "name": "Briny glaze (see below)",
+      "amount": "1/4 cup",
+      "notes": "You can adjust the amount of glaze to your liking"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Use fresh parsley for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, combine the lamb, olive oil, and kebab seasoning. Toss to coat the lamb evenly.",
+    "Thread the lamb pieces onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "While the kebabs are cooking, prepare the briny glaze (see below).",
+    "Once the kebabs are cooked, brush them with the briny glaze.",
+    "Serve the kebabs hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "kebabs",
+    "lamb",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-briny-norwegian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:41:06.371Z"
+}
