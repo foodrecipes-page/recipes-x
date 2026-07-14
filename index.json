@@ -11079,17 +11079,16 @@
   },
   {
     "slug": "xtra-tender-basque-chicken-roast",
-    "title": "Xtra Tender Basque Chicken Roast",
+    "title": "Basque Chicken with Roast Potatoes",
     "tags": [
-      "egg-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "spanish-cuisine",
-      "weeknight"
+      "basque",
+      "chicken",
+      "roast",
+      "potatoes",
+      "comfort-food"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 70,
+    "cuisine": "Basque",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
