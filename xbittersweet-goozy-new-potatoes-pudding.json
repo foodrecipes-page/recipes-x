@@ -1,0 +1,79 @@
+{
+  "slug": "xbittersweet-goozy-new-potatoes-pudding",
+  "title": "Goozy New Potato Pudding",
+  "description": "A unique dessert combining goozy chocolate and creamy new potato pudding.",
+  "cuisine": "dessert",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "New Potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Goozy Chocolate",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "xbittersweet Chocolate Chips",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Boil the chopped new potatoes until they're tender, then mash.",
+    "In a separate bowl, whisk together the melted goozy chocolate, granulated sugar, and beaten eggs.",
+    "Add the mashed potatoes, flour, and whole milk to the bowl. Mix until well combined.",
+    "Pour the mixture into a greased 9x13-inch baking dish.",
+    "Bake for 25-30 minutes or until a toothpick inserted comes out clean.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Melt the xbittersweet chocolate chips in a double boiler or in the microwave in 30-second increments.",
+    "Pour the melted chocolate over the pudding and smooth the top.",
+    "Refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate pudding",
+    "new potatoes",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xbittersweet-goozy-new-potatoes-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:31:11.652Z"
+}
