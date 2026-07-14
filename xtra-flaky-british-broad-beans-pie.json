@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-flaky-british-broad-beans-pie",
+  "title": "Traditional British Bean Pie",
+  "description": "A classic bean pie originating from the UK, made with broad beans and a hint of British flair.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Broad beans",
+      "amount": "250g, fresh or frozen",
+      "notes": "Fresh or frozen, trimmed"
+    },
+    {
+      "name": "Shortcrust pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Flaky salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Roll out the shortcrust pastry to a thickness of about 3mm.",
+    "Place the pastry into a 20cm pie dish, trimming any excess.",
+    "In a pan, heat the olive oil over medium heat. Add the chopped onion and cook until softened.",
+    "Add the broad beans to the pan and cook for 2-3 minutes.",
+    "Season with flaky salt and black pepper to taste.",
+    "Pour the bean mixture into the pastry-lined pie dish.",
+    "Roll out the remaining pastry to a thickness of about 3mm.",
+    "Place the rolled-out pastry on top of the bean mixture, pressing the edges to seal.",
+    "Cut a few slits in the top pastry to allow steam to escape.",
+    "Brush the top pastry with a little water.",
+    "Bake the pie in the preheated oven for 35-40 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "bean-pie",
+    "homemade",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-british-broad-beans-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:23:32.297Z"
+}
