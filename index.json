@@ -1119,14 +1119,14 @@
   },
   {
     "slug": "xbittersweet-goozy-new-potatoes-pudding",
-    "title": "Xbittersweet Goozy New Potatoes Pudding",
+    "title": "Goozy New Potato Pudding",
     "tags": [
-      "dutch",
-      "hangover-cure",
-      "whole30"
+      "chocolate pudding",
+      "new potatoes",
+      "dessert"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 55,
+    "cuisine": "dessert",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -2485,17 +2485,17 @@
   },
   {
     "slug": "xenial-syrian-rice-pilaf",
-    "title": "Xenial Syrian Rice Pilaf",
+    "title": "Syrian-Style Xenial Rice Pilaf",
     "tags": [
-      "dairy-free",
-      "easy",
-      "mid-east",
-      "one-pot",
-      "romantic",
-      "vegetarian"
+      "pilaf",
+      "rice",
+      "syrian",
+      "xenial",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -2666,17 +2666,14 @@
   },
   {
     "slug": "xenial-velvety-german-squid-stew",
-    "title": "Xenial Velvety German Squid Stew",
+    "title": "Squid Stew with German Flair",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "one-pot",
-      "pescatarian",
+      "german",
       "seafood",
-      "weeknight"
+      "stew"
     ],
     "cuisine": "German",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -8554,17 +8551,16 @@
   },
   {
     "slug": "xtra-molten-american-dough-skillet",
-    "title": "Xtra Molten American Dough Skillet",
+    "title": "American Skillet Pancake",
     "tags": [
-      "american-cuisine",
-      "comfort-food",
-      "family-friendly",
-      "low-sodium",
-      "one-pot",
-      "skillet-meal"
+      "american",
+      "breakfast",
+      "brunch",
+      "pancake",
+      "skillet"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "x"
   },
   {
@@ -9095,17 +9091,15 @@
   },
   {
     "slug": "xtra-rich-spanish-foie-gras-gambas-al-ajillo",
-    "title": "Xtra Rich Spanish Foie Gras Gambas Al Ajillo",
+    "title": "Spanish Gambas with Garlic Butter",
     "tags": [
-      "foie-gras-recipes",
-      "gourmet-food",
-      "rich-dishes",
-      "seafood-recipes",
-      "spanish-cuisine",
-      "special-occasion"
+      "spanish",
+      "seafood",
+      "tapas",
+      "garlic-butter"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 13,
     "shard": "x"
   },
   {
