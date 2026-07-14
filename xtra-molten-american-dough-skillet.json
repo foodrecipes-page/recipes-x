@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-molten-american-dough-skillet",
+  "title": "American Skillet Pancake",
+  "description": "A simple, fluffy pancake recipe made in a skillet. Perfect for a quick breakfast or brunch.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons baking powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large egg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons american butter",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium heat.",
+    "In a large bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together the milk, egg, and melted american butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined. Do not overmix.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the preheated skillet.",
+    "Cook the pancake for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancake and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "breakfast",
+    "brunch",
+    "pancake",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-molten-american-dough-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T03:45:05.306Z"
+}
