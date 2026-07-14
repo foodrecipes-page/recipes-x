@@ -1,0 +1,74 @@
+{
+  "slug": "x-tra-sweet-turkish-cassaba-tagine",
+  "title": "Spiced Cassaba and Sweet Tra Stew",
+  "description": "A traditional Moroccan-inspired stew made with spiced cassaba, sweet tra, and a blend of warming spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassaba",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "sweet tra",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 teaspoon",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the diced cassaba and cook for an additional 5 minutes.",
+    "Add the chopped sweet tra, ground cumin, ground coriander, salt, and pepper.",
+    "Stir to combine and cook for 1 minute.",
+    "Add 1 cup of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the cassaba is tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "cassaba",
+    "sweet-tra"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-sweet-turkish-cassaba-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:50:01.416Z"
+}
