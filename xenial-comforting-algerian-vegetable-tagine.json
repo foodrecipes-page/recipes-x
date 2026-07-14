@@ -1,0 +1,82 @@
+{
+  "slug": "xenial-comforting-algerian-vegetable-tagine",
+  "title": "Braised Vegetable Tagine",
+  "description": "A comforting and flavorful stew originating from North Africa, featuring a variety of vegetables slow-cooked in a rich algerian spice blend.",
+  "cuisine": "algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 1/2 cups, peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "red potatoes",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken bouillon cube",
+      "amount": "1 cube, dissolved"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chopped carrots, sliced zucchini, and sliced red bell pepper. Cook for 5 minutes.",
+    "Add the chopped red potatoes, algerian spice blend, chicken broth, and chicken bouillon cube.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30-40 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-comforting-algerian-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:57:03.242Z"
+}
