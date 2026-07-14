@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-crispy-algerian-chicken-roast",
+  "title": "Crispy Algerian Chicken",
+  "description": "A delicious and spicy Algerian-inspired dish with crispy chicken, perfect for a weeknight dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Or substitute with a combination of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Roast",
+      "amount": "1 cup",
+      "notes": "Almonds or hazelnuts work well"
+    },
+    {
+      "name": "Crispy",
+      "amount": "1 cup",
+      "notes": "Panko breadcrumbs or crushed crackers"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt, pepper, and Algerian spice blend.",
+    "Dip the chicken in the Panko breadcrumbs or crushed crackers, pressing gently to adhere.",
+    "Heat the xtra virgin olive oil in a large skillet over medium-high heat.",
+    "Add the coated chicken breast and cook for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, until cooked through.",
+    "Meanwhile, toast the roast in a small dry skillet over medium heat, until fragrant.",
+    "Serve the crispy chicken breast with toasted roast, lemon wedges, and your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "chicken",
+    "crispy",
+    "spicy",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-algerian-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:10:39.191Z"
+}
