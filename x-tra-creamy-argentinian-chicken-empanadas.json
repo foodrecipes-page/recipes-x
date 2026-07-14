@@ -1,0 +1,80 @@
+{
+  "slug": "x-tra-creamy-argentinian-chicken-empanadas",
+  "title": "Argentinian Chicken Empanadas",
+  "description": "A classic Argentinian dish, these empanadas are filled with juicy chicken and baked to perfection.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "x",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tra",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "1/2 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "argentinian seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 packages",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the chicken into small pieces and season with argentinian seasoning.",
+    "In a pan, cook the chicken over medium-high heat until browned.",
+    "Add the chopped tra to the pan and cook until softened.",
+    "In a separate bowl, mix the cream cheese with 1 egg.",
+    "Roll out the empanada dough and cut into circles.",
+    "Place a spoonful of the chicken mixture onto one half of the dough circle.",
+    "Brush the edges with the egg mixture and fold the dough in half.",
+    "Bake the empanadas for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chicken",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-creamy-argentinian-chicken-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:02:51.260Z"
+}
