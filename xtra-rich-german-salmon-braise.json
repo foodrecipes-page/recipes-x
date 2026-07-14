@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-rich-german-salmon-braise",
+  "title": "German Braised Salmon with Rich Onions",
+  "description": "A hearty and flavorful German-inspired salmon dish with caramelized onions. This recipe is perfect for a special occasion or a cozy night in.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Xtra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rich beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "German beer",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the salmon fillets with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the salmon fillets for 2-3 minutes on each side, or until browned.",
+    "Remove the salmon from the pot and set aside. Reduce heat to medium and add the sliced onions to the pot.",
+    "Cook the onions for 20-25 minutes, stirring occasionally, until they are caramelized and golden brown.",
+    "Add the beef broth, beer, and brown sugar to the pot. Stir to combine and bring to a simmer.",
+    "Return the salmon to the pot and cover with a lid. Transfer to the oven and braise for 12-15 minutes, or until the salmon is cooked through.",
+    "Remove the pot from the oven and garnish with chopped parsley, if desired. Serve the salmon with the rich onion sauce spooned over the top.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "salmon",
+    "braised",
+    "onions"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-german-salmon-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:15:43.024Z"
+}
