@@ -1,0 +1,76 @@
+{
+  "slug": "xenial-syrian-rice-pilaf",
+  "title": "Syrian-Style Xenial Rice Pilaf",
+  "description": "A flavorful rice pilaf dish inspired by Syrian cuisine, infused with the warmth of xenial spices.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xenial spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "syrian pilaf spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a medium saucepan over medium-high heat.",
+    "Add the chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the xenial spice blend and Syrian pilaf spice mix; cook for 1 minute, stirring constantly.",
+    "Add the rice and stir to coat the rice in the spice mixture, about 2 minutes.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the rice is tender and liquid is absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "rice",
+    "syrian",
+    "xenial",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 225,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-syrian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:01:38.185Z"
+}
