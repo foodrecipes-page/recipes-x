@@ -1273,17 +1273,15 @@
   },
   {
     "slug": "xenial-briny-norwegian-lamb-kebabs",
-    "title": "Xenial Briny Norwegian Lamb Kebabs",
+    "title": "Norwegian Lamb Kebabs with Briny Glaze",
     "tags": [
-      "comfort-food",
-      "easy-dinner",
-      "grilled-meat",
-      "low-sodium",
-      "norwegian-cuisine",
-      "one-pan"
+      "norwegian",
+      "kebabs",
+      "lamb",
+      "glaze"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -5231,16 +5229,14 @@
   },
   {
     "slug": "xtra-crisp-vietnamese-shrimp-spring-rolls",
-    "title": "Xtra Crisp Vietnamese Shrimp Spring Rolls",
+    "title": "Spring Shrimp Rolls",
     "tags": [
-      "appetizer",
-      "low-sodium",
-      "shrimp-recipes",
-      "snack",
-      "spring-rolls",
-      "vietnamese-food"
+      "spring",
+      "rolls",
+      "shrimp",
+      "vietnamese"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vietnamese",
     "totalTimeMin": 30,
     "shard": "x"
   },
@@ -9791,17 +9787,16 @@
   },
   {
     "slug": "xtra-smoky-brazilian-chicken-skewers",
-    "title": "Xtra Smoky Brazilian Chicken Skewers",
+    "title": "Brazilian Chicken Skewers",
     "tags": [
-      "brazilian-food",
-      "gluten-free",
-      "grilled-chicken",
-      "healthy-dinner",
-      "low-glycemic",
-      "smoky-paprika"
+      "grilled",
+      "chicken",
+      "brazilian",
+      "skewers",
+      "smoky"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -9975,17 +9970,14 @@
   },
   {
     "slug": "xtra-smoky-malaysian-sirloin-steak-satay",
-    "title": "Xtra Smoky Malaysian Sirloin Steak Satay",
+    "title": "Grilled Satay Steak with Malaysian Peanut Sauce",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-fat",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "grilled",
+      "peanut-sauce",
+      "malaysian-fusion"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "indonesian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
