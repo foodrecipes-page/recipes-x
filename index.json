@@ -4841,17 +4841,16 @@
   },
   {
     "slug": "xtra-creamy-uruguayan-feta-bowl",
-    "title": "Xtra Creamy Uruguayan Feta Bowl",
+    "title": "Creamy Feta Bowl",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-glycemic",
-      "meal-prep",
-      "one-bowl",
-      "weeknight"
+      "uruguayan",
+      "creamy",
+      "feta",
+      "snack",
+      "easy"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 10,
     "shard": "x"
   },
   {
@@ -6655,17 +6654,15 @@
   },
   {
     "slug": "xtra-dense-slovakian-minari-dumplings",
-    "title": "Xtra Dense Slovakian Minari Dumplings",
+    "title": "Slovakian Minari Dumplings",
     "tags": [
-      "bento-box",
-      "dense-dumplings",
-      "no-onion-no-garlic",
-      "peppery-dishes",
-      "slovakian-cuisine",
-      "vegetarian-friendly"
+      "slovakian",
+      "minari",
+      "dumplings",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
