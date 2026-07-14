@@ -1,0 +1,70 @@
+{
+  "slug": "xtra-crisp-vietnamese-shrimp-spring-rolls",
+  "title": "Spring Shrimp Rolls",
+  "description": "A delicious Vietnamese-inspired dish featuring shrimp and fresh spring rolls, perfect for a quick and easy meal.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice paper wrappers",
+      "amount": "1 package"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "spring roll filling",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vietnamese dressing",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Prepare the shrimp by marinating them in salt and pepper for 30 minutes.",
+    "Heat 1 tablespoon of oil in a pan over medium-high heat and cook the shrimp until pink and fully cooked.",
+    "Prepare the spring roll filling by mixing together the spring roll filling, mint leaves, cucumber, and carrot.",
+    "Assemble the spring rolls by placing a small amount of the filling in the center of a rice paper wrapper.",
+    "Add a cooked shrimp on top of the filling and fold the wrapper over to form a roll.",
+    "Serve the spring rolls with the vietnamese dressing for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spring",
+    "rolls",
+    "shrimp",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-vietnamese-shrimp-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:35:03.949Z"
+}
