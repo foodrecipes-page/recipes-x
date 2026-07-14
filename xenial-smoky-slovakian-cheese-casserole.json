@@ -1,0 +1,75 @@
+{
+  "slug": "xenial-smoky-slovakian-cheese-casserole",
+  "title": "Slovakian Smoky Casserole with Xenial Twist",
+  "description": "A hearty Slovakian-inspired casserole with smoky flavors and a xenial twist. Perfect for a cold winter evening.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "slovakian cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "xenial",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons, sauce"
+    },
+    {
+      "name": "slovakian bread",
+      "amount": "4 cups, cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the onion and garlic until softened.",
+    "Add the xenial and cook until lightly browned.",
+    "In a separate bowl, mix together the Slovakian cheese and smoky sauce.",
+    "In a large baking dish, combine the bread, cooked xenial mixture, and cheese mixture.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "slovakian",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-smoky-slovakian-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:02:29.161Z"
+}
