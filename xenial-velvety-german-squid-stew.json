@@ -1,0 +1,88 @@
+{
+  "slug": "xenial-velvety-german-squid-stew",
+  "title": "Squid Stew with German Flair",
+  "description": "A hearty and flavorful squid stew infused with the rich flavors of Germany. Perfect for a cold evening.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "German Beer",
+      "amount": "1 cup",
+      "notes": "used in place of some water for added flavor"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "used to thicken the stew"
+    },
+    {
+      "name": "Xenial Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "used for sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "used to season"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "used to season"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "used as a garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the xenial olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the squid and cook until opaque, about 3-4 minutes.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the German beer and bring to a simmer.",
+    "Reduce the heat to low and let simmer, covered, for 10-15 minutes or until the squid is cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "seafood",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-velvety-german-squid-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T04:42:00.035Z"
+}
