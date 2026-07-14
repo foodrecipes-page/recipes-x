@@ -1,0 +1,90 @@
+{
+  "slug": "xtra-lazy-canadian-chickpeas-skillet",
+  "title": "Canadian Chickpea Skillet",
+  "description": "A hearty and flavorful skillet dish featuring chickpeas and a blend of Canadian spices.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "chickpeas, drained and rinsed",
+      "amount": "1 can (15 oz)",
+      "notes": "canned is fine"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "about 2 teaspoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "chicken bouillon cubes (Canadian)",
+      "amount": "2 cubes",
+      "notes": "low sodium"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "preferably cast iron"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in skillet over medium-high heat",
+    "Add onion and cook until browned, about 5 minutes",
+    "Add garlic and cook for 1 minute",
+    "Add chickpeas, broth, bouillon, salt, and pepper",
+    "Stir to combine, then reduce heat to low and simmer for 10 minutes",
+    "Taste and adjust seasoning as needed",
+    "Serve hot, garnished with parsley if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "chickpeas",
+    "vegetarian",
+    "breakfast",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-lazy-canadian-chickpeas-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T00:41:46.833Z"
+}
