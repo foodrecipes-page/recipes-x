@@ -1,0 +1,83 @@
+{
+  "slug": "xtra-dense-slovakian-minari-dumplings",
+  "title": "Slovakian Minari Dumplings",
+  "description": "A hearty Slovakian dish featuring dumplings filled with spicy minari and served in a savory broth.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "1 pound",
+      "notes": "Spicy Korean radish"
+    },
+    {
+      "name": "xtra dumpling flour",
+      "amount": "2 cups",
+      "notes": "Dumpling wrapper"
+    },
+    {
+      "name": "dense vegetable broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "slovakian pork fat",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onion and garlic until softened.",
+    "Add the minari and cook until slightly tender.",
+    "In a separate pot, bring the vegetable broth to a boil.",
+    "Add the dumpling flour and cook according to package instructions.",
+    "Add the cooked dumplings to the minari mixture and simmer for 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot in individual bowls."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "minari",
+    "dumplings",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-slovakian-minari-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:49:31.982Z"
+}
