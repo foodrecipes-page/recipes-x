@@ -1187,18 +1187,16 @@
   },
   {
     "slug": "xcrumbly-french-clotted-cream-crumble",
-    "title": "Xcrumbly French Clotted Cream Crumble",
+    "title": "X Crumbly French Crumble",
     "tags": [
-      "buttery",
-      "clotted-cream",
-      "crumbly",
+      "french",
+      "crumble",
       "dessert",
-      "grilled",
-      "satvik-friendly",
-      "weeknight"
+      "pastry",
+      "cream"
     ],
-    "cuisine": "French (Lyon)",
-    "totalTimeMin": 22,
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -5104,17 +5102,14 @@
   },
   {
     "slug": "xtra-crisp-northern-irish-beef-braise",
-    "title": "Xtra Crisp Northern Irish Beef Braise",
+    "title": "Northern Irish Braised Beef",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "high-protein",
-      "nut-free",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "braising",
+      "northern-irish"
     ],
     "cuisine": "Northern Irish",
-    "totalTimeMin": 170,
+    "totalTimeMin": 180,
     "shard": "x"
   },
   {
