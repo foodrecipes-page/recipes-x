@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-tender-basque-chicken-roast",
+  "title": "Basque Chicken with Roast Potatoes",
+  "description": "A hearty Basque-inspired dish featuring tender chicken and crispy roast potatoes.",
+  "cuisine": "Basque",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "basque paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "roast potatoes",
+      "amount": "4-6",
+      "notes": "larger potatoes work best"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss potatoes with olive oil, salt, and pepper on a baking sheet.",
+    "Roast potatoes in the preheated oven for 20-25 minutes, or until crispy.",
+    "Season chicken breast with Basque paprika and salt.",
+    "Heat a skillet over medium-high heat. Sear chicken breast until golden brown, then finish cooking in the oven for 15-20 minutes, or until cooked through.",
+    "Serve chicken with roasted potatoes and garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "basque",
+    "chicken",
+    "roast",
+    "potatoes",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tender-basque-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:29:04.095Z"
+}
