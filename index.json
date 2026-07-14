@@ -141,14 +141,12 @@
   },
   {
     "slug": "x-tra-creamy-argentinian-chicken-empanadas",
-    "title": "X-tra Creamy Argentinian Chicken Empanadas",
+    "title": "Argentinian Chicken Empanadas",
     "tags": [
       "argentinian",
-      "creamy",
+      "chicken",
       "empanadas",
-      "high-protein",
-      "kid-friendly",
-      "weeknight"
+      "snack"
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 55,
@@ -5278,17 +5276,16 @@
   },
   {
     "slug": "xtra-crispy-algerian-chicken-roast",
-    "title": "Xtra Crispy Algerian Chicken Roast",
+    "title": "Crispy Algerian Chicken",
     "tags": [
-      "algerian-cuisine",
-      "coconut-flakes",
-      "crispy-chicken",
-      "gluten-free",
-      "low-carb",
-      "yeasty"
+      "north african",
+      "chicken",
+      "crispy",
+      "spicy",
+      "algerian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 70,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -9012,16 +9009,15 @@
   },
   {
     "slug": "xtra-rich-german-salmon-braise",
-    "title": "Xtra Rich German Salmon Braise",
+    "title": "German Braised Salmon with Rich Onions",
     "tags": [
-      "comfort-food",
-      "fish-based",
-      "german-cuisine",
-      "one-pot",
-      "special-occasion"
+      "german",
+      "salmon",
+      "braised",
+      "onions"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -9520,17 +9516,15 @@
   },
   {
     "slug": "xtra-silky-indian-beetroot-curry",
-    "title": "Xtra Silky Indian Beetroot Curry",
+    "title": "Golden Beetroot Curry",
     "tags": [
-      "halal",
-      "indian-cuisine",
-      "meal-prep",
-      "one-pot",
-      "smoky",
-      "vegetarian"
+      "beetroot",
+      "curry",
+      "indian",
+      "vegan"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
