@@ -1,0 +1,78 @@
+{
+  "slug": "xtra-flaky-british-broad-beans-pie--thai",
+  "title": "Thai Broad Bean and British Pie Stew",
+  "description": "A hearty and flavorful Thai-inspired stew featuring broad beans, British pie crust, and a hint of flaky pastry, all infused with the spices and aromas of Thailand.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Broad beans",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "British pie crust",
+      "amount": "1 sheet",
+      "notes": "thawed, crumbled"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet",
+      "notes": "thawed, crumbled"
+    },
+    {
+      "name": "Xtra virgin coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cook the broad beans according to package instructions.",
+    "3. In a large skillet, heat coconut oil over medium heat.",
+    "4. Add the onion and garlic, cooking until softened.",
+    "5. Add the cooked broad beans, fish sauce (if using), and crumbled pie crust.",
+    "6. Stir until the pie crust is well coated.",
+    "7. Transfer the mixture to a baking dish and top with crumbled flaky pastry.",
+    "8. Bake for 20-25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-british-broad-beans-pie--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:31:40.410Z"
+}
