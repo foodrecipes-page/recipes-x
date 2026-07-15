@@ -1,0 +1,69 @@
+{
+  "slug": "xtra-fruity-russian-fruit-wrap",
+  "title": "Russian Fruit Wrap",
+  "description": "A sweet and crunchy dessert inspired by Russian flavors, featuring fresh fruit and a crunchy xtra cookie.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "xtra cookie",
+      "amount": "1 cookie",
+      "notes": ""
+    },
+    {
+      "name": "fruity jam",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh strawberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh blueberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C).",
+    "Crush the xtra cookie into fine crumbs.",
+    "Spread the fruity jam on the wrap.",
+    "Arrange the fresh strawberries and blueberries on top of the jam.",
+    "Sprinkle the crushed xtra cookie over the fruit.",
+    "Fold the wrap in half to enclose the filling.",
+    "Cut into halves or quarters for serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "snack",
+    "russian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fruity-russian-fruit-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:00:28.638Z"
+}
