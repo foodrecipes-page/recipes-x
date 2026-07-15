@@ -3160,20 +3160,15 @@
   },
   {
     "slug": "xeriscape-spring-kenyan-bulgur-pilaf",
-    "title": "Xeriscape Spring Kenyan Bulgur Pilaf",
+    "title": "Kenyan Bulgur Pilaf",
     "tags": [
-      "east-african",
-      "gluten-free",
-      "high-protein",
+      "bulgur",
+      "pilaf",
       "kenyan",
-      "one-pan",
-      "paleo",
-      "robata-grill",
-      "romantic",
-      "spring",
-      "whole30"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "kenyan",
+    "cuisine": "Kenyan",
     "totalTimeMin": 40,
     "shard": "x"
   },
@@ -7284,17 +7279,15 @@
   },
   {
     "slug": "xtra-fluffy-slovakian-potato-dumplings",
-    "title": "Xtra Fluffy Slovakian Potato Dumplings",
+    "title": "Slovakian Dumplings with Potato Filling",
     "tags": [
-      "brunch",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "slovakian",
+      "dumplings",
+      "potato",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -7481,17 +7474,15 @@
   },
   {
     "slug": "xtra-fruity-russian-fruit-wrap",
-    "title": "Xtra Fruity Russian Fruit Wrap",
+    "title": "Russian Fruit Wrap",
     "tags": [
-      "fruit-based",
-      "pandan-leaf",
-      "russian-cuisine",
-      "snack-ideas",
-      "tandoor-cooking",
-      "vegan-friendly"
+      "dessert",
+      "snack",
+      "russian",
+      "easy"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "cuisine": "russian",
+    "totalTimeMin": 10,
     "shard": "x"
   },
   {
