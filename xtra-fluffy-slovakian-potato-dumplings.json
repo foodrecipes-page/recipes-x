@@ -1,0 +1,69 @@
+{
+  "slug": "xtra-fluffy-slovakian-potato-dumplings",
+  "title": "Slovakian Dumplings with Potato Filling",
+  "description": "A traditional Slovakian dish featuring fluffy dumplings filled with a delicious potato mixture. This hearty meal is perfect for a cold winter's day.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian dumplings",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the Slovakian dumplings according to package instructions.",
+    "Mash the potatoes and mix in butter, onion, and salt.",
+    "Fill the cooked dumplings with the potato mixture.",
+    "Serve the dumplings hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "dumplings",
+    "potato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-slovakian-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:43:55.864Z"
+}
