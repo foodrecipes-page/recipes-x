@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-bitter-ethiopian-apricot-dabo--thai",
+  "title": "Thai Apricot Chicken Stir Fry",
+  "description": "A sweet and savory Thai-inspired dish made with juicy apricots and tender chicken.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "apricots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "xtra virgin coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "ethiopian berbere spice blend",
+      "amount": "1 tablespoon",
+      "notes": "or Thai red curry paste"
+    },
+    {
+      "name": "dabo rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add chicken and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add bitter melon to skillet and cook until slightly tender, about 3-4 minutes.",
+    "Add apricots, berbere spice blend, fish sauce, salt, and pepper to skillet. Stir to combine.",
+    "Return chicken to skillet and stir to coat with sauce.",
+    "Serve over cooked dabo rice.",
+    "Garnish with additional apricots and bitter melon, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-bitter-ethiopian-apricot-dabo--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:41:09.676Z"
+}
