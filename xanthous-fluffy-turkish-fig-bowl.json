@@ -1,0 +1,61 @@
+{
+  "slug": "xanthous-fluffy-turkish-fig-bowl",
+  "title": "Turkish Fig Delight",
+  "description": "A sweet and simple dessert featuring Turkish figs as the main ingredient, served in a fluffy bowl.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh Turkish figs",
+      "amount": "8-10",
+      "notes": "cut into quarters"
+    },
+    {
+      "name": "xanthous honey",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fluffy whipped cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fig bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Arrange the fig quarters on a baking sheet and bake for 5-7 minutes.",
+    "In a small saucepan, heat the honey over low heat until warm and runny.",
+    "Remove the figs from the oven and brush with the warm honey.",
+    "Serve the figs in a fluffy bowl, topped with whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "turkish",
+    "figs",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-fluffy-turkish-fig-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T05:49:24.726Z"
+}
