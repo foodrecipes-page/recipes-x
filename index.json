@@ -2860,16 +2860,16 @@
   },
   {
     "slug": "xeridic-monsoon-brazilian-beans-wrap",
-    "title": "Xeridic Monsoon Brazilian Beans Wrap",
+    "title": "Brazilian Wrap",
     "tags": [
+      "easy",
+      "quick",
+      "snack",
       "brazilian",
-      "monsoon",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "wrap"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -12284,6 +12284,43 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 10,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-flaky-british-broad-beans-pie--thai",
+    "title": "Thai Broad Bean and British Pie Stew",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-fluffy-american-corn-pancakes--indian",
+    "title": "Corn and Pancakes Masala",
+    "tags": [
+      "indian",
+      "breakfast",
+      "corn",
+      "pancakes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-bitter-ethiopian-apricot-dabo--thai",
+    "title": "Thai Apricot Chicken Stir Fry",
+    "tags": [
+      "thai",
+      "chicken",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "x"
   }
 ]
