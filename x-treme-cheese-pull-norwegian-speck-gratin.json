@@ -1,0 +1,73 @@
+{
+  "slug": "x-treme-cheese-pull-norwegian-speck-gratin",
+  "title": "Norwegian Gratin with Speck and Treme",
+  "description": "A hearty and flavorful dish that brings together the best of Norwegian cuisine with crispy speck and rich treme.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gratin",
+      "amount": "1 (9x13 inch) dish",
+      "notes": "baking dish"
+    },
+    {
+      "name": "Speck",
+      "amount": "6 slices",
+      "notes": "thick-cut bacon"
+    },
+    {
+      "name": "Treme",
+      "amount": "1 cup",
+      "notes": "Norwegian flatbread"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "cheddar or Norwegian brown cheese"
+    },
+    {
+      "name": "Pull",
+      "amount": "1 cup, shredded",
+      "notes": "pulled pork or beef"
+    },
+    {
+      "name": "X",
+      "amount": "1/4 cup",
+      "notes": "unsalted butter, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the speck into 1-inch pieces and cook in a skillet over medium heat until crispy.",
+    "Tear the treme into 1-inch pieces and place in the bottom of the gratin dish.",
+    "Top the treme with the cooked speck, shredded cheese, and pulled meat.",
+    "Drizzle the melted butter over the top.",
+    "Bake for 25-30 minutes or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "speck",
+    "treme",
+    "cheese",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-treme-cheese-pull-norwegian-speck-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:09:15.057Z"
+}
