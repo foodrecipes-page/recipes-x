@@ -700,16 +700,15 @@
   },
   {
     "slug": "x-tra-velvety-italian-lettuce-trofie-pasta",
-    "title": "X-tra Velvety Italian Lettuce Trofie Pasta",
+    "title": "Trofie Pasta with Italian Vinaigrette",
     "tags": [
       "italian",
-      "one-pan",
       "pasta",
-      "vegetarian",
-      "weeknight"
+      "veggie",
+      "gluten-free"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "x"
   },
   {
@@ -10921,17 +10920,15 @@
   },
   {
     "slug": "xtra-tangy-croatian-eggplant-skillet",
-    "title": "Xtra Tangy Croatian Eggplant Skillet",
+    "title": "Skillet Eggplant with Croatian Twist",
     "tags": [
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
-      "tangy",
+      "eggplant",
+      "croatian",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
