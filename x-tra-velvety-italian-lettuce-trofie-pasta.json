@@ -1,0 +1,71 @@
+{
+  "slug": "x-tra-velvety-italian-lettuce-trofie-pasta",
+  "title": "Trofie Pasta with Italian Vinaigrette",
+  "description": "A simple and light Italian-inspired pasta dish with a refreshing vinaigrette made with velvety Italian dressing.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tra",
+      "amount": "12 oz",
+      "notes": "long, thin pasta"
+    },
+    {
+      "name": "italian",
+      "amount": "1/4 cup",
+      "notes": "velvety Italian dressing"
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 cups",
+      "notes": "shredded or chopped"
+    },
+    {
+      "name": "trofie",
+      "amount": "2 cups",
+      "notes": "or other short pasta"
+    },
+    {
+      "name": "pasta",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "x",
+      "amount": "1/4 cup",
+      "notes": "grated Parmesan cheese"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the trofie pasta according to package instructions until al dente.",
+    "In a large bowl, whisk together the Italian dressing and olive oil.",
+    "Add the cooked pasta to the bowl and toss with the dressing until well coated.",
+    "Top the pasta with shredded lettuce and grated Parmesan cheese.",
+    "Season with salt and pepper to taste, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-velvety-italian-lettuce-trofie-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:35:39.502Z"
+}
