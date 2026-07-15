@@ -8148,16 +8148,16 @@
   },
   {
     "slug": "xtra-juicy-tunisian-bresaola-tagine",
-    "title": "Xtra Juicy Tunisian Bresaola Tagine",
+    "title": "Tunisian Bresaola Tagine",
     "tags": [
-      "bresaola-recipes",
-      "clay-pot",
+      "tunisian",
+      "bresaola",
+      "tagine",
       "one-pot",
-      "satvik-friendly",
-      "tunisian-cuisine"
+      "meat"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -8737,19 +8737,15 @@
   },
   {
     "slug": "xtra-peppery-russian-egg-yolks-tagine",
-    "title": "xtra peppery russian egg yolks tagine",
+    "title": "Tagine Egg Bake",
     "tags": [
       "breakfast",
-      "dinner",
-      "egg-yolk",
-      "lunch",
-      "ovo-vegetarian",
-      "russian",
-      "snack",
+      "north-african",
+      "eggs",
       "tagine"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
