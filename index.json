@@ -12322,5 +12322,17 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xeridic-monsoon-brazilian-beans-wrap--chinese",
+    "title": "Monsoon Wrap",
+    "tags": [
+      "chinese",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "x"
   }
 ]
