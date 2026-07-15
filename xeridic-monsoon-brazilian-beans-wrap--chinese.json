@@ -1,0 +1,61 @@
+{
+  "slug": "xeridic-monsoon-brazilian-beans-wrap--chinese",
+  "title": "Monsoon Wrap",
+  "description": "A Chinese-inspired dish using Monsoon and a wrap. Quick, easy, and delicious.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Monsoon",
+      "amount": "2 cups"
+    },
+    {
+      "name": "xeridic",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "wrap",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. Heat a pan over medium heat.",
+    "2. Add Monsoon to the pan and cook for 2 minutes.",
+    "3. Add xeridic, brazilian, and beans to the pan and stir-fry for 3 minutes.",
+    "4. Warm the wrap by wrapping it in a damp paper towel and microwaving for 10-15 seconds.",
+    "5. Assemble the wrap by spooning the Monsoon mixture into the center of the wrap.",
+    "6. Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeridic-monsoon-brazilian-beans-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:05:48.127Z"
+}
