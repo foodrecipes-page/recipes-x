@@ -305,19 +305,14 @@
   },
   {
     "slug": "x-tra-crispy-thai-chicken-kao-mun-gai",
-    "title": "X-tra Crispy Thai Chicken Kao Mun Gai",
+    "title": "Thai-Style Chicken Stir Fry with Crispy Rice",
     "tags": [
-      "breakfast",
-      "crispy-skin",
-      "hangover-cure",
-      "high-protein",
-      "north-thai",
-      "one-pan",
       "thai",
-      "weeknight"
+      "stir-fry",
+      "chicken"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -1813,18 +1808,14 @@
   },
   {
     "slug": "xenial-korean-pork-belly-stir-fry",
-    "title": "Xenial Korean Pork Belly Stir-Fry",
+    "title": "Korean-Style Pork Belly Stir Fry",
     "tags": [
-      "keto-friendly",
-      "korean",
-      "low-carb",
-      "one-pan",
-      "quick",
-      "smoky",
-      "weeknight"
+      "korean-style",
+      "pork-belly",
+      "stir-fry"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -3905,17 +3896,15 @@
   },
   {
     "slug": "xtra-briny-filipino-deodeok-root-lumpia",
-    "title": "Xtra Briny Filipino Deodeok Root Lumpia",
+    "title": "Filipino-Style Lumpia with Deodeok and Root Vegetable",
     "tags": [
-      "briny-flavor",
-      "deodeok-root",
-      "dutch-oven",
-      "filipino-food",
-      "lumpia-recipe",
-      "nut-free"
+      "vegetarian",
+      "snack",
+      "filipino",
+      "lumpia"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -7604,17 +7593,15 @@
   },
   {
     "slug": "xtra-garlicky-spanish-tomato-gazpacho",
-    "title": "Xtra Garlicky Spanish Tomato Gazpacho",
+    "title": "Spanish Gazpacho Soup",
     "tags": [
-      "ayurvedic-friendly",
-      "cheese-pull",
-      "cozy",
-      "garlicky",
-      "sattvic-friendly",
-      "spanish-dish"
+      "soup",
+      "summer",
+      "chilled",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
