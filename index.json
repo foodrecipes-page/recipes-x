@@ -10189,17 +10189,14 @@
   },
   {
     "slug": "xtra-sour-german-oyster-mushroom-pilaf",
-    "title": "Xtra Sour German Oyster Mushroom Pilaf",
+    "title": "German Mushroom Pilaf",
     "tags": [
-      "german-cuisine",
-      "mushroom-lovers",
-      "one-pan",
-      "quick-fix",
-      "sour-dishes",
-      "weeknight"
+      "german",
+      "mushroom",
+      "pilaf"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
