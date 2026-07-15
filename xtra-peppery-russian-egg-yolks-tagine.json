@@ -1,0 +1,58 @@
+{
+  "slug": "xtra-peppery-russian-egg-yolks-tagine",
+  "title": "Tagine Egg Bake",
+  "description": "A flavorful egg dish inspired by North African cuisine, featuring a rich tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tagine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peppery Egg",
+      "amount": "2"
+    },
+    {
+      "name": "Russian (Black) Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Crack eggs into a bowl and whisk them together.",
+    "In a separate pan, heat the olive oil over medium heat.",
+    "Add the tagine and Russian (Black) Pepper to the pan and stir for 2-3 minutes.",
+    "Pour the egg mixture over the tagine mixture.",
+    "Transfer the pan to the oven and bake for 15-20 minutes.",
+    "Remove from oven and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "north-african",
+    "eggs",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-peppery-russian-egg-yolks-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:28:22.959Z"
+}
