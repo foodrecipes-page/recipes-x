@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-briny-filipino-deodeok-root-lumpia",
+  "title": "Filipino-Style Lumpia with Deodeok and Root Vegetable",
+  "description": "A crispy Filipino-inspired snack filled with sweet and savory deodeok and root vegetables. Serve with a side of tangy xtra sauce for a delightful treat.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Deodeok",
+      "amount": "1 medium, peeled and grated"
+    },
+    {
+      "name": "Root Vegetable (such as Carrot or Beet)",
+      "amount": "1 medium, peeled and grated"
+    },
+    {
+      "name": "Lumpia Wrapper (Filipino Spring Roll Wrappers)",
+      "amount": "1 package, thawed"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Xtra (a Filipino condiment similar to vinegar)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, combine the grated deodeok and root vegetable.",
+    "Add the salt and mix well.",
+    "Lay a lumpia wrapper on a flat surface and place about 1 tablespoon of the deodeok mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with water and fold the wrapper into a triangle, pressing the edges to seal.",
+    "Heat the oil in the deep frying pan and fry the lumpia until golden brown and crispy, about 3-4 minutes per side.",
+    "Drain the lumpia on paper towels and serve hot with xtra sauce for dipping.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "snack",
+    "filipino",
+    "lumpia"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-briny-filipino-deodeok-root-lumpia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:50:02.320Z"
+}
