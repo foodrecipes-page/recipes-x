@@ -1,0 +1,96 @@
+{
+  "slug": "xtra-juicy-tunisian-bresaola-tagine",
+  "title": "Tunisian Bresaola Tagine",
+  "description": "A flavorful and tender tagine made with bresaola and tunisian spices, perfect for a cold winter night.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add the bresaola and cook until browned, about 5 minutes.",
+    "Add the tunisian balsamic vinegar and bring to a simmer.",
+    "Cover the pot and transfer to the oven.",
+    "Bake for 20-25 minutes, or until the bresaola is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "bresaola",
+    "tagine",
+    "one-pot",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-juicy-tunisian-bresaola-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T00:35:29.352Z"
+}
