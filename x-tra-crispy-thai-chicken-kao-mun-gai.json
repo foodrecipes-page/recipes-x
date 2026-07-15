@@ -1,0 +1,91 @@
+{
+  "slug": "x-tra-crispy-thai-chicken-kao-mun-gai",
+  "title": "Thai-Style Chicken Stir Fry with Crispy Rice",
+  "description": "A flavorful and spicy Thai-inspired dish featuring crispy fried rice, juicy chicken, and crunchy vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "x",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "crispy fried rice"
+    },
+    {
+      "name": "thaired tra",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "thai",
+      "amount": "1 tablespoon",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "chicken",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "mun",
+      "amount": "1 cup",
+      "notes": "mixed vegetables (bell peppers, carrots, snap peas)"
+    },
+    {
+      "name": "kao",
+      "amount": "1 cup",
+      "notes": "cooked jasmine rice"
+    },
+    {
+      "name": "gai",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of oil.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the mixed vegetables and cook until tender, about 3-4 minutes.",
+    "Stir in the fish sauce and cook for an additional minute.",
+    "Return the chicken to the skillet and stir to combine with the vegetables and sauce.",
+    "Serve the chicken and vegetable mixture over the cooked jasmine rice.",
+    "Garnish with chopped cilantro and crispy fried rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-crispy-thai-chicken-kao-mun-gai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:01:23.319Z"
+}
