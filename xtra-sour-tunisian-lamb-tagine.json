@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-sour-tunisian-lamb-tagine",
+  "title": "Classic Tunisian Lamb Tagine",
+  "description": "A hearty, flavorful North African stew made with tender lamb, aromatic spices, and a sweet and tangy sauce. Perfect for a chilly evening.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sour Cherries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian Spices",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the cherries, spices, salt, and pepper to the pot and cook until the cherries start to break down, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Return the lamb to the pot and add enough water to cover the meat.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, until the lamb is tender, about 1 1/2 hours.",
+    "Stir in the parsley and cook for 1 minute.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sour-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T05:54:56.841Z"
+}
