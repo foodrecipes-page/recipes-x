@@ -1,0 +1,70 @@
+{
+  "slug": "xtra-tangy-croatian-eggplant-skillet",
+  "title": "Skillet Eggplant with Croatian Twist",
+  "description": "A flavorful eggplant dish with a tangy Croatian twist. This recipe is perfect for a quick dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "Slice into 1/4 inch rounds"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Tangy Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumble into small pieces"
+    },
+    {
+      "name": "Croatian Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Add a smoky flavor"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "Cast iron or stainless steel"
+    }
+  ],
+  "instructions": [
+    "1. Preheat skillet over medium-high heat.",
+    "2. Add olive oil and sauté eggplant slices until browned.",
+    "3. Add paprika and stir for 1 minute.",
+    "4. Transfer eggplant to a plate and set aside.",
+    "5. Reduce heat to medium and add feta cheese to skillet.",
+    "6. Stir until feta is melted and slightly browned.",
+    "7. Return eggplant to skillet and toss with feta mixture.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "croatian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tangy-croatian-eggplant-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:57:29.044Z"
+}
