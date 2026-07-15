@@ -1,0 +1,60 @@
+{
+  "slug": "xeridic-monsoon-brazilian-beans-wrap",
+  "title": "Brazilian Wrap",
+  "description": "A flavorful and nutritious wrap filled with beans and xeridic, perfect for a quick snack or meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Brazilian xeridic",
+      "amount": "1/2 cup, cooked"
+    },
+    {
+      "name": "Monsoon beans",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the Brazilian xeridic according to package instructions.",
+    "Cook the Monsoon beans according to package instructions.",
+    "Warm the large wrap in the microwave for 10-15 seconds.",
+    "Spoon the cooked xeridic and beans onto the center of the wrap.",
+    "Add chopped cilantro if desired.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to form a tight cylinder."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "snack",
+    "brazilian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeridic-monsoon-brazilian-beans-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:35:38.461Z"
+}
