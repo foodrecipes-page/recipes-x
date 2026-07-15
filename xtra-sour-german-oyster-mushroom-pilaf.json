@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-sour-german-oyster-mushroom-pilaf",
+  "title": "German Mushroom Pilaf",
+  "description": "A hearty and flavorful German-inspired pilaf dish with sautéed mushrooms and a hint of sourness.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "german pilaf",
+      "amount": "1 cup",
+      "notes": "any type of pilaf will work"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "button or cremini work well"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tablespoons",
+      "notes": "optional for extra tanginess"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat.",
+    "Add chopped onion and sauté until softened, about 3-4 minutes.",
+    "Add mushrooms and continue to sauté until they release their liquid and start to brown.",
+    "Add pilaf and stir to combine with onion and mushroom mixture.",
+    "If using sour cream, stir it in at this point.",
+    "Cook for an additional 2-3 minutes, until pilaf is lightly toasted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot.",
+    "Optional: top with chopped fresh herbs like parsley or chives."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "mushroom",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sour-german-oyster-mushroom-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T20:03:02.565Z"
+}
