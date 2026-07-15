@@ -741,18 +741,16 @@
   },
   {
     "slug": "x-treme-cheese-pull-norwegian-speck-gratin",
-    "title": "x-treme cheese pull norwegian speck gratin",
+    "title": "Norwegian Gratin with Speck and Treme",
     "tags": [
-      "cheese-pull",
-      "comfort-food",
-      "easy-to-make",
-      "european",
-      "norwegian",
-      "one-pan",
-      "weeknight"
+      "gratin",
+      "speck",
+      "treme",
+      "cheese",
+      "norwegian"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 40,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
