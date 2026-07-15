@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-fluffy-american-corn-pancakes--indian",
+  "title": "Corn and Pancakes Masala",
+  "description": "An Indian twist on traditional pancakes with added corn and spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "american pancakes mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fluffy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garam masala and cook for 1 minute.",
+    "Pour in milk and bring to a simmer.",
+    "Add corn kernels and cook until tender.",
+    "Stir in sugar and salt.",
+    "Add american pancakes mix and mix until combined.",
+    "Drop by spoonfuls onto the pan and cook until bubbles appear.",
+    "Flip and cook until golden brown.",
+    "Serve hot garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "breakfast",
+    "corn",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-american-corn-pancakes--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:36:59.855Z"
+}
