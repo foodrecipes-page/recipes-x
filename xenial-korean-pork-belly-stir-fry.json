@@ -1,0 +1,87 @@
+{
+  "slug": "xenial-korean-pork-belly-stir-fry",
+  "title": "Korean-Style Pork Belly Stir Fry",
+  "description": "A sweet and spicy stir-fry made with pork belly, inspired by Korean cuisine.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Xenial stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the pork belly and cook until browned, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Add the minced garlic and grated ginger and cook until fragrant, about 1 minute.",
+    "Add the sliced green onions and cook for an additional 1-2 minutes.",
+    "In a small bowl, whisk together the xenial stir-fry sauce, soy sauce, brown sugar, and red pepper flakes.",
+    "Pour the sauce into the skillet and bring to a simmer.",
+    "Return the pork belly to the skillet and cook until coated in the sauce, about 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-style",
+    "pork-belly",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-korean-pork-belly-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T10:53:23.340Z"
+}
