@@ -957,17 +957,15 @@
   },
   {
     "slug": "xanthous-fluffy-turkish-fig-bowl",
-    "title": "Xanthous Fluffy Turkish Fig Bowl",
+    "title": "Turkish Fig Delight",
     "tags": [
-      "citrusy",
-      "easy-desserts",
-      "healthy-snacks",
-      "low-glycemic",
-      "turkish-delicacies",
-      "vegetarian"
+      "dessert",
+      "turkish",
+      "figs",
+      "sweet"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -10195,17 +10193,16 @@
   },
   {
     "slug": "xtra-sour-tunisian-lamb-tagine",
-    "title": "Xtra Sour Tunisian Lamb Tagine",
+    "title": "Classic Tunisian Lamb Tagine",
     "tags": [
-      "creamy",
-      "lamb-based",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot",
-      "sour",
-      "weeknight"
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 110,
+    "cuisine": "North African",
+    "totalTimeMin": 105,
     "shard": "x"
   },
   {
