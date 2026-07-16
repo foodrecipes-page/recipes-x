@@ -1,0 +1,81 @@
+{
+  "slug": "xtra-fluffy-mediterranean-lentil-pilaf--indian",
+  "title": "Lentil and Pilaf Bowl",
+  "description": "A flavorful Indian-inspired bowl filled with tender lentils and fluffy pilaf, perfect for a quick and nutritious meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red or Brown Lentils",
+      "amount": "1 cup",
+      "notes": "Rinse before cooking"
+    },
+    {
+      "name": "Pilaf Mix",
+      "amount": "1 cup",
+      "notes": "Follow package instructions for cooking"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy Ricotta Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean Feta Cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro (for garnish)",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium saucepan over medium heat.",
+    "Add lentils and cook for 1-2 minutes, stirring occasionally.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until lentils are tender.",
+    "While lentils cook, prepare the pilaf according to package instructions.",
+    "In a small bowl, mix ricotta cheese and feta cheese (if using).",
+    "To assemble the bowls, divide cooked lentils and pilaf between two bowls.",
+    "Top each bowl with a dollop of cheese mixture and garnish with chopped cilantro.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "pilaf",
+    "indian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "22g",
+    "carbs": "60g",
+    "fat": "14g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-mediterranean-lentil-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:24:51.387Z"
+}
