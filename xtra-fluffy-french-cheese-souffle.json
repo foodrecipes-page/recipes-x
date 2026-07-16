@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-fluffy-french-cheese-souffle",
+  "title": "French Cheese Soufflé",
+  "description": "A rich and creamy French soufflé filled with melted cheese. This dessert is sure to impress your guests with its fluffy texture and decadent flavors.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "xtra Large Eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "fluffy All-Purpose Flour",
+      "amount": "1/2 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "French Gruyère Cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "xtra Aged Gouda Cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "unsalted Butter, softened",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Butter a 1-quart soufflé dish and coat with the grated cheese.",
+    "In a medium saucepan, melt the butter over low heat.",
+    "Add the flour and cook, stirring constantly, for 1-2 minutes.",
+    "Slowly pour in the milk, whisking continuously.",
+    "Bring the mixture to a simmer and cook until thickened, about 5 minutes.",
+    "Remove from heat and stir in the Gruyère and Gouda cheese until melted.",
+    "In a separate bowl, whisk together the egg yolks and a pinch of salt.",
+    "Temper the egg yolks by slowly pouring the warm cheese sauce into the eggs, whisking constantly.",
+    "In a separate bowl, beat the egg whites until stiff peaks form.",
+    "Gently fold the egg whites into the egg yolk mixture until no white streaks remain.",
+    "Pour the mixture into the prepared soufflé dish and smooth the top.",
+    "Bake for 25-30 minutes, or until the soufflé is puffed and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "souffle",
+    "cheese",
+    "dessert",
+    "elegant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-french-cheese-souffle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:23:04.843Z"
+}
