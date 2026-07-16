@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-light-spanish-fish-ensaimada--french",
+  "title": "Pan-Seared Fish with French Ensaimada Crust",
+  "description": "A French-inspired dish featuring pan-seared fish with a crispy ensaimada crust. The ensaimada adds a sweet and flaky texture to the dish.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "4 pieces",
+      "notes": "Fresh and sustainable options preferred"
+    },
+    {
+      "name": "Ensaimada",
+      "amount": "1 package",
+      "notes": "Spanish pastry, crumbled"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Light Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Spanish Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "For added depth of flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish with salt and smoked paprika.",
+    "Pan-sear the fish in olive oil until golden brown on both sides.",
+    "Transfer the fish to a baking sheet and top with crumbled ensaimada.",
+    "Bake in the preheated oven for 8-10 minutes, or until the ensaimada is golden brown.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fish",
+    "ensaimada",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-spanish-fish-ensaimada--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:07:30.559Z"
+}
