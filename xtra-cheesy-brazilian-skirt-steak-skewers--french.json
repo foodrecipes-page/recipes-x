@@ -1,0 +1,78 @@
+{
+  "slug": "xtra-cheesy-brazilian-skirt-steak-skewers--french",
+  "title": "Skirt Steak Skewers with Cheesy Xtra Sauce",
+  "description": "A French twist on traditional steak skewers, served with a rich and creamy cheesy sauce.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Xtra",
+      "amount": "2 tablespoons",
+      "notes": "Butter for basting"
+    },
+    {
+      "name": "Cheesy",
+      "amount": "1 cup",
+      "notes": "Gruyère cheese, grated"
+    },
+    {
+      "name": "Brazilian",
+      "amount": "1/2 cup",
+      "notes": "Pimenta cheese, crumbled"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Wooden skewers, soaked in water for 30 minutes"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread skirt steak pieces onto skewers, leaving a little space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until cooked to desired level of doneness.",
+    "Meanwhile, melt xtra in a saucepan over medium heat.",
+    "Add cheesy and pimenta cheese to saucepan. Stir until melted and smooth.",
+    "Serve skewers hot with cheesy xtra sauce spooned over the top.",
+    "Garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "skirt steak",
+    "grill",
+    "cheese sauce",
+    "french cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-cheesy-brazilian-skirt-steak-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:54:45.595Z"
+}
