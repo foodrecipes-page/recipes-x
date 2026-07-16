@@ -12442,5 +12442,18 @@
     "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "x"
+  },
+  {
+    "slug": "xwholesome-xcrystalline-croatian-wild-mushroom-stir-fry--mexican",
+    "title": "Wild Mushroom Fajitas",
+    "tags": [
+      "wild mushroom",
+      "mexican",
+      "fajitas",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
