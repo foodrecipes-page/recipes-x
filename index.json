@@ -12361,5 +12361,18 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-fluffy-american-corn-pancakes--german",
+    "title": "German-Style Corn Pancakes",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "german",
+      "corn-pancakes"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
