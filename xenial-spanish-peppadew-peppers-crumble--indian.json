@@ -1,0 +1,88 @@
+{
+  "slug": "xenial-spanish-peppadew-peppers-crumble--indian",
+  "title": "Spicy Xenial Pepper Crumble",
+  "description": "A flavorful and spicy twist on traditional Indian crumble, featuring xenial and peppadew peppers.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "xenial peppers",
+      "amount": "3",
+      "notes": "any color"
+    },
+    {
+      "name": "peppadew peppers",
+      "amount": "1 cup, sliced",
+      "notes": "chopped"
+    },
+    {
+      "name": "spanish crumble",
+      "amount": "1 package",
+      "notes": "any brand"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "any brand"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "any brand"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees F (190 degrees C).",
+    "Brush the xenial peppers with olive oil, then top each with a few slices of peppadew pepper.",
+    "Mix the chopped onion and minced garlic, and spread over the peppers.",
+    "Sprinkle garam masala, salt, and cumin over the onion mixture.",
+    "Top with the crumble mix, spreading it evenly.",
+    "Bake for 25-30 minutes, or until the crumble is golden brown.",
+    "Remove from the oven and let it cool for a few minutes.",
+    "Serve warm, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "spicy",
+    "dessert",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-spanish-peppadew-peppers-crumble--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:43:09.974Z"
+}
