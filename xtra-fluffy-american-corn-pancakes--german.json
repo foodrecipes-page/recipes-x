@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-fluffy-american-corn-pancakes--german",
+  "title": "German-Style Corn Pancakes",
+  "description": "A twist on traditional pancakes, made with corn flour and a hint of German flavor. Enjoy these fluffy and delicious pancakes as a sweet breakfast or brunch option.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "1 cup",
+      "notes": "preferably stone-ground"
+    },
+    {
+      "name": "fluffy eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "american butter, melted",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "pancakes milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "xtra sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together corn flour, sugar, and salt.",
+    "In a separate bowl, whisk together melted butter, eggs, and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve warm with your favorite toppings, such as maple syrup or fresh fruit.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "german",
+    "corn-pancakes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-american-corn-pancakes--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:59:26.291Z"
+}
