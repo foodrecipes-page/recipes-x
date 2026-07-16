@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-fresh-middle-eastern-wheat-tabbouleh",
+  "title": "Eastern Tabbouleh Salad",
+  "description": "A refreshing salad from the Middle East, made with fresh parsley, tomatoes, and bulgur, flavored with lemon and olive oil.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "high-quality"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur and soak it in water for 30 minutes.",
+    "Drain and rinse the bulgur, then squeeze out any excess water.",
+    "In a large bowl, combine the bulgur, parsley, tomatoes, and mint.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt to taste, then serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tabbouleh",
+    "salad",
+    "middle eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fresh-middle-eastern-wheat-tabbouleh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:38:19.783Z"
+}
