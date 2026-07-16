@@ -1,0 +1,81 @@
+{
+  "slug": "xenial-molten-egyptian-cheese-curds-tagine--thai",
+  "title": "Thai-Style Cheesy Tagine",
+  "description": "A twist on traditional Thai cuisine, this cheesy tagine combines the creaminess of cheese with the rich flavors of the tagine. Serve as a side dish or add to your favorite Thai meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xenial tagine spice blend",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "molten cheese",
+      "amount": "1 cup",
+      "notes": "shredded or crumbled"
+    },
+    {
+      "name": "egyptian cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly feta-style"
+    },
+    {
+      "name": "curds",
+      "amount": "1/2 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add curry paste and cook for 1 minute.",
+    "Add tagine spice blend and cook for 1 minute.",
+    "Add curds and cook until lightly browned, about 5 minutes.",
+    "Add molten cheese and stir until melted.",
+    "Add egyptian cheese and stir until combined.",
+    "Serve hot, garnished with additional tagine spice blend if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "cheese",
+    "curds",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-molten-egyptian-cheese-curds-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:21:08.472Z"
+}
