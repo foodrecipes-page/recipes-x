@@ -1,0 +1,65 @@
+{
+  "slug": "xtra-fluffy-american-corn-pancakes--japanese",
+  "title": "Japanese Corn Pancakes",
+  "description": "A unique fusion of Japanese flavors in a fluffy American-style pancake with a sweet corn twist.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Corn Kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "xtra Special Pancake Mix",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "fluffy Egg Whisked",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "american Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fluffy Butter Melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle to medium heat.",
+    "Mix pancake mix, eggs, milk, and melted butter in a bowl until smooth.",
+    "Add corn kernels and vanilla extract (if using) to the batter and mix well.",
+    "Using a 1/4 cup measuring cup, scoop batter onto the pan.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface and edges start to dry.",
+    "Flip and cook for another 1-2 minutes or until golden brown.",
+    "Serve warm with your favorite toppings, such as maple syrup or fresh fruit."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-pancakes",
+    "japanese-breakfast",
+    "fluffy-pancakes",
+    "american-japanese-fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-american-corn-pancakes--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:24:42.683Z"
+}
