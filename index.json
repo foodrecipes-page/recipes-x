@@ -12387,5 +12387,19 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-crunchy-algerian-lamb-kebabs--vegan",
+    "title": "Lamb and Veggie Kebabs",
+    "tags": [
+      "algerian",
+      "grilled",
+      "kebabs",
+      "lamb",
+      "vegan"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 32,
+    "shard": "x"
   }
 ]
