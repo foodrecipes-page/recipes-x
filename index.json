@@ -11465,16 +11465,15 @@
   },
   {
     "slug": "xwholesome-xcrystalline-croatian-wild-mushroom-stir-fry",
-    "title": "Xwholesome Xcrystalline Croatian Wild Mushroom Stir-fry",
+    "title": "Wild Mushroom Stir Fry",
     "tags": [
-      "croatian",
-      "crystalline",
-      "diabetic-friendly",
-      "resinous",
-      "stir-fry"
+      "stir-fry",
+      "mushrooms",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "cuisine": "vegetarian",
+    "totalTimeMin": 15,
     "shard": "x"
   },
   {
@@ -12400,6 +12399,32 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 32,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-light-spanish-fish-ensaimada--french",
+    "title": "Pan-Seared Fish with French Ensaimada Crust",
+    "tags": [
+      "french",
+      "fish",
+      "ensaimada",
+      "pan-seared"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-cheesy-brazilian-skirt-steak-skewers--french",
+    "title": "Skirt Steak Skewers with Cheesy Xtra Sauce",
+    "tags": [
+      "skirt steak",
+      "grill",
+      "cheese sauce",
+      "french cuisine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
     "shard": "x"
   }
 ]
