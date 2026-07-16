@@ -12422,5 +12422,32 @@
     "cuisine": "French",
     "totalTimeMin": 30,
     "shard": "x"
+  },
+  {
+    "slug": "xbittersweet-goozy-new-potatoes-pudding--mexican",
+    "title": "Mexican Sweet Potato Pudding",
+    "tags": [
+      "mexican",
+      "sweet",
+      "potatoes",
+      "pudding",
+      "dessert"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-molten-egyptian-cheese-curds-tagine--thai",
+    "title": "Thai-Style Cheesy Tagine",
+    "tags": [
+      "thai",
+      "cheese",
+      "curds",
+      "tagine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "x"
   }
 ]
