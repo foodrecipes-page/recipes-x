@@ -7839,17 +7839,15 @@
   },
   {
     "slug": "xtra-herby-mediterranean-macaroni-pasta",
-    "title": "Xtra Herby Mediterranean Macaroni Pasta",
+    "title": "Macaroni Medley",
     "tags": [
-      "brunch",
-      "easy-meal",
-      "halal",
-      "herbal",
+      "pasta",
       "mediterranean",
-      "pasta"
+      "herby",
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
