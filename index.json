@@ -7165,16 +7165,16 @@
   },
   {
     "slug": "xtra-fluffy-french-cheese-souffle",
-    "title": "Xtra Fluffy French Cheese Souffle",
+    "title": "French Cheese Soufflé",
     "tags": [
-      "cheesy-goodness",
-      "date-night",
-      "french-cuisine",
-      "low-glycemic",
-      "rich-and-decadent"
+      "french",
+      "souffle",
+      "cheese",
+      "dessert",
+      "elegant"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -7387,17 +7387,15 @@
   },
   {
     "slug": "xtra-fresh-middle-eastern-wheat-tabbouleh",
-    "title": "Xtra Fresh Middle Eastern Wheat Tabbouleh",
+    "title": "Eastern Tabbouleh Salad",
     "tags": [
-      "easy-to-make",
-      "fresh-ingredients",
-      "healthy-snack",
-      "lunch-idea",
-      "middle-eastern",
-      "plant-based"
+      "tabbouleh",
+      "salad",
+      "middle eastern",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -8682,17 +8680,14 @@
   },
   {
     "slug": "xtra-peppery-argentinian-beef-sandwich",
-    "title": "Xtra Peppery Argentinian Beef Sandwich",
+    "title": "Argentinian Beef Sandwich",
     "tags": [
+      "argentinian",
       "beef",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "sandwich",
-      "weeknight"
+      "sandwich"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
