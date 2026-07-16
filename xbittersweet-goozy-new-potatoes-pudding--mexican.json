@@ -1,0 +1,69 @@
+{
+  "slug": "xbittersweet-goozy-new-potatoes-pudding--mexican",
+  "title": "Mexican Sweet Potato Pudding",
+  "description": "A delicious blend of sweet potatoes, pudding, and spices, inspired by Mexican cuisine.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "goozy",
+      "amount": "1/4 cup",
+      "notes": "honey or syrup"
+    },
+    {
+      "name": "new potatoes",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 cup",
+      "notes": "vanilla"
+    },
+    {
+      "name": "xbittersweet",
+      "amount": "1/4 cup",
+      "notes": "chocolate chips"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Poke the sweet potatoes with a fork and bake for 45-60 minutes, or until tender.",
+    "Let the sweet potatoes cool, then scoop out the flesh.",
+    "In a blender, puree the sweet potato flesh, new potatoes, goozy, and pudding.",
+    "Stir in the xbittersweet chocolate chips.",
+    "Transfer the mixture to a baking dish and bake for 25-30 minutes, or until set.",
+    "Let the pudding cool, then serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "sweet",
+    "potatoes",
+    "pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xbittersweet-goozy-new-potatoes-pudding--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:03:32.266Z"
+}
