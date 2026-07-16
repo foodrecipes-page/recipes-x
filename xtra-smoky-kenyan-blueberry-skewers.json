@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-smoky-kenyan-blueberry-skewers",
+  "title": "Kenyan BBQ Chicken Skewers",
+  "description": "A flavor-packed dish that combines the spices of Kenya with the charred goodness of BBQ chicken.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "500g",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Kenyan spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most African or Middle Eastern grocery stores"
+    },
+    {
+      "name": "Blueberry BBQ sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 tsp",
+      "notes": "Add a smoky flavor to your chicken"
+    },
+    {
+      "name": "Xtra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the skewers"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for at least 30 minutes before use"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Kenyan spice blend, smoky paprika, and olive oil.",
+    "Add the chicken pieces to the bowl and toss to coat.",
+    "Thread the marinated chicken onto the skewers.",
+    "Brush the skewers with blueberry BBQ sauce.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bbq",
+    "kenyan",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-kenyan-blueberry-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:32:58.483Z"
+}
