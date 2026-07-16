@@ -12334,5 +12334,32 @@
     "cuisine": "chinese",
     "totalTimeMin": 15,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-fluffy-american-corn-pancakes--japanese",
+    "title": "Japanese Corn Pancakes",
+    "tags": [
+      "corn-pancakes",
+      "japanese-breakfast",
+      "fluffy-pancakes",
+      "american-japanese-fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-fluffy-mediterranean-lentil-pilaf--indian",
+    "title": "Lentil and Pilaf Bowl",
+    "tags": [
+      "lentil",
+      "pilaf",
+      "indian",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
