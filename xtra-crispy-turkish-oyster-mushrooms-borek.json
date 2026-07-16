@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-crispy-turkish-oyster-mushrooms-borek",
+  "title": "Pan-Seared Borek with Mushrooms",
+  "description": "A delicious Turkish-inspired dish featuring crispy borek pastry filled with sautéed mushrooms. Perfect as a snack or light lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Borek pastry",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Unroll the borek pastry and cut into 6 equal squares.",
+    "In a pan, melt 1 tablespoon of butter over medium heat.",
+    "Add the mushrooms and cook until tender, about 3-4 minutes.",
+    "Add the garlic, salt, and pepper. Cook for 1 minute.",
+    "Place a spoonful of the mushroom mixture onto one half of each pastry square.",
+    "Brush the edges with the remaining 1 tablespoon of butter.",
+    "Fold the pastry squares in half to form triangles and press the edges to seal.",
+    "Place the borek on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "gluten-free",
+    "mushrooms"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-turkish-oyster-mushrooms-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:39:45.221Z"
+}
