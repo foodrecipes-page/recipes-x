@@ -1,0 +1,71 @@
+{
+  "slug": "xwholesome-xcrystalline-croatian-wild-mushroom-stir-fry",
+  "title": "Wild Mushroom Stir Fry",
+  "description": "Quick and flavorful stir fry made with wild mushrooms, served as a meal. Perfect for vegetarians looking for a filling dish.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wild mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Xcrystalline stir fry oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Xwholesome soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the xcrystalline stir fry oil in a pan over medium-high heat.",
+    "Add the wild mushrooms and cook until they're tender and lightly browned, about 3 minutes.",
+    "Add the xwholesome soy sauce, croatian paprika, and salt. Stir-fry for 1 minute.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "mushrooms",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xwholesome-xcrystalline-croatian-wild-mushroom-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:25:53.075Z"
+}
