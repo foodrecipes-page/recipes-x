@@ -1,0 +1,83 @@
+{
+  "slug": "xwholesome-xcrystalline-croatian-wild-mushroom-stir-fry--mexican",
+  "title": "Wild Mushroom Fajitas",
+  "description": "Savor the flavors of Mexico with this hearty and flavorful fajita recipe, featuring wild mushrooms, marinated in a zesty mixture of croatian spices and stir-fried to perfection.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushroom",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "croatian",
+      "amount": "2 tsp",
+      "notes": "mexican seasoning blend"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "fry",
+      "amount": null,
+      "notes": "serves as method, not an ingredient"
+    },
+    {
+      "name": "xwholesome",
+      "amount": "2",
+      "notes": "whole wheat tortillas"
+    },
+    {
+      "name": "xcrystalline",
+      "amount": "1/4 cup",
+      "notes": "crystalline sugar (for optional serving)"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the onion and bell pepper (if using) to the skillet and sauté for 3-4 minutes.",
+    "Add the wild mushrooms to the skillet and sauté for an additional 4-5 minutes, or until they release their moisture and start to brown.",
+    "Add the Mexican seasoning blend to the skillet and stir to combine.",
+    "Warm the whole wheat tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the mushroom mixture onto a warmed tortilla and serving with your choice of toppings.",
+    "Optional: sprinkle a pinch of crystalline sugar on top of the fajitas for added sweetness.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "wild mushroom",
+    "mexican",
+    "fajitas",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xwholesome-xcrystalline-croatian-wild-mushroom-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:06:53.559Z"
+}
