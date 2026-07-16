@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-crunchy-algerian-lamb-kebabs--vegan",
+  "title": "Lamb and Veggie Kebabs",
+  "description": "A flavorful and healthy vegan kebab recipe featuring marinated lamb, crunchy vegetables and a hint of Algerian spice.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Make sure to choose a vegan lamb alternative."
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Choose a flavorful heirloom tomato."
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "4 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Algerian Spice Blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Almonds",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, Algerian spice blend, and a pinch of salt.",
+    "Add the lamb to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated lamb, onion, bell pepper, and tomato onto skewers.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally.",
+    "Meanwhile, toast the almonds in a small skillet over medium heat until fragrant.",
+    "Garnish the kebabs with toasted almonds and fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "grilled",
+    "kebabs",
+    "lamb",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-algerian-lamb-kebabs--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:37:43.621Z"
+}
