@@ -12374,5 +12374,18 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-spanish-peppadew-peppers-crumble--indian",
+    "title": "Spicy Xenial Pepper Crumble",
+    "tags": [
+      "indian",
+      "spicy",
+      "dessert",
+      "peppers"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
