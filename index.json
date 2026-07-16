@@ -9917,18 +9917,15 @@
   },
   {
     "slug": "xtra-smoky-kenyan-blueberry-skewers",
-    "title": "Xtra Smoky Kenyan Blueberry Skewers",
+    "title": "Kenyan BBQ Chicken Skewers",
     "tags": [
-      "crowd-pleaser",
-      "fruity",
-      "gluten-free",
+      "bbq",
       "kenyan",
-      "mason-jar",
-      "quick-snack",
-      "smoky"
+      "chicken",
+      "skewers"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 30,
+    "cuisine": "kenyan",
+    "totalTimeMin": 33,
     "shard": "x"
   },
   {
