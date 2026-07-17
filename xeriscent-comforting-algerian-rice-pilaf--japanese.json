@@ -1,0 +1,61 @@
+{
+  "slug": "xeriscent-comforting-algerian-rice-pilaf--japanese",
+  "title": "Japanese Algerian Pilaf",
+  "description": "A comforting and aromatic Japanese-inspired pilaf dish infused with the warm flavors of Algerian cuisine. This dish is a perfect blend of East meets West.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "algerian",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "xeriscent",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of water in a medium saucepan over high heat.",
+    "Add 1 cup of rice and 1/2 cup of pilaf to the saucepan.",
+    "Bring the water to a boil, then reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Stir in 1 tsp of Algerian and 1 tsp of xeriscent.",
+    "Season with salt and pepper to taste.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "algerian",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscent-comforting-algerian-rice-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:52:18.041Z"
+}
