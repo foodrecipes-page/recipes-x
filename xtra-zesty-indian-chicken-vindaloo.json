@@ -1,0 +1,90 @@
+{
+  "slug": "xtra-zesty-indian-chicken-vindaloo",
+  "title": "Indian-Style Chicken Vindaloo",
+  "description": "A spicy Indian-inspired chicken dish made with marinated chicken cooked in a rich tomato-based sauce. Serve with rice or naan bread for a flavorful meal.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, Skinless Chicken Breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Vindaloo Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": "Available in most Indian grocery stores or online"
+    },
+    {
+      "name": "Zesty Tomato Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Indian-Style Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the grated ginger and minced garlic and cook for an additional minute.",
+    "Add the vindaloo spice blend and cook for 1 minute.",
+    "Add the tomato sauce to the skillet and stir to combine.",
+    "Return the chicken to the skillet and simmer until cooked through, about 5-7 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "spicy",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-zesty-indian-chicken-vindaloo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:37:08.912Z"
+}
