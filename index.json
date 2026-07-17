@@ -1794,16 +1794,15 @@
   },
   {
     "slug": "xenial-juicy-saudi-arabian-eggplant-tagine",
-    "title": "Xenial Juicy Saudi Arabian Eggplant Tagine",
+    "title": "Saudi Arabian Eggplant Tagine",
     "tags": [
-      "brunch",
-      "middle-eastern",
-      "one-pan",
-      "vegetarian",
-      "wine-based"
+      "saudi-arabian",
+      "tagine",
+      "eggplant",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 60,
+    "cuisine": "Saudi",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -10827,17 +10826,16 @@
   },
   {
     "slug": "xtra-sweet-ukrainian-apricot-pancakes",
-    "title": "Xtra Sweet Ukrainian Apricot Pancakes",
+    "title": "Apricot Pancakes",
     "tags": [
       "breakfast",
-      "kid-friendly",
       "pancakes",
-      "plant-based",
+      "ukrainian",
       "sweet",
-      "ukrainian"
+      "apricot"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -11320,17 +11318,15 @@
   },
   {
     "slug": "xtra-zesty-indian-chicken-vindaloo",
-    "title": "Xtra Zesty Indian Chicken Vindaloo",
+    "title": "Indian-Style Chicken Vindaloo",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "indian-cuisine",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "indian",
+      "spicy",
+      "chicken",
+      "curry"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
