@@ -1,0 +1,63 @@
+{
+  "slug": "x-tra-sweet-turkish-cassaba-tagine--chinese",
+  "title": "Cassaba and Sweet Tagine",
+  "description": "A Chinese-inspired dessert made with cassaba and sweet ingredients, showcasing a unique twist on traditional Chinese flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cassaba",
+      "amount": "1 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "sweet",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "x",
+      "amount": "1/4 cup",
+      "notes": "crushed or minced for best results"
+    },
+    {
+      "name": "tra",
+      "amount": "1/2 cup",
+      "notes": "diced or sliced for optimal texture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Peel the cassaba and chop it into bite-sized pieces.",
+    "In a large bowl, mix together the chopped cassaba, sweet, and tra.",
+    "Add the crushed x to the bowl and mix until well combined.",
+    "Transfer the mixture to a baking dish and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 15-20 minutes or until the top is lightly browned.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dessert",
+    "cassaba",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-sweet-turkish-cassaba-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:14:03.706Z"
+}
