@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-peppery-russian-egg-yolks-tagine--japanese",
+  "title": "Japanese-Style Egg and Tagine Tartine",
+  "description": "A Japanese-inspired dish that combines the richness of egg and tagine with the crunch of xtra peppery vegetables. Perfect for a light lunch.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "yolks",
+      "amount": "1",
+      "notes": "from the eggs, for richness"
+    },
+    {
+      "name": "tagine",
+      "amount": "1/2 cup",
+      "notes": "caramelized, sweet and spicy"
+    },
+    {
+      "name": "xtra",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for crunch"
+    },
+    {
+      "name": "peppery",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for flavor"
+    },
+    {
+      "name": "russian",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for added texture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Whisk the eggs and yolks together in a bowl until well combined.",
+    "Add the tagine to the eggs and mix to distribute evenly.",
+    "Season with a pinch of salt and pepper.",
+    "Transfer the egg mixture to a baking dish and bake for 15-20 minutes, or until set.",
+    "Meanwhile, slice the xtra, peppery, and russian ingredients thinly and set aside.",
+    "Once the eggs are set, remove from the oven and let cool for a few minutes.",
+    "Top the eggs with the sliced vegetables and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "japanese",
+    "egg",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-peppery-russian-egg-yolks-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:15:49.484Z"
+}
