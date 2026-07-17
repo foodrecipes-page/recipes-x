@@ -1,0 +1,90 @@
+{
+  "slug": "xtra-buttery-peruvian-fish-fillet-lomo-saltado",
+  "title": "Peruvian-Style Lomo Saltado",
+  "description": "A classic Peruvian stir-fry dish made with beef strips, onions, tomatoes, and french fries, served with rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lomo (thinly sliced beef strips)",
+      "amount": "1 pound",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Peruvian xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": "Melted butter"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "French fries",
+      "amount": "1 cup",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Saltado",
+      "amount": "2 teaspoons",
+      "notes": "Peruvian stir-fry seasoning"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fillets of fish (optional)",
+      "amount": "4 fillets",
+      "notes": "For a seafood variation"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of Peruvian xtra-virgin olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until they start to brown, about 3-4 minutes.",
+    "Add the diced tomatoes and cook until they start to soften, about 2-3 minutes.",
+    "Add the sliced beef strips and cook until they are browned and cooked through, about 3-4 minutes.",
+    "Add the French fries and cook until they are crispy, about 2-3 minutes.",
+    "Add the melted butter and stir-fry seasoning, and cook for an additional 1-2 minutes.",
+    "Taste and adjust the seasoning with salt as needed.",
+    "Serve hot over a bed of rice.",
+    "If using fish fillets, cook in a separate pan with a little oil until cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "stir-fry",
+    "lomo-saltado"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-buttery-peruvian-fish-fillet-lomo-saltado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:24:46.738Z"
+}
