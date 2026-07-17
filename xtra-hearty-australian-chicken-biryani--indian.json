@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-hearty-australian-chicken-biryani--indian",
+  "title": "Australian Chicken Biryani",
+  "description": "A hearty and flavorful Indian-inspired chicken biryani dish with Australian ingredients. This recipe serves 4-6 people and is perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Basmati Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Boneless Chicken Breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Biriyani Masala",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onions and cook until browned, about 5 minutes.",
+    "Add ginger and cook for 1 minute.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add cumin, coriander, turmeric, red chili powder, and salt. Cook for 1 minute.",
+    "Add biriyani masala and cook for 1 minute.",
+    "Add rice and mix well. Cook for 2 minutes.",
+    "Transfer the mixture to a large saucepan and add 2 cups of water.",
+    "Bring to a boil, then reduce heat to low and cover.",
+    "Simmer for 15-20 minutes or until the water is absorbed.",
+    "Turn off heat and let it rest for 5 minutes.",
+    "Serve hot garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "indian",
+    "biryani",
+    "australian",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-hearty-australian-chicken-biryani--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:01:02.536Z"
+}
