@@ -1,0 +1,93 @@
+{
+  "slug": "xtra-zesty-indian-chicken-vindaloo--italian",
+  "title": "Chicken Vindaloo Italian Fusion",
+  "description": "A unique blend of Italian and Indian flavors, this dish combines the spices of vindaloo with the richness of Italian chicken.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "zesty Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vindaloo spice mix",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Indian grocery stores"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "Diced"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Add the Italian seasoning, vindaloo spice mix, garlic, and onion to the skillet and cook for 1-2 minutes.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Reduce the heat to medium-low and let the chicken cook for 10-12 minutes, or until cooked through.",
+    "Stir in the tomatoes and basil.",
+    "Serve the chicken over pasta, topped with parmesan cheese.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "italian",
+    "indian",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-zesty-indian-chicken-vindaloo--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:43:37.270Z"
+}
