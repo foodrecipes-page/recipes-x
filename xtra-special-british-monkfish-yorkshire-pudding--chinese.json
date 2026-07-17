@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-special-british-monkfish-yorkshire-pudding--chinese",
+  "title": "Steamed Monkfish with Yorkshire Pudding Crust",
+  "description": "A unique twist on traditional British cuisine, combining the delicate flavors of monkfish with the crispy goodness of Yorkshire pudding.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "xtra large eggs",
+      "amount": "2",
+      "notes": "for Yorkshire pudding"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for Yorkshire pudding"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "for Yorkshire pudding"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for Yorkshire pudding"
+    },
+    {
+      "name": "special hot sauce",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "british seasoning",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "yorkshire pudding mix",
+      "amount": "1 package",
+      "notes": "for Yorkshire pudding"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Whisk eggs, milk, and hot sauce in a bowl.",
+    "In a separate bowl, combine flour, British seasoning, and yogurt (if using).",
+    "Pour wet ingredients into dry ingredients and mix until smooth.",
+    "Pour mixture into a greased 9x13 inch baking dish.",
+    "Bake for 25-30 minutes or until puffed and golden brown.",
+    "While Yorkshire pudding is baking, prepare monkfish by patting dry with paper towels.",
+    "Season monkfish with salt and pepper to taste.",
+    "Place monkfish fillets on a baking sheet lined with parchment paper.",
+    "Drizzle with vegetable oil and bake in oven for 8-10 minutes or until cooked through.",
+    "To serve, place steamed monkfish on top of Yorkshire pudding and garnish with chopped scallions (if desired).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 38,
+  "totalTimeMin": 58,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fish",
+    "pudding",
+    "seafood",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 34,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-special-british-monkfish-yorkshire-pudding--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:52:39.872Z"
+}
