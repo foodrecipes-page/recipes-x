@@ -12591,5 +12591,18 @@
     "cuisine": "jamaican",
     "totalTimeMin": 80,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-smoky-middle-eastern-renkon-lotus-root-tagine--chinese",
+    "title": "Xenial Lotus Root Stir Fry",
+    "tags": [
+      "chinese",
+      "middle-eastern",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
+    "shard": "x"
   }
 ]
