@@ -12604,5 +12604,17 @@
     "cuisine": "Chinese",
     "totalTimeMin": 20,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-pungent-syrian-nduja-skewers--thai",
+    "title": "Spicy Thai Satay",
+    "tags": [
+      "thai",
+      "grilled",
+      "satay"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "x"
   }
 ]
