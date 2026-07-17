@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-smoky-malaysian-sirloin-steak-satay--french",
+  "title": "Malaysian-Style Steak au Poivre",
+  "description": "A French-inspired steak dish infused with the flavors of Malaysia, featuring a spicy pepper crust and a side of sticky satay sauce.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "xtra coarse black pepper",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "malaysian chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "satay sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the sirloin steak with salt and black pepper on both sides.",
+    "In a small bowl, mix together paprika and chili flakes.",
+    "Rub the spice mixture evenly onto both sides of the steak.",
+    "Heat butter in an oven-safe skillet over medium-high heat.",
+    "Sear the steak for 2-3 minutes per side, or until a nice crust forms.",
+    "Transfer the skillet to the preheated oven and cook to desired doneness (130°F - 135°F for medium-rare).",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Serve with satay sauce spooned over the top and garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "malaysian",
+    "steak",
+    "pepper",
+    "crust"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 5,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-malaysian-sirloin-steak-satay--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:18:45.272Z"
+}
