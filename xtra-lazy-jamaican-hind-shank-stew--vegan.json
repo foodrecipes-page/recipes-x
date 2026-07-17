@@ -1,0 +1,90 @@
+{
+  "slug": "xtra-lazy-jamaican-hind-shank-stew--vegan",
+  "title": "Jamaican Stew",
+  "description": "A flavorful and comforting stew made with vegan jamaican stew meat and a blend of aromatic spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hind stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": "make sure it's a vegan brand"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "make sure it's a vegan brand"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until it's translucent.",
+    "Add the Jamaican seasoning and stir for 1 minute.",
+    "Add the hind stew meat and cook until it's browned on all sides.",
+    "Add the chopped carrots and potatoes, and stir to combine.",
+    "Add the tomato paste and stir to combine.",
+    "Add the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 45 minutes.",
+    "Stir in the thyme and let it simmer for an additional 10 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "jamaican",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-lazy-jamaican-hind-shank-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:27:27.892Z"
+}
