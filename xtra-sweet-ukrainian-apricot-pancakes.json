@@ -1,0 +1,70 @@
+{
+  "slug": "xtra-sweet-ukrainian-apricot-pancakes",
+  "title": "Apricot Pancakes",
+  "description": "A unique twist on traditional pancakes with the sweetness of apricots.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "xtra Pancake Mix",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Apricot Jam",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sweet Apricots",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "as needed"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": "for greasing the pan"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the pancake mix and water until smooth.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Grease the pan with a thin layer of vegetable oil.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "Serve warm with apricot jam and diced apricots on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "ukrainian",
+    "sweet",
+    "apricot"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sweet-ukrainian-apricot-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:25:46.584Z"
+}
