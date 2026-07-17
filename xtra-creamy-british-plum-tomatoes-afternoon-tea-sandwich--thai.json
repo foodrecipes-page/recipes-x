@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-creamy-british-plum-tomatoes-afternoon-tea-sandwich--thai",
+  "title": "Tom Yum Plum Sandwich",
+  "description": "A unique twist on traditional Thai flavors with a creamy plum sauce and crispy sandwich.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "British bread",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Xtra crispy bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "Creamy plum sauce",
+      "amount": "1/2 cup",
+      "notes": "see below for sauce recipe"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Tea leaves",
+      "amount": "1 teaspoon",
+      "notes": "optional for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Cook xtra crispy bacon until crispy, then set aside.",
+    "In the same pan, toast British bread until lightly browned.",
+    "Spread creamy plum sauce on toasted bread.",
+    "Top with cooked bacon, sliced tomatoes, and tea leaves (if using).",
+    "Assemble sandwich and serve immediately.",
+    "For the creamy plum sauce: combine 1/2 cup plum jam, 1/4 cup mayonnaise, and 1 tablespoon soy sauce in a bowl. Mix until smooth."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "creamy",
+    "plum",
+    "sandwich",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-british-plum-tomatoes-afternoon-tea-sandwich--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:31:58.207Z"
+}
