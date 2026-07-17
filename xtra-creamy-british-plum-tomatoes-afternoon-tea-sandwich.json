@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-creamy-british-plum-tomatoes-afternoon-tea-sandwich",
+  "title": "Creamy Plum Tea Sandwich",
+  "description": "A classic British-inspired tea sandwich filled with fresh plum and creamy cheese.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread (white)",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Plum jam",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Fresh plums",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "4-6 leaves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 350°F (180°C).",
+    "2. Slice the bread into thin pieces.",
+    "3. Spread a layer of plum jam on each bread slice.",
+    "4. In a separate bowl, mix the cream cheese until smooth.",
+    "5. Add sliced plums to the cream cheese and mix until well combined.",
+    "6. Spread the cream cheese mixture on top of the plum jam.",
+    "7. Place a layer of sliced bread on top of the cream cheese mixture.",
+    "8. Cut the sandwiches into desired shapes using a cookie cutter or a knife.",
+    "9. Place the sandwiches on a baking sheet lined with parchment paper.",
+    "10. Bake the sandwiches in the preheated oven for 10-12 minutes or until lightly toasted.",
+    "11. Remove from the oven and let cool for a few minutes.",
+    "12. Serve the sandwiches warm with a side of fresh mint leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "tea-sandwich",
+    "plum-jam",
+    "cream-cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-british-plum-tomatoes-afternoon-tea-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:32:14.303Z"
+}
