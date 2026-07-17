@@ -12499,5 +12499,60 @@
     "cuisine": "chinese",
     "totalTimeMin": 58,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-creamy-british-plum-tomatoes-afternoon-tea-sandwich--thai",
+    "title": "Tom Yum Plum Sandwich",
+    "tags": [
+      "thai",
+      "creamy",
+      "plum",
+      "sandwich",
+      "bacon"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-zesty-indian-chicken-vindaloo--italian",
+    "title": "Chicken Vindaloo Italian Fusion",
+    "tags": [
+      "chicken",
+      "italian",
+      "indian",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-hearty-australian-chicken-biryani--indian",
+    "title": "Australian Chicken Biryani",
+    "tags": [
+      "chicken",
+      "indian",
+      "biryani",
+      "australian",
+      "rice"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-smoky-malaysian-sirloin-steak-satay--french",
+    "title": "Malaysian-Style Steak au Poivre",
+    "tags": [
+      "french",
+      "malaysian",
+      "steak",
+      "pepper",
+      "crust"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
