@@ -1,0 +1,65 @@
+{
+  "slug": "xtra-pungent-syrian-nduja-skewers--thai",
+  "title": "Spicy Thai Satay",
+  "description": "A traditional Thai dish made with marinated meat skewers grilled to perfection. Serve with a side of peanut sauce for a delicious and authentic Thai experience.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "1/2 cup",
+      "notes": "spicy Italian sausage"
+    },
+    {
+      "name": "xtra",
+      "amount": "1/4 cup",
+      "notes": "extra virgin olive oil"
+    },
+    {
+      "name": "pungent",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "syrian",
+      "amount": "1/2 cup",
+      "notes": "plain Greek yogurt"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together nduja, xtra, pungent, and a pinch of salt.",
+    "2. Add the syrian to the bowl and mix until well combined.",
+    "3. Thread the ingredients onto the skewers, leaving a small space between each piece.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Brush the skewers with the marinade and cook for 8-10 minutes, turning occasionally.",
+    "6. Serve hot with peanut sauce and steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grilled",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-pungent-syrian-nduja-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:01:30.599Z"
+}
