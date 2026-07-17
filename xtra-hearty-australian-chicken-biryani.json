@@ -1,0 +1,90 @@
+{
+  "slug": "xtra-hearty-australian-chicken-biryani",
+  "title": "Australian Chicken Biryani",
+  "description": "A hearty, flavorful biryani dish featuring chicken and Australian spices.",
+  "cuisine": "australian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "xtra long grain rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "australian biryani spice mix",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for cooking rice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and garlic; cook until onion is translucent.",
+    "Add chicken; cook until browned.",
+    "Add biryani spice mix; stir for 1 minute.",
+    "Add tomato; cook until softened.",
+    "Add rice; stir to combine.",
+    "Add water; bring to a boil.",
+    "Reduce heat to low; cover and simmer for 20 minutes.",
+    "Fluff rice with a fork; serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "biryani",
+    "chicken",
+    "lunch",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-hearty-australian-chicken-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:48:13.903Z"
+}
