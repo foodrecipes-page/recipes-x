@@ -12564,5 +12564,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 20,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-peppery-russian-egg-yolks-tagine--japanese",
+    "title": "Japanese-Style Egg and Tagine Tartine",
+    "tags": [
+      "breakfast",
+      "lunch",
+      "japanese",
+      "egg",
+      "tagine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "x"
   }
 ]
