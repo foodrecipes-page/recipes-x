@@ -4494,16 +4494,15 @@
   },
   {
     "slug": "xtra-creamy-argentinian-gorgonzola-pasta",
-    "title": "Xtra Creamy Argentinian Gorgonzola Pasta",
+    "title": "Creamy Pasta with Gorgonzola",
     "tags": [
-      "comfort-food",
-      "italian-inspired",
-      "lazy-sunday",
-      "one-pot",
-      "vegetarian"
+      "creamy",
+      "gorgonzola",
+      "italian",
+      "pasta"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -7774,17 +7773,16 @@
   },
   {
     "slug": "xtra-hearty-australian-chicken-biryani",
-    "title": "Xtra Hearty Australian Chicken Biryani",
+    "title": "Australian Chicken Biryani",
     "tags": [
       "australian",
+      "biryani",
       "chicken",
-      "gluten-free",
-      "hearty",
-      "low-glycemic",
-      "one-pan"
+      "lunch",
+      "rice"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
