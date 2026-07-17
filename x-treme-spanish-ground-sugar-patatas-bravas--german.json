@@ -1,0 +1,70 @@
+{
+  "slug": "x-treme-spanish-ground-sugar-patatas-bravas--german",
+  "title": "German Bratwurst with Potato Wedges",
+  "description": "A classic German dish featuring bratwurst sausage and crispy potato wedges. Perfect for a hearty meal.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bratwurst Sausages",
+      "amount": "4",
+      "notes": "German-style bratwurst sausages"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "Patatas bravas, peeled and cut into wedges"
+    },
+    {
+      "name": "Spanish Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "For carmelizing onions"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Line a baking sheet with parchment paper.",
+    "Place potato wedges on the baking sheet and toss with olive oil, salt, and sugar.",
+    "Roast in the oven for 20 minutes, or until crispy.",
+    "While potatoes are roasting, heat a large skillet over medium-high heat.",
+    "Add Bratwurst sausages and cook for 5-7 minutes on each side, or until browned.",
+    "Transfer the Bratwurst sausages to a plate and let them rest for a few minutes.",
+    "Slice the Bratwurst sausages and serve with roasted potato wedges.",
+    "Optional: serve with a side of sauerkraut or German mustard."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bratwurst",
+    "german",
+    "potatoes",
+    "sauerkraut",
+    "mustard"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-treme-spanish-ground-sugar-patatas-bravas--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:29:41.924Z"
+}
