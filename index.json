@@ -4058,14 +4058,12 @@
   },
   {
     "slug": "xtra-buttery-peruvian-fish-fillet-lomo-saltado",
-    "title": "Xtra Buttery Peruvian Fish Fillet Lomo Saltado",
+    "title": "Peruvian-Style Lomo Saltado",
     "tags": [
-      "dairy-free",
-      "fish-recipe",
-      "gluten-free",
-      "one-pan-meal",
-      "peruvian-cuisine",
-      "weeknight-dinner"
+      "peruvian",
+      "beef",
+      "stir-fry",
+      "lomo-saltado"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
@@ -12553,6 +12551,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xeriscent-comforting-algerian-rice-pilaf--japanese",
+    "title": "Japanese Algerian Pilaf",
+    "tags": [
+      "japanese",
+      "algerian",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
     "shard": "x"
   }
 ]
