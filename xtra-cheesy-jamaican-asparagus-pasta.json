@@ -1,0 +1,64 @@
+{
+  "slug": "xtra-cheesy-jamaican-asparagus-pasta",
+  "title": "Jamaican Pasta Bake",
+  "description": "A creamy, cheesy pasta bake with a twist of Caribbean flavors. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Jamaican xtra cheese sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Asparagus",
+      "amount": "1 bunch",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add asparagus and cook until tender, about 5 minutes.",
+    "In a separate saucepan, heat Jamaican xtra cheese sauce over low heat until warm and bubbly.",
+    "Combine cooked pasta, asparagus, and cheese sauce. Mix well to combine.",
+    "Transfer the pasta mixture to a baking dish and top with additional cheese if desired.",
+    "Bake for 15-20 minutes, or until the top is golden brown and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "cheesy",
+    "asparagus",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-cheesy-jamaican-asparagus-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:38:26.051Z"
+}
