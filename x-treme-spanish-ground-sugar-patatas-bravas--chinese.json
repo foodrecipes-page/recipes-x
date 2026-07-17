@@ -1,0 +1,68 @@
+{
+  "slug": "x-treme-spanish-ground-sugar-patatas-bravas--chinese",
+  "title": "Spicy Spanish Patatas with Chinese Twist",
+  "description": "A fusion dish combining Spanish and Chinese flavors, featuring crispy Spanish-style patatas with a spicy kick.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spanish patatas",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Treme (Szechuan peppercorns)",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Bravas sauce",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add Szechuan peppercorns and cook for 1 minute.",
+    "Add ground ginger and cook for another minute.",
+    "Add patatas and cook until crispy, about 5-7 minutes.",
+    "Stir in bravas sauce and cook for 1-2 minutes.",
+    "Season with sugar to balance the flavors.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "chinese",
+    "fusion",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-treme-spanish-ground-sugar-patatas-bravas--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:31:48.941Z"
+}
