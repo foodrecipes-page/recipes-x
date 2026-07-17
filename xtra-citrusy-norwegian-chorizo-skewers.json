@@ -1,0 +1,93 @@
+{
+  "slug": "xtra-citrusy-norwegian-chorizo-skewers",
+  "title": "Chorizo Skewers with Citrusy Marinade",
+  "description": "A flavorful and easy-to-make appetizer or snack featuring Norwegian chorizo sausage, perfect for summer grilling.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Norwegian chorizo sausage",
+      "amount": "1 pound, sliced",
+      "notes": null
+    },
+    {
+      "name": "xtra large shrimp, peeled and deveined",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "citrusy skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, orange juice, olive oil, garlic powder, salt, and pepper.",
+    "Add sliced chorizo sausage to the marinade and mix well.",
+    "Thread chorizo sausage and shrimp onto the citrusy skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chorizo is cooked through and the shrimp are pink.",
+    "Serve hot with chopped fresh parsley and additional lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "appetizer",
+    "snack",
+    "chorizo",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-citrusy-norwegian-chorizo-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:33:13.159Z"
+}
