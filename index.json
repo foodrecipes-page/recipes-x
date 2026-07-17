@@ -4172,17 +4172,15 @@
   },
   {
     "slug": "xtra-cheesy-jamaican-asparagus-pasta",
-    "title": "Xtra Cheesy Jamaican Asparagus Pasta",
+    "title": "Jamaican Pasta Bake",
     "tags": [
-      "asparagus-recipe",
-      "caribbean",
+      "pasta",
       "cheesy",
-      "jamaican-cuisine",
-      "one-pot",
-      "pescatarian"
+      "asparagus",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -12451,6 +12449,47 @@
       "vegetarian"
     ],
     "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-sweet-turkish-cassaba-tagine--chinese",
+    "title": "Cassaba and Sweet Tagine",
+    "tags": [
+      "chinese",
+      "dessert",
+      "cassaba",
+      "sweet"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
+    "slug": "x-treme-spanish-ground-sugar-patatas-bravas--german",
+    "title": "German Bratwurst with Potato Wedges",
+    "tags": [
+      "bratwurst",
+      "german",
+      "potatoes",
+      "sauerkraut",
+      "mustard"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "x-treme-spanish-ground-sugar-patatas-bravas--chinese",
+    "title": "Spicy Spanish Patatas with Chinese Twist",
+    "tags": [
+      "spanish",
+      "chinese",
+      "fusion",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
     "totalTimeMin": 25,
     "shard": "x"
   }
