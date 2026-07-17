@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-creamy-argentinian-gorgonzola-pasta",
+  "title": "Creamy Pasta with Gorgonzola",
+  "description": "A rich and creamy pasta dish featuring the bold flavors of gorgonzola cheese. Serve hot, garnished with fresh parsley.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "any shape of your choice"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "gorgonzola cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, heat olive oil over medium heat. Add onion and cook until softened.",
+    "Add gorgonzola cheese to the skillet, stirring to combine with onion and oil.",
+    "Pour in heavy cream and stir to combine. Bring mixture to a simmer.",
+    "Season with salt and pepper to taste.",
+    "Add cooked pasta to the skillet, tossing to combine with cream sauce.",
+    "Serve immediately, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "gorgonzola",
+    "italian",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-argentinian-gorgonzola-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:22:13.848Z"
+}
