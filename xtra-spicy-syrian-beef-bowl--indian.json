@@ -1,0 +1,108 @@
+{
+  "slug": "xtra-spicy-syrian-beef-bowl--indian",
+  "title": "Spicy Beef Curry in a Bowl",
+  "description": "A flavorful and spicy beef curry served in a bowl with rice and naan bread, a classic Indian dish. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "spicy",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin and coriander"
+    },
+    {
+      "name": "syrian",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "bowl",
+      "amount": "2",
+      "notes": "large bowls for serving"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tablespoons",
+      "notes": "veggie oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the garlic, ginger, cumin, coriander, and cayenne (if using). Cook for 1 minute.",
+    "Add the tomato and cook for 2 minutes.",
+    "Stir in the coconut milk and bring to a simmer.",
+    "Reduce the heat to medium-low and cook until the sauce has thickened, about 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the curry over rice in the bowls.",
+    "Garnish with cilantro or scallions (if desired).",
+    "Serve with naan bread or roti (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "curry",
+    "spicy",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 40,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-syrian-beef-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:21:13.367Z"
+}
