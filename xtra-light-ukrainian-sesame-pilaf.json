@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-light-ukrainian-sesame-pilaf",
+  "title": "Sesame Pilaf with Ukrainian Twist",
+  "description": "A flavorful and aromatic pilaf dish with a hint of Ukrainian spices, topped with toasted sesame seeds.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xtra long grain rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for toasting sesame seeds"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "ukrainian spices mix",
+      "amount": "1 teaspoon",
+      "notes": "available in most international stores"
+    },
+    {
+      "name": "light vegetable broth",
+      "amount": "2 cups",
+      "notes": "chicken broth can be used as alternative"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "optional, adds extra texture"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large saucepan over medium heat.",
+    "Add Ukrainian spices mix and sauté for 1 minute, until fragrant.",
+    "Add light vegetable broth and bring to a boil.",
+    "Add xtra long grain rice and stir to coat rice with oil and spices.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes, or until rice is tender and liquid is absorbed.",
+    "Fluff pilaf with a fork, if using.",
+    "Transfer pilaf to a serving platter and sprinkle with toasted sesame seeds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sesame",
+    "ukrainian",
+    "rice",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-ukrainian-sesame-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:37:20.562Z"
+}
