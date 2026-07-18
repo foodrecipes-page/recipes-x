@@ -12672,5 +12672,30 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-juicy-mediterranean-fish-pilaf--french",
+    "title": "Pan-Seared Fish with Mediterranean Pilaf",
+    "tags": [
+      "fish",
+      "mediterranean",
+      "french",
+      "healthy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-malaysian-beef-stew--vegan",
+    "title": "Vegan Malaysian Stew",
+    "tags": [
+      "vegan",
+      "malaysian",
+      "stew"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
