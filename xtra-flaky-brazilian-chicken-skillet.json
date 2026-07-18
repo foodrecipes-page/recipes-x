@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-flaky-brazilian-chicken-skillet",
+  "title": "Skillet Chicken with Crispy Brazilian Breading",
+  "description": "A flavorful and crispy chicken dish, seasoned with Brazilian spices and cooked to perfection in a skillet.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "for breading"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brazilian spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 medium",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt, pepper, and Brazilian spice mix.",
+    "Cut the flaky pastry into small pieces and place them in a bowl.",
+    "Dip each chicken breast into the pastry pieces to coat evenly.",
+    "Heat the olive oil in a skillet over medium-high heat.",
+    "Add the coated chicken breast to the skillet and cook for 5 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "brazilian",
+    "skillet",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-brazilian-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:40:30.642Z"
+}
