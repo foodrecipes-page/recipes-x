@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-pungent-syrian-nduja-skewers--vegetarian",
+  "title": "Vegetarian Nduja Skewers with Pungent Glaze",
+  "description": "A flavorful vegetarian appetizer featuring spicy nduja, sweet pungent glaze, and fresh skewers of xtra vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pungent",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "xtra",
+      "amount": "1 cup"
+    },
+    {
+      "name": "skewers",
+      "amount": "20 wooden skewers"
+    },
+    {
+      "name": "syrian",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut xtra into 1-inch pieces.",
+    "Thread xtra, nduja, and pungent onto skewers.",
+    "Brush skewers with olive oil (if using).",
+    "Season with salt and black pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "Brush skewers with pungent glaze during last minute of cooking.",
+    "Serve skewers hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nduja",
+    "vegetarian",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-pungent-syrian-nduja-skewers--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:21:18.631Z"
+}
