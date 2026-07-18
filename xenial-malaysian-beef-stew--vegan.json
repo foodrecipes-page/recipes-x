@@ -1,0 +1,94 @@
+{
+  "slug": "xenial-malaysian-beef-stew--vegan",
+  "title": "Vegan Malaysian Stew",
+  "description": "A flavorful and comforting vegan stew inspired by Malaysian cuisine.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "Note: Beef is used in a small amount to add depth of flavor in this vegan stew."
+    },
+    {
+      "name": "xenial",
+      "amount": "2 tablespoons",
+      "notes": "A type of spice commonly used in Malaysian cuisine."
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "Vegan stew mix"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat, vegan"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "Vegan"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "Diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger; cook until the onion is translucent.",
+    "Add the beef; cook for 2-3 minutes, breaking it up with a spoon.",
+    "Add the stew mix, coconut milk, vegetable broth, brown sugar, and xenial.",
+    "Stir to combine, then bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Add the tomatoes and continue to simmer for another 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Note: You can also make this stew in a slow cooker. Simply brown the beef and cook the onion mixture in a skillet, then transfer everything to the slow cooker and cook on low for 3-4 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "malaysian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-malaysian-beef-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:38:59.322Z"
+}
