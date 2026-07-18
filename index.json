@@ -1571,16 +1571,14 @@
   },
   {
     "slug": "xenial-ethiopian-lentils-misir-wot",
-    "title": "Xenial Ethiopian Lentils Misir Wot",
+    "title": "Ethiopian Red Lentil Stew (Misir Wot)",
     "tags": [
       "ethiopian",
-      "festive",
-      "low-glycemic",
-      "one-pot",
-      "vegetarian"
+      "lentil",
+      "vegan"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -7026,17 +7024,15 @@
   },
   {
     "slug": "xtra-fluffy-algerian-beans-tagine",
-    "title": "Xtra Fluffy Algerian Beans Tagine",
+    "title": "Algerian Bean Stew",
     "tags": [
-      "comfort-food",
-      "halal-friendly",
-      "high-protein",
-      "north-african",
-      "one-pan",
-      "weeknight"
+      "algerian",
+      "stew",
+      "couscous",
+      "beans"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 100,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
