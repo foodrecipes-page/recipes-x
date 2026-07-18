@@ -12693,5 +12693,19 @@
     "cuisine": "malaysian",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-syrian-beef-bowl--indian",
+    "title": "Spicy Beef Curry in a Bowl",
+    "tags": [
+      "indian",
+      "beef",
+      "curry",
+      "spicy",
+      "bowl"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "x"
   }
 ]
