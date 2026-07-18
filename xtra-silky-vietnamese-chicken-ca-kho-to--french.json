@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-silky-vietnamese-chicken-ca-kho-to--french",
+  "title": "French Style Chicken",
+  "description": "A classic French-inspired dish featuring tender chicken and a rich, flavorful sauce.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "ca",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "xtra",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "kho",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "silky",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "to",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Season the chicken with salt and pepper.",
+    "Add the chicken to the skillet and cook until browned on both sides, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of oil to the skillet.",
+    "Add the ca, xtra, kho, silky, vietnamese, and to to the skillet.",
+    "Cook, stirring constantly, for 1-2 minutes.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Simmer for 5-7 minutes, or until the chicken is cooked through.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-vietnamese-chicken-ca-kho-to--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:43:23.582Z"
+}
