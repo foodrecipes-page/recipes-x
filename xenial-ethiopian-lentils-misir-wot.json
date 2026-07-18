@@ -1,0 +1,86 @@
+{
+  "slug": "xenial-ethiopian-lentils-misir-wot",
+  "title": "Ethiopian Red Lentil Stew (Misir Wot)",
+  "description": "A traditional Ethiopian red lentil stew, flavored with onions, garlic, and spices. Serve with injera bread for a hearty meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red or brown lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add berbere spice, cumin, salt, and pepper. Cook for 1 minute.",
+    "Add lentils and water. Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until lentils are tender.",
+    "Serve hot, garnished with chopped fresh cilantro if desired.",
+    "Serve with injera bread for a traditional Ethiopian meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lentil",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-ethiopian-lentils-misir-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:21:03.726Z"
+}
