@@ -1,0 +1,92 @@
+{
+  "slug": "xtra-smoky-algerian-lamb-tagine",
+  "title": "Smoky Lamb Tagine",
+  "description": "A traditional North African stew from Algeria, slow-cooked in a clay pot with aromatic spices and smoky flavors.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb pieces in batches until browned, about 5 minutes per batch.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce heat to medium and cook the onion and garlic until softened, about 5 minutes.",
+    "Add the smoky paprika and Algerian spice blend; cook 1 minute.",
+    "Add the chicken broth and bring to a simmer.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in the chopped apricots and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:52:23.298Z"
+}
