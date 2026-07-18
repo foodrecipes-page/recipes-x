@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-juicy-mediterranean-fish-pilaf--french",
+  "title": "Pan-Seared Fish with Mediterranean Pilaf",
+  "description": "A classic French dish combining the flavors of the Mediterranean with the simplicity of pan-seared fish. This recipe serves 4 and can be prepared in about 30 minutes.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xtra juicy fish fillets",
+      "amount": "4",
+      "notes": "such as tilapia or mahi-mahi"
+    },
+    {
+      "name": "mediterranean pilaf",
+      "amount": "1 cup",
+      "notes": "available in most supermarkets or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Season the fish fillets with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the fish fillets and cook for 3-4 minutes on each side, or until cooked through.",
+    "While the fish is cooking, heat the Mediterranean pilaf according to package instructions.",
+    "Squeeze the lemon juice over the fish and sprinkle with parsley.",
+    "Serve the pan-seared fish on top of the Mediterranean pilaf.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "mediterranean",
+    "french",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-juicy-mediterranean-fish-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:26:30.146Z"
+}
