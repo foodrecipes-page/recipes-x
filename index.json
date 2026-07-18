@@ -12660,5 +12660,17 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-crumbly-american-suet-casserole--indian",
+    "title": "Crispy Suet Casserole",
+    "tags": [
+      "indian",
+      "snack",
+      "casserole"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
