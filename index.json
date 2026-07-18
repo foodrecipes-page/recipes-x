@@ -764,18 +764,16 @@
   },
   {
     "slug": "x-treme-smoky-malaysian-chicken-satay",
-    "title": "X-treme Smoky Malaysian Chicken Satay",
+    "title": "Malaysian Chicken Satay",
     "tags": [
-      "flexitarian",
+      "chicken",
       "grilled",
-      "malaysian-cuisine",
-      "one-pan",
-      "romantic",
-      "snappy",
-      "weeknight"
+      "satay",
+      "malaysian",
+      "peanut-sauce"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 27,
     "shard": "x"
   },
   {
