@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-fluffy-algerian-beans-tagine",
+  "title": "Algerian Bean Stew",
+  "description": "A hearty and flavorful stew originating from Algeria, made with tender beans and spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Algerian",
+      "amount": "1 tablespoon",
+      "notes": "Use ras el hanout spice blend"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tablespoons",
+      "notes": "Use olive oil"
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 cups",
+      "notes": "Use fluffy couscous"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": "Use dried or fresh herbs"
+    }
+  ],
+  "instructions": [
+    "Heat the xtra in a large pot over medium heat.",
+    "Add the Algerian and cook for 1 minute, until fragrant.",
+    "Add the beans, 2 cups of water, and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Stir in the tagine and cook for an additional 5 minutes.",
+    "Spoon the mixture over fluffy couscous and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "stew",
+    "couscous",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-algerian-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:09:47.153Z"
+}
