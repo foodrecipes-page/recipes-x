@@ -1,0 +1,64 @@
+{
+  "slug": "xtra-crumbly-american-suet-casserole--indian",
+  "title": "Crispy Suet Casserole",
+  "description": "A flavorful and crunchy Indian-inspired casserole made with suet and spices. Perfect as a snack or side dish.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Suet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crumbly",
+      "amount": "1 cup",
+      "notes": "e.g. breadcrumbs"
+    },
+    {
+      "name": "American cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Xtra virgin oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Casserole mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grate the suet and mix with crumbly, cheese, and casserole mix.",
+    "Add oil and mix until the mixture forms a crumbly mixture.",
+    "Transfer the mixture to a greased baking dish.",
+    "Bake for 20-25 minutes or until the top is golden brown.",
+    "Garnish with chopped cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crumbly-american-suet-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:57:12.695Z"
+}
