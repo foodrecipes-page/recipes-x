@@ -11541,16 +11541,15 @@
   },
   {
     "slug": "xyloid-rich-canadian-chicken-casserole",
-    "title": "Xyloid Rich Canadian Chicken Casserole",
+    "title": "Canadian Chicken Casserole",
     "tags": [
-      "comfort-food",
-      "crowd-pleaser",
-      "diabetic-friendly",
-      "gluten-free",
-      "one-pan"
+      "canadian",
+      "chicken",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
