@@ -9659,17 +9659,14 @@
   },
   {
     "slug": "xtra-smoky-algerian-lamb-tagine",
-    "title": "Xtra Smoky Algerian lamb Tagine",
+    "title": "Smoky Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "lamb-based",
-      "low-calorie",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot",
-      "smoky"
+      "slow-cooker"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 170,
     "shard": "x"
   },
@@ -12650,6 +12647,18 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-vietnamese-chicken-ca-kho-to--french",
+    "title": "French Style Chicken",
+    "tags": [
+      "french",
+      "chicken",
+      "sauce"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "x"
   }
 ]
