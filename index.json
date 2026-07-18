@@ -12626,5 +12626,30 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 20,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-crunchy-chinese-almond-noodles--vegan",
+    "title": "Crunchy Vegan Noodle Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "noodles",
+      "asian-inspired"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 18,
+    "shard": "x"
+  },
+  {
+    "slug": "xanthy-rich-turkish-lamb-pilaf--vegetarian",
+    "title": "Vegetarian Turkish Pilaf",
+    "tags": [
+      "turkish",
+      "vegetarian",
+      "pilaf"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
