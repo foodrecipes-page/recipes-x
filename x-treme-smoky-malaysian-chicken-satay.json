@@ -1,0 +1,91 @@
+{
+  "slug": "x-treme-smoky-malaysian-chicken-satay",
+  "title": "Malaysian Chicken Satay",
+  "description": "Grilled chicken satay marinated in a blend of spices and served with peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": null
+    },
+    {
+      "name": "smoky peanut butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "treme soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "x coconut milk",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "malaysian curry powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "satay sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine peanut butter, soy sauce, coconut milk, curry powder, and brown sugar. Blend until smooth.",
+    "Add the chicken to the marinade and mix well. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Thread the marinated chicken onto skewers.",
+    "Brush the grill or grill pan with vegetable oil to prevent sticking. Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Serve the grilled chicken with satay sauce, peanuts, and fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "satay",
+    "malaysian",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-treme-smoky-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:53:37.381Z"
+}
