@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-crunchy-chinese-almond-noodles--vegan",
+  "title": "Crunchy Vegan Noodle Stir Fry",
+  "description": "A simple and delicious vegan stir fry made with crunchy vegetables and served with noodles.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crunchy Vegetables",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 cup",
+      "notes": "preferably rice noodles"
+    },
+    {
+      "name": "Chinese Almond Sauce",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Almond",
+      "amount": "1/4 cup",
+      "notes": "sliced or slivered"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cook the noodles according to the package instructions and set aside.",
+    "2. Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "3. Add the crunchy vegetables and cook until they're tender-crisp, about 3-4 minutes.",
+    "4. In a small bowl, whisk together the Chinese almond sauce and 1 tablespoon of water.",
+    "5. Pour the sauce into the skillet and stir to combine with the vegetables.",
+    "6. Add the cooked noodles to the skillet and stir to combine with the sauce and vegetables.",
+    "7. Sprinkle the sliced almonds on top and serve immediately.",
+    "8. Garnish with additional sliced almonds and crunchy vegetables, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "noodles",
+    "asian-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-chinese-almond-noodles--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:35:17.297Z"
+}
