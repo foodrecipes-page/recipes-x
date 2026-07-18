@@ -6761,17 +6761,15 @@
   },
   {
     "slug": "xtra-flaky-brazilian-chicken-skillet",
-    "title": "Xtra Flaky Brazilian Chicken Skillet",
+    "title": "Skillet Chicken with Crispy Brazilian Breading",
     "tags": [
-      "brazilian-cuisine",
-      "flaky-crust",
-      "flexitarian",
-      "one-pan",
-      "romantic-dinner",
-      "stone-bowl"
+      "chicken",
+      "brazilian",
+      "skillet",
+      "healthy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -8399,16 +8397,16 @@
   },
   {
     "slug": "xtra-light-ukrainian-sesame-pilaf",
-    "title": "Xtra Light Ukrainian Sesame Pilaf",
+    "title": "Sesame Pilaf with Ukrainian Twist",
     "tags": [
-      "light-meal",
-      "low-fat",
-      "one-pan",
-      "ukrainian-cuisine",
-      "vegetarian-option"
+      "sesame",
+      "ukrainian",
+      "rice",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
