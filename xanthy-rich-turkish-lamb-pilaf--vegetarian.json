@@ -1,0 +1,82 @@
+{
+  "slug": "xanthy-rich-turkish-lamb-pilaf--vegetarian",
+  "title": "Vegetarian Turkish Pilaf",
+  "description": "A flavorful Turkish-inspired pilaf dish made with vegetables and spices, perfect for a quick and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkish pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "xanthy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rich",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the chopped xanthy and rich, and cook for 2-3 minutes.",
+    "Add the pilaf and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2-3 minutes, or until the pilaf is heated through.",
+    "Serve hot and enjoy!",
+    "Note: This recipe can be made in a rice cooker or Instant Pot for easier preparation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "vegetarian",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthy-rich-turkish-lamb-pilaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:50:25.098Z"
+}
