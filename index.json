@@ -1790,15 +1790,14 @@
   },
   {
     "slug": "xenial-juicy-saudi-arabian-eggplant-tagine",
-    "title": "Saudi Arabian Eggplant Tagine",
+    "title": "Tagine Eggplant Delight",
     "tags": [
-      "saudi-arabian",
-      "tagine",
+      "moroccan",
       "eggplant",
-      "middle-eastern"
+      "vegetarian"
     ],
-    "cuisine": "Saudi",
-    "totalTimeMin": 35,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
