@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-roasted-filipino-jersey-royal-potatoes-kare-kare",
+  "title": "Filipino Kare Kare with Royal Potatoes",
+  "description": "A hearty Filipino stew made with ox tripe and royal potatoes, cooked in a rich peanut sauce. A flavorful and comforting meal perfect for any occasion.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ox tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Royal potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cut into bite-sized pieces"
+    },
+    {
+      "name": "Kare kare powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sauté onion and garlic until softened.",
+    "Add ox tripe and cook until browned.",
+    "Add kare kare powder and stir to combine.",
+    "Add potatoes and enough water to cover.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Stir in peanut butter until well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "stew",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-roasted-filipino-jersey-royal-potatoes-kare-kare",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:25:40.948Z"
+}
