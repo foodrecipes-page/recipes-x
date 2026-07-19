@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-indulgent-mexican-muffin-chilaquiles--gluten-free",
+  "title": "Gluten-Free Chilaquiles",
+  "description": "A flavorful Mexican breakfast dish made with crispy tortilla chips, fresh salsa, and creamy avocado.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tortilla Chips (gluten-free)",
+      "amount": "6 cups",
+      "notes": ""
+    },
+    {
+      "name": "Mexican Cheese (Monterey Jack or Queso Fresco)",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Salsa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced Avocado",
+      "amount": "1/2 avocado",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 400°F (200°C).",
+    "2. Spread the tortilla chips on a baking sheet and toast in the oven for 5-7 minutes, or until crispy.",
+    "3. While the tortilla chips are toasting, heat the fresh salsa in a saucepan over medium heat.",
+    "4. In a separate pan, scramble the eggs over medium heat.",
+    "5. Once the tortilla chips are crispy, remove them from the oven and add them to a large serving dish.",
+    "6. Spoon the scrambled eggs over the tortilla chips.",
+    "7. Top the eggs with diced tomatoes, chopped cilantro, and shredded cheese.",
+    "8. Dollop the diced avocado on top of the cheese.",
+    "9. Serve the chilaquiles hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chilaquiles",
+    "breakfast",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-indulgent-mexican-muffin-chilaquiles--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:59:58.411Z"
+}
