@@ -1,0 +1,91 @@
+{
+  "slug": "xtra-romantic-argentinian-chicken-empanadas--indian",
+  "title": "Chicken Tikka Empanadas",
+  "description": "A fusion of Indian and Argentine flavors in a crispy empanada wrapper. Chicken tikka filling wrapped in a flaky pastry, served hot with a side of raita.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground spice"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "ground spice"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ground spice"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "ground pepper"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "ground salt"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "lard",
+      "amount": "1/4 cup",
+      "notes": "melted, for empanada dough"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, whisk together the garam masala, cumin powder, coriander powder, cayenne pepper, and salt.",
+    "Add the spice mix to the yogurt and mix well.",
+    "Add the chicken pieces to the yogurt mix and marinate for at least 30 minutes.",
+    "Heat a skillet over medium-high heat. Add the chicken to the skillet and cook until browned and cooked through.",
+    "Roll out the empanada dough and cut into circles using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of the chicken tikka mixture onto one half of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with lard and bake in the oven for 15-20 minutes, or until golden brown.",
+    "Serve hot with a side of raita."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "argentinian",
+    "chicken",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-romantic-argentinian-chicken-empanadas--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:55:35.709Z"
+}
