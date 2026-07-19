@@ -12733,5 +12733,18 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-romantic-argentinian-chicken-empanadas--indian",
+    "title": "Chicken Tikka Empanadas",
+    "tags": [
+      "indian",
+      "argentinian",
+      "chicken",
+      "empanadas"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "x"
   }
 ]
