@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-juicy-mexican-blueberry-tacos--gluten-free",
+  "title": "Blueberry Mexican Tacos",
+  "description": "A unique dessert taco recipe featuring blueberries and Mexican flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "xtra juicy blueberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mexican corn tortillas",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "tacos shells",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "mexican whipped cream",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "blueberry syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a blender, puree the blueberries until smooth.",
+    "2. In a medium bowl, mix together the blueberry puree, mexican whipped cream and blueberry syrup.",
+    "3. Warm the tacos shells according to package instructions.",
+    "4. Spoon the blueberry mixture into the warmed tacos shells.",
+    "5. Top each taco with a sprinkle of powdered sugar and a few fresh mint leaves.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blueberry",
+    "mexican",
+    "tacos",
+    "dessert",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-juicy-mexican-blueberry-tacos--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:20:28.464Z"
+}
