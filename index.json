@@ -12770,5 +12770,18 @@
     "cuisine": null,
     "totalTimeMin": 45,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-indulgent-mexican-muffin-chilaquiles--gluten-free",
+    "title": "Gluten-Free Chilaquiles",
+    "tags": [
+      "mexican",
+      "chilaquiles",
+      "breakfast",
+      "gluten-free"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
