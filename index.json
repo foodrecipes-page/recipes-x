@@ -7406,17 +7406,16 @@
   },
   {
     "slug": "xtra-fresh-ukrainian-eggs-frittata",
-    "title": "Xtra Fresh Ukrainian Eggs Frittata",
+    "title": "Ukrainian Frittata",
     "tags": [
-      "brunch",
-      "casserole",
-      "easter-recipe",
-      "keto",
-      "low-glycemic",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "breakfast",
+      "eggs",
+      "frittata",
+      "cheese"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 30,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -12782,6 +12781,19 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xeriscaped-korean-apples-muchim--chinese",
+    "title": "Stir-Fried Korean Apples",
+    "tags": [
+      "korean-chinese-fusion",
+      "stir-fry",
+      "apples",
+      "muchim"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "x"
   }
 ]
