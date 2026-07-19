@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-spicy-thai-chicken-yum-salad",
+  "title": "Thai Spicy Chicken Salad",
+  "description": "A refreshing and spicy salad made with chicken, Thai ingredients, and mixed greens.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2-3",
+      "notes": "depending on desired spiciness"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "such as arugula, spinach, and lettuce"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salad dressing",
+      "amount": "2 tablespoons",
+      "notes": "such as peanut or soy sauce"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "2. Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. In the same skillet, add the Thai red chili peppers and cook for 1-2 minutes, until fragrant.",
+    "5. Add the fish sauce, lime juice, and salad dressing to the skillet and stir to combine.",
+    "6. Add the mixed greens to the skillet and toss to combine with the dressing.",
+    "7. Slice the cooked chicken into thin strips and add to the skillet.",
+    "8. Top the salad with toasted peanuts and cilantro.",
+    "9. Serve immediately and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "spicy",
+    "salad",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-thai-chicken-yum-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:56:00.649Z"
+}
