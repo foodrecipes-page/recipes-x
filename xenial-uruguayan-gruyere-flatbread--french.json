@@ -1,0 +1,59 @@
+{
+  "slug": "xenial-uruguayan-gruyere-flatbread--french",
+  "title": "French-Style Flatbread with Gruyere",
+  "description": "A simple and delicious French-inspired flatbread topped with melted Gruyere cheese, perfect for a quick snack or light meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 package (6-8 pieces)",
+      "notes": "preferably day-old flatbread"
+    },
+    {
+      "name": "gruyere",
+      "amount": "1 cup shredded",
+      "notes": "Swiss Gruyere cheese"
+    },
+    {
+      "name": "xenial cheese",
+      "amount": "optional",
+      "notes": "soft, white cheese, similar to feta"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut flatbread into 1-inch squares.",
+    "Place flatbread squares on a baking sheet.",
+    "Top each square with shredded Gruyere cheese.",
+    "If using xenial cheese, crumble on top of Gruyere.",
+    "Bake for 5-7 minutes, or until cheese is melted and bubbly.",
+    "Remove from oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "gruyere",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 16,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-uruguayan-gruyere-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:37:26.801Z"
+}
