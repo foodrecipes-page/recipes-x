@@ -12803,5 +12803,32 @@
     "cuisine": "indian",
     "totalTimeMin": 75,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-uruguayan-gruyere-flatbread--french",
+    "title": "French-Style Flatbread with Gruyere",
+    "tags": [
+      "french",
+      "gruyere",
+      "flatbread",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 12,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-crispy-thai-chicken-kao-mun-gai--italian",
+    "title": "Thai Chicken Fritters",
+    "tags": [
+      "italian",
+      "thai",
+      "chicken",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
