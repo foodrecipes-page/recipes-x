@@ -12757,5 +12757,18 @@
     "cuisine": "thai",
     "totalTimeMin": 18,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-creamy-argentinian-stracciatella-cheese-casserole--vegetarian",
+    "title": "Creamy Vegetable Casserole",
+    "tags": [
+      "vegetarian",
+      "casserole",
+      "italian",
+      "cheesy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "x"
   }
 ]
