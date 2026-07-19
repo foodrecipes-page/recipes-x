@@ -1,0 +1,83 @@
+{
+  "slug": "x-tra-crispy-thai-chicken-kao-mun-gai--italian",
+  "title": "Thai Chicken Fritters",
+  "description": "A fusion of Italian and Thai flavors, these crispy fritters are a delicious twist on traditional Italian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound",
+      "notes": "boneless, skinless chicken breast"
+    },
+    {
+      "name": "mun",
+      "amount": "1/2 cup",
+      "notes": "mung bean flour"
+    },
+    {
+      "name": "kao",
+      "amount": "1/2 cup",
+      "notes": "rice flour"
+    },
+    {
+      "name": "tra",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/4 cup",
+      "notes": "crispy fried onions"
+    },
+    {
+      "name": "x",
+      "amount": "1/4 cup",
+      "notes": "grated Parmesan cheese"
+    },
+    {
+      "name": "thaifish sauce",
+      "amount": "2 tablespoons",
+      "notes": " Thai fish sauce"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mung bean flour, rice flour, all-purpose flour, crispy fried onions, and grated Parmesan cheese.",
+    "Add eggs and Thai fish sauce to the bowl and mix well.",
+    "Add chicken breast to the bowl and mix until the chicken is coated with the batter.",
+    "Heat about 1-2 inches of vegetable oil in a large skillet over medium-high heat.",
+    "Once the oil is hot, add the chicken fritters to the skillet and fry until golden brown and crispy.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the Thai chicken fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "thai",
+    "chicken",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-crispy-thai-chicken-kao-mun-gai--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:50:03.856Z"
+}
