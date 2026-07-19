@@ -12795,5 +12795,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 20,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-fluffy-saudi-arabian-lamb-biryani--indian",
+    "title": "Lamb Biryani",
+    "tags": [
+      "indian",
+      "lamb",
+      "biryani",
+      "rice"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 75,
+    "shard": "x"
   }
 ]
