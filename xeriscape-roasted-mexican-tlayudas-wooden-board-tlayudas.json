@@ -1,0 +1,70 @@
+{
+  "slug": "xeriscape-roasted-mexican-tlayudas-wooden-board-tlayudas",
+  "title": "Roasted Mexican Tlayudas",
+  "description": "A flavorful twist on traditional Mexican tlayudas, topped with roasted ingredients.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tlayudas",
+      "amount": "4-6",
+      "notes": "Traditional Mexican flatbreads"
+    },
+    {
+      "name": "Roasted Onion",
+      "amount": "1/2 cup",
+      "notes": "Roasted at 400°F (200°C) for 30-40 minutes"
+    },
+    {
+      "name": "Roasted Garlic",
+      "amount": "3 cloves",
+      "notes": "Roasted at 400°F (200°C) for 20-25 minutes"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": "Fresh or roasted"
+    },
+    {
+      "name": "Diced Avocado",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Queso Fresco",
+      "amount": "1/4 cup",
+      "notes": "Crumbly Mexican cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast onion and garlic separately for 20-40 minutes, or until tender.",
+    "Brush tlayudas with oil and toast for 2-3 minutes, or until crispy.",
+    "Top tlayudas with roasted onion, garlic, diced tomatoes, and avocado.",
+    "Sprinkle queso fresco on top and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-roasted-mexican-tlayudas-wooden-board-tlayudas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:58:57.520Z"
+}
