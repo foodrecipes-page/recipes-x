@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-velvety-malaysian-custard-pie",
+  "title": "Custard Pie",
+  "description": "A classic custard pie recipe with a velvety texture, perfect for dessert.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pie Crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Custard",
+      "amount": "1 cup",
+      "notes": "see below for custard recipe"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "high-quality extract"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pie crust and place in pie dish.",
+    "In a separate bowl, whisk together custard ingredients until smooth.",
+    "Pour custard mixture into pie crust.",
+    "Bake for 40-45 minutes, or until edges are golden brown and center is set.",
+    "Remove from oven and let cool to room temperature.",
+    "Chill in refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "pie",
+    "custard",
+    "dessert",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-velvety-malaysian-custard-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:16:22.404Z"
+}
