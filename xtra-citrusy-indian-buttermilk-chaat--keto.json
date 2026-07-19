@@ -1,0 +1,86 @@
+{
+  "slug": "xtra-citrusy-indian-buttermilk-chaat--keto",
+  "title": "Keto Chaat Bites",
+  "description": "Crispy, spicy, and tangy, these bite-sized chaat bites are a delicious keto twist on the popular Indian street food.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "xtra Virgin Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Citrusy Spice Blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Indian Chaat Spice Mix",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Shredded Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": "full-fat, keto-friendly"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "Sliced Green Chilies",
+      "amount": "2",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together buttermilk, citrusy spice blend, and Indian chaat spice mix.",
+    "2. Add shredded mozzarella cheese to the bowl and mix until well combined.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "4. Heat xtra virgin olive oil in a deep frying pan over medium-high heat.",
+    "5. Using a small cookie scoop or spoon, drop the cheese mixture into the hot oil, making sure not to overcrowd the pan.",
+    "6. Fry the chaat bites for 3-4 minutes on each side, or until golden brown and crispy.",
+    "7. Using a slotted spoon, remove the fried chaat bites from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "8. Garnish with chopped cilantro and sliced green chilies, if desired.",
+    "9. Serve the keto chaat bites warm and enjoy!",
+    "10. Store leftovers in an airtight container in the refrigerator for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "chaat",
+    "snack",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-citrusy-indian-buttermilk-chaat--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:51:33.374Z"
+}
