@@ -1,0 +1,82 @@
+{
+  "slug": "xenial-crunchy-filipino-rice-noodles-pancit-canton--thai",
+  "title": "Filipino-Style Thai Rice Noodle Stir Fry",
+  "description": "A fusion of Thai and Filipino flavors in a quick and easy stir fry made with rice noodles, pancit, and crunchy vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Pancit",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Filipino-style vegetables (xenial)",
+      "amount": "1 cup",
+      "notes": "crunchy, chopped"
+    },
+    {
+      "name": "Crunchy peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add chopped green onions and cook until fragrant, about 1 minute.",
+    "Add rice noodles, pancit, crunchy peanuts, and Filipino-style vegetables. Stir-fry for 3-4 minutes.",
+    "In a small bowl, whisk together soy sauce and Thai red curry paste. Pour the sauce over the noodle mixture and stir-fry for another 2-3 minutes.",
+    "Season with salt to taste. Serve hot and enjoy.",
+    "Optional: garnish with additional green onions and crunchy peanuts, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "filipino",
+    "vegetarian",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-crunchy-filipino-rice-noodles-pancit-canton--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:45:26.329Z"
+}
