@@ -12705,5 +12705,33 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-juicy-mexican-blueberry-tacos--gluten-free",
+    "title": "Blueberry Mexican Tacos",
+    "tags": [
+      "blueberry",
+      "mexican",
+      "tacos",
+      "dessert",
+      "gluten-free"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-dutch-chicken-wrap--german",
+    "title": "Dutch Chicken Schnitzel Wrap",
+    "tags": [
+      "german",
+      "chicken",
+      "schnitzel",
+      "wrap",
+      "dutch"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
