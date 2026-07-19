@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-fresh-ukrainian-eggs-frittata",
+  "title": "Ukrainian Frittata",
+  "description": "A hearty and flavorful breakfast dish inspired by Ukrainian cuisine, featuring a rich egg frittata filled with savory ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ukrainian sausage",
+      "amount": "1/2 pound",
+      "notes": "casing removed, crumbled"
+    },
+    {
+      "name": "Xtra-sharp cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the Ukrainian sausage over medium-high heat, breaking it up with a spoon as it cooks, until browned and cooked through.",
+    "In a large bowl, whisk together the eggs and a pinch of salt and pepper.",
+    "Add the chopped fresh dill and parsley, and shredded cheddar cheese to the bowl and stir to combine.",
+    "Pour the egg mixture over the cooked sausage in the skillet.",
+    "Transfer the skillet to the oven and bake for 20-25 minutes, or until the frittata is set and golden brown.",
+    "Remove the skillet from the oven and sprinkle with chopped fresh chives.",
+    "Let the frittata cool for a few minutes before slicing and serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "breakfast",
+    "eggs",
+    "frittata",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 4,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fresh-ukrainian-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:07:05.901Z"
+}
