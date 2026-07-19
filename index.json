@@ -10492,17 +10492,15 @@
   },
   {
     "slug": "xtra-spicy-thai-chicken-yum-salad",
-    "title": "Xtra Spicy Thai Chicken Yum Salad",
+    "title": "Thai Spicy Chicken Salad",
     "tags": [
-      "date-night",
-      "high-protein",
-      "low-carb",
-      "northern-thai",
-      "one-pan",
-      "weeknight"
+      "thai",
+      "spicy",
+      "salad",
+      "chicken"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
