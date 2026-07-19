@@ -1,0 +1,78 @@
+{
+  "slug": "xtra-crispy-dutch-chicken-wrap--german",
+  "title": "Dutch Chicken Schnitzel Wrap",
+  "description": "A classic German dish, Schnitzel is a breaded and fried cutlet, served in a crispy wrap.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dutch crunch coating mix",
+      "amount": "1 cup",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "xtra crispy breadcrumbs",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "wrap",
+      "amount": "4",
+      "notes": "crispy flour tortilla"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Season the chicken breasts with salt and pepper.",
+    "2. Dip each chicken breast in the Dutch crunch coating mix, pressing gently to adhere.",
+    "3. Dredge the coated chicken breast in the xtra crispy breadcrumbs, pressing gently to adhere.",
+    "4. Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "5. Fry the chicken breasts until golden brown and cooked through, about 3-4 minutes per side.",
+    "6. Transfer the fried chicken breasts to a plate and let rest for a few minutes.",
+    "7. Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the wraps by placing a fried chicken breast in the center of each wrap.",
+    "9. Serve immediately, with lemon wedges on the side if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "schnitzel",
+    "wrap",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-dutch-chicken-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:44:20.229Z"
+}
