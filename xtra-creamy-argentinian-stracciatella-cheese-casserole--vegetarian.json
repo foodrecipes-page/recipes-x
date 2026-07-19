@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-creamy-argentinian-stracciatella-cheese-casserole--vegetarian",
+  "title": "Creamy Vegetable Casserole",
+  "description": "A delicious and easy-to-make casserole filled with sautéed vegetables and a creamy stracciatella sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Stracciatella",
+      "amount": "250g",
+      "notes": "You can substitute with other creamy cheeses"
+    },
+    {
+      "name": "Xtra Mozzarella",
+      "amount": "200g",
+      "notes": "Shredded or sliced"
+    },
+    {
+      "name": "Argentinian Spices",
+      "amount": "1 tsp",
+      "notes": "Optional for extra flavor"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Cheese",
+      "amount": "100g",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Chop the onions, bell peppers, and carrots.",
+    "Sauté the chopped vegetables in a pan until tender.",
+    "In a separate saucepan, melt the stracciatella cheese.",
+    "Add the shredded mozzarella and cook until smooth.",
+    "Combine the cooked vegetables and creamy sauce.",
+    "Transfer the mixture to a baking dish.",
+    "Top with grated cheese.",
+    "Bake in the oven for 20-25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "casserole",
+    "italian",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-argentinian-stracciatella-cheese-casserole--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:19:41.695Z"
+}
