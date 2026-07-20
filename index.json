@@ -3365,17 +3365,16 @@
   },
   {
     "slug": "xerisced-peruvian-dried-cranberries-pilaf",
-    "title": "Xerisced Peruvian Dried Cranberries Pilaf",
+    "title": "Peruvian-Style Pilaf with Cranberry and Pistachio Crunch",
     "tags": [
       "gluten-free",
-      "hangover-cure",
-      "high-fiber",
-      "one-pan",
       "peruvian",
-      "satvik"
+      "pilaf",
+      "cranberry",
+      "pistachio"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -9850,18 +9849,14 @@
   },
   {
     "slug": "xtra-smoky-greek-cabbage-dolmades",
-    "title": "Xtra Smoky Greek Cabbage Dolmades",
+    "title": "Smoky Dolmades Stuffed with Cabbage",
     "tags": [
       "cabbage",
-      "cheesy",
-      "date-night",
-      "greek",
-      "halal",
-      "smoked",
-      "smoky"
+      "dolmades",
+      "greek"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 70,
+    "totalTimeMin": 17,
     "shard": "x"
   },
   {
@@ -12875,6 +12870,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-rich-german-salmon-braise--thai",
+    "title": "Thai Salmon Braise",
+    "tags": [
+      "thai",
+      "salmon",
+      "braise",
+      "fish"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "x"
   }
 ]
