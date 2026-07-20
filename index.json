@@ -8456,17 +8456,14 @@
   },
   {
     "slug": "xtra-malty-turkish-noodles-pide",
-    "title": "Xtra Malty Turkish Noodles Pide",
+    "title": "Turkish-Style Pide Noodle Soup",
     "tags": [
-      "light-snack",
-      "malty-flavor",
-      "midnight-craving",
-      "no-onion-no-garlic",
-      "turkish-dish",
-      "vegetarian-friendly"
+      "soup",
+      "turkish",
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
