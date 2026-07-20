@@ -1,0 +1,61 @@
+{
+  "slug": "xtra-nutty-algerian-white-beans-tagine",
+  "title": "Traditional Algerian Stew (Tagine)",
+  "description": "A hearty North African-inspired stew made with tender meat and a rich blend of spices, slow-cooked to perfection in a flavorful tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "algerian",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white",
+      "amount": "2 cups"
+    },
+    {
+      "name": "beans",
+      "amount": "1 can, drained"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 jar, store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine sauce in a large saucepan over medium heat.",
+    "Add the nutty and white to the saucepan, stirring to combine.",
+    "Bring to a gentle simmer and cook for 5 minutes.",
+    "Add the beans to the saucepan and stir to combine.",
+    "Reduce heat to low and cook, covered, for 20 minutes or until the flavors have melded together.",
+    "Season with algerian to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-nutty-algerian-white-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:55:39.452Z"
+}
