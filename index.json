@@ -7337,16 +7337,15 @@
   },
   {
     "slug": "xtra-fresh-jamaican-deodeok-root-skewers",
-    "title": "Xtra Fresh Jamaican Deodeok Root Skewers",
+    "title": "Grilled Deodeok Skewers with Jamaican Glaze",
     "tags": [
-      "brine-wet",
-      "grilled-vegetables",
-      "jamaican-cuisine",
-      "no-onion-no-garlic",
-      "weeknight"
+      "korean",
+      "grilled",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 32,
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
@@ -12889,6 +12888,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 27,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-fluffy-portuguese-cod-pasta--french",
+    "title": "Baked Cod à la Française",
+    "tags": [
+      "french",
+      "fish",
+      "gluten",
+      "pasta"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "x"
   }
 ]
