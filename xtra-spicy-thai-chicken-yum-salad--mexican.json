@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-spicy-thai-chicken-yum-salad--mexican",
+  "title": "Spicy Mexican Chicken Salad",
+  "description": "A flavorful and spicy salad made with grilled chicken, crunchy vegetables, and a tangy dressing, perfect for a quick and easy lunch or dinner.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain and unflavored"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salad mix",
+      "amount": "4 cups",
+      "notes": "pre-washed and pre-chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "jalapeño",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breast with cumin and chili powder.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Let chicken rest for 5 minutes before slicing.",
+    "In a large bowl, combine salad mix, red onion, jalapeño, and cilantro.",
+    "In a small bowl, whisk together yogurt and lime juice.",
+    "Add sliced chicken to the bowl with the salad and pour the yogurt dressing over the top.",
+    "Toss to combine and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "salad",
+    "spicy",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-thai-chicken-yum-salad--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:04:49.255Z"
+}
