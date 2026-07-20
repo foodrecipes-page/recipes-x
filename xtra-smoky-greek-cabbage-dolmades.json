@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-smoky-greek-cabbage-dolmades",
+  "title": "Smoky Dolmades Stuffed with Cabbage",
+  "description": "A twist on traditional dolmades, these are stuffed with a delicious smoky cabbage filling. Perfect for a quick snack or light meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "dolmades",
+      "amount": "1 package",
+      "notes": "chopped"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the shredded cabbage and cook until softened, about 5 minutes.",
+    "Add the chopped dolmades, smoky paprika, garlic powder, salt, and pepper to the pan. Stir to combine.",
+    "Continue cooking for another 2-3 minutes, stirring frequently.",
+    "Taste and adjust seasoning as needed.",
+    "Serve warm or at room temperature.",
+    "Garnish with additional dolmades or a sprinkle of paprika, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "dolmades",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-greek-cabbage-dolmades",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:58:26.138Z"
+}
