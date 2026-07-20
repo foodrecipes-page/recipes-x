@@ -1,0 +1,86 @@
+{
+  "slug": "xtra-spicy-polish-sausage-casserole--french",
+  "title": "French Country Sausage Casserole",
+  "description": "A hearty French-inspired casserole featuring spicy sausage and crispy casserole topping.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spicy Sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1/2 pound",
+      "notes": null
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "xtra Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "xtra Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "xtra Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "xtra Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "xtra Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "xtra Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook sausage in a large skillet over medium-high heat, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add onion and garlic to the skillet and cook until onion is translucent, about 3-4 minutes.",
+    "Add tomato paste to the skillet and cook for 1 minute.",
+    "Stir in casserole pieces and cook for 1 minute.",
+    "Transfer the skillet mixture to a 9x13 inch baking dish.",
+    "Drizzle with olive oil and season with salt and pepper.",
+    "Bake for 20-25 minutes or until casserole is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "sausage",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-polish-sausage-casserole--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:32:55.820Z"
+}
