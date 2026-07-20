@@ -12864,5 +12864,17 @@
     "cuisine": "french",
     "totalTimeMin": 20,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-polish-sausage-casserole--french",
+    "title": "French Country Sausage Casserole",
+    "tags": [
+      "french",
+      "sausage",
+      "casserole"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
