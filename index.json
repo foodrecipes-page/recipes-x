@@ -8538,17 +8538,14 @@
   },
   {
     "slug": "xtra-nutty-algerian-white-beans-tagine",
-    "title": "Xtra Nutty Algerian White Beans Tagine",
+    "title": "Traditional Algerian Stew (Tagine)",
     "tags": [
-      "high-protein",
-      "north-african",
-      "one-pan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "algerian",
+      "stew",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
