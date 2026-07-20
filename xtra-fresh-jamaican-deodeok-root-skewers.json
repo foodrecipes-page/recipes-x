@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-fresh-jamaican-deodeok-root-skewers",
+  "title": "Grilled Deodeok Skewers with Jamaican Glaze",
+  "description": "A sweet and savory twist on traditional Korean-style grilled skewers, featuring deodeok and a Jamaican-inspired glaze.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Deodeok",
+      "amount": "4",
+      "notes": "Slice into 1-inch pieces"
+    },
+    {
+      "name": "Fresh xtra",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "20",
+      "notes": null
+    },
+    {
+      "name": "Root (such as ginger or turmeric)",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread deodeok, xtra, and root onto skewers.",
+    "In a small bowl, whisk together jerk seasoning and honey.",
+    "Brush glaze onto skewers and season with salt.",
+    "Grill skewers for 8-10 minutes, or until slightly charred.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "grilled",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fresh-jamaican-deodeok-root-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:27:31.918Z"
+}
