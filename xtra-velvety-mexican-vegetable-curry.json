@@ -1,0 +1,94 @@
+{
+  "slug": "xtra-velvety-mexican-vegetable-curry",
+  "title": "Creamy Mexican Vegetable Curry",
+  "description": "A rich and flavorful curry made with roasted vegetables and a blend of creamy spices. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "velvety",
+      "amount": "1/2 cup",
+      "notes": "Cashew cream or substitute with your preferred creamer"
+    },
+    {
+      "name": "mexican",
+      "amount": "1 tsp",
+      "notes": "Dried oregano"
+    },
+    {
+      "name": "vegetable",
+      "amount": "1 cup",
+      "notes": "Mixed bell peppers, carrots, and zucchini"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tsp",
+      "notes": "Ground cumin and coriander powder"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 cloves",
+      "notes": "Minced garlic"
+    },
+    {
+      "name": "xtra",
+      "amount": "1 tsp",
+      "notes": "Red chili powder"
+    },
+    {
+      "name": "xtra",
+      "amount": "1/2 tsp",
+      "notes": "Salt"
+    },
+    {
+      "name": "xtra",
+      "amount": "1/4 tsp",
+      "notes": "Black pepper"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tbsp",
+      "notes": "Olive oil"
+    },
+    {
+      "name": "xtra",
+      "amount": "1 cup",
+      "notes": "Vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the mixed vegetables in a bowl with 1 tablespoon of olive oil, salt, and pepper. Spread them on a baking sheet and roast for 20 minutes.",
+    "In a large saucepan, heat the remaining olive oil over medium heat.",
+    "Add the minced garlic and sauté for 1 minute until fragrant.",
+    "Add the ground cumin, coriander powder, and red chili powder. Cook for 1 minute.",
+    "Add the roasted vegetables, vegetable broth, cashew cream, and dried oregano. Stir well.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes or until the sauce thickens.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot with your preferred sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan-option",
+    "mexican-cuisine",
+    "curry",
+    "vegetable-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-velvety-mexican-vegetable-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:30:42.860Z"
+}
