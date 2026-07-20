@@ -5581,16 +5581,14 @@
   },
   {
     "slug": "xtra-crispy-mediterranean-fromage-blanc-tagine",
-    "title": "Xtra Crispy Mediterranean Fromage Blanc Tagine",
+    "title": "Pan-Seared Chicken Tagine",
     "tags": [
-      "clay-pot-cooking",
-      "crispy-top",
-      "gluten-free",
-      "mediterranean-diet",
-      "vegetarian-friendly"
+      "chicken",
+      "north-african",
+      "tagine"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
