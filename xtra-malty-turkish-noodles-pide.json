@@ -1,0 +1,83 @@
+{
+  "slug": "xtra-malty-turkish-noodles-pide",
+  "title": "Turkish-Style Pide Noodle Soup",
+  "description": "A hearty and comforting soup made with Turkish spices, pide noodles, and a hint of malty sweetness.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pide noodles",
+      "amount": "8 oz",
+      "notes": "preferably Turkish pide noodles"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "malty brown sugar",
+      "amount": "1 tsp",
+      "notes": "for added depth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for heat"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "fresh thyme optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the Turkish red pepper flakes, if using, and cook for 1 minute.",
+    "Add the vegetable broth, malty brown sugar, and dried thyme. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Add the pide noodles to the pot and cook according to package instructions, or until al dente.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh thyme, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "turkish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-malty-turkish-noodles-pide",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:15:38.414Z"
+}
