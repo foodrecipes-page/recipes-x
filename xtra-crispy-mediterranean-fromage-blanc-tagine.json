@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-crispy-mediterranean-fromage-blanc-tagine",
+  "title": "Pan-Seared Chicken Tagine",
+  "description": "A flavorful and aromatic North African-inspired dish featuring crispy chicken, served with a side of steamed vegetables. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "crispy xtra",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "tagine spices",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Middle Eastern stores"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the chicken breast and pat it dry with paper towels.",
+    "2. Season the chicken breast with salt and black pepper.",
+    "3. Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "4. Sear the chicken breast for 3-4 minutes on each side, or until it reaches an internal temperature of 165°F.",
+    "5. Remove the chicken from the skillet and set it aside to rest.",
+    "6. In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "7. Add the tagine spices and sauté for 1-2 minutes, or until fragrant.",
+    "8. Add the mediterranean olives and sauté for another minute.",
+    "9. Serve the chicken breast on top of the olive mixture and garnish with crispy xtra.",
+    "10. Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-mediterranean-fromage-blanc-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:31:03.512Z"
+}
