@@ -1,0 +1,67 @@
+{
+  "slug": "xerisied-glassy-jelly-mediterranean-feta-cheese-tagine--french",
+  "title": "French Cheesy Tagine Tartine",
+  "description": "A French-inspired take on the traditional tagine, incorporating crumbled feta cheese, served on toasted bread.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread",
+      "amount": "1 baguette"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "tagine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jelly",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "xerisied",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the baguette into 1-inch thick rounds.",
+    "Toast the bread in the oven for 5 minutes.",
+    "In a small bowl, mix together the crumbled feta cheese and chopped tagine.",
+    "Spread a layer of jelly on each toasted bread round.",
+    "Top each bread round with a spoonful of the feta-tagine mixture.",
+    "Garnish with chopped mediterranean and xerisied.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "cheese",
+    "breakfast",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisied-glassy-jelly-mediterranean-feta-cheese-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:27:47.796Z"
+}
