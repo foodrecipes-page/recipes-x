@@ -1,0 +1,89 @@
+{
+  "slug": "xtra-rich-german-salmon-braise--thai",
+  "title": "Thai Salmon Braise",
+  "description": "A flavorful Thai-inspired salmon dish, braised in a rich and savory sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the salmon fillets with salt and pepper.",
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Sear the salmon fillets for 2-3 minutes on each side, then set aside.",
+    "Add the sliced ginger and minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the fish sauce, brown sugar, soy sauce, and rice vinegar to the pot, stirring to combine.",
+    "Add the bay leaves and the seared salmon fillets to the pot.",
+    "Braise the salmon for 8-10 minutes, or until cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "salmon",
+    "braise",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-german-salmon-braise--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:53:53.556Z"
+}
