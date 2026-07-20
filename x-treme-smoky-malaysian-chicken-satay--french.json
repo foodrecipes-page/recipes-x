@@ -1,0 +1,91 @@
+{
+  "slug": "x-treme-smoky-malaysian-chicken-satay--french",
+  "title": "Malaysian Chicken Satay with French Twist",
+  "description": "A fusion of French and Malaysian flavors, this satay recipe features marinated chicken grilled to perfection and served with a side of spicy peanut sauce.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "satay sauce",
+      "amount": "250ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine satay sauce, peanut butter, soy sauce, honey, garlic powder, salt, and black pepper. Blend until smooth.",
+    "Add the chopped lemongrass to the blender and blend until well combined.",
+    "In a large bowl, whisk together the blended sauce and 2 tbsp of water.",
+    "Add the chicken breast to the bowl and toss to coat with the sauce.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Serve the grilled chicken with the remaining sauce for dipping.",
+    "Garnish with chopped peanuts and fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fusion",
+    "grilled",
+    "chicken",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-treme-smoky-malaysian-chicken-satay--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:36:50.258Z"
+}
