@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-fluffy-slovakian-potato-dumplings--italian",
+  "title": "Italian Potato Dumplings",
+  "description": "A traditional Italian comfort food inspired by Slovakian potato dumplings, this dish combines the fluffiness of Slovakian potato dumplings with the flavors of Italy.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xtra flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "fluffy potato",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "slovakian potato dumplings",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the xtra flour and italian seasoning.",
+    "2. Gradually add the grated fluffy potato and mix until a dough forms.",
+    "3. Knead the dough for 5 minutes until smooth.",
+    "4. Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "5. Divide the dough into 8 equal pieces.",
+    "6. Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "7. Place a spoonful of the diced potato in the center of each disk.",
+    "8. Fold the dough over the potato and press the edges together to seal the dumpling.",
+    "9. Bring a large pot of salted water to a boil and cook the dumplings for 10-12 minutes or until they float to the surface.",
+    "10. Meanwhile, melt the butter in a large skillet over medium heat.",
+    "11. Add the parmesan cheese and stir until melted and well combined.",
+    "12. Serve the cooked dumplings with the butter and parmesan sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "comfort-food",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-slovakian-potato-dumplings--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:16:37.922Z"
+}
