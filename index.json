@@ -12884,5 +12884,18 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "x-treme-smoky-malaysian-chicken-satay--french",
+    "title": "Malaysian Chicken Satay with French Twist",
+    "tags": [
+      "fusion",
+      "grilled",
+      "chicken",
+      "peanut-sauce"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "x"
   }
 ]
