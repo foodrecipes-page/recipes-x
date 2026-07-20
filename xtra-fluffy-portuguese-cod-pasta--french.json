@@ -1,0 +1,63 @@
+{
+  "slug": "xtra-fluffy-portuguese-cod-pasta--french",
+  "title": "Baked Cod à la Française",
+  "description": "A French-inspired dish featuring cod baked with pasta and a hint of Portuguese flavors.",
+  "cuisine": "french",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "pasta",
+      "amount": "1 cup (8 oz) penne pasta",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fluffy butter",
+      "amount": "2 tbsp (melted)"
+    },
+    {
+      "name": "portuguese sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 sprigs (chopped)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook pasta according to package instructions until al dente.",
+    "Rinse cod fillets under cold water, pat dry with paper towels.",
+    "Season cod with Portuguese sea salt.",
+    "In a baking dish, arrange cooked pasta, then place cod fillets on top.",
+    "Drizzle with olive oil and melted butter.",
+    "Bake for 12-15 minutes or until cod is cooked through.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fish",
+    "gluten",
+    "pasta"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-portuguese-cod-pasta--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:20:50.511Z"
+}
