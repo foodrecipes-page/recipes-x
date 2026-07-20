@@ -12839,5 +12839,30 @@
     "cuisine": "Indian",
     "totalTimeMin": 18,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-fluffy-slovakian-potato-dumplings--italian",
+    "title": "Italian Potato Dumplings",
+    "tags": [
+      "italian",
+      "comfort-food",
+      "dumplings"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "x"
+  },
+  {
+    "slug": "xerisied-glassy-jelly-mediterranean-feta-cheese-tagine--french",
+    "title": "French Cheesy Tagine Tartine",
+    "tags": [
+      "french",
+      "cheese",
+      "breakfast",
+      "lunch"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
+    "shard": "x"
   }
 ]
