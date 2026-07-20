@@ -12902,5 +12902,31 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-thai-chicken-yum-salad--mexican",
+    "title": "Spicy Mexican Chicken Salad",
+    "tags": [
+      "mexican",
+      "chicken",
+      "salad",
+      "spicy",
+      "healthy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-comforting-spanish-pinto-beans-stew--german",
+    "title": "Classic German Bean Stew",
+    "tags": [
+      "german",
+      "comforting",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "x"
   }
 ]
