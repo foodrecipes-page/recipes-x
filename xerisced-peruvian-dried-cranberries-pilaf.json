@@ -1,0 +1,84 @@
+{
+  "slug": "xerisced-peruvian-dried-cranberries-pilaf",
+  "title": "Peruvian-Style Pilaf with Cranberry and Pistachio Crunch",
+  "description": "A flavorful pilaf dish with Peruvian flair, featuring the nutty taste of pistachios and the sweetness of dried cranberries.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian Pilaf Mix",
+      "amount": "1 cup",
+      "notes": "Available at most specialty stores or online"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For cooking the pilaf"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1 medium",
+      "notes": "Sautéed until translucent"
+    },
+    {
+      "name": "Diced Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "Sautéed with the onion"
+    },
+    {
+      "name": "Dried Cranberries",
+      "amount": "1/4 cup",
+      "notes": "Chopped and added for sweetness"
+    },
+    {
+      "name": "Ground Pistachios",
+      "amount": "2 tablespoons",
+      "notes": "Added for crunch and flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the diced onion and red bell pepper, sauté until the vegetables are softened.",
+    "Add the Peruvian Pilaf Mix, stir to combine with the vegetables.",
+    "Add the water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the pilaf is cooked and fluffy.",
+    "Stir in the chopped cranberries and ground pistachios.",
+    "Season with salt to taste.",
+    "Serve warm, garnished with additional pistachios if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "peruvian",
+    "pilaf",
+    "cranberry",
+    "pistachio"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisced-peruvian-dried-cranberries-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:52:51.978Z"
+}
