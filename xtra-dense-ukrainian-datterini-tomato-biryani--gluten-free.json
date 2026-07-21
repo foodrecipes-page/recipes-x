@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-dense-ukrainian-datterini-tomato-biryani--gluten-free",
+  "title": "Ukrainian Biryani Stuffed Tomatoes",
+  "description": "A gluten-free twist on traditional stuffed tomatoes, with the flavors of Ukrainian biryani.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dense Biryani Rice (gluten-free)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian Biryani Spice Mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Datterini Tomatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the tomatoes and scoop out the insides.",
+    "In a pan, heat the olive oil over medium heat.",
+    "Add the biryani rice and cook, stirring constantly, until lightly toasted.",
+    "Add the biryani spice mix and stir to combine.",
+    "Spoon the rice mixture into the tomatoes.",
+    "Top with diced datterini tomatoes and season with salt.",
+    "Place the tomatoes in a baking dish and cover with foil.",
+    "Bake for 25 minutes.",
+    "Remove foil and bake for an additional 10 minutes.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "biryani",
+    "stuffed-tomatoes",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-ukrainian-datterini-tomato-biryani--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:25:04.710Z"
+}
