@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-fresh-venezuelan-shrimp-ceviche",
+  "title": "Venezuelan Shrimp Ceviche",
+  "description": "A refreshing Venezuelan dish made with succulent shrimp marinated in a zesty mixture of fresh lime juice and spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Large shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mixed onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ceviche seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh aji amarillo pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse shrimp under cold water and pat dry with paper towels.",
+    "Cut the mixed onions and aji amarillo pepper into small pieces.",
+    "In a large bowl, combine the shrimp, onions, and aji amarillo pepper.",
+    "Pour the fresh lime juice over the shrimp mixture and stir to combine.",
+    "Add the ceviche seasoning and salt to the shrimp mixture and stir to combine.",
+    "Drizzle the xtra-virgin olive oil over the shrimp mixture and stir to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "shrimp",
+    "venezuelan",
+    "snack",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fresh-venezuelan-shrimp-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:41:03.591Z"
+}
