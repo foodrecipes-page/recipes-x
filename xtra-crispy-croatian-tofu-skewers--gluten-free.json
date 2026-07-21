@@ -1,0 +1,83 @@
+{
+  "slug": "xtra-crispy-croatian-tofu-skewers--gluten-free",
+  "title": "Croatian Tofu Skewers",
+  "description": "A gluten-free dish featuring marinated tofu and Croatian-inspired spices, served on skewers.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Cut the tofu into 1-inch cubes.",
+    "In a small bowl, mix together the olive oil, paprika, salt, pepper, and lemon juice.",
+    "Add the tofu cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated tofu onto the skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the tofu is golden brown.",
+    "Serve the skewers hot, garnished with crispy fried onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "tofu",
+    "skewers",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-croatian-tofu-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:54:47.933Z"
+}
