@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-flaky-syrian-lamb-tagine--japanese",
+  "title": "Syrian Lamb Tagine with Japanese Flair",
+  "description": "A fusion twist on traditional Middle Eastern tagine, featuring lamb and Japanese-inspired spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 (1 kg)",
+      "notes": "bone-in"
+    },
+    {
+      "name": "xtra olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "syrian allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with flaky sea salt, syrian allspice, and tagine spice mix.",
+    "Heat xtra olive oil in a large Dutch oven over medium heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Transfer the lamb to a plate and set aside.",
+    "Add more olive oil to the pot if needed, then sauté the green onions until softened.",
+    "Return the lamb to the pot and add soy sauce (if using).",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Serve the lamb with the juices spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "japanese",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-syrian-lamb-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:40:47.321Z"
+}
