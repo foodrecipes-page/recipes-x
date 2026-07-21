@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-vibrant-mediterranean-vegetable-paella",
+  "title": "Vibrant Vegetable Paella",
+  "description": "A flavorful and colorful paella dish loaded with vibrant vegetables, perfect for a quick weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vibrant",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mediterranean",
+      "amount": "1 can (14 oz)",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan over medium-high heat.",
+    "Add diced onion and cook until translucent, about 3-4 minutes.",
+    "Add sliced bell pepper and cook for an additional 2-3 minutes.",
+    "Add vibrant and smoked paprika, stir to combine.",
+    "Add diced tomatoes, vegetable broth, salt, and black pepper. Stir to combine.",
+    "Add paella rice and stir to coat with the tomato mixture.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "spanish",
+    "paella",
+    "one-pot-meal",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-vibrant-mediterranean-vegetable-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:56:57.473Z"
+}
