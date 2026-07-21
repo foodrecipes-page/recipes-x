@@ -8416,16 +8416,15 @@
   },
   {
     "slug": "xtra-malty-polish-pork-stew",
-    "title": "Xtra Malty Polish Pork Stew",
+    "title": "Polish Pork Stew",
     "tags": [
-      "hearty-stews",
-      "one-pot",
-      "polish-cuisine",
-      "pork-recipes",
-      "whole30"
+      "polish",
+      "stew",
+      "beef-free",
+      "gluten-containing"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 150,
+    "totalTimeMin": 110,
     "shard": "x"
   },
   {
