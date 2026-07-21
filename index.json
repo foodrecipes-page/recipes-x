@@ -12984,5 +12984,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 165,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-light-peruvian-tomatoes-pollo-a-la-brasa--chinese",
+    "title": "Peruvian-Style Pollo a la Brasa",
+    "tags": [
+      "chicken",
+      "peruvian",
+      "chinese",
+      "roast"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 65,
+    "shard": "x"
   }
 ]
