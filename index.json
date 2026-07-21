@@ -2983,17 +2983,15 @@
   },
   {
     "slug": "xeris-smooth-peruvian-porridge-oats-porridge",
-    "title": "Xeris Smooth Peruvian Porridge",
+    "title": "Peruvian Porridge Bowl",
     "tags": [
-      "breakfast",
-      "easy",
-      "healthy",
-      "oatmeal",
       "peruvian",
-      "quick"
+      "breakfast",
+      "oatmeal",
+      "porridge"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 10,
+    "totalTimeMin": 20,
     "shard": "x"
   },
   {
