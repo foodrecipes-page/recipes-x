@@ -1,0 +1,67 @@
+{
+  "slug": "xeris-smooth-peruvian-porridge-oats-porridge",
+  "title": "Peruvian Porridge Bowl",
+  "description": "A hearty breakfast bowl inspired by Peruvian cuisine, made with a comforting oat porridge and topped with crunchy xeris and a sprinkle of smooth sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "xeris",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "smooth sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the oats and reduce the heat to medium.",
+    "Cook, stirring occasionally, for 5 minutes or until the oats have absorbed most of the water.",
+    "In a small bowl, mix the xeris, smooth sauce, honey, and cinnamon.",
+    "Stir the topping mixture into the oat porridge.",
+    "Cook for an additional 2 minutes, until heated through.",
+    "Serve hot, topped with additional xeris if desired.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "breakfast",
+    "oatmeal",
+    "porridge"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeris-smooth-peruvian-porridge-oats-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:55:53.343Z"
+}
