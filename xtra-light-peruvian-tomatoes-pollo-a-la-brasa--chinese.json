@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-light-peruvian-tomatoes-pollo-a-la-brasa--chinese",
+  "title": "Peruvian-Style Pollo a la Brasa",
+  "description": "A twist on traditional Chinese roast chicken, inspired by Peruvian flavors. Marinated in a mixture of citrus and spices, then roasted to perfection.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pollo",
+      "amount": "1 1/2 pounds",
+      "notes": "whole chicken"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "peruvian ají amarillo paste",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "fresh, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a blender or food processor, combine soy sauce, ají amarillo paste, garlic, and 1 tablespoon sugar (if using). Blend until smooth.",
+    "Add the marinade to a large bowl and whisk in olive oil. Add the chicken and mix until evenly coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the chicken from the marinade and place on a rimmed baking sheet lined with aluminum foil.",
+    "Roast the chicken for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "During the last 10-15 minutes of cooking, increase the oven temperature to broil. This will help crisp the skin.",
+    "Remove the chicken from the oven and let rest for 5-10 minutes before slicing and serving.",
+    "Garnish with diced tomatoes, chopped cilantro, and a sprinkle of sugar (if using).",
+    "Serve hot, with your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "peruvian",
+    "chinese",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 10,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-peruvian-tomatoes-pollo-a-la-brasa--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:17:45.391Z"
+}
