@@ -1,0 +1,75 @@
+{
+  "slug": "xenial-slovakian-ackee-dumplings--gluten-free",
+  "title": "Slovakian Xenial Ackee Dumplings",
+  "description": "A unique and flavorful gluten-free dish that combines the tender flesh of ackee with the comforting warmth of Slovakian dumplings.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee flesh",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian dumpling mix",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cook the Slovakian dumpling mix according to the package instructions.",
+    "2. In a pan, heat the vegetable oil over medium heat. Add the ackee flesh and cook until tender.",
+    "3. Add the cooked dumplings to the pan with the ackee and stir to combine.",
+    "4. Season with salt and black pepper to taste.",
+    "5. Top with chopped scallions and grated cheddar cheese.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-slovakian-ackee-dumplings--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:11:38.893Z"
+}
