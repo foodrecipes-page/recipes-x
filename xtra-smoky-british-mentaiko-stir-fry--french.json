@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-smoky-british-mentaiko-stir-fry--french",
+  "title": "Smoky British Stir Fry",
+  "description": "A hearty British-inspired stir fry with a smoky twist, featuring the bold flavors of mentaiko.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky British Sausage",
+      "amount": "4",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Mentaiko",
+      "amount": "1/2 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fry",
+      "amount": "1",
+      "notes": "Any variety, sliced"
+    },
+    {
+      "name": "British Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "British Spinach",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large frying pan over medium-high heat.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the sliced mushrooms and fry until tender, about 5 minutes.",
+    "Add the sliced fry and cook until slightly tender, about 3 minutes.",
+    "Stir in the crushed mentaiko.",
+    "Add the British spinach and cook until wilted.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "stir-fry",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-smoky-british-mentaiko-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:02:55.093Z"
+}
