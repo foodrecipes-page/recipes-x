@@ -12949,5 +12949,18 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-croatian-tofu-skewers--gluten-free",
+    "title": "Croatian Tofu Skewers",
+    "tags": [
+      "gluten-free",
+      "tofu",
+      "skewers",
+      "croatian"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
