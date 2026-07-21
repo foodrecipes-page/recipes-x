@@ -7418,15 +7418,14 @@
     "slug": "xtra-fresh-venezuelan-shrimp-ceviche",
     "title": "Venezuelan Shrimp Ceviche",
     "tags": [
-      "brunch",
-      "easy-to-make",
-      "fresh",
-      "gluten-free",
-      "low-carb",
-      "seafood"
+      "ceviche",
+      "shrimp",
+      "venezuelan",
+      "snack",
+      "gluten-free"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "x"
   },
   {
@@ -12927,6 +12926,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-slovakian-ackee-dumplings--gluten-free",
+    "title": "Slovakian Xenial Ackee Dumplings",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "x"
   }
 ]
