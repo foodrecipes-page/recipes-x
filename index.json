@@ -12939,5 +12939,17 @@
     "cuisine": "Slovakian",
     "totalTimeMin": 35,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-smoky-british-mentaiko-stir-fry--french",
+    "title": "Smoky British Stir Fry",
+    "tags": [
+      "french",
+      "stir-fry",
+      "meat"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
