@@ -1311,16 +1311,13 @@
   },
   {
     "slug": "xenial-charred-malaysian-sweetcorn-fried-rice",
-    "title": "Xenial Charred Malaysian Sweetcorn Fried-Rice",
+    "title": "Malaysian Fried Rice",
     "tags": [
+      "malaysian-cuisine",
       "fried-rice",
-      "malaysian",
-      "one-pan",
-      "quick",
-      "satvik",
       "vegetarian"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 25,
     "shard": "x"
   },
@@ -12961,6 +12958,19 @@
     ],
     "cuisine": "European",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-dense-ukrainian-datterini-tomato-biryani--gluten-free",
+    "title": "Ukrainian Biryani Stuffed Tomatoes",
+    "tags": [
+      "ukrainian",
+      "biryani",
+      "stuffed-tomatoes",
+      "gluten-free"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
     "shard": "x"
   }
 ]
