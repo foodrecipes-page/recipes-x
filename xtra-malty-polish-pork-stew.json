@@ -1,0 +1,95 @@
+{
+  "slug": "xtra-malty-polish-pork-stew",
+  "title": "Polish Pork Stew",
+  "description": "A hearty and flavorful Polish-inspired stew made with tender pork and a variety of root vegetables. Serve with a side of crusty bread for a comforting meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Malty beer",
+      "amount": "1 cup",
+      "notes": "such as Tyskie or Lech"
+    },
+    {
+      "name": "Xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Stew seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown pork and sausage on all sides, about 5 minutes.",
+    "Remove pork and set aside.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes, cook for 5 minutes.",
+    "Add browned pork, sausage, beer, stew seasoning, salt, and pepper.",
+    "Cover and transfer to the oven.",
+    "Bake for 1 1/2 hours, or until pork is tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "stew",
+    "beef-free",
+    "gluten-containing"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-malty-polish-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:06:21.646Z"
+}
