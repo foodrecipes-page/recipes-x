@@ -8562,17 +8562,15 @@
   },
   {
     "slug": "xtra-nutty-canadian-lamb-tagine",
-    "title": "Xtra Nutty Canadian Lamb Tagine",
+    "title": "Lamb Tagine with Xtra Crust",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "halal-friendly",
-      "lamb-recipes",
-      "nutty-dishes",
-      "tagine-pot"
+      "lamb",
+      "north-african",
+      "xtra",
+      "nutty"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 195,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "x"
   },
   {
@@ -13050,6 +13048,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-springy-irish-brie-gratin--keto",
+    "title": "Brie and Springy Gratin",
+    "tags": [
+      "keto-friendly",
+      "low-carb",
+      "cheesy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "x"
   }
 ]
