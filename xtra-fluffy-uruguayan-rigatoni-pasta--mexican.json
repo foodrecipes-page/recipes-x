@@ -1,0 +1,83 @@
+{
+  "slug": "xtra-fluffy-uruguayan-rigatoni-pasta--mexican",
+  "title": "Uruguayan Pasta Fiesta",
+  "description": "A fusion twist on traditional Uruguayan beef, served with a Mexican twist on rigatoni pasta.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "1 pound"
+    },
+    {
+      "name": "uruguayan ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fluffy tortillas",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook rigatoni according to package instructions. Drain and set aside.",
+    "In a large skillet, heat xtra virgin olive oil over medium-high heat.",
+    "Add uruguayan ground beef and cook until browned, breaking into small pieces as it cooks.",
+    "Add chili powder and cumin to the skillet and stir to combine.",
+    "Stir in cooked rigatoni and season with salt and pepper to taste.",
+    "Transfer the mixture to a baking dish and top with shredded cheese.",
+    "Bake for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, topped with fluffy tortillas, sour cream, and any additional toppings of your choice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pastarettes",
+    "uruguayan",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-uruguayan-rigatoni-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:05:16.717Z"
+}
