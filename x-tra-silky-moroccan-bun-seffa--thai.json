@@ -1,0 +1,84 @@
+{
+  "slug": "x-tra-silky-moroccan-bun-seffa--thai",
+  "title": "Thai-Style Moroccan Beef and Bun Kebabs",
+  "description": "A fusion of Thai and Moroccan flavors, this dish combines the spices of Moroccan beef with the bold flavors of Thai cuisine, served with crispy bun kebabs.",
+  "cuisine": "thai",
+  "diet": [
+    "meat",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef (tra)",
+      "amount": "500g",
+      "notes": "Cut into 2.5cm cubes"
+    },
+    {
+      "name": "Moroccan",
+      "amount": "2 tbsp",
+      "notes": "Ras el hanout spice blend"
+    },
+    {
+      "name": "Thai Red Curry Paste (x)",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Bun",
+      "amount": "4",
+      "notes": "Cut into 1.5cm slices"
+    },
+    {
+      "name": "Seffa",
+      "amount": "1/4 cup",
+      "notes": "Flaked, for garnish"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing bun"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine beef, Moroccan spice blend, Thai Red Curry Paste, and fish sauce (if using).",
+    "Mix well to coat beef evenly.",
+    "Thread beef onto bun skewers.",
+    "Grill for 8-10 minutes, turning occasionally, until beef is cooked through.",
+    "Brush bun skewers with vegetable oil.",
+    "Grill for an additional 2-3 minutes, until bun is toasted.",
+    "Serve immediately, garnished with seffa and a squeeze of lime juice (if using)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "moroccan",
+    "beef",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-silky-moroccan-bun-seffa--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:13:49.916Z"
+}
