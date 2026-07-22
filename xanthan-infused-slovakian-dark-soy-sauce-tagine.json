@@ -1,0 +1,80 @@
+{
+  "slug": "xanthan-infused-slovakian-dark-soy-sauce-tagine",
+  "title": "Slovakian Tagine with Xanthan Slurry",
+  "description": "A twist on traditional tagine, this Slovakian-inspired dish incorporates xanthan gum for added depth, paired with a sweet dark soy sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dark Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Slovakian Tagine Spice Blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Xanthan Gum",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Infused Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat infused oil in a large pan over medium-high heat.",
+    "Add onions and cook until translucent.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in tagine spice blend and cook for 1 minute.",
+    "Add carrots and potatoes. Cook for 5 minutes.",
+    "In a small bowl, mix xanthan gum with 2 tablespoons of water to create a slurry.",
+    "Add xanthan slurry and dark soy sauce to the pan. Stir to combine.",
+    "Reduce heat to medium-low and simmer for 20 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "tagine",
+    "vegetarian",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthan-infused-slovakian-dark-soy-sauce-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:23:45.987Z"
+}
