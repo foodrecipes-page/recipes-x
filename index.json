@@ -13026,5 +13026,30 @@
     "cuisine": "mexican",
     "totalTimeMin": 15,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-fluffy-uruguayan-rigatoni-pasta--mexican",
+    "title": "Uruguayan Pasta Fiesta",
+    "tags": [
+      "mexican",
+      "pastarettes",
+      "uruguayan",
+      "fusion"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-spicy-galician-massaman-paste-salmorejo--thai",
+    "title": "Galician Massaman Curry",
+    "tags": [
+      "veggie-curry",
+      "spicy-food",
+      "galician-cuisine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "x"
   }
 ]
