@@ -817,19 +817,15 @@
   },
   {
     "slug": "xanthan-infused-slovakian-dark-soy-sauce-tagine",
-    "title": "Xanthan-Infused Slovakian Dark Soy Sauce Tagine",
+    "title": "Slovakian Tagine with Xanthan Slurry",
     "tags": [
-      "ayurvedic",
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "sattvic",
-      "slovakian",
+      "moroccan",
+      "tagine",
       "vegetarian",
-      "weeknight"
+      "slovakian"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 45,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -9213,18 +9209,15 @@
   },
   {
     "slug": "xtra-salty-ethiopian-galangal-atakilt-wat",
-    "title": "Xtra Salty Ethiopian Galangal Atakilt Wat",
+    "title": "Ethiopian-Style Atakilt Stew",
     "tags": [
-      "date-night",
-      "ethiopian-cuisine",
-      "flexitarian",
-      "galangal-recipes",
-      "poached-ingredients",
-      "salty-dishes",
-      "vegetarian"
+      "ethiopian",
+      "vegetarian",
+      "lunch",
+      "stew"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
