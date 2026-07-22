@@ -1,0 +1,97 @@
+{
+  "slug": "x-tra-roasted-spanish-galician-pillowy-jamon-jamon-iberico-croquettes",
+  "title": "Spanish Galician Croquettes with Iberico Jamon",
+  "description": "A Spanish-inspired snack featuring crispy croquettes filled with pillowy Iberico jamon.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 cup roasted galician jamon, finely chopped",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 cup grated cheese (manchego or parmesan)",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 egg",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 cup iberico jamon, finely chopped",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup chopped roasted red pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "2. In a large bowl, combine the flour, smoked paprika, salt, and pepper.",
+    "3. In a separate bowl, whisk together the egg and a pinch of salt.",
+    "4. Add the chopped galician jamon, grated cheese, parsley, and chopped iberico jamon to the egg mixture. Mix well.",
+    "5. Using a spoon, drop the egg mixture into the flour mixture, coating the croquettes evenly.",
+    "6. When the oil is hot, add a few croquettes to the pan (do not overcrowd). Fry for 2-3 minutes on each side, or until golden brown.",
+    "7. Using a slotted spoon, remove the croquettes from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "8. Repeat the frying process with the remaining croquettes.",
+    "9. Serve the croquettes hot with a side of your favorite dipping sauce.",
+    "10. Enjoy your crispy Spanish Galician croquettes!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "galician",
+    "iberico-jamon",
+    "snack",
+    "croquettes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-roasted-spanish-galician-pillowy-jamon-jamon-iberico-croquettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:15:59.165Z"
+}
