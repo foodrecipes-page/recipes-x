@@ -1,0 +1,68 @@
+{
+  "slug": "xenial-crumbly-french-rice-cake--indian",
+  "title": "Crumbly French Rice Cakes (Indian-Style)",
+  "description": "A unique fusion of Indian flavors with French crumbly rice cakes, perfect for a snack or dessert.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Xenial crumbly mixture",
+      "amount": "1/2 cup",
+      "notes": "You can make your own crumbly mixture using crushed biscuits or crackers."
+    },
+    {
+      "name": "Cuisine-specific spices",
+      "amount": "1 tsp",
+      "notes": "Use a combination of Indian spices like cumin, coriander, and garam masala."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix together the French rice, crumbly mixture, and spices.",
+    "Add salt to taste and mix well.",
+    "Heat the ghee or oil in a pan over medium heat.",
+    "Add the rice mixture and cook for 2-3 minutes, stirring constantly.",
+    "Transfer the mixture to a greased baking dish and shape into desired forms.",
+    "Bake in the preheated oven for 15-20 minutes, or until lightly golden.",
+    "Allow the cakes to cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "french",
+    "rice",
+    "crumbly",
+    "cakes",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-crumbly-french-rice-cake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:42:54.372Z"
+}
