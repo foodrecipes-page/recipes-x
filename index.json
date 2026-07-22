@@ -13012,5 +13012,19 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xeris-smooth-peruvian-porridge-oats-porridge--mexican",
+    "title": "Spicy Porridge Bowl",
+    "tags": [
+      "mexican",
+      "breakfast",
+      "porridge",
+      "oats",
+      "comfort-food"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "x"
   }
 ]
