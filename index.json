@@ -1863,17 +1863,16 @@
   },
   {
     "slug": "xenial-light-turkish-lamb-pide",
-    "title": "Xenial Light Turkish Lamb Pide",
+    "title": "Turkish-Style Lamb Pide",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "lamb-recipes",
-      "pide-bread",
-      "red-curry-paste",
-      "turkish-cuisine"
+      "lamb",
+      "turkish",
+      "flatbread",
+      "pide",
+      "meat"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -13070,6 +13069,33 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 32,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-crumbly-french-rice-cake--indian",
+    "title": "Crumbly French Rice Cakes (Indian-Style)",
+    "tags": [
+      "indian",
+      "french",
+      "rice",
+      "crumbly",
+      "cakes",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xeriscape-style-moroccan-tomato-tagine--vegetarian",
+    "title": "Vegetarian Moroccan Stew",
+    "tags": [
+      "moroccan",
+      "vegetarian",
+      "stew"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "x"
   }
 ]
