@@ -1,0 +1,83 @@
+{
+  "slug": "xenial-herbal-saudi-arabian-fish-fillet-tagine--indian",
+  "title": "Saudi Arabian Fish Tagine",
+  "description": "A unique fusion dish blending Indian spices and Saudi Arabian flavors, featuring a tender fish fillet cooked in a flavorful tagine.",
+  "cuisine": "indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet (500g)",
+      "amount": "2",
+      "notes": "White fish works best"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "Clarified butter for added flavor"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "Earthy flavor"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": "Anti-inflammatory properties"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/4 tsp",
+      "notes": "Spicy kick"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Fresh coriander",
+      "amount": "chopped (1/4 cup)",
+      "notes": "Fresh herbs for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large saucepan over medium heat.",
+    "Add cumin powder and let it sizzle for a few seconds.",
+    "Add the fish fillets, skin side up, and cook for 2-3 minutes.",
+    "Flip the fish over and add the garam masala, turmeric powder, and red chili powder.",
+    "Pour in enough water to cover the fish and bring to a boil.",
+    "Reduce heat to low and simmer for 8-10 minutes or until the fish is cooked through.",
+    "Garnish with chopped fresh coriander and serve hot.",
+    "Serve over basmati rice or with saudi flatbread for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "saudi-arabian",
+    "fish",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-herbal-saudi-arabian-fish-fillet-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:10:23.795Z"
+}
