@@ -478,17 +478,16 @@
   },
   {
     "slug": "x-tra-roasted-spanish-galician-pillowy-jamon-jamon-iberico-croquettes",
-    "title": "X-tra Roasted Spanish (Galician) Pillowy Jamon Jamon Iberico Croquettes",
+    "title": "Spanish Galician Croquettes with Iberico Jamon",
     "tags": [
-      "meat-lovers",
-      "one-pan",
-      "party-food",
-      "spicy",
-      "tapas",
-      "weeknight"
+      "spanish",
+      "galician",
+      "iberico-jamon",
+      "snack",
+      "croquettes"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 32,
     "shard": "x"
   },
   {
@@ -7965,16 +7964,16 @@
   },
   {
     "slug": "xtra-juicy-jamaican-chicken-kebabs",
-    "title": "Xtra Juicy Jamaican Chicken Kebabs",
+    "title": "Jamaican Chicken Kebabs",
     "tags": [
-      "brunch-ideas",
-      "jamaican-cuisine",
+      "grilled",
+      "chicken",
       "kebabs",
-      "tandoor-cooking",
-      "yeasty-dishes"
+      "summer",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "jamaican",
+    "totalTimeMin": 18,
     "shard": "x"
   },
   {
