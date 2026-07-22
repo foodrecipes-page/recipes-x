@@ -1,0 +1,81 @@
+{
+  "slug": "xtra-salty-ethiopian-galangal-atakilt-wat--gluten-free",
+  "title": "Ethiopian-Style Atakilt",
+  "description": "A gluten-free version of the traditional Ethiopian vegetable stew. A flavorful and nutritious dish made with tender vegetables and aromatic spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Atakilt (Ethiopian mustard greens)",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salty vegetable broth",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onions, garlic, and galangal. Cook until the onions are translucent.",
+    "Add the carrots and potatoes. Cook for 5 minutes.",
+    "Add the Atakilt and vegetable broth. Season with salt and pepper to taste.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve hot, garnished with additional Atakilt if desired.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "ethiopian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-salty-ethiopian-galangal-atakilt-wat--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:20:58.131Z"
+}
