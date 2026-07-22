@@ -1,0 +1,73 @@
+{
+  "slug": "xtra-salty-ethiopian-galangal-atakilt-wat",
+  "title": "Ethiopian-Style Atakilt Stew",
+  "description": "A hearty and flavorful stew from Ethiopia, made with tender vegetables and aromatic spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Galangal",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Atakilt",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "Xtra",
+      "amount": "2 medium potatoes",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Salty",
+      "amount": "1 large carrot",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "1 tablespoon berbere spice",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Add the galangal and cook for 5 minutes.",
+    "Add the onion and cook for another 5 minutes.",
+    "Add the potatoes, carrot, and berbere spice. Cook for 5 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "lunch",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-salty-ethiopian-galangal-atakilt-wat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:47:28.609Z"
+}
