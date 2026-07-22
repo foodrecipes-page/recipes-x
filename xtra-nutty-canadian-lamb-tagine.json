@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-nutty-canadian-lamb-tagine",
+  "title": "Lamb Tagine with Xtra Crust",
+  "description": "A hearty North African-inspired dish featuring tender lamb and a crunchy xtra crust. Perfect for a special occasion.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Xtra",
+      "amount": "1 cup",
+      "notes": "coarsely chopped"
+    },
+    {
+      "name": "Nutty",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Canadian",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Tagine",
+      "amount": "2 tablespoons",
+      "notes": "ras el hanout spice blend"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, mix together the lamb, xtra, and nutty.",
+    "Drizzle the Canadian with olive oil over the lamb mixture and toss to coat.",
+    "Season with salt and pepper to taste.",
+    "Transfer the lamb mixture to a large Dutch oven or oven-safe pot.",
+    "Add the tagine (ras el hanout spice blend) and stir to combine.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Bake for 25 minutes, then reduce the oven temperature to 300°F (150°C) and continue baking for an additional 20-25 minutes, or until the lamb is tender.",
+    "Remove the pot from the oven and let it cool for a few minutes.",
+    "Serve the lamb hot, garnished with additional xtra and nutty if desired.",
+    "Serve with crusty bread or over couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "north-african",
+    "xtra",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-nutty-canadian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:21:19.763Z"
+}
