@@ -1,0 +1,65 @@
+{
+  "slug": "xtra-springy-irish-brie-gratin--keto",
+  "title": "Brie and Springy Gratin",
+  "description": "A keto-friendly gratin dish made with creamy brie, springy greens, and crunchy xtra ingredients.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xtra",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "springy greens",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "brie cheese",
+      "amount": "8 oz, crumbled"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a mixing bowl, combine crushed xtra and chopped springy greens.",
+    "In a separate bowl, mix crumbled brie cheese and grated gratin.",
+    "Add salt and pepper to the brie-gratin mixture.",
+    "Combine the xtra-springy mixture and the brie-gratin mixture.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-springy-irish-brie-gratin--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:38:59.832Z"
+}
