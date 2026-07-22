@@ -1,0 +1,75 @@
+{
+  "slug": "x-tra-spicy-galician-massaman-paste-salmorejo--thai",
+  "title": "Galician Massaman Curry",
+  "description": "A creamy, flavorful curry with the bold spices of Massaman and the rich taste of Galicia. Serve over steamed rice or noodles for a delicious and satisfying meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Galician x",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Massaman paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Tra",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Spicy galician",
+      "amount": "1 small onion, diced",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salmorejo",
+      "amount": "2 tbsp",
+      "notes": "optional, for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the Massaman paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the Tra, water, and x. Bring to a boil, then reduce heat to low and simmer for 15-20 minutes, or until the x is tender.",
+    "Season with salt to taste.",
+    "Serve over steamed rice or noodles, garnished with Salmorejo if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "veggie-curry",
+    "spicy-food",
+    "galician-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-spicy-galician-massaman-paste-salmorejo--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:17:23.412Z"
+}
