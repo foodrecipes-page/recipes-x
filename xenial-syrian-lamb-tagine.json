@@ -1,0 +1,110 @@
+{
+  "slug": "xenial-syrian-lamb-tagine",
+  "title": "Classic Moroccan Lamb Tagine",
+  "description": "A traditional North African dish made with tender lamb and aromatic spices. Perfect for a special occasion.",
+  "cuisine": "North African",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay tagine or Dutch oven over medium heat.",
+    "Brown the lamb in batches until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add more oil if necessary, then sauté the onion, garlic, and ginger until the onion is translucent.",
+    "Add the cumin, coriander, cinnamon, and cayenne pepper (if using) and cook for 1 minute.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Return the lamb to the pot, cover, and simmer for 1 1/2 hours, or until the lamb is tender.",
+    "Add the chopped apricots and almonds to the pot and continue to simmer for another 30 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over couscous.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve with warm pita bread or crusty bread for dipping in the sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 31
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-syrian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:10:40.308Z"
+}
