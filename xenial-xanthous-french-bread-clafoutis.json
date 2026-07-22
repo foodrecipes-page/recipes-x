@@ -1,0 +1,83 @@
+{
+  "slug": "xenial-xanthous-french-bread-clafoutis",
+  "title": "Xenial Clafoutis",
+  "description": "A French-inspired baked dessert featuring fresh bread and a hint of xanthous color.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup fresh bread, cubed",
+      "amount": "",
+      "notes": "preferably stale"
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup xanthous honey",
+      "amount": "",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1/2 teaspoon vanilla extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup heavy cream",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the granulated sugar, xanthous honey, vanilla extract, cinnamon, and salt.",
+    "Add the eggs one at a time, whisking until smooth.",
+    "In a separate bowl, whisk together the heavy cream and cubed bread.",
+    "Pour the cream-bread mixture into the sugar mixture and stir until combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes or until the clafoutis is golden brown and set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "bread",
+    "xanthous"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-xanthous-french-bread-clafoutis",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:09:03.137Z"
+}
