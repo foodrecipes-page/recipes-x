@@ -1,0 +1,84 @@
+{
+  "slug": "xeris-smooth-peruvian-porridge-oats-porridge--mexican",
+  "title": "Spicy Porridge Bowl",
+  "description": "A warm and comforting Mexican breakfast dish, perfect for cold mornings.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Peruvian oats",
+      "amount": "1 cup",
+      "notes": "Rolled oats for a creamy porridge"
+    },
+    {
+      "name": "Porridge oats",
+      "amount": "1/2 cup",
+      "notes": "For added texture"
+    },
+    {
+      "name": "Smooth milk",
+      "amount": "2 cups",
+      "notes": "You can use any milk you prefer"
+    },
+    {
+      "name": "Xeris",
+      "amount": "1 tsp",
+      "notes": "Mexican cinnamon for an authentic flavor"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Optional, for a touch of sweetness"
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/4 cup",
+      "notes": "Chopped nuts for added crunch"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "Extra cinnamon for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "To balance the sweetness"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the milk to a simmer over medium heat.",
+    "Add the peruvian oats and porridge oats, and cook for 5-7 minutes, stirring occasionally.",
+    "Add the xeris and cook for another minute, until the oats have absorbed most of the milk.",
+    "Stir in the honey, if using.",
+    "Transfer the porridge to a bowl and top with chopped pecans.",
+    "Sprinkle a pinch of salt and a dash of cinnamon over the top.",
+    "Serve immediately and enjoy!",
+    "Optional: Add a dollop of whipped cream or a sprinkle of cinnamon for extra indulgence."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "breakfast",
+    "porridge",
+    "oats",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeris-smooth-peruvian-porridge-oats-porridge--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:34:20.349Z"
+}
