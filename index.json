@@ -13000,5 +13000,17 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-salty-ethiopian-galangal-atakilt-wat--gluten-free",
+    "title": "Ethiopian-Style Atakilt",
+    "tags": [
+      "gluten-free",
+      "ethiopian",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
