@@ -1,0 +1,79 @@
+{
+  "slug": "xenial-light-turkish-lamb-pide",
+  "title": "Turkish-Style Lamb Pide",
+  "description": "A simple and flavorful Turkish flatbread topped with lamb and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Pide dough",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "1 teaspoon",
+      "notes": "Paprika, cumin, and coriander"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing pide dough"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "Crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the pide dough and place on a baking sheet.",
+    "Mix the lamb, onion, garlic, and Turkish spices in a bowl.",
+    "Spread the lamb mixture evenly over the pide dough, leaving a 1-inch border around the edges.",
+    "Brush the edges of the pide dough with olive oil.",
+    "Top with crumbled feta cheese.",
+    "Bake for 15-20 minutes, or until the pide is golden brown and the lamb is cooked through.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "turkish",
+    "flatbread",
+    "pide",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-light-turkish-lamb-pide",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:54:56.661Z"
+}
