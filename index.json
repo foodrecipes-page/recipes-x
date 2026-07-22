@@ -2433,16 +2433,14 @@
   },
   {
     "slug": "xenial-syrian-lamb-tagine",
-    "title": "Xenial Syrian Lamb Tagine",
+    "title": "Classic Moroccan Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "lamb-based",
-      "middle-eastern",
-      "one-pot"
+      "lamb",
+      "tagine",
+      "moroccan"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 120,
+    "cuisine": "North African",
+    "totalTimeMin": 180,
     "shard": "x"
   },
   {
@@ -13060,6 +13058,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-silky-moroccan-bun-seffa--thai",
+    "title": "Thai-Style Moroccan Beef and Bun Kebabs",
+    "tags": [
+      "thai",
+      "moroccan",
+      "beef",
+      "skewers"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 32,
     "shard": "x"
   }
 ]
