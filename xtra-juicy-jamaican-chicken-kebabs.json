@@ -1,0 +1,69 @@
+{
+  "slug": "xtra-juicy-jamaican-chicken-kebabs",
+  "title": "Jamaican Chicken Kebabs",
+  "description": "Grilled Jamaican chicken kebabs with a hint of spice, perfect for a summer evening. This recipe combines the flavors of Jamaica with tender chicken and a sweet and tangy glaze.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "500g",
+      "notes": "boneless chicken breast or thighs"
+    },
+    {
+      "name": "kebabs",
+      "amount": "10",
+      "notes": "wooden skewers"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin olive oil"
+    },
+    {
+      "name": "juicy",
+      "amount": "2 cloves",
+      "notes": "minced fresh ginger"
+    },
+    {
+      "name": "jamaican",
+      "amount": "1 tablespoon",
+      "notes": "Jamaican jerk seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken and vegetables onto kebabs.",
+    "In a small bowl, mix together olive oil, ginger, and jerk seasoning.",
+    "Brush the mixture onto the chicken and vegetables.",
+    "Season with salt and pepper to taste.",
+    "Grill kebabs for 8-10 minutes, turning occasionally.",
+    "Serve hot with your favorite sides.",
+    "Let kebabs rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "kebabs",
+    "summer",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-juicy-jamaican-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:39:38.262Z"
+}
