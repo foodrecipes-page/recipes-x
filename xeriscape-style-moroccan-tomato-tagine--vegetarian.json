@@ -1,0 +1,92 @@
+{
+  "slug": "xeriscape-style-moroccan-tomato-tagine--vegetarian",
+  "title": "Vegetarian Moroccan Stew",
+  "description": "A hearty and flavorful stew originating from Morocco, made with a blend of spices and vegetables.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "",
+      "notes": "use as a spice blend"
+    },
+    {
+      "name": "style",
+      "amount": "1 tablespoon",
+      "notes": "olive or avocado oil"
+    },
+    {
+      "name": "moroccan",
+      "amount": "",
+      "notes": "use as a spice blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the style in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the carrots and zucchini, cook for 5 minutes.",
+    "Add the tomato, cumin, paprika, and tagine spice blend. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 20-25 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-style-moroccan-tomato-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:12:32.340Z"
+}
