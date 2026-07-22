@@ -2678,17 +2678,15 @@
   },
   {
     "slug": "xenial-xanthous-french-bread-clafoutis",
-    "title": "xenial xanthous french bread clafoutis",
+    "title": "Xenial Clafoutis",
     "tags": [
-      "diabetic-friendly",
-      "flour-dough",
-      "one-pan",
-      "weeknight",
-      "wintery",
-      "xanthan-gum"
+      "french",
+      "dessert",
+      "bread",
+      "xanthous"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 55,
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
@@ -12988,6 +12986,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 65,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-herbal-saudi-arabian-fish-fillet-tagine--indian",
+    "title": "Saudi Arabian Fish Tagine",
+    "tags": [
+      "indian",
+      "saudi-arabian",
+      "fish",
+      "tagine"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "x"
   }
 ]
