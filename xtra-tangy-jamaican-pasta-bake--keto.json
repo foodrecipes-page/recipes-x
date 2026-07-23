@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-tangy-jamaican-pasta-bake--keto",
+  "title": "Jamaican Keto Pasta Bake",
+  "description": "A keto twist on the classic pasta bake, with Jamaican spices and tangy cheese.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": " spiralized"
+    },
+    {
+      "name": "xtra sharp cheddar",
+      "amount": "1/2",
+      "notes": "shredded"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "zucchini noodles"
+    },
+    {
+      "name": "bake",
+      "amount": "4 oz",
+      "notes": "beef or pork"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "tangy ketchup",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the zucchini noodles according to package instructions.",
+    "Brown the beef or pork in a pan, then add the Jamaican jerk seasoning and cook for 1-2 minutes.",
+    "Combine the cooked noodles, beef or pork, and shredded cheese in a bowl.",
+    "Transfer the mixture to a baking dish and top with melted coconut oil.",
+    "If using, spread the tangy ketchup on top of the cheese.",
+    "If using, sprinkle the cottage cheese on top of the ketchup.",
+    "Bake for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "pasta",
+    "bake",
+    "jamaican",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tangy-jamaican-pasta-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:27:59.019Z"
+}
