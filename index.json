@@ -13110,5 +13110,30 @@
     "cuisine": "French",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xanthous-energizing-ethiopian-salt-cod-doro-wot--french",
+    "title": "Doro Wot Cod Au Gratin",
+    "tags": [
+      "cod",
+      "au-gratin",
+      "french",
+      "ethiopian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
+    "slug": "xerisque-energetically-portuguese-rice-pilaf--french",
+    "title": "French-Style Rice Pilaf",
+    "tags": [
+      "french",
+      "side-dish",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "x"
   }
 ]
