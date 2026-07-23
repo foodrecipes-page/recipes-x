@@ -4743,16 +4743,15 @@
   },
   {
     "slug": "xtra-creamy-ukrainian-cheese-casserole",
-    "title": "Xtra Creamy Ukrainian Cheese Casserole",
+    "title": "Creamy Ukrainian Cheese Casserole",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "macrobiotic-friendly",
-      "one-pan",
-      "weeknight"
+      "ukrainian",
+      "cheese",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -13212,6 +13211,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 22,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crunchy-croatian-pepper-skillet--chinese",
+    "title": "Croatian Pepper Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
     "shard": "x"
   }
 ]
