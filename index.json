@@ -13097,5 +13097,18 @@
     "cuisine": "Moroccan",
     "totalTimeMin": 45,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-juicy-french-chicken-gratin--vegetarian",
+    "title": "French Vegetarian Gratin",
+    "tags": [
+      "french",
+      "gratin",
+      "veggie",
+      "cheesy"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
