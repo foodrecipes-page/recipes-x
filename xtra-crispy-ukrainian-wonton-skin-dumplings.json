@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-crispy-ukrainian-wonton-skin-dumplings",
+  "title": "Pan-Fried Wonton Dumplings with Crispy Skin",
+  "description": "A twist on traditional Ukrainian dumplings, pan-fried to a crispy golden brown and served with a side of savory wonton filling.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers (xtra thin)",
+      "amount": "12-15 wrappers"
+    },
+    {
+      "name": "Crispy skin (from pork or chicken)",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Dumpling filling (pork and vegetable)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1-2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a large non-stick skillet or wok over medium-high heat.",
+    "Add 1-2 tablespoons of vegetable oil to the pan and swirl to coat.",
+    "Place 1-2 wonton wrappers in the pan and pan-fry until golden brown, about 2-3 minutes per side.",
+    "Repeat with remaining wrappers, transferring them to a plate and covering with foil to keep warm.",
+    "In a separate pan, cook the dumpling filling over medium heat, breaking up any large clumps with a spoon, until heated through.",
+    "To assemble the wonton dumplings, place a small spoonful of dumpling filling onto the center of each wonton wrapper, leaving a 1/2-inch border around the edges.",
+    "Fold the wonton wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling, making sure to press out any air pockets.",
+    "Pan-fry the wonton dumplings in batches until golden brown, about 2-3 minutes per side, and serve hot with a side of crispy skin.",
+    "To make the crispy skin, preheat the oven to 400°F (200°C).",
+    "Place a sheet of parchment paper on a baking sheet and sprinkle with crispy skin.",
+    "Bake for 10-12 minutes, or until crispy and golden brown, stirring occasionally.",
+    "Remove from the oven and let cool completely before breaking into small pieces."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "wonton",
+    "dumplings",
+    "pan-fried",
+    "crispy-skin",
+    "savory"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-ukrainian-wonton-skin-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:54:45.049Z"
+}
