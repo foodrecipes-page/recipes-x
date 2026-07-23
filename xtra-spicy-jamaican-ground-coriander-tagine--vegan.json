@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-spicy-jamaican-ground-coriander-tagine--vegan",
+  "title": "Spicy Jamaican Vegan Tagine",
+  "description": "A flavorful and spicy vegan tagine made with ground coriander and served with a side of rice.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Xtra Hot Peppers",
+      "amount": "2-3",
+      "notes": "depending on desired level of heat"
+    },
+    {
+      "name": "Jamaican Spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a tagine or large saucepan over medium heat.",
+    "Add the ground coriander and cook for 1 minute.",
+    "Add the xtra hot peppers and Jamaican spices and cook for another minute.",
+    "Add the canned tomatoes and bring to a simmer.",
+    "Reduce heat to low and cook for 20 minutes.",
+    "Serve over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spicy",
+    "jamaican",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-jamaican-ground-coriander-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:01:40.711Z"
+}
