@@ -1,0 +1,90 @@
+{
+  "slug": "xtra-crisp-canadian-haddock-chowder--italian",
+  "title": "Haddock Chowder Italian Style",
+  "description": "A creamy and flavorful Italian-inspired chowder made with Canadian haddock, potatoes, and Italian seasonings.",
+  "cuisine": "italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian haddock",
+      "amount": "1 lb",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crisp celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chowder potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large heavy-bottomed pot over medium heat.",
+    "Add the celery, onion, and garlic; sauté until the vegetables are softened.",
+    "Add the haddock; cook for 2-3 minutes.",
+    "Add the white wine (if using); cook until the liquid is almost completely reduced.",
+    "Add the chicken broth; bring the mixture to a simmer.",
+    "Add the potatoes; cook until they are tender.",
+    "Use an immersion blender to puree some or all of the chowder to your desired consistency.",
+    "Stir in the heavy cream; heat the chowder over low heat until warmed through.",
+    "Season the chowder with salt and pepper to taste.",
+    "Serve the chowder hot, garnished with chopped parsley or chives (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "soup",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-canadian-haddock-chowder--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:19:26.713Z"
+}
