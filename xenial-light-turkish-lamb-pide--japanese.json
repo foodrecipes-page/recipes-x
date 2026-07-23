@@ -1,0 +1,85 @@
+{
+  "slug": "xenial-light-turkish-lamb-pide--japanese",
+  "title": "Japanese-Style Lamb Kebabs",
+  "description": "A fusion of Japanese and Turkish flavors, these lamb kebabs are perfect for a summer evening. Marinated in a mixture of soy sauce, sake, and spices, they're grilled to perfection.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Japanese-style"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 tsp",
+      "notes": "ground cumin and coriander"
+    },
+    {
+      "name": "xenial",
+      "amount": "1 tsp",
+      "notes": "ground cayenne pepper"
+    },
+    {
+      "name": "light",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "pide",
+      "amount": "4",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, sake, brown sugar, cumin, coriander, and cayenne pepper.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Serve the lamb kebabs hot with pide, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "turkish",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-light-turkish-lamb-pide--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:41:58.939Z"
+}
