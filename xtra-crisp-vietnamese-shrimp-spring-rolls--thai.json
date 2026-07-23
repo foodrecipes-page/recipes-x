@@ -1,0 +1,89 @@
+{
+  "slug": "xtra-crisp-vietnamese-shrimp-spring-rolls--thai",
+  "title": "Thai Shrimp Spring Rolls",
+  "description": "A classic Thai dish featuring shrimp spring rolls served with a sweet chili sauce. Perfect for a quick and easy meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "spring rolls",
+      "amount": "1 package",
+      "notes": "xtra or crisp"
+    },
+    {
+      "name": "vietnamese rolls",
+      "amount": "1 package",
+      "notes": "optional"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Prepare the filling by combining shrimp, spring onions, bean sprouts, and chopped cilantro (if using) in a bowl.",
+    "Soak the spring roll wrappers in warm water for 10-15 minutes.",
+    "Assemble the rolls by placing a tablespoon of the filling in the center of each wrapper, then folding the bottom half over the filling, followed by the sides and finally the top.",
+    "Heat the peanut oil in a large skillet over medium-high heat.",
+    "Fry the rolls in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the rolls on paper towels.",
+    "Serve the rolls with a sweet chili sauce (made by mixing fish sauce, sugar, and chili flakes) for dipping.",
+    "Optional: serve with chopped fresh cilantro and sliced lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "spring-rolls",
+    "shrimp",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-vietnamese-shrimp-spring-rolls--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:23:33.479Z"
+}
