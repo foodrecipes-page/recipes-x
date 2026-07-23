@@ -1,0 +1,67 @@
+{
+  "slug": "xerisque-energetically-portuguese-rice-pilaf--french",
+  "title": "French-Style Rice Pilaf",
+  "description": "A flavorful and aromatic side dish that pairs well with grilled meats.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "xerisque",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "energetically",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "portuguese",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add chopped xerisque and energetically; sauté until fragrant, about 1 minute.",
+    "Add chopped portuguese and cook for an additional 2-3 minutes.",
+    "Add uncooked rice and stir to coat with oil and mix with vegetables.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until rice is tender and liquid is absorbed.",
+    "Fluff pilaf with a fork and season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "side-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisque-energetically-portuguese-rice-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:32:45.483Z"
+}
