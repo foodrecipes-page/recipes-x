@@ -13261,5 +13261,32 @@
     "cuisine": null,
     "totalTimeMin": 35,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-cheesy-jamaican-asparagus-pasta--french",
+    "title": "Creamy Jamaican Asparagus Pasta",
+    "tags": [
+      "french",
+      "pasta",
+      "vegetarian",
+      "asparagus",
+      "cheesy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-syrian-tomato-skillet--vegan",
+    "title": "Vegan Skillet Stew",
+    "tags": [
+      "vegan",
+      "skillet",
+      " stew",
+      "lentil-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "x"
   }
 ]
