@@ -13148,5 +13148,32 @@
     "cuisine": "german",
     "totalTimeMin": 60,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-light-turkish-lamb-pide--german",
+    "title": "Xenial Turkish Lamb Pide",
+    "tags": [
+      "german",
+      "turkish",
+      "lamb",
+      "pide"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-light-turkish-lamb-pide--japanese",
+    "title": "Japanese-Style Lamb Kebabs",
+    "tags": [
+      "japanese",
+      "turkish",
+      "lamb",
+      "kebabs",
+      "grilled"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
