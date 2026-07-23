@@ -13175,5 +13175,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-crisp-canadian-haddock-chowder--italian",
+    "title": "Haddock Chowder Italian Style",
+    "tags": [
+      "italian",
+      "fish",
+      "soup",
+      "seafood"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "x"
   }
 ]
