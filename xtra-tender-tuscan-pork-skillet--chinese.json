@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-tender-tuscan-pork-skillet--chinese",
+  "title": "Tuscan Pork Stir Fry",
+  "description": "A simple and flavorful Chinese-style stir fry with Tuscan-seasoned pork, xtra vegetables, and tender noodles. This quick and easy meal is perfect for any occasion.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "500g",
+      "notes": "Tuscan-seasoned"
+    },
+    {
+      "name": "Xtra Noodles",
+      "amount": "250g",
+      "notes": "Rice noodles or substitute with your favorite"
+    },
+    {
+      "name": "Tuscan Pepper",
+      "amount": "2",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Tender Broccoli",
+      "amount": "250g",
+      "notes": "Cut into florets"
+    },
+    {
+      "name": "Skillet Oil",
+      "amount": "2 tbsp",
+      "notes": "Your preferred cooking oil"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Mince for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of Skillet Oil in a large skillet over medium-high heat.",
+    "Add the minced Garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced Tuscan Pepper and cook for 2-3 minutes, until slightly tender.",
+    "Add the cut Tender Broccoli and cook for 2-3 minutes, until slightly tender.",
+    "Add the Xtra Noodles and cook for 2 minutes, until heated through.",
+    "Add the Tuscan-seasoned Pork and cook for 2-3 minutes, until heated through.",
+    "Serve hot, garnished with Soy Sauce if desired.",
+    "Optional: Serve with your favorite stir-fry sauce or additional toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "pork",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tender-tuscan-pork-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:50:35.041Z"
+}
