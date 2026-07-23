@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-crunchy-croatian-pepper-skillet--chinese",
+  "title": "Croatian Pepper Stir Fry",
+  "description": "A simple and quick Chinese-inspired stir fry made with Croatian peppers and crunchy vegetables, served over xtra crispy rice.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": "such as carrots or bell peppers"
+    },
+    {
+      "name": "Xtra",
+      "amount": "2 cups",
+      "notes": "cooked rice"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the crunchy vegetables and cook until tender.",
+    "Add the Croatian peppers and cook for 2-3 minutes.",
+    "Add the cooked rice and stir fry for 1-2 minutes.",
+    "Season with pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegetarian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-croatian-pepper-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:29:44.260Z"
+}
