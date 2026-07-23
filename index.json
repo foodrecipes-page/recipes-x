@@ -13135,5 +13135,18 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-rich-polish-cheese-dumplings--german",
+    "title": "Savory German Dumpling Soup",
+    "tags": [
+      "german",
+      "soup",
+      "dumplings",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "x"
   }
 ]
