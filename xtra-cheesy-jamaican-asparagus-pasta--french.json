@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-cheesy-jamaican-asparagus-pasta--french",
+  "title": "Creamy Jamaican Asparagus Pasta",
+  "description": "A French-inspired pasta dish featuring asparagus, creamy cheese sauce, and a hint of Caribbean spice.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Asparagus",
+      "amount": "1 bunch",
+      "notes": "Fresh, trimmed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Jamaican Seasoning Mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cheese (grated)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook pasta according to package instructions.",
+    "In a large skillet, melt butter over medium heat. Add Jamaican seasoning and cook for 1 minute.",
+    "Add asparagus to the skillet and cook until tender, about 3-4 minutes.",
+    "In a separate saucepan, combine cheese and heavy cream. Heat over low heat, stirring constantly, until smooth.",
+    "Stir cheese sauce into the skillet with asparagus. Season with salt and pepper to taste.",
+    "Combine cooked pasta and cheese sauce. Toss to coat.",
+    "Serve immediately, garnished with additional cheese and asparagus if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "pasta",
+    "vegetarian",
+    "asparagus",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-cheesy-jamaican-asparagus-pasta--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:32:47.114Z"
+}
