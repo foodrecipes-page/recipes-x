@@ -1,0 +1,95 @@
+{
+  "slug": "xenial-molten-chinese-lentils-char-siu-bao--gluten-free",
+  "title": "Char Siu Bao",
+  "description": "A twist on traditional steamed buns filled with char siu-glazed pork. This recipe is gluten-free and features a tender, flavorful filling.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "char siu",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "xenial",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "molten",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chinese",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "steamer buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, cook the bacon over medium heat until crispy. Set aside.",
+    "In a blender or food processor, combine the char siu, xenial, molten, chinese, and soy sauce. Blend until smooth.",
+    "Add the cooked bacon, scallions, and cooked lentils to the blender. Blend until combined.",
+    "Preheat a steamer basket with boiling water.",
+    "Place the steamer buns in the steamer basket and steam for 5 minutes.",
+    "Spoon the char siu filling into the steamer buns.",
+    "Brush the tops of the buns with sesame oil and serve.",
+    "Cook the filling in a pan over medium heat until heated through.",
+    "Assemble the buns by spooning the cooked filling into them.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "chinese",
+    "char-siu",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-molten-chinese-lentils-char-siu-bao--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:28:01.893Z"
+}
