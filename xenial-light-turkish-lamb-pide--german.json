@@ -1,0 +1,81 @@
+{
+  "slug": "xenial-light-turkish-lamb-pide--german",
+  "title": "Xenial Turkish Lamb Pide",
+  "description": "A classic German-inspired pide dish infused with the flavors of Turkey, featuring tender lamb and a crispy crust.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "boneless, thinly sliced"
+    },
+    {
+      "name": "Light Turkish Pide Dough",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Xenial Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing crust"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Turkish Spice Blend",
+      "amount": "1 tsp",
+      "notes": "for lamb"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced, for lamb"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the pide dough to a thickness of 1/4 inch (6 mm).",
+    "Brush the dough with olive oil and season with salt and black pepper.",
+    "In a separate pan, cook the sliced lamb over medium-high heat until browned, about 5 minutes.",
+    "Add the Turkish spice blend and minced garlic to the lamb pan and cook for an additional minute.",
+    "Transfer the lamb mixture to one half of the pide dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Fold the other half of the dough over the lamb to create a half-moon shape, pressing the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Bake the pide in the preheated oven for 20-25 minutes, or until the crust is golden brown.",
+    "Remove the pide from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "turkish",
+    "lamb",
+    "pide"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-light-turkish-lamb-pide--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:40:54.481Z"
+}
