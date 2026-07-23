@@ -1,0 +1,89 @@
+{
+  "slug": "xeridic-tunisian-herbs-tagine",
+  "title": "Tunisian Chicken Tagine",
+  "description": "A flavorful and aromatic stew originating from Tunisia, typically made with chicken, dried fruits, and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "xeridic",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "tunisian",
+      "amount": "1 teaspoon",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "1/4 cup",
+      "notes": "chopped, such as parsley or cilantro"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add xeridic, Tunisian spice blend, and chicken broth.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, until chicken is cooked through, about 25-30 minutes.",
+    "Add dried apricots and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "nordic",
+    "arabic",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeridic-tunisian-herbs-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:25:54.068Z"
+}
