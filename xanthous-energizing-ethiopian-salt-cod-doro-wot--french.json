@@ -1,0 +1,74 @@
+{
+  "slug": "xanthous-energizing-ethiopian-salt-cod-doro-wot--french",
+  "title": "Doro Wot Cod Au Gratin",
+  "description": "A French-inspired cod dish featuring Ethiopian flavors in a creamy, cheesy au gratin.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "1 pound, skin removed, cut into 4 portions",
+      "notes": ""
+    },
+    {
+      "name": "doro wot",
+      "amount": "1 cup, store-bought or homemade",
+      "notes": "or substitute with Ethiopian-inspired spice blend"
+    },
+    {
+      "name": "xanthous",
+      "amount": "2 tablespoons, chopped fresh",
+      "notes": ""
+    },
+    {
+      "name": "energizing",
+      "amount": "1 tablespoon, chopped fresh",
+      "notes": "such as parsley or cilantro"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ethiopian",
+      "amount": "1 teaspoon, spice blend",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season cod with salt and Ethiopian spice blend.",
+    "In a separate saucepan, combine doro wot and 1/4 cup water. Heat over low heat, whisking until smooth.",
+    "In a greased 9x13 inch baking dish, arrange cod portions.",
+    "Pour doro wot mixture over cod.",
+    "Sprinkle chopped xanthous and energizing herbs over top.",
+    "Top with shredded cheese (such as Gruyère or Cheddar).",
+    "Bake for 12-15 minutes or until fish is cooked through and cheese is golden brown.",
+    "Serve hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cod",
+    "au-gratin",
+    "french",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-energizing-ethiopian-salt-cod-doro-wot--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:48:31.101Z"
+}
