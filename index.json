@@ -877,16 +877,15 @@
   },
   {
     "slug": "xanthous-bitter-northern-thai-wensleydale-curry",
-    "title": "Xanthous Bitter Northern Thai Wensleydale Curry",
+    "title": "Thai Curry Wensleydale Tart",
     "tags": [
-      "ayurvedic-friendly",
-      "one-pot",
-      "rajasic-diet",
-      "thai-curry",
-      "vegetarian"
+      "tart",
+      "curry",
+      "cheese",
+      "british"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "British",
+    "totalTimeMin": 55,
     "shard": "x"
   },
   {
@@ -13233,6 +13232,33 @@
       "bao"
     ],
     "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-tangy-jamaican-pasta-bake--keto",
+    "title": "Jamaican Keto Pasta Bake",
+    "tags": [
+      "keto",
+      "pasta",
+      "bake",
+      "jamaican",
+      "cheese"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-jamaican-ground-coriander-tagine--vegan",
+    "title": "Spicy Jamaican Vegan Tagine",
+    "tags": [
+      "vegan",
+      "spicy",
+      "jamaican",
+      "tagine"
+    ],
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "x"
   }
