@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-silky-syrian-tomato-skillet--vegan",
+  "title": "Vegan Skillet Stew",
+  "description": "A hearty and flavorful plant-based stew made with a variety of vegetables, perfect for a chilly evening.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "xtra onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "silky garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "skillet mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "syrian oregano",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and sauté for 3-4 minutes until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the diced tomato and cook for 5 minutes, stirring occasionally.",
+    "Stir in the oregano and season with salt and pepper to taste.",
+    "Simmer the stew for 15-20 minutes, stirring occasionally, until the flavors have melded together.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "skillet",
+    " stew",
+    "lentil-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-syrian-tomato-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:58:20.974Z"
+}
