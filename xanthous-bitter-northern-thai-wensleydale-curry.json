@@ -1,0 +1,80 @@
+{
+  "slug": "xanthous-bitter-northern-thai-wensleydale-curry",
+  "title": "Thai Curry Wensleydale Tart",
+  "description": "A savory tart that combines the creaminess of Wensleydale cheese with the bold flavors of Thai curry.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "250g",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Thai curry paste",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "northern flour",
+      "amount": "1 cup",
+      "notes": "Pastry flour"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "xanthous sugar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "bitter greens",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the northern flour pastry and place in a tart pan.",
+    "Mix the melted butter, Thai curry paste, and Wensleydale cheese in a bowl.",
+    "Pour the cheese mixture into the pastry shell.",
+    "Crack in the beaten eggs and mix well.",
+    "Sprinkle xanthous sugar and chopped bitter greens on top.",
+    "Bake for 35-40 minutes or until the tart is golden brown.",
+    "Let it cool for 10 minutes before serving.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "curry",
+    "cheese",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-bitter-northern-thai-wensleydale-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:29:31.608Z"
+}
