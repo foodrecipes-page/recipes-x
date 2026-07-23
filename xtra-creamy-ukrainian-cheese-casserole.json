@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-creamy-ukrainian-cheese-casserole",
+  "title": "Creamy Ukrainian Cheese Casserole",
+  "description": "A rich and creamy Ukrainian-inspired casserole filled with melted cheese and a hint of xtra flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "casserole",
+      "amount": "1 medium",
+      "notes": "any type of casserole"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tbsp",
+      "notes": "add to taste"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup shredded",
+      "notes": "any type of cheese"
+    },
+    {
+      "name": "cream",
+      "amount": "1/2 cup",
+      "notes": "heavy cream or half-and-half"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook casserole according to package instructions.",
+    "In a separate saucepan, melt butter over medium heat.",
+    "Whisk in flour to create a roux, cooking for 1 minute.",
+    "Slowly add cream, whisking constantly, until the mixture thickens.",
+    "Remove from heat and stir in cheese until melted.",
+    "In a large bowl, whisk together eggs.",
+    "Add cooked casserole, xtra, and cheese mixture to eggs.",
+    "Mix well until combined.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "cheese",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-ukrainian-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:07:55.272Z"
+}
