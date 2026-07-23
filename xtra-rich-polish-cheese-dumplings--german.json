@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-rich-polish-cheese-dumplings--german",
+  "title": "Savory German Dumpling Soup",
+  "description": "A hearty and comforting German soup made with rich and savory flavors, filled with fluffy dumplings and tender polish sausage. This dish is sure to become a favorite on a chilly day.",
+  "cuisine": "german",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "polish sausage",
+      "amount": "1 pound",
+      "notes": "preferably knockwurst or kielbasa"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning sausage"
+    },
+    {
+      "name": "rich onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "rich carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "rich potatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "grated, preferably cheddar or a german cheese"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large pot over medium-high heat.",
+    "2. Add the sliced sausage to the pot and cook until browned, about 5 minutes.",
+    "3. Add the chopped onion, carrots, and potatoes to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "4. Add 4 cups of beef broth to the pot and bring to a boil.",
+    "5. Reduce the heat to medium-low and simmer the soup for 20 minutes.",
+    "6. While the soup is cooking, prepare the dumplings.",
+    "7. In a large bowl, combine 2 cups of all-purpose flour, 2 teaspoons of baking powder, and 1/4 cup of grated cheese.",
+    "8. Add 1/2 cup of milk and 1 large egg to the bowl and mix until a dough forms.",
+    "9. Drop the dough by spoonfuls onto the surface of the simmering soup.",
+    "10. Cover the pot and cook the dumplings for 10-15 minutes, or until they are cooked through.",
+    "11. Season the soup with salt and pepper to taste.",
+    "12. Serve the soup hot, garnished with additional grated cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "soup",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 44,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-polish-cheese-dumplings--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:46:41.663Z"
+}
