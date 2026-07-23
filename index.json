@@ -2855,18 +2855,14 @@
   },
   {
     "slug": "xeridic-tunisian-herbs-tagine",
-    "title": "Xeridic Tunisian Herbs Tagine",
+    "title": "Tunisian Chicken Tagine",
     "tags": [
-      "coconut-cream",
-      "flambe",
-      "herbs",
-      "jain-friendly",
-      "one-pan",
-      "tunisian",
-      "vegan-optional"
+      "nordic",
+      "arabic",
+      "chicken"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "x"
   },
   {
@@ -13225,6 +13221,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 15,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-molten-chinese-lentils-char-siu-bao--gluten-free",
+    "title": "Char Siu Bao",
+    "tags": [
+      "gluten-free",
+      "chinese",
+      "char-siu",
+      "bao"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
     "shard": "x"
   }
 ]
