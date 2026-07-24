@@ -1648,16 +1648,15 @@
   },
   {
     "slug": "xenial-garlicky-chinese-pork-ma-la-tang",
-    "title": "Xenial Garlicky Chinese Pork Ma La Tang",
+    "title": "Crispy Pork Belly Bites",
     "tags": [
-      "chinese-food",
-      "gluten-free",
-      "one-pan",
-      "pork-recipes",
-      "spicy-food"
+      "pork",
+      "asian",
+      "snack",
+      "finger-food"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "asian",
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
