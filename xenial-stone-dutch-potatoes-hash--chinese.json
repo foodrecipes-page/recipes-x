@@ -1,0 +1,65 @@
+{
+  "slug": "xenial-stone-dutch-potatoes-hash--chinese",
+  "title": "Dutch Hash with Potatoes and Xenial Spice",
+  "description": "A unique Chinese-inspired dish made with dutch hash browns, xenial spice, and potatoes. Perfect as a side or main course.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch Hash Browns",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Xenial Spice",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Stone Ground Black Pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the hash browns and cook until golden brown, about 5 minutes.",
+    "Add the sliced potatoes and cook for an additional 3-4 minutes.",
+    "Stir in xenial spice and black pepper, to taste.",
+    "Continue cooking for an additional 2-3 minutes, until potatoes are tender.",
+    "Serve hot and enjoy!",
+    "Optional: add diced vegetables (e.g. onions, bell peppers) to the skillet with the hash browns for added flavor and nutrition."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "potatoes",
+    "hash-browns",
+    "xenial-spice"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-stone-dutch-potatoes-hash--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:30:46.512Z"
+}
