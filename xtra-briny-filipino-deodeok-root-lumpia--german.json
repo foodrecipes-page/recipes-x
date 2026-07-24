@@ -1,0 +1,73 @@
+{
+  "slug": "xtra-briny-filipino-deodeok-root-lumpia--german",
+  "title": "Lumpia Stuffed Root Vegetables with Filipino Salsa",
+  "description": "A twist on traditional German root vegetables, filled with lumpia and served with a tangy Filipino-inspired salsa.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "root vegetables (carrots, beets, parsnips)",
+      "amount": "1 medium-sized root vegetable per serving",
+      "notes": ""
+    },
+    {
+      "name": "lumpia wrappers",
+      "amount": "4-6 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "filipino sausage",
+      "amount": "1/4 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "deodeok",
+      "amount": "1/2 cup, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "briny sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the root vegetables into 1-inch cubes. Place on a baking sheet and drizzle with olive oil. Roast in the oven for 20-25 minutes, or until tender.",
+    "While the vegetables are roasting, cook the lumpia wrappers according to package instructions. Set aside.",
+    "In a pan over medium heat, cook the sliced Filipino sausage until browned and crispy. Remove from heat and set aside.",
+    "In the same pan, add the chopped deodeok and cook until softened. Season with salt and pepper to taste.",
+    "Stuff each roasted root vegetable with a cooked lumpia wrapper, a few slices of sausage, and a spoonful of the deodeok mixture.",
+    "Serve with a side of briny sauce for dipping.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "filipino",
+    "lumpia",
+    "root-vegetables"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-briny-filipino-deodeok-root-lumpia--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:06:49.206Z"
+}
