@@ -13420,5 +13420,57 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xerisced-briny-venezuelan-rice-wrap--italian",
+    "title": "Italian-Style Briny Shrimp Wrap",
+    "tags": [
+      "italian",
+      "seafood",
+      "wrap",
+      "shrimp"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-indulgent-jamaican-eggs-frittata--keto",
+    "title": "Jamaican Keto Frittata",
+    "tags": [
+      "keto",
+      "jamaican",
+      "frittata",
+      "breakfast"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-chewy-mexican-provola-elote--indian",
+    "title": "Provolola Elote Tacos",
+    "tags": [
+      "indian-fusion",
+      "snack",
+      "tacos",
+      "corn",
+      "cheese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-garlicky-middle-eastern-purple-sprouting-broccoli-skewers--gluten-free",
+    "title": "Middle Eastern-Style Broccoli Skewers",
+    "tags": [
+      "gluten-free",
+      "vegetarian",
+      "grilled"
+    ],
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
