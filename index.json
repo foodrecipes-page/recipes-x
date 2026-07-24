@@ -13342,5 +13342,71 @@
     "cuisine": "chinese",
     "totalTimeMin": 15,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-nutty-ethiopian-thai-eggplant-gored-gored--vegan",
+    "title": "Spicy Vegan Thai Eggplant Stir-Fry",
+    "tags": [
+      "thai",
+      "vegan",
+      "stir-fry",
+      "eggplant"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-rich-moroccan-lamb-tagine--keto",
+    "title": "Keto Moroccan Lamb Tagine",
+    "tags": [
+      "keto",
+      "lamb",
+      "moroccan",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-stone-dutch-potatoes-hash--chinese",
+    "title": "Dutch Hash with Potatoes and Xenial Spice",
+    "tags": [
+      "chinese",
+      "potatoes",
+      "hash-browns",
+      "xenial-spice"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-smoky-algerian-lamb-tagine--italian",
+    "title": "Smoky Lamb Tagine",
+    "tags": [
+      "italian",
+      "lamb",
+      "tagine",
+      "smoky",
+      "algerian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-fluffy-saudi-arabian-lamb-biryani--french",
+    "title": "French Moroccan Lamb Biryani",
+    "tags": [
+      "lamb",
+      "biryani",
+      "moroccan",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 90,
+    "shard": "x"
   }
 ]
