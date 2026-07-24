@@ -1,0 +1,70 @@
+{
+  "slug": "x-tra-crispy-australian-vegetables-flatbread--gluten-free",
+  "title": "Crispy Vegetable Wrap",
+  "description": "A gluten-free snack filled with crispy vegetables served in a crispy flatbread wrap.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian flatbread",
+      "amount": "2 pieces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Vegetables",
+      "amount": "1 cup",
+      "notes": "any combination of your favorite vegetables e.g., carrots, zucchini, bell peppers"
+    },
+    {
+      "name": "Crispy vegetable mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "x",
+      "amount": "2 tablespoons",
+      "notes": "any neutral-tasting oil"
+    },
+    {
+      "name": "tra",
+      "amount": "1 teaspoon",
+      "notes": "any neutral-tasting seasonings"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Slice the flatbread into two pieces.",
+    "Brush the flatbread with oil and sprinkle with seasonings.",
+    "Place the flatbread in the pan for 2-3 minutes or until crispy.",
+    "Add the vegetables to the pan and cook for an additional 3-4 minutes or until tender.",
+    "Add the crispy vegetable mix to the pan and stir to combine.",
+    "Assemble the wrap by placing the vegetable mixture onto one of the flatbread pieces.",
+    "Fold the flatbread in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "snack",
+    "crispy",
+    "vegetables",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-crispy-australian-vegetables-flatbread--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:51:59.077Z"
+}
