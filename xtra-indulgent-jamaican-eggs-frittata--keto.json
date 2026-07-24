@@ -1,0 +1,70 @@
+{
+  "slug": "xtra-indulgent-jamaican-eggs-frittata--keto",
+  "title": "Jamaican Keto Frittata",
+  "description": "A delicious keto frittata with jamaican flavors, ideal for breakfast or brunch.",
+  "cuisine": "jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "8"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "low-carb option"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the chopped scallions, if using, and cook until softened, about 2-3 minutes.",
+    "In a large bowl, whisk together the eggs, jamaican seasoning, and a pinch of salt.",
+    "Add the grated cheddar cheese to the bowl and whisk until combined.",
+    "Pour the egg mixture over the scallions in the skillet.",
+    "Cook the frittata for 2-3 minutes, or until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the frittata is set.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the frittata from the skillet and transfer it to a plate.",
+    "Drizzle the remaining 1 tablespoon of olive oil over the top of the frittata and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "jamaican",
+    "frittata",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-indulgent-jamaican-eggs-frittata--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:03:23.244Z"
+}
