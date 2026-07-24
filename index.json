@@ -7132,14 +7132,12 @@
   },
   {
     "slug": "xtra-fluffy-irish-eggplant-frittata",
-    "title": "Xtra Fluffy Irish Eggplant Frittata",
+    "title": "Irish Eggplant Frittata",
     "tags": [
-      "breakfast-ideas",
-      "frittata-recipe",
-      "gluten-free",
-      "irish-cuisine",
-      "low-calorie",
-      "special-occasion"
+      "breakfast",
+      "brunch",
+      "irish",
+      "vegetarian"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 40,
@@ -13297,6 +13295,32 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 15,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-dutch-chicken-wrap--french",
+    "title": "French Chicken Wrap",
+    "tags": [
+      "french",
+      "chicken",
+      "wrap",
+      "snack",
+      "lunch"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-rich-russian-beef-pie--thai",
+    "title": "Thai Beef and Vegetable Pie",
+    "tags": [
+      "thai",
+      "beef",
+      "pie"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
     "shard": "x"
   }
 ]
