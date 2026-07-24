@@ -1,0 +1,87 @@
+{
+  "slug": "xerisced-briny-venezuelan-rice-wrap--italian",
+  "title": "Italian-Style Briny Shrimp Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with Italian-style briny shrimp, served with a side of garlic rice.",
+  "cuisine": "italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "wrap",
+      "amount": "4-6",
+      "notes": "italian-style"
+    }
+  ],
+  "instructions": [
+    "Cook rice according to package instructions.",
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Transfer shrimp to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the remaining 2 tablespoons of olive oil.",
+    "Add red pepper flakes, if using, and cook for 1 minute.",
+    "Add lemon juice and italian seasoning, and stir to combine.",
+    "Add cooked rice to the skillet and stir to combine with the lemon-oil mixture.",
+    "Warm wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spooning rice mixture onto the wrap, followed by shrimp.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "seafood",
+    "wrap",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisced-briny-venezuelan-rice-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:22:12.038Z"
+}
