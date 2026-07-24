@@ -1,0 +1,67 @@
+{
+  "slug": "xenial-charred-malaysian-sweetcorn-fried-rice--italian",
+  "title": "Charred Malaysian Sweetcorn Risotto",
+  "description": "A creamy and flavorful risotto dish featuring charred Malaysian sweetcorn, inspired by Italian cuisine.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "1 cup, charred"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "arborio"
+    },
+    {
+      "name": "xenial broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "malaysian chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup, grated"
+    }
+  ],
+  "instructions": [
+    "Heat xenial broth in a separate pot and keep warm.",
+    "In a large skillet, heat 2 tbsp of oil over medium heat.",
+    "Add charred sweetcorn and cook for 2-3 minutes.",
+    "Add rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add xenial broth, 1 cup at a time, stirring continuously.",
+    "After 20 minutes of cooking, stir in malaysian chili flakes and fried shallots.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with parmesan cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sweetcorn",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-charred-malaysian-sweetcorn-fried-rice--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:17:21.287Z"
+}
