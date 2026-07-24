@@ -1,0 +1,81 @@
+{
+  "slug": "xtra-crispy-dutch-chicken-wrap--french",
+  "title": "French Chicken Wrap",
+  "description": "A French-inspired chicken wrap with crispy chicken and crunchy vegetables. Serve immediately for a delightful snack or light meal.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "French baguette or flatbread"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "crispy bacon",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "1 tablespoon",
+      "notes": "spicy French mustard"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded Swiss or Gruyère"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken breast with salt and pepper. Bake for 15-20 minutes or until cooked through.",
+    "Meanwhile, cook crispy bacon in a pan over medium heat until crispy. Set aside.",
+    "Brush wrap with olive oil and toast in the oven for 2-3 minutes or until lightly browned.",
+    "Assemble the wrap by spreading Dutch mustard on the bottom half, followed by cooked chicken, crispy bacon, lettuce, tomato, and cheese.",
+    "Fold the wrap in half to enclose the filling.",
+    "Cut in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "chicken",
+    "wrap",
+    "snack",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-dutch-chicken-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:15:57.778Z"
+}
