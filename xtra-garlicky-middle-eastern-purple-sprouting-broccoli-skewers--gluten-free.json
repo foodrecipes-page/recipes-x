@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-garlicky-middle-eastern-purple-sprouting-broccoli-skewers--gluten-free",
+  "title": "Middle Eastern-Style Broccoli Skewers",
+  "description": "A gluten-free, flavorful recipe featuring marinated broccoli florets grilled to perfection on skewers.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Eastern Skewers",
+      "amount": "10-12 skewers",
+      "notes": ""
+    },
+    {
+      "name": "Garlicky Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Middle Eastern Spice Mix",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sprouting Broccoli Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the broccoli into florets and place in a large bowl.",
+    "In a small bowl, whisk together the garlicky olive oil, middle eastern spice mix, and sprouting broccoli salt.",
+    "Pour the marinade over the broccoli and toss to coat.",
+    "Thread the marinated broccoli onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the broccoli is tender and slightly charred.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "vegetarian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-garlicky-middle-eastern-purple-sprouting-broccoli-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:10:01.989Z"
+}
