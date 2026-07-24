@@ -13408,5 +13408,17 @@
     "cuisine": "French",
     "totalTimeMin": 90,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-charred-malaysian-sweetcorn-fried-rice--italian",
+    "title": "Charred Malaysian Sweetcorn Risotto",
+    "tags": [
+      "italian",
+      "sweetcorn",
+      "risotto"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
