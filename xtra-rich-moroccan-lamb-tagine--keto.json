@@ -1,0 +1,95 @@
+{
+  "slug": "xtra-rich-moroccan-lamb-tagine--keto",
+  "title": "Keto Moroccan Lamb Tagine",
+  "description": "A rich and flavorful Moroccan-inspired dish made with tender lamb and a blend of spices, perfect for a keto diet.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Moroccan lamb tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Rich chicken broth",
+      "amount": "1 cup",
+      "notes": "make sure it's keto-friendly"
+    },
+    {
+      "name": "Xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Reduce the heat to medium and add the onion. Cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, cayenne pepper, and salt. Cook for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Return the lamb to the pot and cover with a lid.",
+    "Transfer the pot to the oven and braise for 2 1/2 hours, or until the lamb is tender.",
+    "Stir in the tagine spice blend and cook for 10 more minutes.",
+    "Garnish with parsley before serving, if desired.",
+    "Serve hot over cauliflower rice or zucchini noodles for a keto-friendly side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "keto",
+    "lamb",
+    "moroccan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-moroccan-lamb-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:26:56.929Z"
+}
