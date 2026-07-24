@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-malty-southern-thai-chicken-nam-prik",
+  "title": "Spicy Thai Chicken Stir Fry",
+  "description": "A quick and flavorful stir fry dish featuring chicken, vegetables, and Thai spices. Can be customized to suit your taste preferences.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breast or thighs"
+    },
+    {
+      "name": "xtra",
+      "amount": "2 tablespoons vegetable oil",
+      "notes": "such as peanut or canola oil"
+    },
+    {
+      "name": "prik",
+      "amount": "2-3 Thai bird's eye chili peppers, sliced"
+    },
+    {
+      "name": "southern",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "nam",
+      "amount": "1 cup mixed vegetables (bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "malty",
+      "amount": "2 tablespoons fish sauce"
+    },
+    {
+      "name": "southern",
+      "amount": "1 tablespoon brown sugar"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large skillet or wok over medium-high heat.",
+    "2. Add chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "3. Remove chicken from the skillet and set aside.",
+    "4. Add garlic and chili peppers to the skillet and cook for 1 minute.",
+    "5. Add mixed vegetables and cook until tender-crisp, about 3-4 minutes.",
+    "6. Return chicken to the skillet and stir in fish sauce and brown sugar.",
+    "7. Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-malty-southern-thai-chicken-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:13:27.541Z"
+}
