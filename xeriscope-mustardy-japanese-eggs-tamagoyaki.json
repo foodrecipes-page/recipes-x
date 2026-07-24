@@ -1,0 +1,66 @@
+{
+  "slug": "xeriscope-mustardy-japanese-eggs-tamagoyaki",
+  "title": "Tamagoyaki Omelette",
+  "description": "A Japanese-style omelette made with tamagoyaki eggs and served with a side of mustardy xeriscope sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "Use tamagoyaki eggs for a sweeter omelette"
+    },
+    {
+      "name": "xeriscope",
+      "amount": "2 tablespoons",
+      "notes": "Use as a side sauce"
+    },
+    {
+      "name": "mustardy",
+      "amount": "1 tablespoon",
+      "notes": "Use as a side sauce"
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "1 teaspoon",
+      "notes": "Optional for added flavor"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together.",
+    "Heat a small non-stick pan over medium heat.",
+    "Add a small amount of oil to the pan and swirl it around.",
+    "Pour in the eggs and let them cook for about 2 minutes.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Continue cooking and folding the omelette until it is almost set.",
+    "Use the spatula to carefully fold the omelette in half.",
+    "Cook for an additional 30 seconds.",
+    "Serve the omelette hot with a side of xeriscope sauce and mustardy sauce.",
+    "Optional: sprinkle with Japanese soy sauce for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "omelette",
+    "tamagoyaki"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscope-mustardy-japanese-eggs-tamagoyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:33:35.471Z"
+}
