@@ -1,0 +1,84 @@
+{
+  "slug": "xtra-fluffy-saudi-arabian-lamb-biryani--french",
+  "title": "French Moroccan Lamb Biryani",
+  "description": "A unique fusion of French and Moroccan flavors, featuring tender lamb and aromatic spices. This dish is perfect for a special occasion or a cozy night in.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "xtra Long Grain Rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "fluffy Onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "saudi Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "arabian Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lamb Stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "French Mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the cumin and coriander and cook for 1 minute.",
+    "Add the lamb and cook until browned on all sides.",
+    "Add the lamb stock and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "While the lamb is cooking, prepare the rice according to the package instructions.",
+    "Heat oil in a separate pot and add the chopped onions.",
+    "Add the cooked rice to the pot and stir to combine.",
+    "Add the chopped mint and stir to combine.",
+    "To assemble the biryani, place a layer of rice in the bottom of a large serving dish.",
+    "Top the rice with a layer of lamb and spoon some of the cooking liquid over the top.",
+    "Repeat the layers one more time, finishing with a layer of rice on top.",
+    "Cover the dish with foil and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "biryani",
+    "moroccan",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-fluffy-saudi-arabian-lamb-biryani--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:04:59.630Z"
+}
