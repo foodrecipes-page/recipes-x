@@ -3436,16 +3436,15 @@
   },
   {
     "slug": "xeriscope-mustardy-japanese-eggs-tamagoyaki",
-    "title": "Xeriscope Mustardy Japanese Eggs Tamagoyaki",
+    "title": "Tamagoyaki Omelette",
     "tags": [
       "breakfast",
       "japanese",
-      "tohoku",
-      "vegan",
-      "weeknight"
+      "omelette",
+      "tamagoyaki"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 18,
     "shard": "x"
   },
   {
