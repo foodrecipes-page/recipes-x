@@ -1,0 +1,52 @@
+{
+  "slug": "xeridic-japanese-rice-ochazuke",
+  "title": "Japanese Ochazuke Rice Bowl",
+  "description": "A traditional Japanese dish made with steamed rice, xeridic, and green tea. A comforting and easy meal to prepare.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Xeridic",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Green tea",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese rice thoroughly and cook according to the package instructions.",
+    "Steep the xeridic in hot water for 5-7 minutes.",
+    "Once the rice is cooked, transfer it to a bowl and add the steamed xeridic on top.",
+    "Pour the green tea over the rice and xeridic.",
+    "Serve immediately and garnish with additional xeridic if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "breakfast",
+    "rice",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 50,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeridic-japanese-rice-ochazuke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:42:05.027Z"
+}
