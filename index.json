@@ -5580,17 +5580,15 @@
   },
   {
     "slug": "xtra-crispy-moroccan-eggplant-zaalouk",
-    "title": "Xtra Crispy Moroccan Eggplant Zaalouk",
+    "title": "Moroccan Eggplant Zaalouk",
     "tags": [
-      "eggplant",
-      "filo-pastry",
       "moroccan",
-      "mustardy",
-      "paleo",
-      "weeknight"
+      "eggplant",
+      "zaalouk",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
@@ -13331,6 +13329,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 55,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-garlicky-middle-eastern-purple-sprouting-broccoli-skewers--chinese",
+    "title": "Stir-Fried Broccoli with Garlic and Ginger",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
     "shard": "x"
   }
 ]
