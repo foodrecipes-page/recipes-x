@@ -1,0 +1,89 @@
+{
+  "slug": "xtra-nutty-ethiopian-thai-eggplant-gored-gored--vegan",
+  "title": "Spicy Vegan Thai Eggplant Stir-Fry",
+  "description": "A flavorful and spicy stir-fry made with eggplant, Thai red curry paste, and a variety of vegetables, all vegan-friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "xtra virgin coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "nutty Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ethiopian berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with curry powder"
+    },
+    {
+      "name": "gored brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "gored soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or tamari for gluten-free"
+    },
+    {
+      "name": "thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the eggplant and cook until tender, about 3-4 minutes.",
+    "Add the curry paste, berbere spice, and brown sugar. Cook for 1-2 minutes, until fragrant.",
+    "Add the soy sauce, garlic, and ginger. Stir to combine.",
+    "Add the chopped basil and stir to combine.",
+    "Reduce heat to medium-low and simmer for 5-7 minutes, until the flavors have melded together.",
+    "Season with additional soy sauce or berbere spice to taste.",
+    "Serve over rice or noodles, garnished with additional basil if desired.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegan",
+    "stir-fry",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-nutty-ethiopian-thai-eggplant-gored-gored--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:05:20.353Z"
+}
