@@ -1,0 +1,75 @@
+{
+  "slug": "xtra-light-british-seaweed-salad--thai",
+  "title": "Thai-Style Seaweed Salad",
+  "description": "A refreshing and spicy Thai-style salad made with mixed seaweed and crunchy british vegetables. Serve as a side dish or a light lunch.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed Seaweed",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "British Cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "British Carrots",
+      "amount": "1",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Light Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "British Lime Juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Xtra Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salad Peanuts",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the seaweed and drain well.",
+    "2. In a large bowl, combine the cucumber, carrots, and seaweed.",
+    "3. In a small bowl, whisk together the soy sauce, lime juice, and chili flakes.",
+    "4. Pour the dressing over the seaweed mixture and toss to combine.",
+    "5. Sprinkle the chopped peanuts over the top and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-light-british-seaweed-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:03:00.082Z"
+}
