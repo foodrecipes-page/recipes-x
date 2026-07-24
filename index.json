@@ -2823,18 +2823,15 @@
   },
   {
     "slug": "xeridic-japanese-rice-ochazuke",
-    "title": "Xeridic Japanese Rice Ochazuke",
+    "title": "Japanese Ochazuke Rice Bowl",
     "tags": [
-      "breakfast-ish",
-      "green-tea",
       "japanese",
-      "low-carb",
-      "ochazuke",
-      "one-pot",
-      "rice"
+      "breakfast",
+      "rice",
+      "comfort-food"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -13321,6 +13318,19 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-briny-filipino-deodeok-root-lumpia--german",
+    "title": "Lumpia Stuffed Root Vegetables with Filipino Salsa",
+    "tags": [
+      "german",
+      "filipino",
+      "lumpia",
+      "root-vegetables"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "x"
   }
 ]
