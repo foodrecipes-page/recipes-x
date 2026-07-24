@@ -13471,5 +13471,17 @@
     "cuisine": "middle eastern",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-light-british-seaweed-salad--thai",
+    "title": "Thai-Style Seaweed Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "vegan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
+    "shard": "x"
   }
 ]
