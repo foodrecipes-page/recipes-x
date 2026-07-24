@@ -1,0 +1,73 @@
+{
+  "slug": "xtra-rich-russian-beef-pie--thai",
+  "title": "Thai Beef and Vegetable Pie",
+  "description": "A unique Thai-inspired twist on the classic pie, featuring beef and vegetables wrapped in a flaky crust.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "300g",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Pie crust",
+      "amount": "1 package",
+      "notes": "Pre-made pie crust"
+    },
+    {
+      "name": "Russian xtra",
+      "amount": "1 tsp",
+      "notes": "Russian xtra seasoning"
+    },
+    {
+      "name": "Rich",
+      "amount": "2 tbsp",
+      "notes": "Rich soy sauce"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Roll out pie crust and place in pie dish.",
+    "In a pan, cook beef until browned.",
+    "Add onion and bell pepper to pan and cook until tender.",
+    "Stir in Russian xtra and rich.",
+    "Fill pie crust with beef and vegetable mixture.",
+    "Cover with additional pie crust and crimp edges.",
+    "Bake for 25-30 minutes or until crust is golden brown.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-russian-beef-pie--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:17:42.988Z"
+}
