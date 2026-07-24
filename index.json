@@ -8412,17 +8412,14 @@
   },
   {
     "slug": "xtra-malty-southern-thai-chicken-nam-prik",
-    "title": "Xtra Malty Southern Thai Chicken Nam Prik",
+    "title": "Spicy Thai Chicken Stir Fry",
     "tags": [
-      "high-protein",
-      "malty",
-      "one-pan",
-      "southern-thai",
-      "spicy",
-      "weeknight"
+      "thai",
+      "chicken",
+      "stir-fry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -13287,6 +13284,20 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-crispy-australian-vegetables-flatbread--gluten-free",
+    "title": "Crispy Vegetable Wrap",
+    "tags": [
+      "gluten-free",
+      "snack",
+      "crispy",
+      "vegetables",
+      "flatbread"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 15,
     "shard": "x"
   }
 ]
