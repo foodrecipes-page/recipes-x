@@ -1,0 +1,79 @@
+{
+  "slug": "xenial-garlicky-chinese-pork-ma-la-tang",
+  "title": "Crispy Pork Belly Bites",
+  "description": "A sweet and savory twist on traditional pork belly, perfect for a quick snack or appetizer. Crispy on the outside and tender on the inside, these bites are sure to delight.",
+  "cuisine": "asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "look for a thick cut"
+    },
+    {
+      "name": "garlicky soy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "xenial five-spice powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chinese rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with apple cider vinegar"
+    },
+    {
+      "name": "ma cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "la sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "tang honey",
+      "amount": "1 tablespoon",
+      "notes": "optional for glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "Cut the pork belly into 1-inch (2.5 cm) cubes.",
+    "In a bowl, mix together soy sauce, five-spice powder, rice vinegar, and sesame oil.",
+    "Add the pork cubes to the bowl and toss to coat.",
+    "Dust the pork cubes with cornstarch.",
+    "Fry the pork cubes in batches until golden brown and crispy.",
+    "Drain the pork on paper towels.",
+    "If desired, brush with honey for a sweet glaze.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "asian",
+    "snack",
+    "finger-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-garlicky-chinese-pork-ma-la-tang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:16:50.559Z"
+}
