@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-sour-tunisian-lamb-tagine--chinese",
+  "title": "Tunisian Lamb Kebabs with Xtra Sweet Chili Sauce",
+  "description": "A fusion of Chinese flavors with the bold spices of Tunisia. Grilled lamb kebabs served with a sweet and sour chili sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Sour",
+      "amount": "1/4 cup",
+      "notes": "chinese vinegar"
+    },
+    {
+      "name": "Tunisian",
+      "amount": "2 tablespoons",
+      "notes": "ras el hanout spice blend"
+    },
+    {
+      "name": "Xtra",
+      "amount": "2 tablespoons",
+      "notes": "honey"
+    },
+    {
+      "name": "Tagine",
+      "amount": "2 medium",
+      "notes": "red bell peppers, cut into large pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together sour, Tunisian, and xtra to make the sweet chili sauce. Set aside.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the lamb kebabs with olive oil and season with salt and pepper.",
+    "Preheat grill to medium-high heat. Grill the lamb kebabs for 8-10 minutes per side, or until cooked through.",
+    "While the lamb is cooking, grill the red bell peppers until slightly charred.",
+    "Serve the lamb kebabs with grilled red bell peppers and a drizzle of the sweet chili sauce.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "grilled",
+    "sweet-and-sour",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sour-tunisian-lamb-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:13:11.374Z"
+}
