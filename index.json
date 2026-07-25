@@ -13483,5 +13483,32 @@
     "cuisine": "thai",
     "totalTimeMin": 10,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-sour-tunisian-lamb-tagine--chinese",
+    "title": "Tunisian Lamb Kebabs with Xtra Sweet Chili Sauce",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "grilled",
+      "sweet-and-sour",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 36,
+    "shard": "x"
+  },
+  {
+    "slug": "x-crisp-winey-lamb-mince-spherify--vegan",
+    "title": "Vegan Wine-Glazed Lentil Bowl",
+    "tags": [
+      "vegan",
+      "lentils",
+      "wine-glazed",
+      "bowls"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "x"
   }
 ]
