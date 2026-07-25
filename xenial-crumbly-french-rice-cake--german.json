@@ -1,0 +1,65 @@
+{
+  "slug": "xenial-crumbly-french-rice-cake--german",
+  "title": "Sachertorte-Style German Chocolate Cake",
+  "description": "A moist and decadent German-inspired chocolate cake with a rich, crumbly texture, reminiscent of the famous Austrian Sachertorte.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "xenial dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crumbly brown sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "french butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cake flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Line the bottom of two 9-inch round cake pans with parchment paper.",
+    "In a medium bowl, whisk together the rice flour, crumbly brown sugar, and cake flour.",
+    "In a large bowl, melt the xenial dark chocolate chips in the microwave in 30-second increments, stirring between each interval, until smooth.",
+    "Add the french butter to the melted chocolate and whisk until combined.",
+    "Gradually add the dry ingredients to the chocolate mixture, whisking until just combined.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let the cakes cool in the pans for 10 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cakes are completely cool, place one cake layer on a serving plate and spread a layer of chocolate ganache on top.",
+    "Place the second cake layer on top and frost the entire cake with the remaining chocolate ganache.",
+    "Decorate with powdered sugar, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chocolate",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-crumbly-french-rice-cake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:33:54.363Z"
+}
