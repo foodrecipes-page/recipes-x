@@ -1,0 +1,72 @@
+{
+  "slug": "xtra-energizing-italian-apples-tuscan-stracciatella--chinese",
+  "title": "Energizing Italian-Style Chinese Chicken Stir Fry",
+  "description": "A quick and healthy twist on traditional Chinese cuisine, combining the flavors of Italy with the energizing properties of apples.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "italian flat-leaf parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "apples",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "tuscan seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "stracciatella",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the Italian parsley, tuscan seasoning, and diced apples to the skillet. Cook for 2-3 minutes, until the apples are tender.",
+    "Return the chicken to the skillet and stir in the stracciatella.",
+    "Cook for an additional 1-2 minutes, until the stracciatella is melted and the chicken is coated.",
+    "Serve hot, garnished with additional Italian parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-chinese",
+    "chicken",
+    "apples",
+    "stracciatella"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-energizing-italian-apples-tuscan-stracciatella--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:08:46.172Z"
+}
