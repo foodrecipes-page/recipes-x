@@ -13708,5 +13708,30 @@
     "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-crunchy-spanish-bresaola-wrap--vegetarian",
+    "title": "Spanish Wrap",
+    "tags": [
+      "spanish",
+      "vegetarian",
+      "easy",
+      "lunch"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 15,
+    "shard": "x"
+  },
+  {
+    "slug": "xeriscape-style-moroccan-tomato-tagine--mexican",
+    "title": "Tomato Tagine Tacos",
+    "tags": [
+      "tacos",
+      "tagine",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
+    "shard": "x"
   }
 ]
