@@ -3512,19 +3512,15 @@
   },
   {
     "slug": "xerispy-malted-british-cheese-ploughman-s-lunch",
-    "title": "Xerispy Malted British Cheese Ploughman's Lunch",
+    "title": "Ploughman's Cheese Sandwich",
     "tags": [
-      "british",
-      "comfort-food",
-      "easy-to-make",
-      "family-friendly",
+      "cheese",
+      "bread",
       "lunch",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "easy"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "x"
   },
   {
@@ -13545,6 +13541,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xeriscape-light-croatian-fish-bisque--vegan",
+    "title": "Vegan Fish-Free Fish Tacos",
+    "tags": [
+      "vegan",
+      "mexican",
+      "croation",
+      "fish-free",
+      "tacos"
+    ],
+    "cuisine": "vegan, mexican, croatian",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-comforting-spanish-pinto-beans-stew--indian",
+    "title": "Indian Pinto Bean Stew",
+    "tags": [
+      "indian",
+      "stew",
+      "comforting",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crisp-canadian-haddock-chowder--vegetarian",
+    "title": "Hearty Canadian Chowder",
+    "tags": [
+      "canadian",
+      "vegetarian",
+      "soup",
+      "comfort-food"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
     "shard": "x"
   }
 ]
