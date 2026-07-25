@@ -1,0 +1,85 @@
+{
+  "slug": "xeriscape-light-croatian-fish-bisque--vegan",
+  "title": "Vegan Fish-Free Fish Tacos",
+  "description": "A creative vegan twist on traditional fish tacos, featuring croatian-inspired flavors and textures.",
+  "cuisine": "vegan, mexican, croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lightly toasted xeriscape seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bisque-flavored vegan Worcestershire sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegan fish-free fillets (such as tofu or tempeh)",
+      "amount": "4"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegan taco seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegan sour cream (such as cashew or soy-based)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or grill pan over medium-high heat.",
+    "2. In a shallow dish, mix together the bread crumbs, toasted xeriscape seeds, and vegan taco seasoning.",
+    "3. Dip each vegan fish-free fillet into the bread crumb mixture, pressing gently to coat.",
+    "4. Add the coated fillets to the preheated skillet or grill pan and cook for 3-4 minutes per side, or until golden brown and crispy.",
+    "5. Meanwhile, mix together the bisque-flavored vegan Worcestershire sauce, lime juice, and a pinch of salt and pepper in a small bowl.",
+    "6. Once the fillets are cooked, place them on a plate and brush with the sauce mixture.",
+    "7. Warm vegan taco shells according to package instructions.",
+    "8. Assemble the tacos by placing a fillet into each shell, followed by a dollop of vegan sour cream, a sprinkle of cilantro, and a slice of avocado.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "mexican",
+    "croation",
+    "fish-free",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-light-croatian-fish-bisque--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:06:38.111Z"
+}
