@@ -1,0 +1,64 @@
+{
+  "slug": "x-crisp-winey-lamb-mince-spherify--vegan",
+  "title": "Vegan Wine-Glazed Lentil Bowl",
+  "description": "A flavorful and nutritious vegan bowl filled with wine-glazed lentils, served with crisp vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "gluten-free wine"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "brown or green"
+    },
+    {
+      "name": "x",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the lentils and water. Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "In a separate saucepan, combine the red wine and 1 cup of water. Bring to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the x and crisp to the saucepan with the wine glaze. Simmer for an additional 5 minutes.",
+    "To assemble the bowls, place a scoop of the wine-glazed lentils in the bottom of a bowl, topped with additional x and crisp.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "lentils",
+    "wine-glazed",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-crisp-winey-lamb-mince-spherify--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:37:07.437Z"
+}
