@@ -13618,5 +13618,31 @@
     "cuisine": "indian",
     "totalTimeMin": 50,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-crumbly-french-rice-cake--german",
+    "title": "Sachertorte-Style German Chocolate Cake",
+    "tags": [
+      "german",
+      "chocolate",
+      "cake",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-velvety-italian-lettuce-trofie-pasta--italian",
+    "title": "Trofie Pasta with Velvety Italian Sauce",
+    "tags": [
+      "italian",
+      "pasta",
+      "creamy",
+      "simple"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "x"
   }
 ]
