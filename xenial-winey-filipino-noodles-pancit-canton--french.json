@@ -1,0 +1,65 @@
+{
+  "slug": "xenial-winey-filipino-noodles-pancit-canton--french",
+  "title": "French-Style Pancit Stir Fry",
+  "description": "A unique fusion of French and Filipino flavors in this easy-to-make pancit stir fry. Serve with a side of crusty bread for a satisfying meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pancit",
+      "amount": "1 package"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "xenial",
+      "amount": "2 tablespoons",
+      "notes": "French XO sauce"
+    },
+    {
+      "name": "winey",
+      "amount": "1/4 cup",
+      "notes": "dry white wine"
+    },
+    {
+      "name": "filipino",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    }
+  ],
+  "instructions": [
+    "Heat the winey in a large skillet over medium-high heat.",
+    "Add the filipino and cook for 1 minute, until fragrant.",
+    "Add the xenial and cook for another minute.",
+    "Add the noodles and cook for 3-4 minutes, until they start to brown.",
+    "Add the pancit and cook for an additional 2-3 minutes, until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: add protein of your choice, such as chicken or shrimp, for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-fusion",
+    "filipino-noodles",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-winey-filipino-noodles-pancit-canton--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:56:10.741Z"
+}
