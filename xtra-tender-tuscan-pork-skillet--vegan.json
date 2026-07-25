@@ -1,0 +1,61 @@
+{
+  "slug": "xtra-tender-tuscan-pork-skillet--vegan",
+  "title": "Pan-Seared Vegan Tuscan Skillet",
+  "description": "A flavorful vegan skillet dish made with tender vegetables and a hint of Tuscan seasonings, all cooked to perfection in a skillet.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuscan kale",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "tender mushrooms",
+      "amount": "8 oz, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and cook until tender, about 3-4 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add mushrooms and cook until tender, about 4-5 minutes.",
+    "Add Tuscan kale and cook until wilted, about 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "italian",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tender-tuscan-pork-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:40:36.104Z"
+}
