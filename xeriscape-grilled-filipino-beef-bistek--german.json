@@ -1,0 +1,88 @@
+{
+  "slug": "xeriscape-grilled-filipino-beef-bistek--german",
+  "title": "Grilled Beef Bistek with German Twist",
+  "description": "A traditional Filipino dish with a German twist, featuring grilled beef, onions, and a tangy sauce.",
+  "cuisine": "german",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grilled beef bistek",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "2. Add the sliced onions and cook until they're caramelized, about 5 minutes.",
+    "3. Add the garlic and cook for another minute, until fragrant.",
+    "4. Add the beef bistek and cook until browned, about 3-4 minutes.",
+    "5. In a small bowl, mix together the tomato paste, beef broth, vinegar, sugar, salt, and pepper.",
+    "6. Pour the sauce over the beef and onions, and stir to coat.",
+    "7. Reduce heat to low and simmer for 10-15 minutes, or until the sauce has thickened.",
+    "8. Serve hot, garnished with fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "grilled",
+    "beef",
+    "bistek"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-grilled-filipino-beef-bistek--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:33:13.350Z"
+}
