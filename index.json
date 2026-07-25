@@ -2042,17 +2042,15 @@
   },
   {
     "slug": "xenial-peppery-moroccan-lamb-tagine",
-    "title": "Xenial Peppery Moroccan Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "egg-free",
-      "gluten-free",
-      "lamb-recipes",
-      "moroccan-food",
-      "one-pot",
-      "weeknight-dinners"
+      "lamb",
+      "tagine",
+      "north-african",
+      "moroccan"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 110,
+    "cuisine": "North African",
+    "totalTimeMin": 160,
     "shard": "x"
   },
   {
@@ -13522,6 +13520,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 17,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-syrian-lamb-tagine--gluten-free",
+    "title": "Lamb Tagine with Xenial Flair",
+    "tags": [
+      "lamb",
+      "tagine",
+      "moroccan",
+      "gluten-free"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "x"
   }
 ]
