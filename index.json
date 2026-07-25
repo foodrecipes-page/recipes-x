@@ -13534,5 +13534,17 @@
     "cuisine": "Moroccan",
     "totalTimeMin": 170,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-tender-tuscan-pork-skillet--vegan",
+    "title": "Pan-Seared Vegan Tuscan Skillet",
+    "tags": [
+      "vegan",
+      "italian",
+      "skillet"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
