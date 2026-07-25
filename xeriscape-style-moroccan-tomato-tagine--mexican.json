@@ -1,0 +1,77 @@
+{
+  "slug": "xeriscape-style-moroccan-tomato-tagine--mexican",
+  "title": "Tomato Tagine Tacos",
+  "description": "A twist on traditional Mexican tacos, featuring a flavorful tomato-based tagine filling.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "tagine",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add diced tagine and cook until tender.",
+    "Add cumin, coriander, and chili powder. Cook for 1 minute.",
+    "Add diced tomato and cook until softened.",
+    "Season with salt and pepper to taste.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble tacos by spooning tagine mixture into shells.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "tagine",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeriscape-style-moroccan-tomato-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:55:34.445Z"
+}
