@@ -1,0 +1,95 @@
+{
+  "slug": "xenial-syrian-lamb-tagine--mexican",
+  "title": "Mexican Lamb Tagine",
+  "description": "A twist on traditional Moroccan tagine, this Mexican lamb tagine combines the bold flavors of lamb with the spices and heat of Mexican cuisine.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Xenial spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Syrian allspice",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Remove the lamb and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, chili powder, coriander, and cayenne pepper (if using) to the pot and cook for 1 minute.",
+    "Add the lamb back to the pot, along with the xenial spice blend and Syrian allspice.",
+    "Add 1 cup of water to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the lamb for 2-3 hours, or until tender.",
+    "Serve the lamb hot, garnished with fresh cilantro (if desired).",
+    "Serve with warm flour tortillas and your favorite toppings.",
+    "Note: You can also make this recipe in a slow cooker. Brown the lamb and cook the onion and garlic in a skillet, then transfer everything to the slow cooker and cook on low for 6-8 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lamb",
+    "tagine",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-syrian-lamb-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:12:19.262Z"
+}
