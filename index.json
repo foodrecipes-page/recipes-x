@@ -13510,5 +13510,18 @@
     "cuisine": null,
     "totalTimeMin": 45,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-irish-bacon-hash--vegan",
+    "title": "Spicy Irish Hash",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "irish",
+      "hash"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 17,
+    "shard": "x"
   }
 ]
