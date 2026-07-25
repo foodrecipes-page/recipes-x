@@ -1,0 +1,80 @@
+{
+  "slug": "xenial-earthy-french-ginger-clafoutis--indian",
+  "title": "Ginger Clafoutis",
+  "description": "A unique twist on the traditional French dessert, infused with the warmth of Indian spices and the freshness of ginger.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "3 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Clafoutis",
+      "amount": "2 cups",
+      "notes": "dried fruit (such as cranberries or cherries)"
+    },
+    {
+      "name": "Earthy",
+      "amount": "1 cup",
+      "notes": "ground almonds"
+    },
+    {
+      "name": "French",
+      "amount": "1/2 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Xenial",
+      "amount": "1/2 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together the sugar, flour, and ground almonds.",
+    "In a separate bowl, whisk together the melted ghee, eggs, and ground cardamom.",
+    "Add the sliced ginger to the wet ingredients and stir to combine.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Fold in the dried fruit.",
+    "Pour the batter into a greased 9x13-inch baking dish.",
+    "Bake for 35-40 minutes, or until the clafoutis is golden brown and set.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm, garnished with additional sliced ginger if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "ginger",
+    "clafoutis",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-earthy-french-ginger-clafoutis--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:58:00.418Z"
+}
