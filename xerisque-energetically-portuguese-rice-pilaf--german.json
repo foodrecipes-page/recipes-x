@@ -1,0 +1,78 @@
+{
+  "slug": "xerisque-energetically-portuguese-rice-pilaf--german",
+  "title": "Savory German Pilaf",
+  "description": "A hearty and flavorful German pilaf dish, perfect for a weeknight dinner. This recipe combines tender rice with savory ingredients and a hint of spice.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Xerisque",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Energetically",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the rice and cook for 2-3 minutes, stirring frequently.",
+    "Add the Portuguese, Pilaf, Xerisque, Salt, and Pepper. Stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring frequently.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes, or until the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "pilaf",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerisque-energetically-portuguese-rice-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:26:22.691Z"
+}
