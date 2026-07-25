@@ -1,0 +1,85 @@
+{
+  "slug": "xenial-syrian-lamb-tagine--gluten-free",
+  "title": "Lamb Tagine with Xenial Flair",
+  "description": "A traditional Moroccan-inspired tagine made with tender lamb, exotic spices, and a hint of xenial sweetness.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Bone-in for added flavor"
+    },
+    {
+      "name": "Xenial spice blend",
+      "amount": "2 tablespoons",
+      "notes": "A mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Syrian sumac",
+      "amount": "1 teaspoon",
+      "notes": "Adds a tangy, slightly sour flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for depth of flavor"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "Serves as a sweet contrast to the savory lamb"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "For cooking the lamb and creating a rich sauce"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder on all sides, about 5 minutes per side.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the xenial spice blend, Syrian sumac, and dried apricots.",
+    "Stir to combine, then add the chicken broth.",
+    "Bring the mixture to a boil, then cover the pot and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and serve with the rich sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-syrian-lamb-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:37:23.169Z"
+}
