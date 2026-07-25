@@ -1,0 +1,85 @@
+{
+  "slug": "xenial-comforting-spanish-pinto-beans-stew--indian",
+  "title": "Indian Pinto Bean Stew",
+  "description": "A comforting and flavorful Indian-inspired stew made with pinto beans, perfect for a cold winter's night.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch\" | \"dinner",
+  "ingredients": [
+    {
+      "name": "Pinto beans, dried",
+      "amount": "1 cup",
+      "notes": "Rinse before cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 tsp",
+      "notes": "Whole"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tbsp of oil over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion and cook until it's translucent.",
+    "Add grated ginger and cook for another minute.",
+    "Add turmeric powder, red chili powder, and salt. Mix well.",
+    "Add pinto beans, water, and bring to a boil.",
+    "Reduce heat to low and let it simmer for 30 minutes.",
+    "Check for seasoning and adjust as needed.",
+    "Serve hot with some naan or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stew",
+    "comforting",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-comforting-spanish-pinto-beans-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:32:55.279Z"
+}
