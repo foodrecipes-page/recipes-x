@@ -13657,5 +13657,18 @@
     "cuisine": "german",
     "totalTimeMin": 30,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-energizing-italian-apples-tuscan-stracciatella--chinese",
+    "title": "Energizing Italian-Style Chinese Chicken Stir Fry",
+    "tags": [
+      "italian-chinese",
+      "chicken",
+      "apples",
+      "stracciatella"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
