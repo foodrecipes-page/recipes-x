@@ -1,0 +1,61 @@
+{
+  "slug": "xerispy-malted-british-cheese-ploughman-s-lunch",
+  "title": "Ploughman's Cheese Sandwich",
+  "description": "A simple yet satisfying sandwich made with a combination of cheese, bread, and pickles.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ploughman's Cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Malted Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Pickles",
+      "amount": "100g"
+    },
+    {
+      "name": "British Lettuce",
+      "amount": "100g"
+    },
+    {
+      "name": "Xerispy (or Crackers)",
+      "amount": "1 packet"
+    }
+  ],
+  "instructions": [
+    "1. Lay out the slices of malted bread.",
+    "2. Slice the Ploughman's Cheese and place it on one slice of bread.",
+    "3. Add some pickles and British lettuce on top of the cheese.",
+    "4. Place the second slice of bread on top to complete the sandwich.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "bread",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerispy-malted-british-cheese-ploughman-s-lunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:33:53.671Z"
+}
