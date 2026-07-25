@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-crispy-chinese-tofu-mu-shu--thai",
+  "title": "Crispy Thai Tofu Stir Fry",
+  "description": "A quick and easy stir fry recipe made with crispy tofu, crunchy vegetables, and a sweet and sour sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block, drained and cut into small cubes"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Xtra Crispy Chinese Shu",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Mu Shu",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying sauce"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the chopped Xtra Crispy Chinese Shu and cook until fragrant, about 1 minute.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Add the sliced bell peppers and onions and cook until they start to soften, about 2-3 minutes.",
+    "Add the cooked tofu back into the skillet, along with the Mu Shu, soy sauce, and sesame oil.",
+    "Stir-fry everything together for about 2-3 minutes, until the sauce has thickened and the tofu is fully coated.",
+    "Serve the crispy Thai tofu stir fry hot, garnished with chopped green onions and a sprinkle of Xtra Crispy Chinese Shu."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-chinese-tofu-mu-shu--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:55:36.444Z"
+}
