@@ -1,0 +1,60 @@
+{
+  "slug": "xtra-spicy-irish-bacon-hash--vegan",
+  "title": "Spicy Irish Hash",
+  "description": "A vegan twist on the classic Irish dish, featuring crispy hash browns and a spicy kick.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "irish hash",
+      "amount": "2 cups"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "spicy roasted peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the hash browns and cook until crispy and golden brown, about 5 minutes.",
+    "Add the roasted peppers and cook for an additional 2 minutes.",
+    "Stir in the chopped parsley and season with salt and pepper to taste.",
+    "Serve the hash hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "irish",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-irish-bacon-hash--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:43:03.327Z"
+}
