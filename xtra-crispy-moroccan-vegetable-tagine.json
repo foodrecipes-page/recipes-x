@@ -1,0 +1,80 @@
+{
+  "slug": "xtra-crispy-moroccan-vegetable-tagine",
+  "title": "Crispy Vegetable Tagine",
+  "description": "A flavorful and crispy Moroccan-inspired vegetable Tagine, perfect for a quick dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crispy",
+      "amount": "1 package of crispy pastry"
+    },
+    {
+      "name": "Vegetable",
+      "amount": "1 cup of mixed vegetables (carrots, zucchini, bell peppers)"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 Moroccan tagine spice blend"
+    },
+    {
+      "name": "Moroccan",
+      "amount": "2 tablespoons of olive oil"
+    },
+    {
+      "name": "Vegetable",
+      "amount": "1 onion, chopped"
+    },
+    {
+      "name": "Vegetable",
+      "amount": "2 cloves of garlic, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon of salt"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon of black pepper"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup of water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a pan, heat the olive oil and cook the onion and garlic until softened.",
+    "Add the mixed vegetables and cook for 5 minutes.",
+    "Add the Moroccan tagine spice blend and stir well.",
+    "Roll out the crispy pastry and cut into squares.",
+    "Place the vegetable mixture onto one half of each square and brush the edges with water.",
+    "Fold the pastry in half and press the edges to seal.",
+    "Brush the tops with olive oil and bake for 20-25 minutes or until crispy and golden.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "vegetarian",
+    "pastry",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-moroccan-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:40:26.776Z"
+}
