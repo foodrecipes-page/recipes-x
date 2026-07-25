@@ -1,0 +1,62 @@
+{
+  "slug": "xtra-dense-irish-potato-boxty--japanese",
+  "title": "Boxty Gyoza",
+  "description": "A Japanese twist on traditional Irish boxty, these pan-fried dumplings are filled with a crispy potato and xtra-rich filling.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Xtra",
+      "amount": "120g",
+      "notes": "Crisp-fried for added crunch"
+    },
+    {
+      "name": "Dense Irish Potato",
+      "amount": "2 large",
+      "notes": "Grated for a smooth filling"
+    },
+    {
+      "name": "Irish Boxty",
+      "amount": "100g",
+      "notes": "Crumbled for added texture"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 small",
+      "notes": "Grated for added moisture"
+    }
+  ],
+  "instructions": [
+    "1. In a pan over medium heat, crisp-fry the Xtra until golden brown.",
+    "2. In a separate bowl, mash the grated potatoes and crumbled Irish boxty together.",
+    "3. Add the crispy Xtra to the potato mixture and stir until combined.",
+    "4. Lay out the gyoza wrappers on a flat surface.",
+    "5. Place a spoonful of the potato mixture onto the center of each wrapper.",
+    "6. Dip your finger in water and run it along the edges of the wrapper.",
+    "7. Fold the wrapper into a triangle, pressing the edges together to seal.",
+    "8. Heat a non-stick pan over medium heat and add a small amount of oil.",
+    "9. Pan-fry the gyoza until golden brown on the bottom.",
+    "10. Flip the gyoza over and cook for an additional 2-3 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "irish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-irish-potato-boxty--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:03:16.471Z"
+}
