@@ -13582,5 +13582,30 @@
     "cuisine": "Canadian",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-winey-filipino-noodles-pancit-canton--french",
+    "title": "French-Style Pancit Stir Fry",
+    "tags": [
+      "french-fusion",
+      "filipino-noodles",
+      "stir-fry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xenial-syrian-lamb-tagine--mexican",
+    "title": "Mexican Lamb Tagine",
+    "tags": [
+      "mexican",
+      "lamb",
+      "tagine",
+      "slow-cooker"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 140,
+    "shard": "x"
   }
 ]
