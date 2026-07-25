@@ -13644,5 +13644,18 @@
     "cuisine": "italian",
     "totalTimeMin": 22,
     "shard": "x"
+  },
+  {
+    "slug": "xeriscape-grilled-filipino-beef-bistek--german",
+    "title": "Grilled Beef Bistek with German Twist",
+    "tags": [
+      "german",
+      "grilled",
+      "beef",
+      "bistek"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "x"
   }
 ]
