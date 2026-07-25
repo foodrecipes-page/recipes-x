@@ -13607,5 +13607,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 140,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-earthy-french-ginger-clafoutis--indian",
+    "title": "Ginger Clafoutis",
+    "tags": [
+      "indian",
+      "ginger",
+      "clafoutis",
+      "dessert"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "x"
   }
 ]
