@@ -13670,5 +13670,43 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-chinese-tofu-mu-shu--thai",
+    "title": "Crispy Thai Tofu Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crispy-spanish-octopus-pulpo-a-la-gallega--vegetarian",
+    "title": "Crispy Gallega Fried Cauliflower",
+    "tags": [
+      "vegetarian",
+      "spanish",
+      "crispy"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xerisque-energetically-portuguese-rice-pilaf--german",
+    "title": "Savory German Pilaf",
+    "tags": [
+      "german",
+      "vegetarian",
+      "pilaf",
+      "rice"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "x"
   }
 ]
