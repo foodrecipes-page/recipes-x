@@ -13733,5 +13733,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 30,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-dense-irish-potato-boxty--japanese",
+    "title": "Boxty Gyoza",
+    "tags": [
+      "japanese",
+      "irish",
+      "vegan"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
+    "shard": "x"
   }
 ]
