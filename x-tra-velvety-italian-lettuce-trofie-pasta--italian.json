@@ -1,0 +1,70 @@
+{
+  "slug": "x-tra-velvety-italian-lettuce-trofie-pasta--italian",
+  "title": "Trofie Pasta with Velvety Italian Sauce",
+  "description": "A classic Italian pasta dish featuring trofie pasta tossed in a rich and creamy sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "trofie pasta"
+    },
+    {
+      "name": "tra",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "italian",
+      "amount": "2 tablespoons",
+      "notes": "parmesan cheese"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the trofie pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the heavy cream and bring to a simmer.",
+    "Reduce the heat to low and stir in the parmesan cheese until melted.",
+    "Drain the cooked pasta and add it to the skillet with the sauce.",
+    "Toss the pasta in the sauce until well coated.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped lettuce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "creamy",
+    "simple"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-velvety-italian-lettuce-trofie-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:39:04.019Z"
+}
