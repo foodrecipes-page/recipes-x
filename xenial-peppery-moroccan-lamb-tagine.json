@@ -1,0 +1,70 @@
+{
+  "slug": "xenial-peppery-moroccan-lamb-tagine",
+  "title": "Lamb Tagine",
+  "description": "A traditional North African dish with tender lamb and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Xenial olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Peppery parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tagine sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the lamb with salt and pepper.",
+    "Heat oil in the bottom of a large tagine or Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Add the Moroccan spice mix and stir to combine.",
+    "Add the olives and parsley, and stir to combine.",
+    "Add the tagine sauce and bring to a simmer.",
+    "Cover the tagine and transfer to the oven.",
+    "Bake at 300°F for 2 1/2 hours, or until the lamb is tender.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 150,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-peppery-moroccan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:05:44.253Z"
+}
