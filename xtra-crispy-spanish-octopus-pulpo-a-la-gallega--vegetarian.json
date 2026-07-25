@@ -1,0 +1,62 @@
+{
+  "slug": "xtra-crispy-spanish-octopus-pulpo-a-la-gallega--vegetarian",
+  "title": "Crispy Gallega Fried Cauliflower",
+  "description": "A vegetarian twist on traditional Spanish cuisine, this crispy fried cauliflower dish is a delicious and satisfying meal. The combination of crispy exterior and tender interior will leave you wanting more.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "a la gallega",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Rinse the cauliflower and break it into florets.",
+    "3. In a shallow dish, mix together the a la gallega and olive oil.",
+    "4. Dip each cauliflower floret into the a la gallega mixture, coating completely.",
+    "5. Roll the coated cauliflower in the crispy breadcrumbs to coat.",
+    "6. Place the coated cauliflower on a baking sheet lined with parchment paper.",
+    "7. Bake for 20-25 minutes, or until crispy and golden brown.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "spanish",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-spanish-octopus-pulpo-a-la-gallega--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:03:18.436Z"
+}
