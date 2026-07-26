@@ -13780,5 +13780,19 @@
     "cuisine": "Thai",
     "totalTimeMin": 27,
     "shard": "x"
+  },
+  {
+    "slug": "xeridic-japanese-rice-ochazuke--mexican",
+    "title": "Xeridic Ochazuke Tacos",
+    "tags": [
+      "mexican",
+      "fusion",
+      "tacos",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
