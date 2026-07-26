@@ -1,83 +1,73 @@
 {
   "slug": "xtra-crispy-uruguayan-meat-skillet",
-  "title": "Uruguayan Skillet Steak with Crispy Potatoes",
-  "description": "A hearty Uruguayan-inspired dish featuring pan-seared steak and crispy potatoes, perfect for a weeknight dinner.",
+  "title": "Uruguayan-Style Crispy Skillet Steak",
+  "description": "A flavorful and crispy steak dish inspired by Uruguayan cuisine, made with a skillet and a few simple ingredients.",
   "cuisine": "Uruguayan",
   "diet": [
-    "meat-based"
+    "meat"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Steak (1.5 lbs)",
-      "amount": "1 1/2 pounds",
-      "notes": "Look for a high-quality cut such as flank steak or skirt steak."
+      "name": "Skillet steak (1-1.5 lbs)",
+      "amount": "",
+      "notes": "Choose a cut with a good balance of fat and lean meat"
     },
     {
-      "name": "Xtra-Virgin Olive Oil",
+      "name": "Xtra-virgin olive oil",
       "amount": "2 tablespoons",
-      "notes": ""
+      "notes": "For brushing the steak"
+    },
+    {
+      "name": "Crispy bread crumbs",
+      "amount": "1 cup",
+      "notes": "For coating the steak"
+    },
+    {
+      "name": "Meat seasoning",
+      "amount": "2 teaspoons",
+      "notes": "Uruguayan-style meat seasoning or a mix of paprika, garlic powder, and onion powder"
     },
     {
       "name": "Salt",
       "amount": "1 teaspoon",
-      "notes": ""
+      "notes": "For seasoning the steak"
     },
     {
-      "name": "Black Pepper",
+      "name": "Pepper",
       "amount": "1/2 teaspoon",
-      "notes": ""
-    },
-    {
-      "name": "Crispy Potatoes (2 large)",
-      "amount": "2 large",
-      "notes": ""
-    },
-    {
-      "name": "Garlic Powder",
-      "amount": "1/2 teaspoon",
-      "notes": ""
-    },
-    {
-      "name": "Paprika",
-      "amount": "1/4 teaspoon",
-      "notes": ""
-    },
-    {
-      "name": "Skillet Salt",
-      "amount": "1/4 teaspoon",
-      "notes": ""
+      "notes": "For seasoning the steak"
     }
   ],
   "instructions": [
-    "1. Preheat a large skillet over medium-high heat.",
-    "2. Season the steak with salt, black pepper, and paprika.",
-    "3. Add a tablespoon of olive oil to the preheated skillet and sear the steak for 3-4 minutes per side, or until it reaches your desired level of doneness.",
-    "4. Remove the steak from the skillet and set it aside to rest.",
-    "5. Add the remaining tablespoon of olive oil to the skillet and add the sliced potatoes.",
-    "6. Sprinkle the garlic powder and skillet salt over the potatoes and cook for 5-7 minutes, or until they are crispy and golden brown.",
-    "7. Slice the rested steak against the grain and serve with the crispy potatoes.",
-    "8. Garnish with chopped fresh parsley or cilantro, if desired."
+    "Preheat the skillet over medium-high heat.",
+    "Pat the steak dry with a paper towel to remove excess moisture.",
+    "Season the steak with salt and pepper.",
+    "Brush the steak with xtra-virgin olive oil.",
+    "Coat the steak with crispy bread crumbs, pressing gently to adhere.",
+    "Sear the steak in the skillet for 3-4 minutes per side, or until a nice crust forms.",
+    "Transfer the steak to a plate and let it rest for 5 minutes.",
+    "Slice the steak against the grain and serve."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 20,
-  "totalTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "skillet",
     "steak",
     "uruguayan",
-    " potatoes"
+    "skillet",
+    "meat"
   ],
   "nutrition": {
-    "calories": 540,
-    "protein": 43,
-    "carbs": 30,
-    "fat": 32
+    "calories": 420,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 26
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crispy-uruguayan-meat-skillet",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T14:02:04.963Z"
+  "createdAt": "2026-07-21T11:14:30.539Z"
 }
