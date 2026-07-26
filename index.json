@@ -13819,5 +13819,32 @@
     "cuisine": "french",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xanthous-energizing-ethiopian-salt-cod-doro-wot--vegetarian",
+    "title": "Ethiopian Vegetable Stew",
+    "tags": [
+      "ethiopian",
+      "vegetarian",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-tender-turkish-potato-icli-kofte--indian",
+    "title": "Turkish-Style Kofte with Potato and Vegetables",
+    "tags": [
+      "indian",
+      "turkish",
+      "vegetarian",
+      "kofte",
+      "potatoes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "x"
   }
 ]
