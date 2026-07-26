@@ -1,0 +1,85 @@
+{
+  "slug": "xtra-dense-slovakian-minari-dumplings--german",
+  "title": "Slovakian Sausage and Dumplings",
+  "description": "A hearty German-inspired dish featuring Slovakian sausage, served with fluffy dumplings.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian sausage",
+      "amount": "400g",
+      "notes": "about 2 pounds"
+    },
+    {
+      "name": "Dumpling mix",
+      "amount": "500g",
+      "notes": "about 2.2 pounds"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "2",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": "for brushing dumplings"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "about 1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cook Slovakian sausage in a pan over medium-high heat until browned, then set aside.",
+    "3. In a large bowl, combine dumpling mix, flour, egg, and melted butter. Mix until a dough forms.",
+    "4. Turn dough out onto a floured surface and knead for 5 minutes.",
+    "5. Divide dough into 8-10 equal pieces. Roll each piece into a ball and then flatten slightly.",
+    "6. In a large Dutch oven or pot, bring 2 cups of water to a boil. Add Slovakian sausage and cook for 5 minutes.",
+    "7. Add the dumplings to the pot and cover with a lid. Reduce heat to medium-low and simmer for 15-20 minutes, or until dumplings are cooked through.",
+    "8. While the dumplings cook, melt butter in a pan over medium heat. Add chopped onion and cook until softened, about 5 minutes.",
+    "9. Add minced garlic to the pan and cook for 1 minute.",
+    "10. Serve the cooked dumplings with the Slovakian sausage and pan-fried onion and garlic mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "slovakian",
+    "sausage",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 34,
+    "carbs": 70,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-slovakian-minari-dumplings--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:35:56.498Z"
+}
