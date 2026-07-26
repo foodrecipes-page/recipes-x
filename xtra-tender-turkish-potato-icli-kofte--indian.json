@@ -1,0 +1,96 @@
+{
+  "slug": "xtra-tender-turkish-potato-icli-kofte--indian",
+  "title": "Turkish-Style Kofte with Potato and Vegetables",
+  "description": "A flavorful and spicy Indian-inspired dish made with Turkish-style kofte, potatoes, and vegetables.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish kofte",
+      "amount": "500g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "xtra",
+      "amount": "1 small",
+      "notes": "for garnish"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "icli",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat. Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion and tomato to the pan and sauté until they are soft and fragrant.",
+    "Add the kofte to the pan and cook until they are browned on all sides.",
+    "Add the potatoes to the pan and cook until they are tender.",
+    "Add the cumin, coriander, and garam masala powders to the pan and stir well.",
+    "Serve the kofte and potatoes hot, garnished with xtra and tender.",
+    "Serve with a side of icli for added flavor and texture.",
+    "Garnish with fresh cilantro leaves, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "turkish",
+    "vegetarian",
+    "kofte",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tender-turkish-potato-icli-kofte--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:44:18.184Z"
+}
