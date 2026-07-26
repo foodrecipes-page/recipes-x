@@ -13755,5 +13755,20 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-molten-chinese-lentils-char-siu-bao--chinese",
+    "title": "Char Siu Bao",
+    "tags": [
+      "chinese",
+      "char-siu",
+      "bao",
+      "steamed-buns",
+      "pork",
+      "lentils"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
