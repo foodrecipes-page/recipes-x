@@ -1,0 +1,77 @@
+{
+  "slug": "xtra-tender-kenyan-sweet-potatoes-casseroles",
+  "title": "Kenyan Sweet Potato Casserole",
+  "description": "A hearty, comforting casserole featuring sweet potatoes and tender Kenyan beef.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "tender potatoes",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "casseroles seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion and garlic and cook until onion is translucent.",
+    "Add sweet potatoes and tender potatoes; cook for 5 minutes.",
+    "Season with casseroles seasoning and stir to combine.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Cover with foil and bake for 30 minutes.",
+    "Remove foil and continue baking for an additional 15 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "sweet-potatoes",
+    "kenyan-cuisine",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tender-kenyan-sweet-potatoes-casseroles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:06:16.554Z"
+}
