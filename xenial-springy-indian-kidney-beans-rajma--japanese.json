@@ -1,0 +1,71 @@
+{
+  "slug": "xenial-springy-indian-kidney-beans-rajma--japanese",
+  "title": "Japanese Rajma Beans Curry",
+  "description": "A flavorful and spicy Japanese-inspired dish combining the sweetness of rajma beans with the earthiness of xenial spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rajma beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "xenial",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "springy",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "kidney",
+      "amount": "2",
+      "notes": "medium"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "indian",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a pan over medium heat.",
+    "Add xenial and springy; sauté for 1 minute.",
+    "Add kidney and cook until browned, about 5 minutes.",
+    "Add rajma beans, beans, and indian; stir well.",
+    "Cook for 10 minutes or until the flavors have melded together.",
+    "Serve hot with steamed rice or noodles.",
+    "Garnish with chopped springy (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-springy-indian-kidney-beans-rajma--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:19:48.758Z"
+}
