@@ -1,0 +1,91 @@
+{
+  "slug": "x-tra-crispy-thai-chicken-kao-mun-gai--keto",
+  "title": "Thai Coconut Chicken Stir Fry",
+  "description": "A keto-friendly Thai-inspired stir fry with chicken, coconut milk, and crispy elements.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Thai coconut milk",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "kao manow (Thai basil)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crispy fried shallots",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "mun chee (Thai chilies)",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "gai (Thai basil)",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the Thai red curry paste to the skillet and cook for 1 minute.",
+    "Add the mushrooms and cook until they start to soften, about 2-3 minutes.",
+    "Add the Thai coconut milk and stir to combine with the curry paste and mushrooms.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Add the Thai basil (kao manow), crispy fried shallots, and Thai chilies (mun chee) to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot and garnish with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "keto",
+    "stir-fry",
+    "chicken",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-crispy-thai-chicken-kao-mun-gai--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:59:26.168Z"
+}
