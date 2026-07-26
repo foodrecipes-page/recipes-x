@@ -1,0 +1,74 @@
+{
+  "slug": "xtra-tender-kenyan-sweet-potatoes-casseroles--french",
+  "title": "French Casserole with Sweet Potatoes",
+  "description": "A classic French casserole dish made with sweet potatoes, perfect for a comforting meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "kenyan spices",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "casseroles",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and dice the sweet potatoes.",
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the kenyan spices and cook for 1 minute.",
+    "Add the sweet potatoes and cook for 5 minutes.",
+    "Transfer the mixture to a casserole dish.",
+    "Top with casseroles.",
+    "Bake in the preheated oven for 25 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "casserole",
+    "sweet potatoes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tender-kenyan-sweet-potatoes-casseroles--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:46:12.341Z"
+}
