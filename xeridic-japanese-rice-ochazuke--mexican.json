@@ -1,0 +1,91 @@
+{
+  "slug": "xeridic-japanese-rice-ochazuke--mexican",
+  "title": "Xeridic Ochazuke Tacos",
+  "description": "A fusion dish that combines the flavors of Japan with the boldness of Mexico. Xeridic and ochazuke are used to create a unique and savory taco filling.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xeridic",
+      "amount": "1 cup",
+      "notes": "dried and rehydrated"
+    },
+    {
+      "name": "japanese rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "ochazuke",
+      "amount": "1/2 cup",
+      "notes": "dried bonito flakes"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4-6",
+      "notes": "for tacos"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rehydrate xeridic according to package instructions and set aside.",
+    "Cook Japanese rice according to package instructions and set aside.",
+    "Heat a large skillet over medium-high heat and add xeridic, cooking until lightly browned.",
+    "Add cooked Japanese rice to the skillet and stir to combine with xeridic.",
+    "Add ochazuke to the skillet and stir to combine with xeridic and rice.",
+    "Warm corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning xeridic and rice mixture onto a tortilla, topping with diced avocado and a squeeze of lime juice.",
+    "Sprinkle cumin and chili powder over the top of the tacos and serve immediately.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fusion",
+    "tacos",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeridic-japanese-rice-ochazuke--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:58:06.341Z"
+}
