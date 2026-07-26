@@ -1,0 +1,80 @@
+{
+  "slug": "xenial-molten-chinese-lentils-char-siu-bao--chinese",
+  "title": "Char Siu Bao",
+  "description": "Steamed buns filled with a sweet and savory char siu pork filling, a classic Chinese dish.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Char",
+      "amount": "1 pound pork shoulder"
+    },
+    {
+      "name": "Siu",
+      "amount": "2 tablespoons hoisin sauce"
+    },
+    {
+      "name": "Bao",
+      "amount": "4-6 steamed buns"
+    },
+    {
+      "name": "Chinese",
+      "amount": "2 tablespoons soy sauce"
+    },
+    {
+      "name": "Molten",
+      "amount": "2 tablespoons honey"
+    },
+    {
+      "name": "Xenial",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together hoisin sauce, soy sauce, honey, garlic, salt, and pepper. Add the pork and mix until coated.",
+    "3. Place the pork on a baking sheet lined with parchment paper and roast for 20-25 minutes, or until cooked through.",
+    "4. While the pork is cooking, steam the buns according to package instructions.",
+    "5. Once the pork is cooked, shred it with two forks and add it to the bowl with the sauce. Mix until coated.",
+    "6. To assemble the bao, place a spoonful of the pork mixture onto the center of a steamed bun, then fold the bun over the filling to form a half-moon shape.",
+    "7. Serve the char siu bao hot, with additional sauce on the side if desired.",
+    "8. Garnish with sliced green onions and sesame seeds, if desired.",
+    "9. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "char-siu",
+    "bao",
+    "steamed-buns",
+    "pork",
+    "lentils"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-molten-chinese-lentils-char-siu-bao--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:39:59.323Z"
+}
