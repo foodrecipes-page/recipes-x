@@ -13846,5 +13846,32 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-crumbly-french-rice-cake--vegetarian",
+    "title": "French Crusted Rice Cakes",
+    "tags": [
+      "french",
+      "rice",
+      "cakes",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-dense-roasted-irish-duck-leg-roast--indian",
+    "title": "Indian Style Roasted Duck Leg with Irish Roast Potatoes",
+    "tags": [
+      "indian",
+      "roasted",
+      "duck",
+      "potatoes",
+      "hearty"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 65,
+    "shard": "x"
   }
 ]
