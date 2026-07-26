@@ -1,0 +1,89 @@
+{
+  "slug": "xtra-spicy-polish-mushroom-dumplings",
+  "title": "Polish Mushroom Dumplings",
+  "description": "A hearty Polish dish made with savory mushroom filling and served with a side of spicy sauce. Perfect for a cold winter evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dumplings",
+      "amount": "12",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seed",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook dumplings according to package instructions.",
+    "In a large skillet, heat olive oil over medium heat. Add sliced mushrooms and cook until browned.",
+    "Add chopped onion and cook until softened. Add caraway seed and cook for 1 minute.",
+    "Combine cooked mushroom mixture with flour, egg, salt, and pepper. Mix well.",
+    "Wrap dumpling dough around mushroom filling and seal edges.",
+    "Cook dumplings in boiling water for 5-7 minutes or until cooked through.",
+    "Serve with spicy sauce and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "mushroom",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-polish-mushroom-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:40:37.787Z"
+}
