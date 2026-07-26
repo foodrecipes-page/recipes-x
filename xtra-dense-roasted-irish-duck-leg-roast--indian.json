@@ -1,0 +1,78 @@
+{
+  "slug": "xtra-dense-roasted-irish-duck-leg-roast--indian",
+  "title": "Indian Style Roasted Duck Leg with Irish Roast Potatoes",
+  "description": "A flavorful and aromatic duck leg dish with roasted Irish potatoes, perfect for a special occasion. The tender meat and crispy skin are complemented by the earthy flavors of the potatoes.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Irish roast potatoes",
+      "amount": "4-6 medium-sized potatoes",
+      "notes": "peeled and chopped into large chunks"
+    },
+    {
+      "name": "Roasted vegetables",
+      "amount": "1 large onion, 2 cloves of garlic, 2 large carrots",
+      "notes": "chopped into large pieces"
+    },
+    {
+      "name": "Indian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Roasted dense tomato sauce",
+      "amount": "1 cup",
+      "notes": "see notes for recipe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the duck leg with salt, pepper, and Indian spice blend.",
+    "Heat ghee or vegetable oil in a large oven-safe skillet over medium-high heat. Sear the duck leg until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the duck leg for 20-25 minutes or until the internal temperature reaches 165°F (74°C).",
+    "Meanwhile, toss the chopped potatoes with a drizzle of oil, salt, and pepper on a baking sheet. Roast in the oven for 20-25 minutes or until golden brown and crispy.",
+    "Add the chopped onion, garlic, and carrots to the skillet with the duck leg and continue to roast for another 10-12 minutes or until the vegetables are tender.",
+    "Serve the duck leg with the roasted potatoes and vegetables, spooning some of the pan juices over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "roasted",
+    "duck",
+    "potatoes",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "32g",
+    "carbs": "40g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-roasted-irish-duck-leg-roast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:54:14.005Z"
+}
