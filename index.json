@@ -13794,5 +13794,30 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-rich-moroccan-lamb-tagine--german",
+    "title": "German Lamb Tagine",
+    "tags": [
+      "german",
+      "moroccan",
+      "lamb",
+      "tagine"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 180,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-tender-kenyan-sweet-potatoes-casseroles--french",
+    "title": "French Casserole with Sweet Potatoes",
+    "tags": [
+      "french",
+      "casserole",
+      "sweet potatoes"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "x"
   }
 ]
