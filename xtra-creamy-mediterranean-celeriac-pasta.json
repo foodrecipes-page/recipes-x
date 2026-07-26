@@ -1,0 +1,87 @@
+{
+  "slug": "xtra-creamy-mediterranean-celeriac-pasta",
+  "title": "Creamy Celeriac Pasta Bake",
+  "description": "A comforting and creamy bake featuring celeriac, pasta, and a blend of Mediterranean flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "penne"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "200g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Toss the celeriac with 1 tbsp of olive oil, salt, and pepper on a baking sheet.",
+    "Roast in the oven for 30 minutes, or until tender.",
+    "Cook the pasta according to the package instructions.",
+    "In a large saucepan, combine the creamy sauce and minced garlic.",
+    "Add the roasted celeriac, dried oregano (if using), and cooked pasta to the saucepan.",
+    "Stir until well combined and heated through.",
+    "Transfer the mixture to a baking dish.",
+    "Drizzle with the remaining 1 tbsp of olive oil.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celeriac",
+    "pasta",
+    "bake",
+    "creamy",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-creamy-mediterranean-celeriac-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:52:54.787Z"
+}
