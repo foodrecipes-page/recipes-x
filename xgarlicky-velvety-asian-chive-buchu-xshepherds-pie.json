@@ -1,0 +1,75 @@
+{
+  "slug": "xgarlicky-velvety-asian-chive-buchu-xshepherds-pie",
+  "title": "Buchu Pie with Chive Crust",
+  "description": "A savory pie filled with the flavors of South Africa, combining the earthy taste of buchu with the richness of velvety ingredients.",
+  "cuisine": "South African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Buchu leaves",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Velvety cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Xgarlicky sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Xshepherds pie crust",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Chives",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust and place in a 9-inch pie dish.",
+    "In a skillet, heat the olive oil over medium heat. Add the chopped buchu leaves and cook until fragrant, about 1 minute.",
+    "Add the crumbled velvety cheese and cook until melted and smooth. Stir in the xgarlicky sauce.",
+    "Pour the cheese mixture into the pie crust.",
+    "Sprinkle the chopped chives over the top of the pie.",
+    "Bake the pie for 25-30 minutes, or until the crust is golden brown and the filling is heated through.",
+    "Remove the pie from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "south-african",
+    "vegetarian",
+    "pie",
+    "buche"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xgarlicky-velvety-asian-chive-buchu-xshepherds-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:38:36.006Z"
+}
