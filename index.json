@@ -4668,17 +4668,16 @@
   },
   {
     "slug": "xtra-creamy-mediterranean-celeriac-pasta",
-    "title": "Xtra Creamy Mediterranean Celeriac Pasta",
+    "title": "Creamy Celeriac Pasta Bake",
     "tags": [
       "celeriac",
-      "comfort-food",
-      "mediterranean",
-      "one-pot",
       "pasta",
-      "vegetarian"
+      "bake",
+      "creamy",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "italian",
+    "totalTimeMin": 60,
     "shard": "x"
   },
   {
