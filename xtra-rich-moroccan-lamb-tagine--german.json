@@ -1,0 +1,94 @@
+{
+  "slug": "xtra-rich-moroccan-lamb-tagine--german",
+  "title": "German Lamb Tagine",
+  "description": "A hearty and flavorful twist on traditional German cuisine, this lamb tagine is a perfect blend of rich spices and tender meat.",
+  "cuisine": "german",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1.5 lbs",
+      "notes": "boneless lamb shoulder or neck, cut into 2-inch pieces"
+    },
+    {
+      "name": "rich",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "xtra",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 can (14.5 oz)"
+    }
+  ],
+  "instructions": [
+    "Heat the rich in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the xtra, moroccan, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken broth and crushed tomatoes to the pot, scraping up any browned bits from the bottom.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise the lamb for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let cool slightly.",
+    "Serve the lamb hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "moroccan",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 43,
+    "carbs": 35,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-rich-moroccan-lamb-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:43:33.418Z"
+}
