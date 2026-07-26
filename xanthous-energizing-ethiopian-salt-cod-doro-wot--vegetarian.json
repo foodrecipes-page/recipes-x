@@ -1,0 +1,84 @@
+{
+  "slug": "xanthous-energizing-ethiopian-salt-cod-doro-wot--vegetarian",
+  "title": "Ethiopian Vegetable Stew",
+  "description": "A flavorful and nutritious stew originating from Ethiopia, made with a variety of vegetables and spices. This dish is perfect for a comforting meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "xanthous",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "energizing spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "Ethiopian wot spice mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "doro spice",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add Ethiopian wot spice mix and cook for 1 minute.",
+    "Add vegetable broth and bring to a boil.",
+    "Reduce heat and simmer for 20 minutes or until vegetables are tender.",
+    "Season with salt and doro spice to taste.",
+    "Serve hot and enjoy.",
+    "Garnish with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-energizing-ethiopian-salt-cod-doro-wot--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:10:13.962Z"
+}
