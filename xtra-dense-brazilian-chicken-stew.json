@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-dense-brazilian-chicken-stew",
+  "title": "Brazilian Chicken Stew",
+  "description": "A hearty and flavorful stew originating from Brazil, made with tender chicken and rich spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breast or thighs",
+      "notes": ""
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, diced",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dense red kidney beans, drained and rinsed",
+      "amount": "1 (15 ounce) can",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes. Remove the chicken from the pot.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the chili pepper and cumin to the pot and cook for 1 minute.",
+    "Add the chicken broth, tomato paste, and browned chicken back to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20-25 minutes.",
+    "Add the kidney beans to the pot and simmer for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-brazilian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:38:57.408Z"
+}
