@@ -5787,15 +5787,15 @@
   },
   {
     "slug": "xtra-crispy-uruguayan-meat-skillet",
-    "title": "Uruguayan Skillet Steak with Crispy Potatoes",
+    "title": "Uruguayan-Style Crispy Skillet Steak",
     "tags": [
-      "skillet",
       "steak",
       "uruguayan",
-      " potatoes"
+      "skillet",
+      "meat"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "x"
   },
   {
@@ -10386,17 +10386,14 @@
   },
   {
     "slug": "xtra-spicy-polish-mushroom-dumplings",
-    "title": "Xtra Spicy Polish Mushroom Dumplings",
+    "title": "Polish Mushroom Dumplings",
     "tags": [
-      "dumplings",
-      "macrobiotic",
-      "mushroom-recipes",
-      "polish-cuisine",
-      "spicy-food",
-      "vegetarian"
+      "polish",
+      "mushroom",
+      "dumplings"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "x"
   },
   {
@@ -13769,6 +13766,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-crispy-thai-chicken-kao-mun-gai--keto",
+    "title": "Thai Coconut Chicken Stir Fry",
+    "tags": [
+      "thai",
+      "keto",
+      "stir-fry",
+      "chicken",
+      "dinner"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 27,
     "shard": "x"
   }
 ]
