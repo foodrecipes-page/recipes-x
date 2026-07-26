@@ -13743,5 +13743,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 32,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-springy-indian-kidney-beans-rajma--japanese",
+    "title": "Japanese Rajma Beans Curry",
+    "tags": [
+      "japanese",
+      "curry",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "x"
   }
 ]
