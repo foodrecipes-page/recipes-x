@@ -1,0 +1,86 @@
+{
+  "slug": "xtra-spicy-british-beef-casserole--french",
+  "title": "French Beef Casserole",
+  "description": "A hearty French-inspired beef casserole with tender beef and vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "british mustard",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender, about 5 minutes.",
+    "Add the beef to the pot and cook until browned, about 5 minutes.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Add the red wine, beef broth, tomato paste, and mustard. Stir to combine.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake for 2 hours, or until the beef is tender and the sauce has thickened.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "casserole",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-british-beef-casserole--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:04:56.107Z"
+}
