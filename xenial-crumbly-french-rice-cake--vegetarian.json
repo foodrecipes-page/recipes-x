@@ -1,0 +1,67 @@
+{
+  "slug": "xenial-crumbly-french-rice-cake--vegetarian",
+  "title": "French Crusted Rice Cakes",
+  "description": "A simple vegetarian dish that combines the flavors of France and Asia. Perfect as a side or main course.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "French",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "xenial",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cake",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together rice, French, and xenial.",
+    "Add crumbly and cake to the bowl and mix well.",
+    "Shape the mixture into patties or cakes.",
+    "Place the cakes on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until lightly browned.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "rice",
+    "cakes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-crumbly-french-rice-cake--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:12:23.270Z"
+}
