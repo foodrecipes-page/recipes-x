@@ -1,0 +1,85 @@
+{
+  "slug": "xenial-velvety-german-squid-stew--japanese",
+  "title": "Pan-Seared Squid with German Beer Stew Sauce",
+  "description": "A Japanese-inspired dish featuring pan-seared squid with a rich and flavorful stew sauce made with German beer.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "4",
+      "notes": "Fresh and cleaned"
+    },
+    {
+      "name": "German Beer",
+      "amount": "1/2 cup",
+      "notes": "Any dark beer works well"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Season the squid with salt and pepper.",
+    "Add the squid to the pan and sear for 2-3 minutes on each side.",
+    "Remove the squid from the pan and set aside.",
+    "Add the soy sauce, sesame oil, and sugar to the pan and stir to combine.",
+    "Bring the mixture to a boil and then reduce the heat to low.",
+    "Add the beer to the pan and stir to combine.",
+    "Return the squid to the pan and cook for an additional 2-3 minutes.",
+    "Serve the squid with the stew sauce spooned over the top.",
+    "Garnish with chopped green onions and grated ginger."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "japanese",
+    "squid"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-velvety-german-squid-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:21:40.115Z"
+}
