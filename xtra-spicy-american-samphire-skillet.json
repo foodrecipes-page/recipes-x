@@ -1,0 +1,67 @@
+{
+  "slug": "xtra-spicy-american-samphire-skillet",
+  "title": "Pan-Seared Samphire with Spicy Skillet Sauce",
+  "description": "A quick and flavorful side dish, featuring the unique taste of samphire and a spicy kick.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "spicy",
+      "amount": "1 teaspoon hot sauce"
+    },
+    {
+      "name": "american cheese",
+      "amount": "optional, 1 slice"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a skillet over medium-high heat.",
+    "Add the sliced skillet and cook until tender, about 5 minutes.",
+    "Add the samphire to the skillet and cook until tender, about 3-4 minutes.",
+    "In a small bowl, whisk together the hot sauce and lemon juice.",
+    "Pour the spicy sauce over the skillet and samphire mixture.",
+    "Stir to combine and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with american cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "samphire",
+    "spicy",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-spicy-american-samphire-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:21:34.234Z"
+}
