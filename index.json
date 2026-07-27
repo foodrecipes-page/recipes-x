@@ -4859,17 +4859,15 @@
   },
   {
     "slug": "xtra-crisp-canadian-pea-eggplant-stew",
-    "title": "Xtra Crisp Canadian Pea Eggplant Stew",
+    "title": "Canadian Stew",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "crisp-texture",
-      "gluten-free",
-      "one-pot",
-      "vegetarian-stew"
+      "stew",
+      "beef",
+      "vegetarian",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "canadian",
+    "totalTimeMin": 110,
     "shard": "x"
   },
   {
@@ -13929,6 +13927,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xerocreme-roasted-xanthaceous-kidney-beans-quesadilla--german",
+    "title": "Schwarzkohl mit Kidneybohnen",
+    "tags": [
+      "german",
+      "vegan",
+      "kidney-beans",
+      "black-kale"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "x"
   }
 ]
