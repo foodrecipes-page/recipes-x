@@ -13906,5 +13906,17 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-xanthous-french-chicken-blanquette--german",
+    "title": "German-Style Chicken Schnitzel",
+    "tags": [
+      "german",
+      "chicken",
+      "easy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
