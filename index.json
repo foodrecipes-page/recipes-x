@@ -10100,17 +10100,14 @@
   },
   {
     "slug": "xtra-spicy-american-samphire-skillet",
-    "title": "Xtra Spicy American Samphire Skillet",
+    "title": "Pan-Seared Samphire with Spicy Skillet Sauce",
     "tags": [
-      "american",
-      "low-fat",
-      "one-pan",
       "samphire",
       "spicy",
-      "weeknight"
+      "skillet"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -10834,17 +10831,16 @@
   },
   {
     "slug": "xtra-tangy-peruvian-strawberry-wrap",
-    "title": "Xtra Tangy Peruvian Strawberry Wrap",
+    "title": "Strawberry Wrap",
     "tags": [
-      "corn-husk",
-      "gluten-free",
-      "mediterranean",
       "peruvian",
       "strawberry",
-      "vegetarian"
+      "wrap",
+      "snack",
+      "dessert"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 7,
     "shard": "x"
   },
   {
@@ -13988,6 +13984,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-peppery-saudi-arabian-lamb-stir-fry--chinese",
+    "title": "Saudi Lamb Stir Fry",
+    "tags": [
+      "chinese",
+      "lamb",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xeridic-japanese-rice-ochazuke--indian",
+    "title": "Japanese-Style Ochazuke Rice Bowl with Xeridic",
+    "tags": [
+      "indian",
+      "japanese",
+      "fusion",
+      "rice-bowl"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
     "shard": "x"
   }
 ]
