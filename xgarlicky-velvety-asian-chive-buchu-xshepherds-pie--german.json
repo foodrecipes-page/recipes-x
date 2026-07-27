@@ -1,0 +1,64 @@
+{
+  "slug": "xgarlicky-velvety-asian-chive-buchu-xshepherds-pie--german",
+  "title": "Buchu and Chive Shepherd's Pie",
+  "description": "A traditional German twist on the classic shepherd's pie, featuring buchu and chive flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buche",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chive",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "xgarlicky",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "asian",
+      "amount": "1 tablespoon soy sauce"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup vegetable broth"
+    },
+    {
+      "name": "xshepherds",
+      "amount": "1 cup cooked lentils"
+    },
+    {
+      "name": "pie",
+      "amount": "1 cup mashed potatoes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, sauté the buchu and xgarlicky until fragrant.",
+    "Add the chive, soy sauce, and vegetable broth. Bring to a boil.",
+    "Reduce heat and add the cooked lentils. Simmer for 10 minutes.",
+    "Transfer the mixture to a baking dish.",
+    "Top with mashed potatoes.",
+    "Bake for 20-25 minutes or until the potatoes are golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "shepherd's-pie"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xgarlicky-velvety-asian-chive-buchu-xshepherds-pie--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:00:39.544Z"
+}
