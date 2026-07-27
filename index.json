@@ -4380,16 +4380,15 @@
   },
   {
     "slug": "xtra-citrusy-peruvian-seitan-seco-de-cordero",
-    "title": "Xtra Citrusy Peruvian Seitan Seco De Cordero",
+    "title": "Cordero Estofado",
     "tags": [
-      "citrusy-dishes",
-      "kid-friendly-meals",
-      "lotus-leaf-wraps",
-      "peruvian-food",
-      "seitan-recipes"
+      "peruvian",
+      "lamb",
+      "stew",
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 90,
     "shard": "x"
   },
   {
@@ -13894,6 +13893,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 45,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-salty-ethiopian-galangal-atakilt-wat--vegan",
+    "title": "Ethiopian-Style Vegan Stew",
+    "tags": [
+      "vegan",
+      "ethiopian",
+      "stew",
+      "galangal"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "x"
   }
 ]
