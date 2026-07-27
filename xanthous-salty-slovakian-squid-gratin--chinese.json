@@ -1,0 +1,69 @@
+{
+  "slug": "xanthous-salty-slovakian-squid-gratin--chinese",
+  "title": "Squid Stir Fry with Slovakian Flair",
+  "description": "A Chinese-inspired dish with a twist of Slovakia, featuring squid and a hint of saltiness.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "xanthous",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salty",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1 tablespoon",
+      "notes": "such as paprika or caraway seeds"
+    },
+    {
+      "name": "gratin",
+      "amount": "2 tablespoons",
+      "notes": "such as soy sauce or rice vinegar"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the squid and cook for 2-3 minutes per side, or until opaque and slightly charred.",
+    "Remove the squid from the wok and set aside.",
+    "In the same wok, add the xanthous, salty, and Slovakian ingredients.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add the gratin and stir to combine.",
+    "Return the squid to the wok and toss to coat with the sauce.",
+    "Cook for an additional 1-2 minutes, or until the squid is well coated.",
+    "Serve immediately and garnish with chopped green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "seafood",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-salty-slovakian-squid-gratin--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:31:46.756Z"
+}
