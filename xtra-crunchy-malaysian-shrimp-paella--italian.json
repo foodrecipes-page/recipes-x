@@ -1,0 +1,88 @@
+{
+  "slug": "xtra-crunchy-malaysian-shrimp-paella--italian",
+  "title": "Italian Shrimp Paella",
+  "description": "A seafood twist on the classic Italian dish, featuring succulent shrimp and a flavorful paella.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Carrots",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Malaysian Shrimp",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the paella rice to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the thyme, oregano, and tomato paste to the skillet and stir to combine.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Add the shrimp back to the skillet and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "paella",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-malaysian-shrimp-paella--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:37:39.035Z"
+}
