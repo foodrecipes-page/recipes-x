@@ -1,0 +1,78 @@
+{
+  "slug": "xtra-salty-ethiopian-galangal-atakilt-wat--vegan",
+  "title": "Ethiopian-Style Vegan Stew",
+  "description": "A flavorful and spicy vegan stew inspired by Ethiopian cuisine, made with galangal and atakilt.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "atakilt",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "xtra",
+      "amount": "4 cups",
+      "notes": "water"
+    },
+    {
+      "name": "salty",
+      "amount": "1 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "berbere spice mix",
+      "amount": "2 teaspoons",
+      "notes": "see notes"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add galangal and cook, stirring occasionally, until fragrant, about 5 minutes.",
+    "Add onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add atakilt, tomato, and berbere spice mix. Cook, stirring occasionally, for 5 minutes.",
+    "Add xtra and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until the vegetables are tender, about 20 minutes.",
+    "Season with salty to taste.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ethiopian",
+    "stew",
+    "galangal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-salty-ethiopian-galangal-atakilt-wat--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:14:21.519Z"
+}
