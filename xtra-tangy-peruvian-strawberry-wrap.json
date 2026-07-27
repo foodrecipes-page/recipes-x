@@ -1,0 +1,70 @@
+{
+  "slug": "xtra-tangy-peruvian-strawberry-wrap",
+  "title": "Strawberry Wrap",
+  "description": "A sweet and savory Peruvian-inspired wrap with juicy strawberries and crispy xtra ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Strawberry Wrap",
+      "amount": "1",
+      "notes": "tortilla wrap"
+    },
+    {
+      "name": "Fresh Strawberries",
+      "amount": "1 cup",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "Xtra Crispy",
+      "amount": "1/2 cup",
+      "notes": "crushed crispy fried onions"
+    },
+    {
+      "name": "Tangy Guacamole",
+      "amount": "2 tbsp",
+      "notes": "ripe avocado blended with lime juice and salt"
+    },
+    {
+      "name": "Peruvian Pepper",
+      "amount": "1/4 tsp",
+      "notes": "dried aji amarillo pepper flakes"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Place the wrap in the pan and cook for 30 seconds.",
+    "Flip the wrap over and spread the tangy guacamole on the bottom half.",
+    "Add sliced strawberries on top of the guacamole.",
+    "Sprinkle xtra crispy and Peruvian pepper flakes over the strawberries.",
+    "Fold the top half of the wrap over the filling.",
+    "Cook for an additional 30 seconds.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "strawberry",
+    "wrap",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-tangy-peruvian-strawberry-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:40:02.938Z"
+}
