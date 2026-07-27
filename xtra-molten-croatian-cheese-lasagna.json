@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-molten-croatian-cheese-lasagna",
+  "title": "Cheesy Lasagna",
+  "description": "A classic Italian dish with layers of pasta, cheese, and rich flavors. This recipe makes a satisfying meal for a family dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Croatian cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Molten cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Xtra mozzarella cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna sheets according to package instructions. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the tomato sauce and stir to combine.",
+    "Bring the sauce to a simmer and let cook for 5 minutes.",
+    "In a large bowl, combine the Croatian cheese and molten cheese.",
+    "Add the cooked lasagna sheets to the bowl and toss to combine with the cheese mixture.",
+    "Spread a layer of tomato sauce in the bottom of a 9x13-inch baking dish.",
+    "Arrange 4 lasagna sheets on top of the sauce.",
+    "Sprinkle with half of the cheese mixture and half of the xtra mozzarella cheese.",
+    "Repeat the layers, starting with the lasagna sheets, then the tomato sauce, and finally the remaining cheese mixture and mozzarella cheese.",
+    "Top the lasagna with the chopped fresh basil, if using.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "laser",
+    "lasagna",
+    "cheese",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-molten-croatian-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:57:38.167Z"
+}
