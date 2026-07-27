@@ -1,0 +1,82 @@
+{
+  "slug": "xtra-crisp-canadian-pea-eggplant-stew",
+  "title": "Canadian Stew",
+  "description": "A hearty stew originating from Canada, made with tender beef and vegetables in a rich broth.",
+  "cuisine": "canadian",
+  "diet": [
+    "beef",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "2 cups xtra beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "1 medium eggplant",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "1 cup peeled and diced stew",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon dried rosemary",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add beef and cook until browned, about 5 minutes.",
+    "3. Add eggplant, stew, thyme, rosemary, salt, and pepper. Cook for 5 minutes.",
+    "4. Add beef broth and bring to a boil.",
+    "5. Reduce heat to low and simmer, covered, for 1 hour and 30 minutes.",
+    "6. Serve stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "beef",
+    "vegetarian",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crisp-canadian-pea-eggplant-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:21:32.121Z"
+}
