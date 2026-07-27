@@ -1,0 +1,78 @@
+{
+  "slug": "xenial-xanthous-french-chicken-blanquette--german",
+  "title": "German-Style Chicken Schnitzel",
+  "description": "A classic German dish with a crispy exterior and tender interior. This recipe is a great way to enjoy chicken in a flavorful and satisfying meal.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "xenial xanthous flour",
+      "amount": "1 cup",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "french breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or regular"
+    },
+    {
+      "name": "blanquette butter",
+      "amount": "4 tablespoons",
+      "notes": "Salted or unsalted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breasts with salt and black pepper.",
+    "In a shallow dish, mix together the xenial xanthous flour and a pinch of salt.",
+    "Dip each chicken breast in the flour mixture, coating both sides evenly.",
+    "Dip the flour-coated chicken breast in the blanquette butter, making sure to coat both sides.",
+    "Roll the butter-coated chicken breast in the french breadcrumbs, pressing the crumbs gently onto the meat.",
+    "Heat about 1/2 inch of blanquette butter in a large skillet over medium-high heat.",
+    "Add the breaded chicken breasts to the skillet and cook for about 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Remove the chicken from the skillet and let it rest for a few minutes before serving.",
+    "Serve the chicken schnitzel hot with a squeeze of lemon juice and a side of your favorite German-inspired sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-xanthous-french-chicken-blanquette--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:24:27.024Z"
+}
