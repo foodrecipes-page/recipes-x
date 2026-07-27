@@ -1,0 +1,81 @@
+{
+  "slug": "xtra-peppery-saudi-arabian-lamb-stir-fry--chinese",
+  "title": "Saudi Lamb Stir Fry",
+  "description": "A flavorful and spicy stir fry dish made with lamb and a mix of Chinese spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Saudi arabian pepper",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Fry mix (xtra)",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sliced onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Sliced bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "2. Add the lamb and cook until browned, about 3-4 minutes.",
+    "3. Add the sliced onion, bell pepper, and mushrooms, and cook until the vegetables are tender.",
+    "4. In a small bowl, mix together the soy sauce, Saudi arabian pepper, and xtra fry mix.",
+    "5. Add the sauce to the lamb and vegetables, and stir to combine.",
+    "6. Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "7. Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lamb",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-peppery-saudi-arabian-lamb-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:36:49.291Z"
+}
