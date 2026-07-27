@@ -1,0 +1,75 @@
+{
+  "slug": "xtra-molten-croatian-cheese-lasagna--italian",
+  "title": "Classic Italian Lasagna",
+  "description": "A traditional Italian dish made with ground beef, lasagna noodles, and a rich tomato sauce. This recipe is a hearty and satisfying meal for any occasion.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 noodles"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "molten mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "croatian ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "lasagna",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add tomato sauce to the skillet and stir to combine.",
+    "In a large bowl, combine ricotta cheese, egg, salt, and pepper. Mix well.",
+    "Spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the meat sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Sprinkle with half of the mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the meat sauce, then the ricotta cheese mixture, and finally the mozzarella cheese.",
+    "Top the lasagna with the shredded cheese and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "lasagna"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-molten-croatian-cheese-lasagna--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:51:12.393Z"
+}
