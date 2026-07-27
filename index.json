@@ -13964,5 +13964,30 @@
     "cuisine": "italian",
     "totalTimeMin": 60,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-velvety-german-squid-stew--japanese",
+    "title": "Pan-Seared Squid with German Beer Stew Sauce",
+    "tags": [
+      "seafood",
+      "japanese",
+      "squid"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-crunchy-malaysian-shrimp-paella--italian",
+    "title": "Italian Shrimp Paella",
+    "tags": [
+      "italian",
+      "seafood",
+      "paella",
+      "shrimp"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "x"
   }
 ]
