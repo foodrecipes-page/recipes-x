@@ -13918,5 +13918,17 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xgarlicky-velvety-asian-chive-buchu-xshepherds-pie--german",
+    "title": "Buchu and Chive Shepherd's Pie",
+    "tags": [
+      "german",
+      "vegetarian",
+      "shepherd's-pie"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "x"
   }
 ]
