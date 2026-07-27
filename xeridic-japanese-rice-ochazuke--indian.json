@@ -1,0 +1,78 @@
+{
+  "slug": "xeridic-japanese-rice-ochazuke--indian",
+  "title": "Japanese-Style Ochazuke Rice Bowl with Xeridic",
+  "description": "A unique fusion of Japanese and Indian flavors in this ochazuke rice bowl dish, featuring the exotic taste of xeridic.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xeridic",
+      "amount": "1/4 cup",
+      "notes": "dried and ground"
+    },
+    {
+      "name": "japanese rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "ochazuke",
+      "amount": "2 cups",
+      "notes": "hot green tea broth"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 teaspoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "adjust according to preference"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of ochazuke in a saucepan over medium heat.",
+    "Add 1/4 cup of xeridic and stir to combine.",
+    "Add cooked Japanese rice and stir-fry for 2-3 minutes.",
+    "Add 1/2 teaspoon of toasted cumin seeds and 1 teaspoon of curry powder.",
+    "Stir-fry for an additional 1-2 minutes.",
+    "Season with salt to taste.",
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Adjust seasoning and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "japanese",
+    "fusion",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xeridic-japanese-rice-ochazuke--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:00:15.610Z"
+}
