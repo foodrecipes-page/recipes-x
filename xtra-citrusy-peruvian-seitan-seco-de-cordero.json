@@ -1,0 +1,79 @@
+{
+  "slug": "xtra-citrusy-peruvian-seitan-seco-de-cordero",
+  "title": "Cordero Estofado",
+  "description": "A traditional Peruvian lamb stew made with seco and cordero, served with seitan and citrusy notes.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cordero (Lamb Shoulder)",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Seco (Peruvian Yellow Peppers)",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Seitan (Wheat Gluten)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Citrusy Orange Juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "De (Tomato Paste)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper to taste.",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb shoulder on all sides.",
+    "Add the seco and cook for 5 minutes.",
+    "Add the seitan, orange juice, and tomato paste.",
+    "Stir well and bring to a boil.",
+    "Reduce heat to low and simmer for 1 hour.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with crusty bread or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 75,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "lamb",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-citrusy-peruvian-seitan-seco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:58:19.449Z"
+}
