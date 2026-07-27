@@ -1,0 +1,68 @@
+{
+  "slug": "xerocreme-roasted-xanthaceous-kidney-beans-quesadilla--german",
+  "title": "Schwarzkohl mit Kidneybohnen",
+  "description": "A hearty black kale and kidney bean dish, inspired by traditional German cuisine. This easy-to-make recipe is perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "black kale",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "roasted tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for another minute.",
+    "Add chopped black kale and cook until wilted, about 5 minutes.",
+    "Add kidney beans, roasted tomatoes, and a pinch of salt and pepper. Stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegan",
+    "kidney-beans",
+    "black-kale"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xerocreme-roasted-xanthaceous-kidney-beans-quesadilla--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:19:37.351Z"
+}
