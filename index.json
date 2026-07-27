@@ -6777,17 +6777,16 @@
   },
   {
     "slug": "xtra-flaky-french-macaroni-pasta",
-    "title": "Xtra Flaky French Macaroni Pasta",
+    "title": "Creamy Mac and Cheese",
     "tags": [
-      "cedar-plank",
       "comfort-food",
-      "french-cuisine",
-      "gluten-free",
-      "low-glycemic",
-      "weeknight"
+      "mac-and-cheese",
+      "pasta-dish",
+      "cheesy",
+      "easy-dinner"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "x"
   },
   {
