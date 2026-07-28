@@ -1,0 +1,83 @@
+{
+  "slug": "xtra-pillowy-vietnamese-ground-cardamom-bun-bo-kho--vegetarian",
+  "title": "Vietnamese Bun Bo Kho",
+  "description": "A vegetarian take on the traditional Vietnamese beef noodle soup, featuring a rich and flavorful broth made with kho and spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kho",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom",
+      "amount": "2 whole pods"
+    },
+    {
+      "name": "bun",
+      "amount": "8 oz"
+    },
+    {
+      "name": "xtra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pillowy bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "bo",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add ground and cook until browned, breaking up with a spoon as needed.",
+    "Add kho and cook for 2 minutes.",
+    "Add cardamom, bun, bo, broth, and soy sauce. Bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with cilantro and accompanied by pillowy bread.",
+    "Soak bun in hot water for 5 minutes before serving.",
+    "Assemble the dish by placing bun on a plate, then ladling the hot broth and kho mixture over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "vietnamese",
+    "noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-pillowy-vietnamese-ground-cardamom-bun-bo-kho--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:10:59.231Z"
+}
