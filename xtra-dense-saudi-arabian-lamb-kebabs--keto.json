@@ -1,0 +1,81 @@
+{
+  "slug": "xtra-dense-saudi-arabian-lamb-kebabs--keto",
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "A flavorful and spicy dish from the Middle East, made with lamb kebabs and a blend of aromatic spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Xtra Virgin Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Dense Garlic",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "Dense Onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Saudi Arabian Spices",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Dense Cumin",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Arabian Paprika",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together olive oil, garlic, onion, spices, cumin, paprika, and salt.",
+    "Brush the mixture evenly onto the lamb kebabs.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb-kebabs",
+    "keto",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 5,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-saudi-arabian-lamb-kebabs--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:04:47.329Z"
+}
