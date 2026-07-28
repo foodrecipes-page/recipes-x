@@ -1,0 +1,66 @@
+{
+  "slug": "xenial-uruguayan-gruyere-flatbread--japanese",
+  "title": "Gruyere Flatbread Bites - Japanese Twist",
+  "description": "A unique Japanese-inspired flatbread snack filled with the richness of Gruyere cheese and the flavors of Uruguayan ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gruyere Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "1 package, cut into 1-inch squares"
+    },
+    {
+      "name": "Uruguayan Chorizo",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Xenial Kimchi",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, mix together Gruyere cheese, Uruguayan Chorizo, and Xenial Kimchi.",
+    "3. Brush flatbread squares with sesame oil and top with cheese mixture.",
+    "4. Drizzle with soy sauce and sprinkle with additional Gruyere cheese if desired.",
+    "5. Bake for 10-12 minutes or until flatbread is crispy and cheese is melted.",
+    "6. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "gruyere",
+    "flatbread",
+    "japanese",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-uruguayan-gruyere-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:07:46.006Z"
+}
