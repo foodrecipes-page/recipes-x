@@ -1,0 +1,76 @@
+{
+  "slug": "xtra-flaky-british-lentil-pasties",
+  "title": "Classic British Lentil Pasties",
+  "description": "A hearty and comforting British-inspired dish featuring lentil and flaky pastry. Perfect as a snack or light meal.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "lentil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry to a thickness of 1/8 inch.",
+    "In a large pan, sauté the onion, carrot, and celery in olive oil until tender.",
+    "Add the lentil and cook for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Place the filling mixture onto one half of the pastry, leaving a 1-inch border.",
+    "Brush the edges with water and fold the other half over the filling.",
+    "Press the edges to seal and use a knife to cut a few slits in the top.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "lentil",
+    "pasties",
+    "snack",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-british-lentil-pasties",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:42:58.179Z"
+}
