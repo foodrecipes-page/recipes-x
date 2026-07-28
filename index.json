@@ -14131,5 +14131,32 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-uruguayan-gruyere-flatbread--japanese",
+    "title": "Gruyere Flatbread Bites - Japanese Twist",
+    "tags": [
+      "gruyere",
+      "flatbread",
+      "japanese",
+      "cheese",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-sour-german-oyster-mushroom-pilaf--gluten-free",
+    "title": "Pan-Seared German Mushrooms with Pilaf",
+    "tags": [
+      "german",
+      "mushroom",
+      "pilaf",
+      "gluten-free"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
