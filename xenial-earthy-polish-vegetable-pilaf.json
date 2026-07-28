@@ -1,0 +1,62 @@
+{
+  "slug": "xenial-earthy-polish-vegetable-pilaf",
+  "title": "Earthy Polish Stuffed Vegetable",
+  "description": "A hearty vegetable stuffed with a polish pilaf, a perfect comfort food for a cozy evening.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 large earthy vegetables (such as bell peppers or zucchinis)",
+      "amount": "2",
+      "notes": "any combination of vegetables works well"
+    },
+    {
+      "name": "1 cup polish pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "1/4 cup xenial cheese (such as feta or goat cheese)",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing the vegetables"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the tops off the vegetables and scoop out the insides, leaving a shell.",
+    "In a bowl, mix together the pilaf, xenial cheese, and a pinch of salt and pepper.",
+    "Stuff each vegetable with the pilaf mixture, dividing it evenly.",
+    "Drizzle the olive oil over the vegetables and place them in a baking dish.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the vegetables are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "stuffed-vegetables",
+    "polish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-earthy-polish-vegetable-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:53:15.719Z"
+}
