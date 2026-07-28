@@ -1,0 +1,65 @@
+{
+  "slug": "xtra-sour-german-oyster-mushroom-pilaf--gluten-free",
+  "title": "Pan-Seared German Mushrooms with Pilaf",
+  "description": "A hearty and flavorful gluten-free dish featuring pan-seared German mushrooms served with a side of pilaf.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German mushrooms",
+      "amount": "1 cup",
+      "notes": "such as portobello or cremini"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the German mushrooms and cook for 3-4 minutes per side, until tender and golden brown.",
+    "Season with salt and pepper to taste.",
+    "Serve the pan-seared mushrooms with a side of cooked pilaf and a dollop of sour cream.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "mushroom",
+    "pilaf",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-sour-german-oyster-mushroom-pilaf--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:13:48.151Z"
+}
