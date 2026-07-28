@@ -1,0 +1,96 @@
+{
+  "slug": "xtra-roasted-jamaican-frankfurter-bowl--indian",
+  "title": "Jamaican Chicken Biryani",
+  "description": "A flavorful and aromatic Indian-inspired dish with Jamaican spices and chicken.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "xtra large onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "roasted chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "frankfurter green chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "bowl of basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add the onions and cook until they are translucent.",
+    "Add the roasted chicken and cook until it is browned.",
+    "Add the jamaican jerk seasoning, green chilies, cumin powder, and garam masala. Cook for 1 minute.",
+    "Add the basmati rice and mix well.",
+    "Cook for 5-7 minutes or until the rice is cooked.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "biryani",
+    "jamaican",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-roasted-jamaican-frankfurter-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:11:55.606Z"
+}
