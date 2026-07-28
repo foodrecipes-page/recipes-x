@@ -1,0 +1,69 @@
+{
+  "slug": "x-treme-cheese-pull-norwegian-speck-gratin--thai",
+  "title": "Thai-Style Cheese and Treme Gratin",
+  "description": "A creamy, cheesy gratin dish with a twist of Thai flavors, featuring Treme and cheese.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Treme",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "x",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "speck",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup, grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add sliced Treme and cook until tender, about 3-4 minutes.",
+    "In a separate saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add shredded cheese and stir until melted and smooth.",
+    "Add grated x, sliced norwegian, and crumbled speck to the cheese sauce.",
+    "Stir until well combined.",
+    "Transfer the Treme mixture to a baking dish and top with the cheese sauce.",
+    "Sprinkle grated gratin on top.",
+    "Bake in the preheated oven for 20-25 minutes, or until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "gratin",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-treme-cheese-pull-norwegian-speck-gratin--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:41:52.751Z"
+}
