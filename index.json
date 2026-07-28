@@ -14073,5 +14073,17 @@
     "cuisine": "Polish",
     "totalTimeMin": 30,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-light-peruvian-tomatoes-pollo-a-la-brasa--keto",
+    "title": "Peruvian Chicken Skewers with Tomatoes",
+    "tags": [
+      "keto",
+      "peruvian",
+      "grilled"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 32,
+    "shard": "x"
   }
 ]
