@@ -2372,16 +2372,16 @@
   },
   {
     "slug": "xenial-springy-turkish-lamb-stew",
-    "title": "Xenial Springy Turkish Lamb Stew",
+    "title": "Turkish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "mediterranean-inspired",
-      "one-pot",
-      "spring-recipes"
+      "lamb",
+      "stew",
+      "turkish",
+      "hearty",
+      "comfort"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 140,
+    "cuisine": "turkish",
+    "totalTimeMin": 110,
     "shard": "x"
   },
   {
@@ -14019,6 +14019,20 @@
       "noodle-soup"
     ],
     "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-roasted-jamaican-frankfurter-bowl--indian",
+    "title": "Jamaican Chicken Biryani",
+    "tags": [
+      "indian",
+      "chicken",
+      "biryani",
+      "jamaican",
+      "spicy"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "x"
   }
