@@ -14085,5 +14085,17 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 32,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-flaky-french-macaroni-pasta--indian",
+    "title": "Creamy Macaroni Pasta",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
