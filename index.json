@@ -14158,5 +14158,19 @@
     "cuisine": "German",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-earthy-polish-vegetable-pilaf--gluten-free",
+    "title": "Polish Vegetable Pilaf",
+    "tags": [
+      "gluten-free",
+      "polish",
+      "rice",
+      "vegetable",
+      "pilaf"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "x"
   }
 ]
