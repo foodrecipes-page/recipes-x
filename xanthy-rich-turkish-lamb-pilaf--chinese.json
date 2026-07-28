@@ -1,0 +1,66 @@
+{
+  "slug": "xanthy-rich-turkish-lamb-pilaf--chinese",
+  "title": "Lamb and Turkish Pilaf Stir-Fry",
+  "description": "A fusion of Chinese and Turkish flavors in a delicious and quick stir-fry. The lamb and pilaf add a hearty and nutty taste to this dish.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Turkish Pilaf",
+      "amount": "1 cup",
+      "notes": "Cooked and cooled"
+    },
+    {
+      "name": "Rich",
+      "amount": "2 tablespoons",
+      "notes": "Sesame oil for stir-frying"
+    },
+    {
+      "name": "Xanthy",
+      "amount": "1 cup",
+      "notes": "Mixed vegetables (bell peppers, carrots, broccoli)"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the lamb and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of sesame oil to the skillet.",
+    "Add the mixed vegetables and cook until they start to soften, about 2-3 minutes.",
+    "Add the cooked Turkish pilaf to the skillet and stir to combine with the vegetables.",
+    "Return the lamb to the skillet and stir to combine with the pilaf and vegetables.",
+    "Add the soy sauce and stir to combine. Cook for an additional 1-2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "turkish",
+    "stir-fry",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthy-rich-turkish-lamb-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:59:08.270Z"
+}
