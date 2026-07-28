@@ -1545,16 +1545,13 @@
   },
   {
     "slug": "xenial-earthy-polish-vegetable-pilaf",
-    "title": "Xenial Earthy Polish Vegetable Pilaf",
+    "title": "Earthy Polish Stuffed Vegetable",
     "tags": [
       "comfort-food",
-      "healthy-eating",
-      "lunch-recipe",
-      "one-pot",
-      "plant-based",
+      "stuffed-vegetables",
       "polish-cuisine"
     ],
-    "cuisine": "Polish",
+    "cuisine": "polish",
     "totalTimeMin": 50,
     "shard": "x"
   },
@@ -14096,6 +14093,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-dense-saudi-arabian-lamb-kebabs--keto",
+    "title": "Saudi Arabian Lamb Kebabs",
+    "tags": [
+      "saudi-arabian",
+      "lamb-kebabs",
+      "keto",
+      "grilled"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 33,
+    "shard": "x"
+  },
+  {
+    "slug": "x-tra-chocolatey-jamaican-oats-bake--japanese",
+    "title": "Japanese Oatmeal Cookies",
+    "tags": [
+      "oatmeal",
+      "cookies",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
     "shard": "x"
   }
 ]
