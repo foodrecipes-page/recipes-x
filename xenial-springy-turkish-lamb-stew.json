@@ -1,0 +1,80 @@
+{
+  "slug": "xenial-springy-turkish-lamb-stew",
+  "title": "Turkish Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Turkey, made with tender lamb and a blend of spices.",
+  "cuisine": "turkish",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "spring onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "turkish stew mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "xenial olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "any combination of vegetables"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb shoulder and sear until browned on all sides, about 5 minutes.",
+    "Add the spring onions and cook until softened, about 3 minutes.",
+    "Add the Turkish stew mix and stir to combine.",
+    "Add the stew and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until the lamb is tender, about 1.5 hours.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped spring onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "turkish",
+    "hearty",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-springy-turkish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:45:54.349Z"
+}
