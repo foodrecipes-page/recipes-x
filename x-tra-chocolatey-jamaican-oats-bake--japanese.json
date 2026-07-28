@@ -1,0 +1,73 @@
+{
+  "slug": "x-tra-chocolatey-jamaican-oats-bake--japanese",
+  "title": "Japanese Oatmeal Cookies",
+  "description": "A unique fusion of Japanese flavors in a traditional oatmeal cookie. Crunchy on the outside, chewy on the inside.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "x",
+      "amount": "2 1/4 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "tra",
+      "amount": "1 tsp",
+      "notes": "baking powder"
+    },
+    {
+      "name": "chocolatey",
+      "amount": "1 cup",
+      "notes": "chocolate chips"
+    },
+    {
+      "name": "jamaican",
+      "amount": "1/2 tsp",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "oats",
+      "amount": "2 cups",
+      "notes": "old-fashioned rolled oats"
+    },
+    {
+      "name": "bake",
+      "amount": "1/2 cup",
+      "notes": "brown sugar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Whisk together flour, baking powder, and ginger in a medium bowl.",
+    "In a large bowl, cream together butter and sugars until light and fluffy.",
+    "Beat in eggs and vanilla extract until well combined.",
+    "Gradually mix in flour mixture and oats until just combined.",
+    "Stir in chocolate chips.",
+    "Scoop tablespoon-sized balls of dough onto the prepared baking sheet, about 2 inches apart.",
+    "Bake for 12-14 minutes or until edges are lightly golden.",
+    "Remove from oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "oatmeal",
+    "cookies",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/x-tra-chocolatey-jamaican-oats-bake--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:53:34.338Z"
+}
