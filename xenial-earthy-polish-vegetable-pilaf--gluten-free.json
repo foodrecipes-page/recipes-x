@@ -1,0 +1,88 @@
+{
+  "slug": "xenial-earthy-polish-vegetable-pilaf--gluten-free",
+  "title": "Polish Vegetable Pilaf",
+  "description": "A hearty and comforting Polish-inspired pilaf dish made with sautéed vegetables and served as a gluten-free option.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "xenial rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "earthly herbs",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "polish paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat.",
+    "Add chopped onions and sauté until translucent, about 3-4 minutes.",
+    "Add chopped celery and sauté for another 2-3 minutes.",
+    "Add chopped carrots and sauté for 5 minutes, stirring occasionally.",
+    "Add uncooked rice and stir to combine with vegetables.",
+    "Pour in chicken broth, add herbs and paprika, salt and pepper, and stir to combine.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 20-25 minutes.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "polish",
+    "rice",
+    "vegetable",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-earthy-polish-vegetable-pilaf--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:31:35.208Z"
+}
