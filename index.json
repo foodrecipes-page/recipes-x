@@ -6530,16 +6530,16 @@
   },
   {
     "slug": "xtra-dense-saudi-arabian-lamb-kebabs",
-    "title": "Xtra Dense Saudi Arabian Lamb Kebabs",
+    "title": "Saudi Arabian Lamb Kebabs",
     "tags": [
-      "diabetic-friendly",
-      "high-protein",
-      "middle-eastern",
-      "sous-vide",
-      "weeknight"
+      "saudi-arabian",
+      "lamb",
+      "kebabs",
+      "grill",
+      "dates"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 145,
+    "totalTimeMin": 25,
     "shard": "x"
   },
   {
@@ -14046,6 +14046,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "x"
+  },
+  {
+    "slug": "xanthy-rich-turkish-lamb-pilaf--chinese",
+    "title": "Lamb and Turkish Pilaf Stir-Fry",
+    "tags": [
+      "chinese",
+      "turkish",
+      "stir-fry",
+      "lamb"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-spicy-polish-mushroom-dumplings--gluten-free",
+    "title": "Polish Mushroom Dumplings",
+    "tags": [
+      "gluten-free",
+      "polish",
+      "mushroom",
+      "dumplings"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
     "shard": "x"
   }
 ]
