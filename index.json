@@ -14035,5 +14035,17 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-silky-indian-beetroot-curry--chinese",
+    "title": "Beetroot and Indian Spiced Stir Fry",
+    "tags": [
+      "stir-fry",
+      "beetroot",
+      "indian-spices"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
