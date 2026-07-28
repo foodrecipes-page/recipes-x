@@ -6732,17 +6732,16 @@
   },
   {
     "slug": "xtra-flaky-british-lentil-pasties",
-    "title": "Xtra Flaky British Lentil Pasties",
+    "title": "Classic British Lentil Pasties",
     "tags": [
-      "british-cuisine",
-      "high-protein",
-      "lentil-recipes",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "british",
+      "lentil",
+      "pasties",
+      "snack",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "x"
   },
   {
@@ -14009,6 +14008,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 20,
+    "shard": "x"
+  },
+  {
+    "slug": "xtra-pillowy-vietnamese-ground-cardamom-bun-bo-kho--vegetarian",
+    "title": "Vietnamese Bun Bo Kho",
+    "tags": [
+      "vegetarian",
+      "vietnamese",
+      "noodle-soup"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "x"
   }
 ]
