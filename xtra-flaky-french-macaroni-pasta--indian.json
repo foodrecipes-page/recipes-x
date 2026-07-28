@@ -1,0 +1,66 @@
+{
+  "slug": "xtra-flaky-french-macaroni-pasta--indian",
+  "title": "Creamy Macaroni Pasta",
+  "description": "A delicious and easy-to-make Indian-inspired pasta dish. It combines the creaminess of French-style sauce with the comfort of macaroni pasta.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "Al dente"
+    },
+    {
+      "name": "xtra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "french shallots",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "pasta",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Cook the macaroni according to the package instructions.",
+    "In a separate pan, heat the olive oil over medium heat.",
+    "Add the chopped shallots and sauté until translucent.",
+    "Add a pinch of flaky sea salt to taste.",
+    "Combine the cooked macaroni and French-style sauce in the pan.",
+    "Stir well to coat the pasta evenly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-french-macaroni-pasta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:48:01.805Z"
+}
