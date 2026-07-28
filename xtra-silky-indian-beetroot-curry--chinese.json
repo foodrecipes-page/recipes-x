@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-silky-indian-beetroot-curry--chinese",
+  "title": "Beetroot and Indian Spiced Stir Fry",
+  "description": "A flavorful and nutritious stir fry made with beetroot, Indian spices, and silky textures. Perfect for a quick dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "silky",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "indian",
+      "amount": "1 teaspoon",
+      "notes": "curry powder"
+    },
+    {
+      "name": "xtra",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "curry",
+      "amount": "2 medium",
+      "notes": "bell peppers, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced bell peppers and cook for 3-4 minutes, until tender.",
+    "Add the sliced beetroot and cook for an additional 4-5 minutes, until tender.",
+    "Stir in the soy sauce and curry powder. Cook for 1 minute.",
+    "Serve hot, garnished with sliced green onions if desired.",
+    "Cook time may vary depending on the size and tenderness of the beetroot.",
+    "Adjust seasoning as needed.",
+    "Garnish with sliced green onions for added flavor and color.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "beetroot",
+    "indian-spices"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-silky-indian-beetroot-curry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:45:20.346Z"
+}
