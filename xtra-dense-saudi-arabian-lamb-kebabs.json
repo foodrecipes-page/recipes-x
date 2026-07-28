@@ -1,0 +1,71 @@
+{
+  "slug": "xtra-dense-saudi-arabian-lamb-kebabs",
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "A flavorful and spicy dish originating from Saudi Arabia, made with tender lamb and served as kebabs.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Use lean lamb for best results"
+    },
+    {
+      "name": "Saudi Arabian spices (xtra)",
+      "amount": "2 teaspoons",
+      "notes": "A mix of spices commonly used in Saudi Arabian cuisine"
+    },
+    {
+      "name": "Dense olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For marinating and cooking the lamb"
+    },
+    {
+      "name": "Arabian dates",
+      "amount": "4-6",
+      "notes": "Optional, for serving as a side dish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning the lamb"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to 400°F (200°C).",
+    "2. Cut the lamb into 1-inch pieces and place in a large bowl.",
+    "3. In a small bowl, mix together the xtra, salt, and pepper.",
+    "4. Add the spice mixture to the lamb and toss to coat.",
+    "5. Heat the dense olive oil in a small saucepan over medium heat.",
+    "6. Add the Arabian dates to the saucepan and cook for 2-3 minutes, or until caramelized.",
+    "7. Thread the lamb pieces onto skewers, leaving a small space between each piece.",
+    "8. Brush the kebabs with the remaining saucepan oil and season with salt and pepper.",
+    "9. Grill the kebabs for 8-10 minutes, or until cooked through.",
+    "10. Serve the kebabs hot, garnished with additional Arabian dates if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb",
+    "kebabs",
+    "grill",
+    "dates"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-dense-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:18:55.985Z"
+}
