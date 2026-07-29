@@ -1,0 +1,77 @@
+{
+  "slug": "xenial-springy-turkish-lamb-stew--chinese",
+  "title": "Xenial Lamb Stew",
+  "description": "A hearty, comforting Chinese-inspired lamb stew made with tender lamb and springy vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "pork-free",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "spring onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "springy turmeric",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turkish red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "xenial green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped spring onions and cook until they start to soften, about 2 minutes.",
+    "Add the turmeric and red pepper flakes and cook for 1 minute.",
+    "Add the stew and bring to a boil.",
+    "Return the lamb to the pot and cover.",
+    "Transfer the pot to the oven and cook at 300°F (150°C) for 2 hours.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and return it to the pot.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "lamb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xenial-springy-turkish-lamb-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:18:58.884Z"
+}
