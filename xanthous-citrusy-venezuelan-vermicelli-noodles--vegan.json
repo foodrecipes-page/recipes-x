@@ -1,0 +1,72 @@
+{
+  "slug": "xanthous-citrusy-venezuelan-vermicelli-noodles--vegan",
+  "title": "Venezuelan Vermicelli Salad",
+  "description": "A citrusy and refreshing salad inspired by Venezuelan cuisine, made with vermicelli noodles and featuring a zesty twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Vermicelli noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Citrusy",
+      "amount": "2 tbsp",
+      "notes": "Lime juice"
+    },
+    {
+      "name": "Venezuelan",
+      "amount": "1 tbsp",
+      "notes": "Chimichurri sauce (vegan)"
+    },
+    {
+      "name": "xanthous",
+      "amount": "1 cup",
+      "notes": "Sliced yellow bell pepper"
+    },
+    {
+      "name": "xanthous",
+      "amount": "1 cup",
+      "notes": "Sliced yellow onion"
+    },
+    {
+      "name": "xanthous",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh cilantro"
+    }
+  ],
+  "instructions": [
+    "Cook the vermicelli noodles according to package instructions.",
+    "In a large bowl, whisk together the citrusy and Venezuelan ingredients.",
+    "Add the sliced xanthous to the bowl and toss to combine.",
+    "In a separate pan, sauté the sliced xanthous until softened.",
+    "Add the cooked noodles to the bowl and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow flavors to meld.",
+    "Garnish with chopped xanthous before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "salad",
+    "south-american",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xanthous-citrusy-venezuelan-vermicelli-noodles--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:33:09.580Z"
+}
