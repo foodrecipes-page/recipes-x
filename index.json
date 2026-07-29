@@ -14197,5 +14197,17 @@
     "cuisine": "Venezuelan",
     "totalTimeMin": 25,
     "shard": "x"
+  },
+  {
+    "slug": "xenial-springy-turkish-lamb-stew--chinese",
+    "title": "Xenial Lamb Stew",
+    "tags": [
+      "chinese",
+      "lamb",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 140,
+    "shard": "x"
   }
 ]
