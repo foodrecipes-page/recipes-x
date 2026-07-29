@@ -1,0 +1,68 @@
+{
+  "slug": "xtra-crunchy-spanish-bresaola-wrap--chinese",
+  "title": "Chinese-Style Bresaola Wrap",
+  "description": "A fusion of Chinese flavors and Italian-inspired bresaola in a crispy wrap. This dish is perfect for a quick and easy lunch or snack.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bresaola",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Xtra",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spanish",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Slice the bresaola into thin strips.",
+    "Add the xtra to the pan and stir-fry for 2 minutes.",
+    "Add the crunchy to the pan and stir-fry for 3 minutes.",
+    "Add the sliced bresaola and stir-fry for 2 minutes.",
+    "Add the spanish to the pan and stir-fry for 1 minute.",
+    "Warm the wrap in the microwave for 10 seconds.",
+    "Assemble the wrap by placing the bresaola mixture onto the wrap.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "italian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-crunchy-spanish-bresaola-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:02:53.265Z"
+}
