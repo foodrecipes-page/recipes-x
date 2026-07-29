@@ -1,0 +1,73 @@
+{
+  "slug": "xtra-flaky-british-lentil-pasties--keto",
+  "title": "British Keto Lentil Pastie",
+  "description": "A British-inspired take on the traditional pastie, made with a keto-friendly crust and filled with lentils and vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "xtra flaky pastry crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "flaky british butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pastry crust to a thickness of 1/8 inch.",
+    "In a pan, sauté the onion and mushroom until softened.",
+    "Add the lentils, spinach, and cheddar cheese to the pan and stir to combine.",
+    "Place the filling mixture onto one half of the pastry crust, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry crust with the flaky british butter.",
+    "Fold the other half of the pastry crust over the filling and press the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry crust to allow steam to escape.",
+    "Brush the top of the pastry crust with the flaky british butter and sprinkle with cheddar cheese.",
+    "Place the pastie on a baking sheet lined with parchment paper and bake for 25-30 minutes, or until the pastry crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "british",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/xtra-flaky-british-lentil-pasties--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:16:09.275Z"
+}
