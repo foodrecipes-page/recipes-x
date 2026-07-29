@@ -14172,5 +14172,30 @@
     "cuisine": "Polish",
     "totalTimeMin": 35,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-flaky-british-lentil-pasties--keto",
+    "title": "British Keto Lentil Pastie",
+    "tags": [
+      "keto",
+      "british",
+      "vegetarian"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 40,
+    "shard": "x"
+  },
+  {
+    "slug": "xanthous-citrusy-venezuelan-vermicelli-noodles--vegan",
+    "title": "Venezuelan Vermicelli Salad",
+    "tags": [
+      "vegan",
+      "salad",
+      "south-american",
+      "summer"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
+    "shard": "x"
   }
 ]
