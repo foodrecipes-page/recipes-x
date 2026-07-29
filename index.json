@@ -14209,5 +14209,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 140,
     "shard": "x"
+  },
+  {
+    "slug": "xtra-crunchy-spanish-bresaola-wrap--chinese",
+    "title": "Chinese-Style Bresaola Wrap",
+    "tags": [
+      "chinese",
+      "italian",
+      "wrap"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "x"
   }
 ]
